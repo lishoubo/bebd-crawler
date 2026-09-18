@@ -1,0 +1,18 @@
+{
+  "status": "failed",
+  "started_at": "2026-09-18T11:21:59.915842+00:00",
+  "finished_at": "2026-09-18T11:22:39.087890+00:00",
+  "brands": [
+    {
+      "keyword": "欧莱雅",
+      "status": "failed",
+      "requested_limit": 90,
+      "api_total": 0,
+      "pages": 0,
+      "received": 0,
+      "written": 0,
+      "output_file": "欧莱雅.jsonl",
+      "error": "搜索后未捕获 goodsSearch 请求"
+    }
+  ]
+}

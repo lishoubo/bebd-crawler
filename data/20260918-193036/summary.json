@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "started_at": "2026-09-18T11:30:36.700855+00:00",
+  "finished_at": "2026-09-18T11:31:02.402261+00:00",
+  "brands": [
+    {
+      "keyword": "欧莱雅",
+      "status": "success",
+      "requested_limit": 20,
+      "api_total": 5533,
+      "pages": 2,
+      "received": 20,
+      "written": 20,
+      "output_file": "欧莱雅.jsonl",
+      "error": ""
+    }
+  ]
+}
