@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# 本地登录凭证、浏览器目录和诊断材料，绝不能提交。
+.local/
+
+# 爬取结果默认留在本地；确认脱敏后再单独调整规则。
+data/
+
