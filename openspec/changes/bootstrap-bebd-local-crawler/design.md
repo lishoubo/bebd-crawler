@@ -10,6 +10,8 @@
 ```bash
 bebd-crawler login
 bebd-crawler crawl --brand 欧莱雅
+bebd-crawler search-all --brand 欧莱雅
+bebd-crawler product-detail --mid <商品MID>
 ```
 
 第一阶段两个命令均使用可见浏览器；后续稳定后再评估 headless。
@@ -23,9 +25,11 @@ bebd-crawler crawl --brand 欧莱雅
 ```text
 CLI
 ├── login       打开浏览器 → 用户手工登录 → 校验登录成功 → 保存 cookie
-└── crawl       加载品牌清单 → 恢复 cookie → 校验会话 → 搜索品牌 → 翻页采集
-                         ├── 页面/接口适配器
-                         └── 本地文件输出
+├── crawl       加载品牌清单 → 恢复 cookie → 校验会话 → 搜索品牌 → 翻页采集
+└── product-detail
+                接收 MID → 恢复 cookie → 打开详情页 → 拦截详情/成分响应
+                             ├── 页面/接口适配器
+                             └── 本地文件输出
 ```
 
 建议目录：
@@ -37,6 +41,7 @@ bebd_crawler/
   browser.py
   auth.py
   adapters/bebd.py
+  adapters/product_detail.py
   models.py
   output.py
 config/brands.example.yaml
@@ -97,6 +102,12 @@ size = 10
 请求头里的 `token` / `sessid`；浏览器负责生成合法请求，采集器监听 `goodsSearch` 响应并提取
 `data.data`。实测响应 `retCode=200`、`total=5533`、首屏 10 条，美修指数严格降序。
 
+产品详情使用 `product-detail --mid <商品MID>`。监听在打开详情页前启动，页面加载后随机向下
+滚动 220–620px 并等待 0.8–1.8 秒，然后收集浏览器正常发出的
+`/auth/goods/detail/data` 与 `/auth/goods/detail/ingredient` 响应。接口路径必须精确匹配，避免将
+`ingredientResemble` 误当成成分详情。页面可能发出两个参数不同的 `ingredient` 请求：完整 JSON
+相同时只保存一次，不同时全部保留。请求仍由页面负责动态签名，采集器不直接调用接口。
+
 ## 5. 输出与可恢复性
 
 第一阶段以 JSONL 为主，每行一条记录；同时写一个运行摘要 JSON，包含品牌、开始/结束时间、
@@ -107,10 +118,24 @@ size = 10
 ```text
 data/<run-id>/欧莱雅.jsonl
 data/<run-id>/summary.json
+data/<品牌名称>/<mid>/data.json
+data/<品牌名称>/<mid>/ingredient.json
+data/<品牌名称>/<mid>/ingredient-2.json  # 仅存在第二份不同响应时生成
+data/<品牌名称>/search-result-all.json
+data/<品牌名称>/search-result-mids-all.json
+data/<品牌名称>/state.md
+data/<品牌名称>/detail-state.md
 .local/artifacts/<run-id>/     # 失败截图、有限的脱敏诊断信息
 ```
 
 记录使用页面稳定主键或业务字段组合去重。每完成一页即落盘或 checkpoint，避免中断后丢失整次结果。
+早期完整搜索结果 `search-result-all.json` 作为快照保留但不再更新。`search-all` 后续只将新 MID
+逐行追加到 `search-result-mids-all.json`，并更新 Markdown 进度；续跑时恢复已有 MID，完成搜索
+和排序后在分页跳转框输入下一页，并点击顶部搜索框触发失焦和跳转。页码断点以 `state.md` 为准。
+
+批量详情从 MID 文件按行处理，已有完整目录直接跳过，每两个真实详情请求之间随机等待 1–10 秒。
+每成功一个 MID 即更新 `detail-state.md`。详情采集不复用搜索页登录判断：每个 MID 只打开一次
+详情 URL，此后只轮询当前 URL；不是携带对应 MID 的详情路由时保持页面不动并等待用户处理。
 
 ## 6. 配置
 
@@ -124,5 +149,5 @@ cookie 路径等本地配置可使用环境变量。账号密码不进入配置�
 
 - 翻页控件的稳定选择器、最大可访问页数，以及响应 `limitPage=true` 的具体限制。
 - 首期只取既定的 TOP 90，还是遍历账号允许访问的全部结果。
-- 是否需要进入商品详情页补充字段。
+- 如何从品牌搜索结果批量调度产品详情采集，并支持断点续跑。
 - 结果文件是否需要长期保留，以及后续是否再引入数据库。

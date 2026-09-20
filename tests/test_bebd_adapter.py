@@ -4,7 +4,12 @@ from dataclasses import dataclass
 
 import pytest
 
-from bebd_crawler.adapters.bebd import BebdSearchCrawler, is_exponent_desc, parse_search_packet
+from bebd_crawler.adapters.bebd import (
+    BebdSearchCrawler,
+    CaptchaRequiredError,
+    is_exponent_desc,
+    parse_search_packet,
+)
 
 
 @dataclass
@@ -45,6 +50,15 @@ def test_parse_search_packet_rejects_api_error() -> None:
         parse_search_packet(packet)
 
 
+def test_parse_search_packet_identifies_image_captcha() -> None:
+    packet = Packet(
+        Value({"current": 94}),
+        Value(body={"retCode": 30019, "msg": "弹出图片验证码的框"}),
+    )
+    with pytest.raises(CaptchaRequiredError, match="图片验证码"):
+        parse_search_packet(packet)
+
+
 class VisibleState:
     is_displayed = True
 
@@ -77,3 +91,65 @@ def test_wait_until_search_ready_polls_login_page() -> None:
 
     assert url.endswith("#/home/dataCenter/search")
     assert page.polls == 3
+
+
+class ClickableElement:
+    states = VisibleState()
+
+    def __init__(self) -> None:
+        self.clicked = False
+        self.inputs: list[tuple[str, bool]] = []
+
+    def click(self) -> None:
+        self.clicked = True
+
+    def input(self, value: str, *, clear: bool = False) -> None:
+        self.inputs.append((value, clear))
+
+
+class Listener:
+    def __init__(self, packet: Packet) -> None:
+        self.packet = packet
+
+    def wait(self, *, timeout: float) -> Packet:
+        assert timeout == 30.0
+        return self.packet
+
+
+class JumpPage:
+    def __init__(self) -> None:
+        self.jumper = ClickableElement()
+        self.blur_target = ClickableElement()
+        request = {
+            "current": 88,
+            "orders": [{"asc": False, "column": "exponent"}],
+        }
+        response = {"retCode": 200, "data": {"data": [], "total": 5533}}
+        self.listen = Listener(Packet(Value(request), Value(body=response)))
+
+    def eles(self, locator: str) -> list[ClickableElement]:
+        if locator == "css:.ant-pagination-options-quick-jumper input":
+            return [self.jumper]
+        if locator == "@placeholder=查找化妆品":
+            return [self.blur_target]
+        return []
+
+
+class NoWaitTiming:
+    def between_actions(self, minimum: float, maximum: float) -> float:
+        return (minimum + maximum) / 2
+
+    def after_page_loaded(self) -> float:
+        return 0
+
+
+def test_jump_to_page_clicks_elsewhere_to_trigger_blur() -> None:
+    page = JumpPage()
+    crawler = BebdSearchCrawler(page, human_timing=NoWaitTiming())  # type: ignore[arg-type]
+
+    _, page_data = crawler._jump_to_page(88)
+
+    assert page.jumper.clicked is True
+    assert page.jumper.inputs == [("88", True)]
+    assert page.blur_target.clicked is True
+    assert page_data.current == 88

@@ -15,6 +15,10 @@ logger = logging.getLogger(__name__)
 GOODS_SEARCH_API_PATH = "/auth/goods/goodsSearch"
 
 
+class CaptchaRequiredError(RuntimeError):
+    """BEBD 要求用户完成图片验证码。"""
+
+
 @dataclass(frozen=True)
 class SearchPage:
     current: int
@@ -30,6 +34,7 @@ class CrawlStats:
     pages: int
     received: int
     written: int
+    stop_reason: str
 
 
 def parse_search_packet(packet: object) -> tuple[dict[str, Any], SearchPage]:
@@ -40,6 +45,8 @@ def parse_search_packet(packet: object) -> tuple[dict[str, Any], SearchPage]:
     if not isinstance(response, dict) or response.get("retCode") != 200:
         code = response.get("retCode") if isinstance(response, dict) else None
         message = response.get("msg") if isinstance(response, dict) else "响应不是 JSON"
+        if code == 30019:
+            raise CaptchaRequiredError(f"BEBD 要求图片验证码：{message}")
         raise RuntimeError(f"goodsSearch 接口失败：retCode={code} msg={message}")
     data = response.get("data")
     if not isinstance(data, dict):
@@ -115,11 +122,16 @@ class BebdSearchCrawler:
         self,
         keyword: str,
         *,
-        limit: int,
+        limit: int | None,
         on_page: Callable[[list[dict[str, Any]]], int],
+        start_page: int = 1,
+        already_written: int = 0,
+        on_progress: Callable[[SearchPage, int], None] | None = None,
     ) -> CrawlStats:
-        if limit < 1:
+        if limit is not None and limit < 1:
             raise ValueError("limit 必须大于 0")
+        if start_page < 1:
+            raise ValueError("start_page 必须大于 0")
         listener = self.page.listen  # type: ignore[attr-defined]
         listener.start(targets=GOODS_SEARCH_API_PATH, method="POST")
         try:
@@ -127,34 +139,47 @@ class BebdSearchCrawler:
             request, page_data = parse_search_packet(initial_packet)
             if not is_exponent_desc(request):
                 request, page_data = self._select_exponent_desc()
+            if start_page > 1:
+                request, page_data = self._jump_to_page(start_page)
 
             total = page_data.total
             pages = 0
             received = 0
-            written = 0
+            written = already_written
+            stop_reason = "unknown"
             while True:
                 if not is_exponent_desc(request):
                     raise RuntimeError("分页请求不再是美修指数降序，已停止以避免错误数据")
-                remaining = limit - written
+                remaining = len(page_data.rows) if limit is None else limit - written
                 enriched = self._enrich_rows(
                     page_data.rows[:remaining], keyword=keyword, current=page_data.current
                 )
                 received += len(page_data.rows)
                 written += on_page(enriched)
                 pages += 1
+                if on_progress is not None:
+                    on_progress(page_data, written)
                 logger.info(
                     "采集 %s: 第 %d 页，接口返回 %d 条，累计写入 %d/%d",
                     keyword,
                     page_data.current,
                     len(page_data.rows),
                     written,
-                    min(limit, total),
+                    total if limit is None else min(limit, total),
                 )
-                if written >= limit or written >= total or not page_data.rows:
+                if limit is not None and written >= limit:
+                    stop_reason = "requested_limit"
+                    break
+                if written >= total:
+                    stop_reason = "api_total"
+                    break
+                if not page_data.rows:
+                    stop_reason = "empty_page"
                     break
 
                 next_button = self._next_button()
                 if next_button is None:
+                    stop_reason = "next_page_unavailable"
                     logger.warning(
                         "采集 %s: 下一页不可用；limitPage=%s，累计写入 %d，接口总数 %d",
                         keyword,
@@ -184,6 +209,7 @@ class BebdSearchCrawler:
                 pages=pages,
                 received=received,
                 written=written,
+                stop_reason=stop_reason,
             )
         finally:
             listener.stop()
@@ -227,6 +253,34 @@ class BebdSearchCrawler:
                 self._brief_wait()
                 return request, page_data
         raise RuntimeError("两次点击后仍未切换到美修指数降序")
+
+    def _jump_to_page(self, target_page: int) -> tuple[dict[str, Any], SearchPage]:
+        jumper = self._wait_for_displayed(
+            "css:.ant-pagination-options-quick-jumper input",
+            timeout=10,
+        )
+        if jumper is None:
+            raise RuntimeError("没有找到分页跳转输入框，无法从断点继续")
+        self.human_timing.between_actions(0.8, 1.8)
+        jumper.click()
+        jumper.input(str(target_page), clear=True)
+        self.human_timing.between_actions(0.35, 0.8)
+        blur_target = self._wait_for_displayed("@placeholder=查找化妆品", timeout=5)
+        if blur_target is None:
+            raise RuntimeError("输入跳转页码后没有找到可点击的页面区域")
+        blur_target.click()
+        logger.debug("已点击顶部搜索框，使分页跳转输入框失去焦点")
+        packet = self.page.listen.wait(timeout=self.timeout)  # type: ignore[attr-defined]
+        if not packet:
+            raise RuntimeError(f"跳转到第 {target_page} 页后未捕获 goodsSearch 请求")
+        request, page_data = parse_search_packet(packet)
+        if not is_exponent_desc(request):
+            raise RuntimeError("跳页请求不再是美修指数降序")
+        if page_data.current != target_page:
+            raise RuntimeError(f"跳页失败：目标={target_page} 实际={page_data.current}")
+        self.human_timing.after_page_loaded()
+        logger.info("已从分页跳转控件定位到第 %d 页", target_page)
+        return request, page_data
 
     def _wait_for_sort_item(self) -> object:
         deadline = time.monotonic() + self.timeout

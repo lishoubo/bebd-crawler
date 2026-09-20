@@ -5,7 +5,7 @@ from bebd_crawler.human_timing import HumanTiming
 
 class FixedRandom:
     def randint(self, start: int, end: int) -> int:
-        assert (start, end) == (180, 520)
+        assert (start, end) in {(180, 520), (220, 620)}
         return 320
 
     def uniform(self, start: float, end: float) -> float:
@@ -58,3 +58,15 @@ def test_after_page_loaded_uses_random_delay() -> None:
     timing = HumanTiming(random_source=FixedRandom(), sleeper=sleeps.append)  # type: ignore[arg-type]
     assert timing.after_page_loaded() == 1.0
     assert sleeps == [1.0]
+
+
+def test_browse_product_detail_scrolls_and_waits() -> None:
+    sleeps: list[float] = []
+    timing = HumanTiming(random_source=FixedRandom(), sleeper=sleeps.append)  # type: ignore[arg-type]
+    page = Page()
+
+    delay = timing.browse_product_detail(page)
+
+    assert page.scroll.down_values == [320]
+    assert delay == 1.3
+    assert sleeps == [1.3]

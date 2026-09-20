@@ -37,3 +37,17 @@ class HumanTiming:
         delay = self.random.uniform(0.6, 1.4)
         self.sleep(delay)
         return delay
+
+    def browse_product_detail(self, page: object) -> float:
+        """详情页加载后向下浏览一小段，并停留片刻。"""
+        distance = self.random.randint(220, 620)
+        page.scroll.down(distance)  # type: ignore[attr-defined]
+        delay = self.random.uniform(0.8, 1.8)
+        self.sleep(delay)
+        logger.debug("产品详情页随机向下滚动 %dpx，等待 %.2fs", distance, delay)
+        return delay
+
+    def between_actions(self, minimum: float = 0.8, maximum: float = 1.8) -> float:
+        delay = self.random.uniform(minimum, maximum)
+        self.sleep(delay)
+        return delay

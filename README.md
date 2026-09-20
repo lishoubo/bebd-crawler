@@ -16,6 +16,7 @@ BEBD 数据中心的本地浏览器采集工具。
 - 按一个或多个搜索词采集商品；
 - 自动切换美修指数降序、翻页并拦截 API 响应；
 - 按页写入 JSONL，并生成运行摘要。
+- 接收商品 `mid`，拦截产品详情和成分响应并按品牌落盘。
 
 ## 环境要求
 
@@ -161,6 +162,77 @@ data/<运行时间>/summary.json
 JSONL 按商品 `mid` 去重，并附加 `_searchKeyword`、`_page` 和 `_capturedAt` 采集元数据。
 每页完成后立即刷新到磁盘，异常中断时会保留已经写入的部分结果。
 
+### 搜索全集与断点续跑
+
+将一个搜索词的账号可访问结果持续翻页，并只保存后续详情采集需要的商品 `mid`：
+
+```bash
+.venv/bin/bebd-crawler search-all --brand 欧莱雅
+```
+
+输出及进度文件：
+
+```text
+data/欧莱雅/search-result-all.json
+data/欧莱雅/search-result-mids-all.json
+data/欧莱雅/state.md
+```
+
+`search-result-all.json` 是早期已经采集的完整搜索响应快照，继续保留但不再更新。
+`search-result-mids-all.json` 是当前使用的轻量文件，采用原始 MID 一行一个；程序每完成一页
+只向该文件追加尚未出现的 MID，并更新 `state.md`。再次执行同一命令时，会读取 MID 和进度，在完成搜索及
+美修指数降序排序后，在页面下方输入“下一次开始页”，再点击顶部搜索框使跳页输入框失焦并触发
+跳转，不会从第一页重新翻。
+结果始终按 `mid` 去重，页码断点以 `state.md` 为准。
+
+## 产品详情采集
+
+传入一个商品 `mid`：
+
+```bash
+.venv/bin/bebd-crawler product-detail --mid c140d305e626346df8a8b8c6640d3fb4
+```
+
+程序会打开可见浏览器、恢复 cookie，并且只打开一次目标产品详情地址。若当前 URL 不是携带对应
+MID 的产品详情路由，程序只轮询等待，不刷新或主动改路由。详情页就绪后随机向下滚动一小段并
+停留，再拦截页面正常发出的以下响应：
+
+```text
+POST /auth/goods/detail/data
+POST /auth/goods/detail/ingredient
+```
+
+结果按接口响应中的品牌名称和命令传入的 `mid` 保存：
+
+```text
+data/欧莱雅/c140d305e626346df8a8b8c6640d3fb4/data.json
+data/欧莱雅/c140d305e626346df8a8b8c6640d3fb4/ingredient.json
+```
+
+同一页面可能请求两次 `ingredient`。程序按完整 JSON 内容去重：内容相同只保存
+`ingredient.json`；内容确实不同时继续保存为 `ingredient-2.json`、`ingredient-3.json`。
+例如实测示例商品的两份响应分别是完整成分视图，以及“常规成分 + 微量成分”的拆分视图，
+因此会保留两份。完成后程序回刷 cookie，并无论成功、失败或中断都关闭浏览器。
+
+### 批量产品详情与断点续跑
+
+从品牌目录下的 `search-result-mids-all.json` 顺序读取 MID，本次新采集 10 个：
+
+```bash
+.venv/bin/bebd-crawler product-details --brand 欧莱雅 --limit 10
+```
+
+已有完整详情目录的 MID 自动跳过，不计入本次新增数量。真正发起详情请求的两个商品之间随机
+等待 1–10 秒。每成功一个商品都会更新 `data/欧莱雅/detail-state.md`，其中记录 MID 总数、
+完整详情数、下一行、下一 MID 和最近完成 MID。再次运行同一命令即可从断点继续。
+
+批量流程共用一个可见浏览器。当前 URL 不是对应 MID 的产品详情页时只等待；进入目标详情页后
+才拦截接口。每个商品成功后立即回刷 Cookie。
+
+详情接口返回 `retCode=30019` 时，程序不会退出或推进 MID，而是将进度标记为“遇到图片验证码，
+已暂停；完成验证后自动恢复”，并保持浏览器和网络监听。人工完成验证码后，页面自动重发请求；
+若未自动重发，可手工刷新当前详情页。捕获到同一 MID 的正常响应后程序自动继续。
+
 ### Cookie 回刷
 
 平台可能在正常访问过程中更新或续期 cookie。`crawl` 完成数据请求后，会从当前已登录浏览器
@@ -168,7 +240,8 @@ JSONL 按商品 `mid` 去重，并附加 `_searchKeyword`、`_page` 和 `_captur
 
 采集中途失败时，只要程序已经确认页面仍处于登录状态，也会在关闭浏览器前尽量回刷。若启动时
 已经跳转到登录页，则不会用匿名 cookie 覆盖原文件，而是提示重新执行 `bebd-crawler login`。
-`session-check` 验证成功后也会回刷一次。
+`session-check` 验证成功后也会回刷一次；使用 `--keep-open` 时，按 Enter 关闭前会再次回刷。
+`product-detail` 同样在详情响应获取完成后回刷。
 
 ## 本地文件与安全
 
@@ -203,7 +276,7 @@ JSONL 按商品 `mid` 去重，并附加 `_searchKeyword`、`_page` 和 `_captur
 当前验证基线：
 
 ```text
-18 passed
+33 passed
 All checks passed!
 ```
 
@@ -211,4 +284,5 @@ All checks passed!
 
 - `openspec/changes/bootstrap-bebd-local-crawler/`：需求、设计和任务清单；
 - `docs/踩点/搜索01.md`：搜索页面、排序控件及 `goodsSearch` 接口踩点记录；
+- `docs/踩点/产品详情.md`：产品详情页及详情、成分接口踩点记录；
 - `docs/爬取逻辑.md`：品牌和商品覆盖顺序。
