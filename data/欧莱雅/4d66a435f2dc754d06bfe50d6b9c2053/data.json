@@ -1,0 +1,236 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://uland.taobao.com/item/edetail?id=0v6aKaVKu7t8ybzG94nfqBpS2t6-VboPnRIQ6ZWZa8Pig2"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/RIrzgATfTg5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=2045A1E063B15A837196438042BFC9AF"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022001758"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005328"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004256"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004553"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003231"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020006877"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20180602"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1647100800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1598284800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1533052800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1515427200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1450713600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1440432000"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "¥340",
+    "sda_approval_date": 1515427200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "222799dbccacc6f2f3e69809b284fd79",
+        "sku_id": 2178144,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004256"
+      },
+      {
+        "mid": "edc8ae4c79c2b30f821fd0ef17fe2b3c",
+        "sku_id": 30708692,
+        "attribute_type": "9",
+        "attribute_val": "1647100800"
+      },
+      {
+        "mid": "4ccb3e2a39f8677b2a3fdba5e805768d",
+        "sku_id": 3941939,
+        "attribute_type": "9",
+        "attribute_val": "1598284800"
+      },
+      {
+        "mid": "aa57e517b49835f80b63cf41bce5ce20",
+        "sku_id": 508074,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004553"
+      },
+      {
+        "mid": "aa57e517b49835f80b63cf41bce5ce20",
+        "sku_id": 508074,
+        "attribute_type": "9",
+        "attribute_val": "1450713600"
+      },
+      {
+        "mid": "edc8ae4c79c2b30f821fd0ef17fe2b3c",
+        "sku_id": 30708692,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022001758"
+      },
+      {
+        "mid": "b78b5c4843498aa6efb3682d7cd209d9",
+        "sku_id": 1153212,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005328"
+      },
+      {
+        "mid": "4d66a435f2dc754d06bfe50d6b9c2053",
+        "sku_id": 1247111,
+        "attribute_type": "9",
+        "attribute_val": "1515427200"
+      },
+      {
+        "mid": "a9ca33d1f432a0c362612e091594fce5",
+        "sku_id": 421479,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003231"
+      },
+      {
+        "mid": "a9ca33d1f432a0c362612e091594fce5",
+        "sku_id": 421479,
+        "attribute_type": "9",
+        "attribute_val": "1440432000"
+      },
+      {
+        "mid": "222799dbccacc6f2f3e69809b284fd79",
+        "sku_id": 2178144,
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "mid": "4d66a435f2dc754d06bfe50d6b9c2053",
+        "sku_id": 1247111,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20180602"
+      },
+      {
+        "mid": "4ccb3e2a39f8677b2a3fdba5e805768d",
+        "sku_id": 3941939,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020006877"
+      },
+      {
+        "mid": "b78b5c4843498aa6efb3682d7cd209d9",
+        "sku_id": 1153212,
+        "attribute_type": "9",
+        "attribute_val": "1533052800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_57da283f-0a15-4c35-9fd0-f2adf4d0c554.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"凝胶状\"}, {\"name\": \"气味\", \"condition\": \"原料特征气味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL REVITALIFT FILLER RENEW EYE",
+    "name": "欧莱雅复颜玻尿酸水感充盈眼霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5201,5203",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无",
+    "safety_1_num": 4.6,
+    "mid": "4d66a435f2dc754d06bfe50d6b9c2053",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆备进字J20180602",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早晚用于清洁后的眼部肌肤，使用按摩头温和涂抹眼霜，并轻柔按摩眼周至吸收。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 38,
+    "registered_day": 20180109,
+    "goods_form": ""
+  },
+  "success": true
+}

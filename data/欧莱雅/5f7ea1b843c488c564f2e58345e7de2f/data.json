@@ -1,0 +1,220 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,47,129,53",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D0YBiXUFFFXtw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQ3YdKV8qaVU79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rtyMDYjOOJH9rBQF5Hos7IPCSQ2DRU7V6N4RMkQajA6vx6AIb2NOebKUxPIrSSMLcVYkOW9az4nUU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRcx%2BwyXxcaxk1kylXkfF09IYHG1HHE37fttvJ9Z4G1Zg%3D&umpChannel=bybtqdyh&u_channel=bybtqdyh&maskChannel=bybtrs&union_lens=lensId:TAPI@1753125359@212c21f7_184a_1982e6a0e58_8813@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/ibCyRpwyii5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=F50715AE430AD6F0EBD624AA32A613B6"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/36979848-dff7-5408-bf40-b8dcaf4efd4d.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "#002"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "#001"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "#000"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021500945"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001918"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001917"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1635955200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1600099200"
+      }
+    ],
+    "category3Name": "隔离",
+    "price": "¥99",
+    "sda_approval_date": 1600099200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "裸妆",
+        "id": 5233
+      },
+      {
+        "name": "提亮肤色",
+        "id": 5237
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "fd0f560bcaab0b39230da21884ddda8c",
+        "sku_id": 4061194,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001918"
+      },
+      {
+        "mid": "fd0f560bcaab0b39230da21884ddda8c",
+        "sku_id": 4061194,
+        "attribute_type": "9",
+        "attribute_val": "1600099200"
+      },
+      {
+        "mid": "0eee62cb73c659406b0ad57f510fa710",
+        "sku_id": 30365065,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021500945"
+      },
+      {
+        "mid": "5f7ea1b843c488c564f2e58345e7de2f",
+        "sku_id": 4061193,
+        "attribute_type": "1",
+        "attribute_val": "#002"
+      },
+      {
+        "mid": "5f7ea1b843c488c564f2e58345e7de2f",
+        "sku_id": 4061193,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001917"
+      },
+      {
+        "mid": "5f7ea1b843c488c564f2e58345e7de2f",
+        "sku_id": 4061193,
+        "attribute_type": "9",
+        "attribute_val": "1600099200"
+      },
+      {
+        "mid": "fd0f560bcaab0b39230da21884ddda8c",
+        "sku_id": 4061194,
+        "attribute_type": "1",
+        "attribute_val": "#001"
+      },
+      {
+        "mid": "0eee62cb73c659406b0ad57f510fa710",
+        "sku_id": 30365065,
+        "attribute_type": "1",
+        "attribute_val": "#000"
+      },
+      {
+        "mid": "0eee62cb73c659406b0ad57f510fa710",
+        "sku_id": 30365065,
+        "attribute_type": "9",
+        "attribute_val": "1635955200"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/0_9fb650bd-96b1-40d5-8d9b-980ce069a449.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/46d3a331-7317-52f9-aaaf-d0f4b17d44a9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/353808ed-c9ef-56ce-af7a-fe90756177bb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7733e23d-dd12-5ec3-888a-2bad2d719458.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/36979848-dff7-5408-bf40-b8dcaf4efd4d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2702f0e7-9a38-5bec-b855-3642069721be.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cb906f8f-1d9e-51b7-befc-6e640c6f3625.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/df5b0332-e4fa-5a28-bf81-d80697565783.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ebbf0dee-8826-5197-9b0d-c68c16b8c30e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士自然无瑕轻透修颜乳 #002",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/7733e23d-dd12-5ec3-888a-2bad2d719458.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5233,5237,5308,5238,5205",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "5f7ea1b843c488c564f2e58345e7de2f",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "50ml",
+    "sda_approval_no": "鄂G妆网备字2020001917",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 200,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "素颜乳/霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 42,
+    "registered_day": 20200915,
+    "goods_form": "23"
+  },
+  "success": true
+}

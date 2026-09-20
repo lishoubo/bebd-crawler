@@ -1,0 +1,201 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,52,130,129,42,53,48,58",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/7f156354-b279-5293-ae70-9a4c379cb0c0.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "茶树"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001911"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004029"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥46",
+    "sda_approval_date": 1523894400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "去屑",
+        "id": 5266
+      },
+      {
+        "name": "头皮护理",
+        "id": 6714
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "418737b0fa4a3fb70a6f9a022a58de29",
+        "sku_id": 701730,
+        "attribute_type": "3",
+        "attribute_val": "茶树"
+      },
+      {
+        "mid": "275d970d15bc849a3fe81e15e4407c23",
+        "sku_id": 1195439,
+        "attribute_type": "3",
+        "attribute_val": "茶树"
+      },
+      {
+        "mid": "275d970d15bc849a3fe81e15e4407c23",
+        "sku_id": 1195439,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "418737b0fa4a3fb70a6f9a022a58de29",
+        "sku_id": 701730,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004029"
+      },
+      {
+        "mid": "418737b0fa4a3fb70a6f9a022a58de29",
+        "sku_id": 701730,
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      },
+      {
+        "mid": "275d970d15bc849a3fe81e15e4407c23",
+        "sku_id": 1195439,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001911"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_09d0dc3c-c5ca-4890-b39a-21e0dd1ed518.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1841728a-ea32-5fb5-a2ff-c796a1a3c540.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9acec308-518c-5871-994e-8c3f4a9228f2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0bda5083-c2e9-58dd-b7d8-5244060be266.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/18b04521-4edd-5fe3-983b-fa270f135825.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/37cbd6ee-694f-51ac-920f-fcf3eb4ae41e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f156354-b279-5293-ae70-9a4c379cb0c0.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"浅绿色\"}, {\"name\": \"性状\", \"condition\": \"乳液\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅茶树植萃去屑滋养洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/1841728a-ea32-5fb5-a2ff-c796a1a3c540.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5204,6714,5266",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苧烯、己基肉桂醛、芳樟醇、香茅醇、香叶醇。 本产品含水杨酸，三岁以下儿童勿用。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "275d970d15bc849a3fe81e15e4407c23",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "700ml",
+    "sda_approval_no": "苏G妆网备字2018001911",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅茶树植萃去屑滋养洗发露",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "涂抹于湿头发上，轻轻按摩至产生泡沫，最后用清水冲洗干净。若不慎接触到眼睛，请立即用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20180417,
+    "goods_form": "24"
+  },
+  "success": true
+}

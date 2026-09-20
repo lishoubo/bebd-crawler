@@ -1,0 +1,93 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1686499200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      },
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_612c8e09-7e9c-442d-ac2c-8bd68b1a5253.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/64b7d993-c62d-58c6-bcb0-38a9333efc9c.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士耀白净油洗面奶",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,6711,5205",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "每个人肤质各异，对护肤品适应性不同，如有不适感或异常反应，请暂停使用或咨询医生。 本品香精原料含有苧烯、芳樟醇、水杨酸苄酯、苯甲醇。本品含水杨酸，三岁以下儿童勿用。水杨酸在本 品中的使用目的为角质剥落剂。与防晒化妆品同时使用。",
+    "safety_1_num": 4.4,
+    "mid": "3249a21daa6490e25ad007d2d4a39bc2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字20232281",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士耀白净油洗面奶",
+    "functionType": "祛斑美白类",
+    "shelfLife": "3年",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "用温水打湿面部，按压一泵洗面奶于湿润的掌心，用双手搓出丰富泡沫。将泡沫均匀涂抹于面部，打 圈揉搓，重点按摩额头、鼻翼和下巴。用温水仔细清洗面部，擦干清爽不紧绷的皮肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "阴凉处存放、常温保存，避免阳光直射。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20230612,
+    "goods_form": ""
+  },
+  "success": true
+}

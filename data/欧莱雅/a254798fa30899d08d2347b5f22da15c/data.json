@@ -1,0 +1,505 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNzVaINMp7dhw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMc0LRGtXAxuR79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2F2sRarjDcFgQnyRP6UDGFzzRD18rVfQC6EuM7wkVK6rjfMVLR3J77E4kNb1mXCszYeo3hdSr1i7eMDaeWE1O8puUEgvB42kgZFlfqT6Fd5%2FStQyl4IesqQG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQzzP0wRW882smXbYCp2jfVg7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753118619@2107fb66_0dd8_1982e03393d_c298@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/HNk8BB4zNG7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=7189C88B0B1AA6DB1248EF5919331519"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "015"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "25"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "110"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "125"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "130"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "140"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "145"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF30"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190997"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190996"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190995"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190990"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190989"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190988"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190987"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190986"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190985"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190984"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "¥240",
+    "sda_approval_date": 1564329600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      },
+      {
+        "name": "持久",
+        "id": 5243
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "84e8a76cf2976289daac435dedf455c0",
+        "sku_id": 2629312,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "10da88762d64f439e57ff8e1ec6eecd5",
+        "sku_id": 2594632,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190995"
+      },
+      {
+        "mid": "f0d2d79f9c98773fb9d558de55299fb0",
+        "sku_id": 2629316,
+        "attribute_type": "6",
+        "attribute_val": "SPF30"
+      },
+      {
+        "mid": "7279511836d87f7cda9f4939730e5fcc",
+        "sku_id": 2629311,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "mid": "7279511836d87f7cda9f4939730e5fcc",
+        "sku_id": 2629311,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "cb5ae5579d34a52283021cbe127b236d",
+        "sku_id": 2553435,
+        "attribute_type": "1",
+        "attribute_val": "125"
+      },
+      {
+        "mid": "a254798fa30899d08d2347b5f22da15c",
+        "sku_id": 2914703,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190986"
+      },
+      {
+        "mid": "3aedc21ea13812b502c896717560554e",
+        "sku_id": 3202584,
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "mid": "13f7137a13995d602d5a89f889ab05f0",
+        "sku_id": 2629315,
+        "attribute_type": "6",
+        "attribute_val": "SPF30"
+      },
+      {
+        "mid": "000454f998db0271610e53f87c15ce2b",
+        "sku_id": 2553436,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "000454f998db0271610e53f87c15ce2b",
+        "sku_id": 2553436,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190990"
+      },
+      {
+        "mid": "10da88762d64f439e57ff8e1ec6eecd5",
+        "sku_id": 2594632,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "5a6814ab9bd04f2e5457db175e7693de",
+        "sku_id": 3186379,
+        "attribute_type": "1",
+        "attribute_val": "130"
+      },
+      {
+        "mid": "5a6814ab9bd04f2e5457db175e7693de",
+        "sku_id": 3186379,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "mid": "5a6814ab9bd04f2e5457db175e7693de",
+        "sku_id": 3186379,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "f0d2d79f9c98773fb9d558de55299fb0",
+        "sku_id": 2629316,
+        "attribute_type": "1",
+        "attribute_val": "20"
+      },
+      {
+        "mid": "7279511836d87f7cda9f4939730e5fcc",
+        "sku_id": 2629311,
+        "attribute_type": "1",
+        "attribute_val": "145"
+      },
+      {
+        "mid": "10da88762d64f439e57ff8e1ec6eecd5",
+        "sku_id": 2594632,
+        "attribute_type": "1",
+        "attribute_val": "015"
+      },
+      {
+        "mid": "cb5ae5579d34a52283021cbe127b236d",
+        "sku_id": 2553435,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "cb5ae5579d34a52283021cbe127b236d",
+        "sku_id": 2553435,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190987"
+      },
+      {
+        "mid": "cb5ae5579d34a52283021cbe127b236d",
+        "sku_id": 2553435,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "a254798fa30899d08d2347b5f22da15c",
+        "sku_id": 2914703,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "3aedc21ea13812b502c896717560554e",
+        "sku_id": 3202584,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "13f7137a13995d602d5a89f889ab05f0",
+        "sku_id": 2629315,
+        "attribute_type": "1",
+        "attribute_val": "140"
+      },
+      {
+        "mid": "13f7137a13995d602d5a89f889ab05f0",
+        "sku_id": 2629315,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190996"
+      },
+      {
+        "mid": "000454f998db0271610e53f87c15ce2b",
+        "sku_id": 2553436,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "3aedc21ea13812b502c896717560554e",
+        "sku_id": 3202584,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "5a6814ab9bd04f2e5457db175e7693de",
+        "sku_id": 3186379,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "5a6814ab9bd04f2e5457db175e7693de",
+        "sku_id": 3186379,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190985"
+      },
+      {
+        "mid": "f0d2d79f9c98773fb9d558de55299fb0",
+        "sku_id": 2629316,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "f0d2d79f9c98773fb9d558de55299fb0",
+        "sku_id": 2629316,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190997"
+      },
+      {
+        "mid": "f0d2d79f9c98773fb9d558de55299fb0",
+        "sku_id": 2629316,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "7279511836d87f7cda9f4939730e5fcc",
+        "sku_id": 2629311,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "7279511836d87f7cda9f4939730e5fcc",
+        "sku_id": 2629311,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190984"
+      },
+      {
+        "mid": "cb5ae5579d34a52283021cbe127b236d",
+        "sku_id": 2553435,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "mid": "84e8a76cf2976289daac435dedf455c0",
+        "sku_id": 2629312,
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "mid": "84e8a76cf2976289daac435dedf455c0",
+        "sku_id": 2629312,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "mid": "84e8a76cf2976289daac435dedf455c0",
+        "sku_id": 2629312,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190988"
+      },
+      {
+        "mid": "84e8a76cf2976289daac435dedf455c0",
+        "sku_id": 2629312,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "10da88762d64f439e57ff8e1ec6eecd5",
+        "sku_id": 2594632,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "10da88762d64f439e57ff8e1ec6eecd5",
+        "sku_id": 2594632,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "a254798fa30899d08d2347b5f22da15c",
+        "sku_id": 2914703,
+        "attribute_type": "1",
+        "attribute_val": "110"
+      },
+      {
+        "mid": "a254798fa30899d08d2347b5f22da15c",
+        "sku_id": 2914703,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "3aedc21ea13812b502c896717560554e",
+        "sku_id": 3202584,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "3aedc21ea13812b502c896717560554e",
+        "sku_id": 3202584,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190989"
+      },
+      {
+        "mid": "13f7137a13995d602d5a89f889ab05f0",
+        "sku_id": 2629315,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "13f7137a13995d602d5a89f889ab05f0",
+        "sku_id": 2629315,
+        "attribute_type": "9",
+        "attribute_val": "1564329600"
+      },
+      {
+        "mid": "000454f998db0271610e53f87c15ce2b",
+        "sku_id": 2553436,
+        "attribute_type": "1",
+        "attribute_val": "25"
+      },
+      {
+        "mid": "000454f998db0271610e53f87c15ce2b",
+        "sku_id": 2553436,
+        "attribute_type": "6",
+        "attribute_val": "SPF30"
+      },
+      {
+        "mid": "a254798fa30899d08d2347b5f22da15c",
+        "sku_id": 2914703,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/25_82ae937d-60cf-46d6-a183-45eaa565abb1.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "PA+++",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩持妆粉底液 110",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5238,5243,5223",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "safety_1_num": 3.8,
+    "mid": "a254798fa30899d08d2347b5f22da15c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20190986",
+    "approvaler": "宜昌天美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "祛斑类（仅具物理遮盖作用），防晒类",
+    "shelfLife": "",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20190729,
+    "goods_form": ""
+  },
+  "success": true
+}

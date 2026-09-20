@@ -1,0 +1,113 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201410016"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1544025600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1419955200"
+      }
+    ],
+    "category3Name": "眼妆",
+    "price": "¥160",
+    "sda_approval_date": 1544025600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "8017aac4aeab6a797839abd30f6d0f8f",
+        "sku_id": 356808,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201410016"
+      },
+      {
+        "mid": "8017aac4aeab6a797839abd30f6d0f8f",
+        "sku_id": 356808,
+        "attribute_type": "9",
+        "attribute_val": "1419955200"
+      },
+      {
+        "mid": "7f25e1d83a3e46b92399c34b29e81706",
+        "sku_id": 3896158,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201410016"
+      },
+      {
+        "mid": "7f25e1d83a3e46b92399c34b29e81706",
+        "sku_id": 3896158,
+        "attribute_type": "9",
+        "attribute_val": "1544025600"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/0_6e792b4d-599c-497c-8fdf-3dd93a436955.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"欧莱雅惊艳特长美睫睫毛膏（白色底膏）\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"膏状\"}, {\"name\": \"气味\", \"condition\": \"原料特征性气味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}, {\"table_name\": \"欧莱雅惊艳特长美睫睫毛膏（黑色睫毛膏）\", \"table_index\": \"2\", \"result\": [{\"name\": \"颜色\", \"condition\": \"黑色\"}, {\"name\": \"性状\", \"condition\": \"膏状\"}, {\"name\": \"气味\", \"condition\": \"原料特征性气味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "DOUBLE EXTENSION BEAUTY TUBES Mascara Black",
+    "name": "欧莱雅惊艳特长美睫睫毛膏",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无。",
+    "safety_1_num": 4.3,
+    "mid": "7f25e1d83a3e46b92399c34b29e81706",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "14ml",
+    "sda_approval_no": "国妆备进字J201410016",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 237,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "睫毛膏",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "先将白色底膏均匀涂抹于上下睫毛，再取黑色睫毛膏均匀涂于上下睫毛。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 47,
+    "registered_day": 20181206,
+    "goods_form": ""
+  },
+  "success": true
+}

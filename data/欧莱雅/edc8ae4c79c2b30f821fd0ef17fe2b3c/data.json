@@ -1,0 +1,278 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://uland.taobao.com/item/edetail?id=0v6aKaVKu7t8ybzG94nfqBpS2t6-VboPnRIQ6ZWZa8Pig2"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/RIrzgATfTg5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=F237F03CCF496CB31EB63018882A208E"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/d1878e34-6d37-55d4-8bf9-a14651191d7c.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022001758"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005328"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004256"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004553"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003231"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020006877"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20180602"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1647100800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1598284800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1533052800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1515427200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1450713600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1440432000"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "¥359",
+    "sda_approval_date": 1647100800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "222799dbccacc6f2f3e69809b284fd79",
+        "sku_id": 2178144,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004256"
+      },
+      {
+        "mid": "edc8ae4c79c2b30f821fd0ef17fe2b3c",
+        "sku_id": 30708692,
+        "attribute_type": "9",
+        "attribute_val": "1647100800"
+      },
+      {
+        "mid": "4ccb3e2a39f8677b2a3fdba5e805768d",
+        "sku_id": 3941939,
+        "attribute_type": "9",
+        "attribute_val": "1598284800"
+      },
+      {
+        "mid": "aa57e517b49835f80b63cf41bce5ce20",
+        "sku_id": 508074,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004553"
+      },
+      {
+        "mid": "aa57e517b49835f80b63cf41bce5ce20",
+        "sku_id": 508074,
+        "attribute_type": "9",
+        "attribute_val": "1450713600"
+      },
+      {
+        "mid": "edc8ae4c79c2b30f821fd0ef17fe2b3c",
+        "sku_id": 30708692,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022001758"
+      },
+      {
+        "mid": "b78b5c4843498aa6efb3682d7cd209d9",
+        "sku_id": 1153212,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005328"
+      },
+      {
+        "mid": "4d66a435f2dc754d06bfe50d6b9c2053",
+        "sku_id": 1247111,
+        "attribute_type": "9",
+        "attribute_val": "1515427200"
+      },
+      {
+        "mid": "a9ca33d1f432a0c362612e091594fce5",
+        "sku_id": 421479,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003231"
+      },
+      {
+        "mid": "a9ca33d1f432a0c362612e091594fce5",
+        "sku_id": 421479,
+        "attribute_type": "9",
+        "attribute_val": "1440432000"
+      },
+      {
+        "mid": "222799dbccacc6f2f3e69809b284fd79",
+        "sku_id": 2178144,
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "mid": "4d66a435f2dc754d06bfe50d6b9c2053",
+        "sku_id": 1247111,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20180602"
+      },
+      {
+        "mid": "4ccb3e2a39f8677b2a3fdba5e805768d",
+        "sku_id": 3941939,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020006877"
+      },
+      {
+        "mid": "b78b5c4843498aa6efb3682d7cd209d9",
+        "sku_id": 1153212,
+        "attribute_type": "9",
+        "attribute_val": "1533052800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_3eaf3106-38c5-438a-8f8c-0e7c66fc230d.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/209d84f0-218a-5acd-87b0-3b792279614e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/83e5c5e9-be67-570c-9a37-c9815903ee97.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c48a6c4c-a364-50c9-885d-5b228cf8bed5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dc9f102a-62c8-5564-ae47-66388c3da3ea.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/df01e1eb-d553-5601-a398-a8b2a67e0af7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4fe6a0df-aef5-5468-8ea8-c9081036d5ec.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/50567acb-5f45-5cfd-b7d2-752404eec4d9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f378dc75-88fd-52ca-a47b-1b8bc46c9771.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/13fd8789-4970-5489-a9b0-c187627f3b8f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/18987f89-655c-5bdb-afb0-cf40f5e2f31a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/414ce24e-fa83-5883-be2a-b49a6b78b3f0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5386e785-5ea1-5b52-bf82-4225808c667f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6d2389b2-bab8-5d0b-b1e8-a32cf9b5a114.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/749c9d5d-60d8-5365-a7ad-fa40ec323846.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/849cce5d-70c0-5f41-b0c4-a63dc34b8652.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/872a0d25-bfa8-51e2-af85-f027cd990941.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a20a918d-73b7-539a-b00a-1bb08f2ec835.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1e7ecb6a-17b4-5c09-906b-1c2b3d54e707.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f727550-3b00-5afa-9049-fe5c63b2c0d7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/31d7af65-348d-53ba-ac6c-e69f12d10bb5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3de8d7bd-197d-5a7b-a82c-02d833a1c7eb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/44b24d9a-51ca-5834-bba0-9b19cf6d1154.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6ab76378-3ef4-51f3-b717-0c4e3aab30fe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a3792d5e-dc3b-523d-80a1-8f4b99f7f1b6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b72b3d5f-37a5-5f25-acfd-1abbcec81384.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c57385d8-f4de-5c15-935e-208900390ee5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e3378fdd-a949-508c-849d-5d07e3b6abc2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fa0d17c0-bc6f-50c1-830a-389d3d340afa.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部,眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈全脸淡纹眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/31d7af65-348d-53ba-ac6c-e69f12d10bb5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5225",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.2,
+    "mid": "edc8ae4c79c2b30f821fd0ef17fe2b3c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "苏G妆网备字2022001758",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜玻尿酸水光充盈全脸淡纹眼霜@!@欧莱雅第二代紫熨斗",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20220313,
+    "goods_form": "23"
+  },
+  "success": true
+}

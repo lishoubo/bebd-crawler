@@ -1,0 +1,202 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "41,44,130,129,51,53,54",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D9xUYb3z8EB9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd3%2Fxptow5pF8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6WzDW02gZhVU3I0P8lU23u8hpLNmcV57HOTPvdx%2FRL0p7595ce53oCH%2B%2BuB%2BvcuNu8bChKbVFVRT3qdB77ShfYTWhPgU2eowUzbZ%2FO2ybdprdg%2FeSwWE4zHGtiTZKNIGDIYULNg46oBA%3D&union_lens=lensId:TAPI@1753119022@2106cd74_0dd9_1982e095c2a_1de3@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/JFSber8fP3A?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=A8FBF2CB4330E0635E4506517A27933E"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATAJK1olXQ8GUl1fCUMWAl8IGloWWwUBVF5ZDEsVC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwOGFgVXQIGVFxVFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZ_CC0WdwNfUQ8BYTkRFl1VDCAYfh53D2M4G1sRWwQEVV1YD3sXAm4JHloQWg8CZG5dDXtWbW8JG1MQVAEHZF5dDE0SBWsOGV8lXQAEUltUCksSBGoAGWsVVQIygtHi3cKb1uGXwsuoDlJFCgNtOHsUM184G2sWbVhsVVlZDEhDVzpmRwVPDlxfDAMzCE0TBWsBH1glXwcDVlxtOHsfQD16fBtgHGcKHQMCdClcBxFgS1pWA3gKOlwWQQBKZix9HDppCG9_HDk5UXsXM28KG1wl"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022011772"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002587"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002095"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1672156800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1497369600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1672156800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "去黑头",
+        "id": 5216
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "485a7c6dd0543daa0f7fb514d9463f51",
+        "sku_id": 813500,
+        "attribute_type": "9",
+        "attribute_val": "1497369600"
+      },
+      {
+        "mid": "e52dd78db4e04d22aacc82753b10c098",
+        "sku_id": 209392,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002095"
+      },
+      {
+        "mid": "485a7c6dd0543daa0f7fb514d9463f51",
+        "sku_id": 813500,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002587"
+      },
+      {
+        "mid": "e52dd78db4e04d22aacc82753b10c098",
+        "sku_id": 209392,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "4171478f39c802e6dc45922b881c9cb0",
+        "sku_id": 31418442,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022011772"
+      },
+      {
+        "mid": "4171478f39c802e6dc45922b881c9cb0",
+        "sku_id": 31418442,
+        "attribute_type": "9",
+        "attribute_val": "1672156800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_8baaa3d9-9171-48d7-ab0f-bd58049644a1.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/0c23b581-8ff5-5e33-8388-2433f51fd0c3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a2e99f6-c273-5a45-af17-b112378e1927.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/449787e0-4ee9-56a9-af52-28c08ef2c5a5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5097f7ed-19ac-5eb9-bfd6-53947e8d8b46.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/67eb4e1d-8370-593f-a26d-5f9c4fa4c8d0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/849d5f3b-9f72-56f9-90b7-a45645cb49df.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bad0b56a-80b5-5b2f-a971-2c15a1cef588.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bb55644d-509f-559d-a8ac-a0476b91a454.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/be151d31-3f04-5132-a5c5-8b0957d538c5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/be2f971f-86c1-5984-8ef8-976f132e6b5f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c61f9bcf-bef6-57b9-b3ca-e557ca26b858.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e2f03f7a-9ad7-5ca2-8545-5423da17e282.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ef2affc6-f0c3-50ba-8235-f77ad256d9cd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0d5f658e-d07a-5721-998b-bb69eaf47694.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9d8e014d-46f2-5677-bb5c-e0ded5d21fe8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/24b00509-49ff-508c-af7b-f02426352838.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/25a96d50-1419-5f1b-9124-d1b187351f8d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/53fbf29d-e815-551d-b22a-949eb03a914d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6e72cb03-f042-5517-bda7-ea0a51269715.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/787cda01-1a7e-50b5-92ce-e14ec004b2ec.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士控油炭爽抗黑头洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/c61f9bcf-bef6-57b9-b3ca-e557ca26b858.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5216,5205",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "4171478f39c802e6dc45922b881c9cb0",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022011772",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士控油炭爽抗黑头洁面膏",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "祛痘",
+        "id": "41"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20221228,
+    "goods_form": "23"
+  },
+  "success": true
+}

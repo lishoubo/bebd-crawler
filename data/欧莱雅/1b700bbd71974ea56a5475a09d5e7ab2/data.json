@@ -1,0 +1,240 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2BCvwsqLpefpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMav7x7OJ7Tlzxq3IhSJN6GSw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXc1F6qDupPIqNI7fPUbAQVTNPu4NepOunfLPq2qTgCgZPxO%2B7GuUYusMzDWv%2FQ2LtYbWH%2BwDpMqhU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRLDnTbVzHzOcMcASj3uH%2FUoYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753119874@213dab6b_0e27_1982e165e12_9ef0@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/IVZRcE4DNqA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=A2C6A8EB002DE46041A87BBB711EAAD9"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/4ab38b68-2e93-527f-bc83-d197dab3f7a2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190614"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20161530"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1678377600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1592841600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1558972800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1473609600"
+      }
+    ],
+    "category3Name": "防晒",
+    "price": "¥170",
+    "sda_approval_date": 1558972800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "防晒",
+        "id": 5223
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "91498e1260f85e463668f85d9fe23f46",
+        "sku_id": 684154,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20161530"
+      },
+      {
+        "mid": "c140d305e626346df8a8b8c6640d3fb4",
+        "sku_id": 31776920,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190614"
+      },
+      {
+        "mid": "1b700bbd71974ea56a5475a09d5e7ab2",
+        "sku_id": 2594488,
+        "attribute_type": "9",
+        "attribute_val": "1558972800"
+      },
+      {
+        "mid": "118395cbf20e148430e6d212a52f2414",
+        "sku_id": 4102203,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "118395cbf20e148430e6d212a52f2414",
+        "sku_id": 4102203,
+        "attribute_type": "9",
+        "attribute_val": "1592841600"
+      },
+      {
+        "mid": "c140d305e626346df8a8b8c6640d3fb4",
+        "sku_id": 31776920,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "91498e1260f85e463668f85d9fe23f46",
+        "sku_id": 684154,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "91498e1260f85e463668f85d9fe23f46",
+        "sku_id": 684154,
+        "attribute_type": "9",
+        "attribute_val": "1473609600"
+      },
+      {
+        "mid": "1b700bbd71974ea56a5475a09d5e7ab2",
+        "sku_id": 2594488,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "118395cbf20e148430e6d212a52f2414",
+        "sku_id": 4102203,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "c140d305e626346df8a8b8c6640d3fb4",
+        "sku_id": 31776920,
+        "attribute_type": "9",
+        "attribute_val": "1678377600"
+      },
+      {
+        "mid": "1b700bbd71974ea56a5475a09d5e7ab2",
+        "sku_id": 2594488,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "1b700bbd71974ea56a5475a09d5e7ab2",
+        "sku_id": 2594488,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190614"
+      },
+      {
+        "mid": "91498e1260f85e463668f85d9fe23f46",
+        "sku_id": 684154,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "118395cbf20e148430e6d212a52f2414",
+        "sku_id": 4102203,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20161530"
+      },
+      {
+        "mid": "c140d305e626346df8a8b8c6640d3fb4",
+        "sku_id": 31776920,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/0_09037783-0ff8-49ec-ad0c-f6f79c4009d8.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/c9b9c904-161b-577e-88e2-39d0a959f3b2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ab38b68-2e93-527f-bc83-d197dab3f7a2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"乳黄色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"花香味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}]",
+    "spa": "PA++++",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅新多重防护隔离露 外御内护",
+    "category2Name": "防晒",
+    "pm_image": "https://img.bevol.com/goods_pack/c9b9c904-161b-577e-88e2-39d0a959f3b2.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5203",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "避免接触眼周，如不慎入眼，请立刻用水冲洗。本品香精原料含有α-异甲基紫罗兰酮,苧烯,己基肉桂醛,芳樟醇。",
+    "safety_1_num": 4.0,
+    "mid": "1b700bbd71974ea56a5475a09d5e7ab2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20190614",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅小金瓶防晒@!@欧莱雅新多重防护隔离露 外御内护@!@欧莱雅小金管防晒",
+    "functionType": "防晒类",
+    "shelfLife": "3年",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早上使用于清洁后的脸部和颈部肌肤，作为肌肤护理的最后一步使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20190528,
+    "goods_form": ""
+  },
+  "success": true
+}

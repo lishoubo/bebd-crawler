@@ -1,0 +1,153 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DKIf1ghfZB4Jw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMYpCIBAU1Z5IJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6CU9CBrcqWXjYmfFeQ2TrzxheUCPGlsrbdYRQ7INNW3VKh2cHE4AuK10ru%2BkXVeD98bChKbVFVRT3qdB77ShfYVFzQeSXzIFOQN1D%2FuoYyX2F%2B8M%2BOhgb319Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1738688850@2132fb04_0e77_194d1ee6933_7c1b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/oPdAUKo7J58?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=7E99457937D90A2387F88D2950032F7F"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARUJK1olXQ8GUl1fCUMWAl8MGFgQXwYGUl5ZD3tTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpeC04VA2sOG18SQl9HCANtQS1kfzdvYht1WHxrIBcUYABDBjN9e1cZbQYCUFhfDkoUBmg4G1oUXAMDUVlUCHsnA2o4WjUVXAYKUVdaDXsXA2sOHl0RWwQGZF5bDEkXA2kPHlMcWQIyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBWwKH1oWM1pXAQwWXwBLbWsBElMXVQAFZFxcCUkVM184WBh3WmB0VSg0Uxx-d2tzZgtlGVpAFigOZklJQhpUSBphXW9qPDsBQRRWVV8IK1sXXQEy"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151629"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1694707200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1439308800"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥269",
+    "sda_approval_date": 1694707200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "338251b78f326ebad1ff600bcb263bc7",
+        "sku_id": 4328048,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151629"
+      },
+      {
+        "mid": "338251b78f326ebad1ff600bcb263bc7",
+        "sku_id": 4328048,
+        "attribute_type": "9",
+        "attribute_val": "1439308800"
+      },
+      {
+        "mid": "1fe28e94ff5049f103a059b328ccee54",
+        "sku_id": 455943,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "5cd75707cc5118625562622cb084bfd0",
+        "sku_id": 32539519,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151629"
+      },
+      {
+        "mid": "5cd75707cc5118625562622cb084bfd0",
+        "sku_id": 32539519,
+        "attribute_type": "9",
+        "attribute_val": "1694707200"
+      },
+      {
+        "mid": "1fe28e94ff5049f103a059b328ccee54",
+        "sku_id": 455943,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151629"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_5deec167-70c7-4929-81ba-f1d0caa74498.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/0b100df7-bfaa-519e-8b22-b2a09cd6dc81.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5fa2092e-1e6a-5356-8663-9cb3797bfe89.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅科研致白三重源白精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "6711",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "safety_1_num": 4.5,
+    "mid": "5cd75707cc5118625562622cb084bfd0",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20151629",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅光子瓶@!@欧莱雅科研致白三重源白精华液",
+    "functionType": "祛斑美白类",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20230915,
+    "goods_form": ""
+  },
+  "success": true
+}

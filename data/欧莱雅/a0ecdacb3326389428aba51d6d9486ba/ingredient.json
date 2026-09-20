@@ -1,0 +1,10 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [],
+    "total": 0,
+    "ingredientTableId": "1"
+  },
+  "success": true
+}

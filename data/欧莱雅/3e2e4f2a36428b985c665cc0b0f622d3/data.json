@@ -1,0 +1,214 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,45",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dfa%2BGPqpEea1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQEYWor%2FCpux1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXcZCNUc6kP46ydNhNS4rEuVng3jQTdC6mSiDYESuV0LjemBR6ch%2ForahSCDPga9cbHlzr13AdZV6OPn4qwa8e5jOwDMfXFgMfhIjP5Uhv22UU%2Bw6EshkXHMqfOvGcVRKFHGtiTZKNIGDIYULNg46oBA%3D&union_lens=lensId:TAPI@1753117536@212cc21e_0dbe_1982df2af69_89f6@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/hwEEi0rRko6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=0337C5F51899C19E3E8C9B2AB145F9FA"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/d820a351-7fd1-5f12-9260-9a51d21a2357.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020004381"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000898"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002686"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2021000084"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20152707"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1609776000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1593532800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1489334400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1429459200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418659200"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1593532800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "fd17a86bed57ae6ec3090b2289752681",
+        "sku_id": 739950,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000898"
+      },
+      {
+        "mid": "0ae511b6a3f7c57d3611dcc6552e32f6",
+        "sku_id": 366533,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20152707"
+      },
+      {
+        "mid": "60e0d702902635967827cb5aca8a56f1",
+        "sku_id": 4258632,
+        "attribute_type": "9",
+        "attribute_val": "1609776000"
+      },
+      {
+        "mid": "e33485e908a82b5ce5292571f1cb993f",
+        "sku_id": 213147,
+        "attribute_type": "9",
+        "attribute_val": "1418659200"
+      },
+      {
+        "mid": "3e2e4f2a36428b985c665cc0b0f622d3",
+        "sku_id": 3832720,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020004381"
+      },
+      {
+        "mid": "60e0d702902635967827cb5aca8a56f1",
+        "sku_id": 4258632,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2021000084"
+      },
+      {
+        "mid": "e33485e908a82b5ce5292571f1cb993f",
+        "sku_id": 213147,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002686"
+      },
+      {
+        "mid": "3e2e4f2a36428b985c665cc0b0f622d3",
+        "sku_id": 3832720,
+        "attribute_type": "9",
+        "attribute_val": "1593532800"
+      },
+      {
+        "mid": "0ae511b6a3f7c57d3611dcc6552e32f6",
+        "sku_id": 366533,
+        "attribute_type": "9",
+        "attribute_val": "1429459200"
+      },
+      {
+        "mid": "fd17a86bed57ae6ec3090b2289752681",
+        "sku_id": 739950,
+        "attribute_type": "9",
+        "attribute_val": "1489334400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/183_cd58735d-5ee8-4ae2-8316-374ffb594a71.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/044b83d4-a030-514f-bb0f-ba2551a947a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a20e5b43-680d-5133-8fd8-707e975a8479.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e91d0d32-1632-5695-ba93-f5cd1fc120ad.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2cee22b9-8a79-5c58-8973-64c47fa65fd4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9a83a75e-8931-5d7c-a85c-206f26096b62.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d820a351-7fd1-5f12-9260-9a51d21a2357.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜滋润洁面乳",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/e91d0d32-1632-5695-ba93-f5cd1fc120ad.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.7,
+    "mid": "3e2e4f2a36428b985c665cc0b0f622d3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2020004381",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20200701,
+    "goods_form": "23"
+  },
+  "success": true
+}

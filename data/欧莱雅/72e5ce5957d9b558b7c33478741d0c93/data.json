@@ -1,0 +1,276 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,130,129,42,48,43,58,57",
+    "CPS": [
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/uMLqsbo7eMA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=C6539AEF4290284208D90BD9DC60A5FA"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020008445"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001912"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002814"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014003522"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20168549"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1604851200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1473177600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1419609600"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥21",
+    "sda_approval_date": 1604851200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "去屑",
+        "id": 5266
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "0c83d2de68064a363c2bb3a2011656d9",
+        "sku_id": 1153229,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "72e5ce5957d9b558b7c33478741d0c93",
+        "sku_id": 4173284,
+        "attribute_type": "9",
+        "attribute_val": "1604851200"
+      },
+      {
+        "mid": "d78aeaf0380b3059f9acf6ba9615408e",
+        "sku_id": 578952,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "d78aeaf0380b3059f9acf6ba9615408e",
+        "sku_id": 578952,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20168549"
+      },
+      {
+        "mid": "d78aeaf0380b3059f9acf6ba9615408e",
+        "sku_id": 578952,
+        "attribute_type": "9",
+        "attribute_val": "1473177600"
+      },
+      {
+        "mid": "9b8dc4d72509b9f849ae3cf2f219dbbd",
+        "sku_id": 2130923,
+        "attribute_type": "9",
+        "attribute_val": "1419609600"
+      },
+      {
+        "mid": "b9bc8751c5f0ae4ab3ae52182bc64401",
+        "sku_id": 411880,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "9b8dc4d72509b9f849ae3cf2f219dbbd",
+        "sku_id": 2130923,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "0c83d2de68064a363c2bb3a2011656d9",
+        "sku_id": 1153229,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001912"
+      },
+      {
+        "mid": "72e5ce5957d9b558b7c33478741d0c93",
+        "sku_id": 4173284,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020008445"
+      },
+      {
+        "mid": "9b8dc4d72509b9f849ae3cf2f219dbbd",
+        "sku_id": 2130923,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014003522"
+      },
+      {
+        "mid": "b9bc8751c5f0ae4ab3ae52182bc64401",
+        "sku_id": 411880,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002814"
+      },
+      {
+        "mid": "b9bc8751c5f0ae4ab3ae52182bc64401",
+        "sku_id": 411880,
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      },
+      {
+        "mid": "0c83d2de68064a363c2bb3a2011656d9",
+        "sku_id": 1153229,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "72e5ce5957d9b558b7c33478741d0c93",
+        "sku_id": 4173284,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_a136e2c7-61d1-4197-a007-12180cfff595.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/116cc705-3e6d-56db-bd75-c78b670557c0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1427a71a-567d-591e-a3bf-82f3f6f4754f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/87ed09fc-6aa8-537f-848e-43a98bbeb087.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/aae3de12-4215-5c72-92e2-8cc31289469e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/136e814e-c043-5d75-9db6-bcb74f7ae726.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/35fef96b-3ead-5c7b-95c7-fe217e47d10c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7bd208e7-e07a-53fe-8241-f62bdd7cfd73.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8d8c6479-baac-5c64-b9b8-0584a108e1e6.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅精油润养去屑洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5266",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "72e5ce5957d9b558b7c33478741d0c93",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "200ml",
+    "sda_approval_no": "苏G妆网备字2020008445",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅精油润养去屑洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20201109,
+    "goods_form": "24"
+  },
+  "success": true
+}

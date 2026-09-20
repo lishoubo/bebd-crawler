@@ -1,0 +1,151 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,130,129,51,53,48,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dy1WgZfPg6Jxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRfvobeKc%2BEB8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6roN2u08EHh1R3m2H7lyl3fYQewpshQkcIi4KsNfqPnUBX%2F8R2NDyjh6ZL%2BfYzaAVu4IZgnqR12hzG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQFQp2TSPmxSEoQAYl5Ei29A7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753127522@21279cf8_2804_1982e8b1239_9f6f@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/akB4x4RBgs6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=0B9C87C7708AF6E0F9CB4B9D258020C5"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARwJK1olXQ8GUl1fCUMWAl8IGlodXQQFV1ZdAUgQAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcIGVwWVQYLV1leFxJSXzI4TlxoIUABVDw9bFFCRTtfH0FmWXR1AlJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OHV0QVQcHXVlcD0gnA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVoSDVIGVFkJZhdJWThBXRhUMwIDVF1eAUsRM20JGlkXbTYyMTxeChtrBhJjGiZgKwZHMQQ5XzBUCz8KQDUXDUQLIT4dXjl8XjFTbRNAAkEyVG5dCksQMw"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1687190400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_5edd7f69-9e50-4b39-8cff-b29d62e7a415.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/b8b293a9-f3e6-546d-9477-95a3884359e5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/523ec4fe-11e3-509d-90b6-67aa06a694a7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b4ca35f6-9faa-51af-a944-6b5fde0c1839.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/23f20f2a-ea67-51f9-822c-40a93e8c6db1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cc829467-5ded-58fe-90b5-ab1641c18192.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/15aa1ef3-67f5-542b-baff-d92acbca1e45.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/263867fa-93ca-5e26-926b-95850d184a03.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/44cb2954-3dd9-592d-861f-ced5b09805b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8c935d60-946d-50d9-ae49-0d1e51f835c5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c6f5b1ef-0c38-5f97-86c0-fdec03233aa2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士青春肌源淡纹霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "720b25f5378c443b10366ddf6e30b00c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023004773",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士青春肌源淡纹霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20230620,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,153 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DP0PzL%2Fi%2Bw1xw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRYreWfqhdZEt4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXR9VFV3Gf5TEnonbhWprsMROBcpTyAjpsrmmv9iNlPaMzX%2FGEhW0N2SfHM%2B1Ti6qLZMjUB65JUDQX0%2B3obhRTo7%2B58h5pKGYu9YY89nTcJHEaIm3Es2yy2BM49ZNfa1BgxuQnlDE9LYKvRn9s5lIr3k%3D&union_lens=lensId:TAPI@1753119423@212cb236_0e4f_1982e0f7c03_db90@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/73e47b8a-48be-5fc0-8d57-2ac4bbe4b81e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018004116"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2017177351"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2016123689"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1513008000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1482249600"
+      }
+    ],
+    "category3Name": "面膜",
+    "price": "¥290",
+    "sda_approval_date": 1530720000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "ea3522e5c0399bd22cbd11dd5de025ae",
+        "sku_id": 1153248,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018004116"
+      },
+      {
+        "mid": "f486491d3843b3fb0c71a511683a304f",
+        "sku_id": 705221,
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2016123689"
+      },
+      {
+        "mid": "f486491d3843b3fb0c71a511683a304f",
+        "sku_id": 705221,
+        "attribute_type": "9",
+        "attribute_val": "1482249600"
+      },
+      {
+        "mid": "ddeaebd924c24299ef7a69c0da5dbc68",
+        "sku_id": 2219322,
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2017177351"
+      },
+      {
+        "mid": "ea3522e5c0399bd22cbd11dd5de025ae",
+        "sku_id": 1153248,
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "mid": "ddeaebd924c24299ef7a69c0da5dbc68",
+        "sku_id": 2219322,
+        "attribute_type": "9",
+        "attribute_val": "1513008000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/630fc281-14a5-40a1-a000-1cd2d87d74a0.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/eeebb563-77c9-58f0-96e2-5f7ff994dd2b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/73e47b8a-48be-5fc0-8d57-2ac4bbe4b81e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅青春密码酵素精华凝胶面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/eeebb563-77c9-58f0-96e2-5f7ff994dd2b.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "safety_1_num": 4.6,
+    "mid": "ea3522e5c0399bd22cbd11dd5de025ae",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "28g",
+    "sda_approval_no": "苏G妆网备字2018004116",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 161,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "詹尼克（上海）化妆品有限公司",
+        "mid": "b8b91667f43d047d2b59c407630bb21e"
+      }
+    ],
+    "category4Name": "水洗面膜/面膜霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20180705,
+    "goods_form": ""
+  },
+  "success": true
+}

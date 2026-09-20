@@ -1,0 +1,124 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,128,46,130,129,51,53,48,126,54",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/24aae9ee-755b-5f54-980f-8f47555396a2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "",
+    "price": "",
+    "sda_approval_date": 1758211200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 0,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/9a8d369c-df56-5376-95f1-8753582f13f8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9b31232b-6216-5653-9217-76d42c132a69.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/152f1287-9334-53d8-a6f4-fbe38bba8970.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/24aae9ee-755b-5f54-980f-8f47555396a2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士青春肌源净澈洁面乳",
+    "category2Name": "",
+    "pm_image": "https://img.bevol.com/goods_pack/9a8d369c-df56-5376-95f1-8753582f13f8.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苧烯、芳樟醇。本品含水杨酸，三岁以下儿童勿用。水杨酸在本品中的使用目的为控油剂。使用时避开眼部，如不慎入眼请即用清水冲洗。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "9c9bc35fd86f295504e93ef9f59116fa",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025007266",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早晚使用，取适量产品于手心，加水搓揉起泡。涂抹在湿润的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水彻底洗净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 0,
+    "registered_day": 20250919,
+    "goods_form": "23"
+  },
+  "success": true
+}

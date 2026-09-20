@@ -1,0 +1,105 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,51,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/f0e0d2e2-9738-5c48-b854-71cfeb23461f.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1671638400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "面部修护",
+        "id": 5210
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_77695ca6-8a9f-41e9-8b18-54363a8be0f4.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/02673c76-fca3-5b20-8e27-b546e5faee24.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9fdcca09-dc34-5815-895a-e6521ddb56d5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f95c5e93-5afa-50fc-9482-a4d69095fff4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f0e0d2e2-9738-5c48-b854-71cfeb23461f.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "L’OREAL AGE PERFECT MIDNIGHT CREAM",
+    "name": "欧莱雅金致臻颜修护霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/9fdcca09-dc34-5815-895a-e6521ddb56d5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5210",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.1,
+    "mid": "7a7d692473485fa425b345ff894cc09c",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 2,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2022008309",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜修护霜@!@L’OREAL AGE PERFECT MIDNIGHT CREAM",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 28,
+    "registered_day": 20221222,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,122 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,130,129,51,126,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/b7672cba-0ce4-532c-8687-69a459c9c7d5.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "¥400",
+    "sda_approval_date": 1666022400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "面部修护",
+        "id": 5210
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_8367b3d1-2e22-4c2c-9f97-9fa501cfe77e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/100ffaf2-5683-5156-8d42-a2053d4ffae8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/48e22744-a8a8-5db9-8cd7-30db5ca28e07.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56cf3e11-55eb-549c-8c2a-18d8f958721d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/61004a26-cdaf-5ed6-b716-f8ab0556121f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/637c1166-3771-5bcf-996b-6901266fdfb0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b0d99eee-4044-5422-b5ec-63a9f63d8e06.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bc4f26f0-d9e9-5e77-990c-657ddf06ea01.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/df4bb61c-3346-55de-8d81-fd534a4dd8b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f7272f66-2575-5f14-8029-6fd7d49e1225.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/12f2099b-f97c-52dd-8e2f-92dc3c55d014.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2ad4244d-0b87-5ec3-8f05-fb2f8b7b596c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7349caa7-0d4f-524a-88c2-d3371b7343d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7d6d96ac-bc41-5e32-8280-9517daa218ef.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8ed8bf2c-0141-5b44-87dd-fa93421fa719.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b7672cba-0ce4-532c-8687-69a459c9c7d5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c432c6c2-efea-5c49-8625-1b496266fbdb.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养肌活修护源液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5210",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "8696bd15ddade342c57aefe1d10405d5",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "130ml",
+    "sda_approval_no": "苏G妆网备字2022004834",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜松露奢养肌活修护源液@!@欧莱雅金致松露源液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 150,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "基底液/美容液/原液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20221018,
+    "goods_form": "24"
+  },
+  "success": true
+}

@@ -1,0 +1,130 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,128,130,129,48,59,43,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/970d4c2e-0975-543c-a9d1-4d9bd29d1aee.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1745856000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/c04eb93b-a20e-5532-b6b4-c94bb0c1672c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ff464c8e-11c5-5673-830d-c5e2ec3436d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2be28677-8f91-50ad-83f4-588a05a5e1e9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/55d05517-ff11-522c-bd89-adda5207ff76.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/662c12cc-2662-589b-9ce0-68ad6191289c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/970d4c2e-0975-543c-a9d1-4d9bd29d1aee.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"颜色\", \"condition\": \"淡粉色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅酸护柔亮润发乳",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "若不慎入眼，请立即用清水冲洗。注意：本品含有: 己基肉桂醛、芳樟醇、苧烯、羟基香茅醛。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.0,
+    "mid": "2f835a115955edf8e45c4c763fdbabf8",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025002225",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅酸护柔亮润发乳",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "洗发后取适量涂抹于发丝中段直至发梢，稍加按摩至渗入后用清水洗净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "发色护理",
+        "id": "59"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20250429,
+    "goods_form": "23"
+  },
+  "success": true
+}

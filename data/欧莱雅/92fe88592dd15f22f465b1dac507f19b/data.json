@@ -1,0 +1,1432 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,129,42,48,36",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2Bi%2BpoA0SPpdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTAjuS%2FrcUqe5x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp8f3OfDthTZ%2BwE1AjuXMY%2B4yPnawkZ2fl7oAjrPT9J5wnVaXmhxYjCeHlscMXu2JEnXNyaq%2BiwtitwKh9e%2Fx1QcGD9Q27z4FJhfT7ehuFFOjv7nyHmkoZi7vErWNt4sRz0W4LsgJS3p2MCmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1753127185@2146bf99_2865_1982e85ed68_aaaf@01"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "7.37号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "7.25号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "7.13号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.71号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.56号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.26号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.21号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.15号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.10号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.8号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.4号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.35号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.52号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.35号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.26号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.11号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "2.0"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "3.0"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "3.15"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "3.60"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.0"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.25"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.35"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.45"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.52"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.65"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.12"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.17"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.25"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.35"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.4"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.73"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.8"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.10"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.12"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.71"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "8.73"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20212578"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201431"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201430"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201429"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201428"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151007"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233422"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233421"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233420"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233416"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233411"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233410"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233332"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233331"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233329"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233328"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233327"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233324"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233323"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233317"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233316"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233315"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231478"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231467"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231465"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151034"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151033"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151031"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151023"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151018"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151017"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151014"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151011"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151008"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151004"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1692720000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1692288000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1682179200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1629216000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1597593600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      }
+    ],
+    "category3Name": "染发/焗油",
+    "price": "",
+    "sda_approval_date": 1692028800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "染发",
+        "id": 5255
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "2a7840aa4fc1fffd5d45ace565c24f1f",
+        "sku_id": 32536595,
+        "attribute_type": "1",
+        "attribute_val": "4.35"
+      },
+      {
+        "mid": "2a7840aa4fc1fffd5d45ace565c24f1f",
+        "sku_id": 32536595,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151017"
+      },
+      {
+        "mid": "733cae876433e723e54f488954bc163e",
+        "sku_id": 32109629,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233421"
+      },
+      {
+        "mid": "e7505ddd7fdd92c897f3ba6268e41549",
+        "sku_id": 456389,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "63f7436afca2a03ecc00db986de0d445",
+        "sku_id": 32083745,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233316"
+      },
+      {
+        "mid": "63f7436afca2a03ecc00db986de0d445",
+        "sku_id": 32083745,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "819d009585c3af4022e63526f0febb5e",
+        "sku_id": 32109610,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233324"
+      },
+      {
+        "mid": "57a754c18024ed17dce9051d9ea91fc2",
+        "sku_id": 32109608,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "6003bfb2639a9265547d7b8def0828e0",
+        "sku_id": 32083794,
+        "attribute_type": "1",
+        "attribute_val": "5.73"
+      },
+      {
+        "mid": "a54a754bcfb318ba65f52b2a1df532c3",
+        "sku_id": 3893103,
+        "attribute_type": "1",
+        "attribute_val": "3.60"
+      },
+      {
+        "mid": "a54a754bcfb318ba65f52b2a1df532c3",
+        "sku_id": 3893103,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151008"
+      },
+      {
+        "mid": "14abd878b79e7df9a55e3ef801b78cbb",
+        "sku_id": 32540136,
+        "attribute_type": "1",
+        "attribute_val": "4.25"
+      },
+      {
+        "mid": "b08358e457a6346086022d17cdee47e2",
+        "sku_id": 455950,
+        "attribute_type": "1",
+        "attribute_val": "3.15"
+      },
+      {
+        "mid": "454bd3b054bde2bea6656380d6a230f5",
+        "sku_id": 32109034,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233410"
+      },
+      {
+        "mid": "454bd3b054bde2bea6656380d6a230f5",
+        "sku_id": 32109034,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "5101faa906d2e7021676b328b565532b",
+        "sku_id": 3893109,
+        "attribute_type": "1",
+        "attribute_val": "4.52"
+      },
+      {
+        "mid": "3c8c4954f23d5b259c60298698c980ce",
+        "sku_id": 3893108,
+        "attribute_type": "1",
+        "attribute_val": "4.45"
+      },
+      {
+        "mid": "3c8c4954f23d5b259c60298698c980ce",
+        "sku_id": 3893108,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151023"
+      },
+      {
+        "mid": "0fd4eb8829c06b16761d0ad24997c165",
+        "sku_id": 32085518,
+        "attribute_type": "1",
+        "attribute_val": "5.12"
+      },
+      {
+        "mid": "ff1bb68688ee64cdd8d317901f752b0a",
+        "sku_id": 3893107,
+        "attribute_type": "1",
+        "attribute_val": "4.0"
+      },
+      {
+        "mid": "a0ecdacb3326389428aba51d6d9486ba",
+        "sku_id": 32539510,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151008"
+      },
+      {
+        "mid": "92fe88592dd15f22f465b1dac507f19b",
+        "sku_id": 32109035,
+        "attribute_type": "1",
+        "attribute_val": "5.8号"
+      },
+      {
+        "mid": "92fe88592dd15f22f465b1dac507f19b",
+        "sku_id": 32109035,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233411"
+      },
+      {
+        "mid": "92fe88592dd15f22f465b1dac507f19b",
+        "sku_id": 32109035,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "42ca7f4117a2dbd516c8b704abce174e",
+        "sku_id": 3893110,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "455220dec7b74236eb7b914067ff1d56",
+        "sku_id": 456203,
+        "attribute_type": "1",
+        "attribute_val": "4.65"
+      },
+      {
+        "mid": "6072d79064687e9ab8e2e77d57bf4557",
+        "sku_id": 3893101,
+        "attribute_type": "1",
+        "attribute_val": "4.65"
+      },
+      {
+        "mid": "6072d79064687e9ab8e2e77d57bf4557",
+        "sku_id": 3893101,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151004"
+      },
+      {
+        "mid": "68f7d1b5f76e664134129017fafe0f3a",
+        "sku_id": 32539160,
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "mid": "683566606e925cbb4277b13210c1084d",
+        "sku_id": 456206,
+        "attribute_type": "1",
+        "attribute_val": "4.25"
+      },
+      {
+        "mid": "683566606e925cbb4277b13210c1084d",
+        "sku_id": 456206,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151034"
+      },
+      {
+        "mid": "683566606e925cbb4277b13210c1084d",
+        "sku_id": 456206,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "6403ef5c69afad1c442609084593e178",
+        "sku_id": 32539511,
+        "attribute_type": "1",
+        "attribute_val": "3.0"
+      },
+      {
+        "mid": "6403ef5c69afad1c442609084593e178",
+        "sku_id": 32539511,
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "mid": "8653eae518139e83a0269a87a66372e3",
+        "sku_id": 32109021,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "c4275a88da26640f208d6db64693d76a",
+        "sku_id": 32724262,
+        "attribute_type": "1",
+        "attribute_val": "4.52"
+      },
+      {
+        "mid": "c4275a88da26640f208d6db64693d76a",
+        "sku_id": 32724262,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151031"
+      },
+      {
+        "mid": "c4275a88da26640f208d6db64693d76a",
+        "sku_id": 32724262,
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "mid": "11f928390c28c740a486d6647e78356a",
+        "sku_id": 456204,
+        "attribute_type": "1",
+        "attribute_val": "4.45"
+      },
+      {
+        "mid": "60b570aca7931d0b6109dcf47f35a868",
+        "sku_id": 32109546,
+        "attribute_type": "1",
+        "attribute_val": "7.25号"
+      },
+      {
+        "mid": "f2bd6fa02419a62a1153f44fcec80613",
+        "sku_id": 4102287,
+        "attribute_type": "1",
+        "attribute_val": "6.12"
+      },
+      {
+        "mid": "f2bd6fa02419a62a1153f44fcec80613",
+        "sku_id": 4102287,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201429"
+      },
+      {
+        "mid": "640e8bd1c727bce89116908979ad9e4b",
+        "sku_id": 3893111,
+        "attribute_type": "1",
+        "attribute_val": "4.25"
+      },
+      {
+        "mid": "607a9ff8c516c03defe12840b8c73fa3",
+        "sku_id": 3893105,
+        "attribute_type": "1",
+        "attribute_val": "3.15"
+      },
+      {
+        "mid": "49a0944182e63f2f0ea5d4a2abcad61d",
+        "sku_id": 456207,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "93381de931922586b29f9efa2c6fab23",
+        "sku_id": 4098668,
+        "attribute_type": "1",
+        "attribute_val": "8.73"
+      },
+      {
+        "mid": "93381de931922586b29f9efa2c6fab23",
+        "sku_id": 4098668,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201430"
+      },
+      {
+        "mid": "93381de931922586b29f9efa2c6fab23",
+        "sku_id": 4098668,
+        "attribute_type": "9",
+        "attribute_val": "1597593600"
+      },
+      {
+        "mid": "cdefea9bc29ae27e847bb2cfb80e9aca",
+        "sku_id": 455162,
+        "attribute_type": "1",
+        "attribute_val": "2.0"
+      },
+      {
+        "mid": "cdefea9bc29ae27e847bb2cfb80e9aca",
+        "sku_id": 455162,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151033"
+      },
+      {
+        "mid": "14abd878b79e7df9a55e3ef801b78cbb",
+        "sku_id": 32540136,
+        "attribute_type": "9",
+        "attribute_val": "1692720000"
+      },
+      {
+        "mid": "b08358e457a6346086022d17cdee47e2",
+        "sku_id": 455950,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "454bd3b054bde2bea6656380d6a230f5",
+        "sku_id": 32109034,
+        "attribute_type": "1",
+        "attribute_val": "5.17"
+      },
+      {
+        "mid": "a8a349af6b97f44d5c8ab27b5f1c4938",
+        "sku_id": 456390,
+        "attribute_type": "1",
+        "attribute_val": "3.0"
+      },
+      {
+        "mid": "90bb8821d51302b1f5593d94e1d9eae1",
+        "sku_id": 4152768,
+        "attribute_type": "1",
+        "attribute_val": "6.10"
+      },
+      {
+        "mid": "90bb8821d51302b1f5593d94e1d9eae1",
+        "sku_id": 4152768,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201428"
+      },
+      {
+        "mid": "90bb8821d51302b1f5593d94e1d9eae1",
+        "sku_id": 4152768,
+        "attribute_type": "9",
+        "attribute_val": "1597593600"
+      },
+      {
+        "mid": "fcdd4bc5e274927755e9b9a8f332445b",
+        "sku_id": 456205,
+        "attribute_type": "1",
+        "attribute_val": "4.26号"
+      },
+      {
+        "mid": "e7505ddd7fdd92c897f3ba6268e41549",
+        "sku_id": 456389,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151018"
+      },
+      {
+        "mid": "63f7436afca2a03ecc00db986de0d445",
+        "sku_id": 32083745,
+        "attribute_type": "1",
+        "attribute_val": "6.26号"
+      },
+      {
+        "mid": "e3eb9fb6bfe80d022e40a1f2e823d59d",
+        "sku_id": 455946,
+        "attribute_type": "1",
+        "attribute_val": "4.52号"
+      },
+      {
+        "mid": "09f0d3a1e40ac7533e9d6886997384c9",
+        "sku_id": 32083750,
+        "attribute_type": "1",
+        "attribute_val": "7.37号"
+      },
+      {
+        "mid": "09f0d3a1e40ac7533e9d6886997384c9",
+        "sku_id": 32083750,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233329"
+      },
+      {
+        "mid": "09f0d3a1e40ac7533e9d6886997384c9",
+        "sku_id": 32083750,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "6003bfb2639a9265547d7b8def0828e0",
+        "sku_id": 32083794,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "b301064c2e972c6af53781f5e8db1f2c",
+        "sku_id": 32109611,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233328"
+      },
+      {
+        "mid": "b301064c2e972c6af53781f5e8db1f2c",
+        "sku_id": 32109611,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "e9c314e3f80b6a96cc30ec53c246c2ad",
+        "sku_id": 32083752,
+        "attribute_type": "1",
+        "attribute_val": "6.56号"
+      },
+      {
+        "mid": "e9c314e3f80b6a96cc30ec53c246c2ad",
+        "sku_id": 32083752,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233331"
+      },
+      {
+        "mid": "e9c314e3f80b6a96cc30ec53c246c2ad",
+        "sku_id": 32083752,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "68f7d1b5f76e664134129017fafe0f3a",
+        "sku_id": 32539160,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151033"
+      },
+      {
+        "mid": "7f0b8cb7e9a7a6cc0448040c4a51d993",
+        "sku_id": 32109024,
+        "attribute_type": "1",
+        "attribute_val": "6.10号"
+      },
+      {
+        "mid": "5101faa906d2e7021676b328b565532b",
+        "sku_id": 3893109,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151031"
+      },
+      {
+        "mid": "3c8c4954f23d5b259c60298698c980ce",
+        "sku_id": 3893108,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "ff1bb68688ee64cdd8d317901f752b0a",
+        "sku_id": 3893107,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151018"
+      },
+      {
+        "mid": "a0ecdacb3326389428aba51d6d9486ba",
+        "sku_id": 32539510,
+        "attribute_type": "1",
+        "attribute_val": "3.60"
+      },
+      {
+        "mid": "1244c0a756603fa354d217a750ea0e3f",
+        "sku_id": 3893104,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151011"
+      },
+      {
+        "mid": "42ca7f4117a2dbd516c8b704abce174e",
+        "sku_id": 3893110,
+        "attribute_type": "1",
+        "attribute_val": "2.0"
+      },
+      {
+        "mid": "7e39a83f42fbbc9b19dbc0dfa08a646d",
+        "sku_id": 3893106,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "8653eae518139e83a0269a87a66372e3",
+        "sku_id": 32109021,
+        "attribute_type": "1",
+        "attribute_val": "6.15号"
+      },
+      {
+        "mid": "8653eae518139e83a0269a87a66372e3",
+        "sku_id": 32109021,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233315"
+      },
+      {
+        "mid": "0b25345ecee6d4dc901089c4fd577828",
+        "sku_id": 455947,
+        "attribute_type": "1",
+        "attribute_val": "4.35号"
+      },
+      {
+        "mid": "3bbfb1a4cc57123efa3b45cb7089c1ba",
+        "sku_id": 32083738,
+        "attribute_type": "1",
+        "attribute_val": "6.71号"
+      },
+      {
+        "mid": "3bbfb1a4cc57123efa3b45cb7089c1ba",
+        "sku_id": 32083738,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "11f928390c28c740a486d6647e78356a",
+        "sku_id": 456204,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151023"
+      },
+      {
+        "mid": "b6eadea6e5ae738c1b783972230fdae3",
+        "sku_id": 30361318,
+        "attribute_type": "1",
+        "attribute_val": "5.25"
+      },
+      {
+        "mid": "b6eadea6e5ae738c1b783972230fdae3",
+        "sku_id": 30361318,
+        "attribute_type": "9",
+        "attribute_val": "1629216000"
+      },
+      {
+        "mid": "bed470a8960748458eff96dc59dd47e3",
+        "sku_id": 31663846,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231478"
+      },
+      {
+        "mid": "bed470a8960748458eff96dc59dd47e3",
+        "sku_id": 31663846,
+        "attribute_type": "9",
+        "attribute_val": "1682179200"
+      },
+      {
+        "mid": "60b570aca7931d0b6109dcf47f35a868",
+        "sku_id": 32109546,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "9d5adf38c837e4129c1c12bb8ded55f9",
+        "sku_id": 32541088,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151014"
+      },
+      {
+        "mid": "9d5adf38c837e4129c1c12bb8ded55f9",
+        "sku_id": 32541088,
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "mid": "6f727bd3378eb289ac54f69bf2b894e0",
+        "sku_id": 31663841,
+        "attribute_type": "9",
+        "attribute_val": "1682179200"
+      },
+      {
+        "mid": "71e9d066a04c141d339bdf0ee807e6ec",
+        "sku_id": 32083778,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233416"
+      },
+      {
+        "mid": "71e9d066a04c141d339bdf0ee807e6ec",
+        "sku_id": 32083778,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "1f372308eba060229c585a4f673dd755",
+        "sku_id": 31663837,
+        "attribute_type": "1",
+        "attribute_val": "5.35"
+      },
+      {
+        "mid": "1f372308eba060229c585a4f673dd755",
+        "sku_id": 31663837,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231465"
+      },
+      {
+        "mid": "640e8bd1c727bce89116908979ad9e4b",
+        "sku_id": 3893111,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "c8ec1e247470d4ce8153681e8052f8bc",
+        "sku_id": 32537386,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151004"
+      },
+      {
+        "mid": "c8ec1e247470d4ce8153681e8052f8bc",
+        "sku_id": 32537386,
+        "attribute_type": "9",
+        "attribute_val": "1692288000"
+      },
+      {
+        "mid": "fd97f871c2e12a3e04e7f107cfd07ba9",
+        "sku_id": 32539159,
+        "attribute_type": "1",
+        "attribute_val": "4.0"
+      },
+      {
+        "mid": "fd97f871c2e12a3e04e7f107cfd07ba9",
+        "sku_id": 32539159,
+        "attribute_type": "9",
+        "attribute_val": "1692288000"
+      },
+      {
+        "mid": "5eac736c2a8323cf20a6c0a3927301ca",
+        "sku_id": 4100983,
+        "attribute_type": "1",
+        "attribute_val": "6.71"
+      },
+      {
+        "mid": "5eac736c2a8323cf20a6c0a3927301ca",
+        "sku_id": 4100983,
+        "attribute_type": "9",
+        "attribute_val": "1597593600"
+      },
+      {
+        "mid": "6003bfb2639a9265547d7b8def0828e0",
+        "sku_id": 32083794,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233422"
+      },
+      {
+        "mid": "a54a754bcfb318ba65f52b2a1df532c3",
+        "sku_id": 3893103,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "b301064c2e972c6af53781f5e8db1f2c",
+        "sku_id": 32109611,
+        "attribute_type": "1",
+        "attribute_val": "7.13号"
+      },
+      {
+        "mid": "49a0944182e63f2f0ea5d4a2abcad61d",
+        "sku_id": 456207,
+        "attribute_type": "1",
+        "attribute_val": "3.60"
+      },
+      {
+        "mid": "49a0944182e63f2f0ea5d4a2abcad61d",
+        "sku_id": 456207,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151008"
+      },
+      {
+        "mid": "57a754c18024ed17dce9051d9ea91fc2",
+        "sku_id": 32109608,
+        "attribute_type": "1",
+        "attribute_val": "6.21号"
+      },
+      {
+        "mid": "57a754c18024ed17dce9051d9ea91fc2",
+        "sku_id": 32109608,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233317"
+      },
+      {
+        "mid": "cdefea9bc29ae27e847bb2cfb80e9aca",
+        "sku_id": 455162,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "7f0b8cb7e9a7a6cc0448040c4a51d993",
+        "sku_id": 32109024,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233332"
+      },
+      {
+        "mid": "7f0b8cb7e9a7a6cc0448040c4a51d993",
+        "sku_id": 32109024,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "5101faa906d2e7021676b328b565532b",
+        "sku_id": 3893109,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "0fd4eb8829c06b16761d0ad24997c165",
+        "sku_id": 32085518,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233420"
+      },
+      {
+        "mid": "0fd4eb8829c06b16761d0ad24997c165",
+        "sku_id": 32085518,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "9c493180868ac08e26296c148f214b2e",
+        "sku_id": 32540476,
+        "attribute_type": "1",
+        "attribute_val": "4.45"
+      },
+      {
+        "mid": "9c493180868ac08e26296c148f214b2e",
+        "sku_id": 32540476,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151023"
+      },
+      {
+        "mid": "9c493180868ac08e26296c148f214b2e",
+        "sku_id": 32540476,
+        "attribute_type": "9",
+        "attribute_val": "1691510400"
+      },
+      {
+        "mid": "fcdd4bc5e274927755e9b9a8f332445b",
+        "sku_id": 456205,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151007"
+      },
+      {
+        "mid": "fcdd4bc5e274927755e9b9a8f332445b",
+        "sku_id": 456205,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "e7505ddd7fdd92c897f3ba6268e41549",
+        "sku_id": 456389,
+        "attribute_type": "1",
+        "attribute_val": "4.0"
+      },
+      {
+        "mid": "819d009585c3af4022e63526f0febb5e",
+        "sku_id": 32109610,
+        "attribute_type": "1",
+        "attribute_val": "4.11号"
+      },
+      {
+        "mid": "819d009585c3af4022e63526f0febb5e",
+        "sku_id": 32109610,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "6072d79064687e9ab8e2e77d57bf4557",
+        "sku_id": 3893101,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "68f7d1b5f76e664134129017fafe0f3a",
+        "sku_id": 32539160,
+        "attribute_type": "1",
+        "attribute_val": "2.0"
+      },
+      {
+        "mid": "0b25345ecee6d4dc901089c4fd577828",
+        "sku_id": 455947,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151017"
+      },
+      {
+        "mid": "0b25345ecee6d4dc901089c4fd577828",
+        "sku_id": 455947,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "3bbfb1a4cc57123efa3b45cb7089c1ba",
+        "sku_id": 32083738,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233327"
+      },
+      {
+        "mid": "6403ef5c69afad1c442609084593e178",
+        "sku_id": 32539511,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151011"
+      },
+      {
+        "mid": "ff1bb68688ee64cdd8d317901f752b0a",
+        "sku_id": 3893107,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "a0ecdacb3326389428aba51d6d9486ba",
+        "sku_id": 32539510,
+        "attribute_type": "9",
+        "attribute_val": "1692720000"
+      },
+      {
+        "mid": "1244c0a756603fa354d217a750ea0e3f",
+        "sku_id": 3893104,
+        "attribute_type": "1",
+        "attribute_val": "3.0"
+      },
+      {
+        "mid": "1244c0a756603fa354d217a750ea0e3f",
+        "sku_id": 3893104,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      },
+      {
+        "mid": "42ca7f4117a2dbd516c8b704abce174e",
+        "sku_id": 3893110,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151033"
+      },
+      {
+        "mid": "455220dec7b74236eb7b914067ff1d56",
+        "sku_id": 456203,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151004"
+      },
+      {
+        "mid": "455220dec7b74236eb7b914067ff1d56",
+        "sku_id": 456203,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "7e39a83f42fbbc9b19dbc0dfa08a646d",
+        "sku_id": 3893106,
+        "attribute_type": "1",
+        "attribute_val": "4.35"
+      },
+      {
+        "mid": "7e39a83f42fbbc9b19dbc0dfa08a646d",
+        "sku_id": 3893106,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151017"
+      },
+      {
+        "mid": "11f928390c28c740a486d6647e78356a",
+        "sku_id": 456204,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "b6eadea6e5ae738c1b783972230fdae3",
+        "sku_id": 30361318,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20212578"
+      },
+      {
+        "mid": "2a7840aa4fc1fffd5d45ace565c24f1f",
+        "sku_id": 32536595,
+        "attribute_type": "9",
+        "attribute_val": "1692288000"
+      },
+      {
+        "mid": "733cae876433e723e54f488954bc163e",
+        "sku_id": 32109629,
+        "attribute_type": "1",
+        "attribute_val": "5.4号"
+      },
+      {
+        "mid": "733cae876433e723e54f488954bc163e",
+        "sku_id": 32109629,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "14abd878b79e7df9a55e3ef801b78cbb",
+        "sku_id": 32540136,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151034"
+      },
+      {
+        "mid": "b08358e457a6346086022d17cdee47e2",
+        "sku_id": 455950,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151014"
+      },
+      {
+        "mid": "a8a349af6b97f44d5c8ab27b5f1c4938",
+        "sku_id": 456390,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151011"
+      },
+      {
+        "mid": "a8a349af6b97f44d5c8ab27b5f1c4938",
+        "sku_id": 456390,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "e3eb9fb6bfe80d022e40a1f2e823d59d",
+        "sku_id": 455946,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151031"
+      },
+      {
+        "mid": "e3eb9fb6bfe80d022e40a1f2e823d59d",
+        "sku_id": 455946,
+        "attribute_type": "9",
+        "attribute_val": "1433692800"
+      },
+      {
+        "mid": "bed470a8960748458eff96dc59dd47e3",
+        "sku_id": 31663846,
+        "attribute_type": "1",
+        "attribute_val": "5.4"
+      },
+      {
+        "mid": "60b570aca7931d0b6109dcf47f35a868",
+        "sku_id": 32109546,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233323"
+      },
+      {
+        "mid": "9d5adf38c837e4129c1c12bb8ded55f9",
+        "sku_id": 32541088,
+        "attribute_type": "1",
+        "attribute_val": "3.15"
+      },
+      {
+        "mid": "6f727bd3378eb289ac54f69bf2b894e0",
+        "sku_id": 31663841,
+        "attribute_type": "1",
+        "attribute_val": "5.8"
+      },
+      {
+        "mid": "6f727bd3378eb289ac54f69bf2b894e0",
+        "sku_id": 31663841,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20231467"
+      },
+      {
+        "mid": "71e9d066a04c141d339bdf0ee807e6ec",
+        "sku_id": 32083778,
+        "attribute_type": "1",
+        "attribute_val": "5.35号"
+      },
+      {
+        "mid": "f2bd6fa02419a62a1153f44fcec80613",
+        "sku_id": 4102287,
+        "attribute_type": "9",
+        "attribute_val": "1597593600"
+      },
+      {
+        "mid": "1f372308eba060229c585a4f673dd755",
+        "sku_id": 31663837,
+        "attribute_type": "9",
+        "attribute_val": "1682179200"
+      },
+      {
+        "mid": "640e8bd1c727bce89116908979ad9e4b",
+        "sku_id": 3893111,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151034"
+      },
+      {
+        "mid": "c8ec1e247470d4ce8153681e8052f8bc",
+        "sku_id": 32537386,
+        "attribute_type": "1",
+        "attribute_val": "4.65"
+      },
+      {
+        "mid": "fd97f871c2e12a3e04e7f107cfd07ba9",
+        "sku_id": 32539159,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151018"
+      },
+      {
+        "mid": "5eac736c2a8323cf20a6c0a3927301ca",
+        "sku_id": 4100983,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20201431"
+      },
+      {
+        "mid": "607a9ff8c516c03defe12840b8c73fa3",
+        "sku_id": 3893105,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20151014"
+      },
+      {
+        "mid": "607a9ff8c516c03defe12840b8c73fa3",
+        "sku_id": 3893105,
+        "attribute_type": "9",
+        "attribute_val": "1574092800"
+      }
+    ],
+    "category2_id": 11,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅臻萃染发霜 5.8号",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5255",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "2 安全须知 SAFETY INSTRUCTIONS:请于使用前详细阅读 ！本产品可能引起过敏反应，而在极少数情况下可能会有严重的过敏情况产生。请仔细阅读安全须知并遵 循产品说明。本产品不适宜未满 16 周岁的消费者使用。 ！注意：若曾使用黑色海灵草染剂刺青，可能会增加过敏现象发生的几率。 若有下列情况，请勿使用： • 面部有皮疹或头皮有过敏、炎症或破损。 • 曾对染发产品有不良反应的经历。• 曾对染发剂有过不良反应的经历。 • 曾对黑色海灵草刺青染料有过敏反应。• 曾对海灵草染剂刺青有过敏反应。 ！忽视过敏可能会危及生命。即使曾经使用过染发产品，也请务必在使用本产品前 48 小时进行皮肤过敏 性测试。 特别注意事项 因此，建议在使用前提前 48 小时购买本产品，以便于使用前 48 小时进行皮肤过敏性测试(请仔细阅读产 品说明书并遵循其指示使用本产品) 如有任何个人体质过敏问题，请在使用染发产品前向医生咨询 如何进行皮肤过敏性测试：取下耳环，用酒精清洁耳后一平方厘米的肌肤，用染发霜盖子顶部的尖端刺破 管口，然后用棉花棒从中取出少量染发霜涂于耳后已清洁的肌肤，等其干后再重复涂抹 2-3 次，小心盖紧 瓶盖保存至 48 小时后使用。等待 48 小时不要将其洗去，同时不要遮盖或触碰涂过染发霜的地方。在此期 间，如有任何发红，发痒或肿胀等不适症状，请勿使用本产品。 请佩戴盒内所附有的专用手套； 避免触及眼睛。切勿用于染睫毛或眉毛； 如不慎触及眼睛，请立即用清水彻底冲洗。 染发结束后，请彻底冲洗头发。 请于头发软化、烫发或拉直至少两周后再使用本产品。 若已使用海灵草染发剂或渐进式染发剂，请勿使用本产品。 请避免儿童接触及使用本产品。 使用方法请遵循本说明书 请按产品使用说明书操作 显色敷用乳含过氧化氢、水杨酸，三岁以下儿童勿用 染发霜含苯二胺类 染发前请注意 染前 48 小时请进行皮肤过敏性测试 请于使用前 48 小时进行皮肤过敏性测试。 ！注意：请遵守安全须知，建议您在染发前 48 小时请进行皮肤过敏性测试",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "92fe88592dd15f22f465b1dac507f19b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字20233411",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "染发类",
+    "shelfLife": "3年",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "产品书 3 染发前 请于使用前 48 小时进行皮肤过敏性测试 1 戴上染发手套，在肩膀处围上披肩以防染发霜喷洒沾染衣物 2 将显色敷用乳（2）全部挤于调色混合盘中 在使用染发霜（1）前，应已进行过皮肤过敏性测试 将染发霜（1）也挤于调色混合盘中 3 用染发梳将染发霜与显色敷用乳充分混合 注意！开始上色前，请将染发梳上的混合物清理干净，确保梳子上没有过多染物 请勿保留已经混合的产品，并立即丢弃用后的剩余的混合剂 4 染发中 头发每月生长 1-1.5 厘米，我们建议每 4-6 周补染一次，每 2-3 月全面染发一次 全头染（请于未冲洗的干发上使用）初次染发，或三个月以上没有染发，或原有发色和新染发色有很大差 异 1 戴上染发手套，使用染发梳的尖形刷头将头发分区，并将染发霜涂抹于发根 2 将其余染发霜涂抹于头发中部及发梢 3 轻轻按摩头部，确保染发霜充分、均匀地融入发丝 4 让染发霜在头发上停留 30 分钟 30min，怡人香气将伴随整个染发过程 补染（请于未冲洗的干发上使用）建议选择和现有发色相近的色号 1 戴上染发手套，使用染发梳的尖形刷头将头发分区，并将染发霜涂抹于发根，至充分涂抹均匀后按摩头 部 2 让染发霜在头发上停留 20 分钟 20min，怡人香气将伴随整个染发过程 3 将其余染发霜涂抹于头发中部及发梢 4 轻轻按摩头部，确保染发霜充分、均匀地融入发丝 5 染发霜在头发上停留 10 分钟 10min 取适量温水轻轻按摩，将发际线处头皮上残留的染料洗净。再用温水将头发彻底冲洗，直至染发霜完全冲 洗干净。 染发霜与显色敷用乳混合比例为 1：1.",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "室温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "染发",
+        "id": "36"
+      },
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 71,
+    "registered_day": 20230815,
+    "goods_form": "23"
+  },
+  "success": true
+}

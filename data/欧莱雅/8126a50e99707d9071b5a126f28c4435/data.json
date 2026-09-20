@@ -1,0 +1,134 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,52,130,129,51,126,48,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/531ee3a6-0386-5289-9bca-e1b92a1ee971.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "",
+    "sda_approval_date": 1724688000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_a537901d-226d-4413-9bd0-f7037ad549a8.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/83d2928b-9034-5b1c-a577-7bad11e2cd21.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0e2b777c-4b17-5fb4-b3d6-a690508f45a7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/06aa8080-43a4-51f5-ac26-d3827ad946cd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/377fb5b1-7bf5-5c99-ad79-4318ba29e1d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4756ffc9-3315-5b53-b876-1845e5acffb0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/492de24f-0fb3-51fc-9b53-37412e6bc187.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7759a59c-c7be-5cbd-b662-55b15959c75a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/98b60796-5c45-547a-9717-0db0c9d735ab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e7306076-23ca-5210-b8f2-a51514335349.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e938a09c-04ea-5111-9abf-4f60cac52464.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0b57ed64-c175-5e8e-abec-812c13fcbef9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/15235fb1-dac1-5f93-bbc4-491df84b4fae.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4d94b919-9ae3-5046-a0b4-ff9cae803d9b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/531ee3a6-0386-5289-9bca-e1b92a1ee971.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5848c5f1-fc63-5e12-9c94-8d8d9f770ecc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/612b3be4-b013-58a7-8445-6a6e39a1600d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f336176-e65f-541a-92b3-81c9be796d9e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a32f807d-6869-56d9-9835-f7c26d78fe2e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b5f055d6-b61b-5bbf-b1ce-ae9a900407ac.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c594cc05-4eed-5c49-924d-32303eff4a8f.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士青春肌源淡纹精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5225",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "8126a50e99707d9071b5a126f28c4435",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024005366",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士青春肌源淡纹精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20240827,
+    "goods_form": "23"
+  },
+  "success": true
+}

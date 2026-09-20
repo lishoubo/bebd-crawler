@@ -1,0 +1,122 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,38,129,51,48,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1632844800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_39da972d-3420-46ca-840c-045e8c99d01f.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1df17823-6edd-59fb-a519-9d2d807c904e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56f5bf49-7f0a-50e3-8311-cf2cdd855ca2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜牡丹奢养焕白面霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "6711",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "0381572221b920ddafab11fb667073b7",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字G20212926",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜牡丹奢养焕白面霜",
+    "functionType": "祛斑美白类",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "祛斑美白",
+        "id": "38"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20210929,
+    "goods_form": "23"
+  },
+  "success": true
+}

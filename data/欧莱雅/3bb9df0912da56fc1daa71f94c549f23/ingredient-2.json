@@ -1,0 +1,1819 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "欧莱雅金致臻颜松露奢养肌活面霜",
+        "ingredients": [],
+        "type": 1,
+        "esId": "3241933_1_1"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "包装成分表",
+        "ingredients": [],
+        "type": 2,
+        "esId": "3241933_1_2"
+      }
+    ],
+    "total": 2,
+    "ingredientTable": [
+      {
+        "mid": "89666eebf6b9a1e071f8e5a5d9b843b7",
+        "name": "水",
+        "nameCn": "水",
+        "nameEn": "WATER; AQUA",
+        "aliasOther": "水@!@WATER@!@AQUA@!@去离子水@!@Purified Water@!@Deionized Water@!@纯水",
+        "pid": 1,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "40431ddcd4c3ac150b6c13d11a7c578d",
+        "name": "丁二醇",
+        "nameCn": "丁二醇",
+        "nameEn": "BUTYLENE GLYCOL",
+        "aliasOther": "丁二醇@!@BUTYLENE GLYCOL@!@Butanediol",
+        "pid": 2,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "bd588aa5f8e4ff41041b89c056bdc827",
+        "name": "甘油",
+        "nameCn": "甘油",
+        "nameEn": "GLYCERIN",
+        "aliasOther": "甘油@!@GLYCERIN@!@Glycerine@!@丙三醇@!@Glycerol",
+        "pid": 4,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "48371e7353eed8b0939a7a9d2b367b2e",
+        "name": "杏(PRUNUS ARMENIACA)仁油",
+        "nameCn": "杏(PRUNUS ARMENIACA)仁油",
+        "nameEn": "KYOUNIN YU; PRUNUS ARMENIACA (APRICOT) KERNEL OIL",
+        "aliasOther": "杏(PRUNUS ARMENIACA)仁油@!@KYOUNIN YU@!@PRUNUS ARMENIACA (APRICOT) KERNEL OIL@!@Apricot Kernel Oil",
+        "pid": 6419,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "50",
+          "38"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "c5529038a0b6a35e13a8fd583bf0171a",
+        "name": "牛油果树(BUTYROSPERMUM PARKII)果脂",
+        "nameCn": "牛油果树(BUTYROSPERMUM PARKII)果脂",
+        "nameEn": "BUTYROSPERMUM PARKII (SHEA) BUTTER",
+        "aliasOther": "牛油果树(BUTYROSPERMUM PARKII)果脂@!@BUTYROSPERMUM PARKII (SHEA) BUTTER@!@乳木果油",
+        "pid": 5077,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "50",
+          "38"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "918ab1bd9e473b6a266512340f522678",
+        "name": "乙醇",
+        "nameCn": "乙醇",
+        "nameEn": "ALCOHOL",
+        "aliasOther": "乙醇@!@ALCOHOL@!@Ethyl Alcohol@!@Ethanol@!@Grain Alcohol@!@酒精",
+        "pid": 16,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 13,
+            "name": "酒精",
+            "nameCh": "酒精",
+            "nameEn": "Alcohol"
+          }
+        ]
+      },
+      {
+        "mid": "dec7ed85d938f45fade6025936e06ebe",
+        "name": "羟乙基哌嗪乙烷磺酸",
+        "nameCn": "羟乙基哌嗪乙烷磺酸",
+        "nameEn": "HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID",
+        "aliasOther": "羟乙基哌嗪乙烷磺酸@!@HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID@!@HEPES",
+        "pid": 880,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "18707e20101445b3c66d403015888b8a",
+        "name": "聚二甲基硅氧烷",
+        "nameCn": "聚二甲基硅氧烷",
+        "nameEn": "DIMETHICONE",
+        "aliasOther": "聚二甲基硅氧烷@!@DIMETHICONE@!@二甲基硅酮@!@DC200/100cst@!@二甲基硅油@!@地美司康@!@DC200/350cst@!@硅灵@!@PDMS",
+        "pid": 5,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-5",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "9db07666542d81654069fa0981d24ed0",
+        "name": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameCn": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameEn": "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "aliasOther": "聚丙烯酰基二甲基牛磺酸铵@!@AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "pid": 483,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19",
+          "86",
+          "71"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "b2ae64838ed16fa8cc4df27bddacee10",
+        "name": "苯氧乙醇",
+        "nameCn": "苯氧乙醇",
+        "nameEn": "PHENOXYETHANOL",
+        "aliasOther": "苯氧乙醇@!@PHENOXYETHANOL@!@PE",
+        "pid": 3,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-4",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "01cd9078debef3c5ed67b4e1a4013e98",
+        "name": "鲸蜡醇",
+        "nameCn": "鲸蜡醇",
+        "nameEn": "CETYL ALCOHOL",
+        "aliasOther": "鲸蜡醇@!@CETYL ALCOHOL@!@Hexadecylalcohol@!@棕榈醇@!@十六醇",
+        "pid": 41,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "fde8673985b92f26caeb4267ceca9f57",
+        "name": "甘油硬脂酸酯",
+        "nameCn": "甘油硬脂酸酯",
+        "nameEn": "GLYCERYL STEARATE",
+        "aliasOther": "甘油硬脂酸酯@!@GLYCERYL STEARATE@!@单硬脂酸甘油酯@!@单甘脂@!@GMS@!@单十八(烷)酸丙三醇酯",
+        "pid": 26,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          }
+        ]
+      },
+      {
+        "mid": "dc10b1f4bac8f443b121e65579d5f82d",
+        "name": "氯苯甘醚",
+        "nameCn": "氯苯甘醚",
+        "nameEn": "CHLORPHENESIN",
+        "aliasOther": "氯苯甘醚@!@CHLORPHENESIN@!@CPH",
+        "pid": 53,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "84",
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          },
+          {
+            "id": 84,
+            "name": "不透明剂",
+            "nameCh": "不透明剂",
+            "nameEn": "Opacifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "834017e15a4c9105ec9c942375a7989d",
+        "name": "新橙皮苷二氢查耳酮",
+        "nameCn": "新橙皮苷二氢查耳酮",
+        "nameEn": "NEOHESPERIDIN DIHYDROCHALCONE",
+        "aliasOther": "新橙皮苷二氢查耳酮@!@NEOHESPERIDIN DIHYDROCHALCONE",
+        "pid": 2435,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "24"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "175498a6623d668321710f26b84a7053",
+        "name": "柠檬酸",
+        "nameCn": "柠檬酸",
+        "nameEn": "CITRIC ACID",
+        "aliasOther": "柠檬酸@!@CITRIC ACID@!@枸椽酸@!@2-羟基丙三羧酸@!@3-羟基-3-羧基-1,5-戊二酸@!@β-羟基丙三羧酸",
+        "pid": 15,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "c15a61cac17d37dc0640a6e3021f11f8",
+        "name": "丙烯酸(酯)类/硬脂醇聚醚-20 甲基丙烯酸酯共聚物",
+        "nameCn": "丙烯酸(酯)类/硬脂醇聚醚-20 甲基丙烯酸酯共聚物",
+        "nameEn": "ACRYLATES/STEARETH-20 METHACRYLATE COPOLYMER",
+        "aliasOther": "丙烯酸(酯)类/硬脂醇聚醚-20 甲基丙烯酸酯共聚物@!@ACRYLATES/STEARETH-20 METHACRYLATE COPOLYMER",
+        "pid": 3354,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "71",
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "4693514316e9ebc59a3f0fe405ceabd0",
+        "name": "腺苷",
+        "nameCn": "腺苷",
+        "nameEn": "ADENOSINE",
+        "aliasOther": "腺苷@!@ADENOSINE",
+        "pid": 133,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "23",
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "23",
+          "5",
+          "24",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 23,
+            "name": "去头屑剂",
+            "nameCh": "去头屑剂",
+            "nameEn": "Antidandruff Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 23,
+            "name": "去屑",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "去屑",
+            "nameEn": "去屑"
+          },
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "8b857f5be66266a515ada4f4b6046c54",
+        "name": "EDTA 二钠",
+        "nameCn": "EDTA 二钠",
+        "nameEn": "DISODIUM EDTA",
+        "aliasOther": "EDTA 二钠@!@DISODIUM EDTA@!@Disodium Edetate@!@乙二胺四乙酸二钠@!@Disodium dihydrogen ethylenediaminetetraacetate@!@EDTA-2Na@!@Edetate Disodium",
+        "pid": 13,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "61"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 61,
+            "name": "螯合剂",
+            "nameCh": "螯合剂",
+            "nameEn": "Complexing agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "592b273abef0be5aafbbe7f6899979ac",
+        "name": "丙二醇",
+        "nameCn": "丙二醇",
+        "nameEn": "PROPYLENE GLYCOL",
+        "aliasOther": "丙二醇@!@PROPYLENE GLYCOL@!@1,2-丙二醇",
+        "pid": 9,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "85923634ca5e2b938746c9eeaec12c26",
+        "name": "合成氟金云母",
+        "nameCn": "合成氟金云母",
+        "nameEn": "SYNTHETIC FLUORPHLOGOPITE",
+        "aliasOther": "合成氟金云母@!@SYNTHETIC FLUORPHLOGOPITE",
+        "pid": 44,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "15"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "681f276648e58a2ccdbc0c3e99f5154f",
+        "name": "一氮化硼",
+        "nameCn": "一氮化硼",
+        "nameEn": "BORON NITRIDE",
+        "aliasOther": "一氮化硼@!@BORON NITRIDE@!@氮化硼@!@白色石墨",
+        "pid": 139,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "15",
+          "84",
+          "57"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          },
+          {
+            "id": 57,
+            "name": "肤感调节剂",
+            "nameCh": "肤感调节剂",
+            "nameEn": "Skin feel modifier"
+          },
+          {
+            "id": 84,
+            "name": "不透明剂",
+            "nameCh": "不透明剂",
+            "nameEn": "Opacifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "199b5c4d5fa08f76a2c285cd9f075c04",
+        "name": "生物糖 胶-1",
+        "nameCn": "生物糖 胶-1",
+        "nameEn": "BIOSACCHARIDE GUM-1",
+        "aliasOther": "生物糖 胶-1@!@BIOSACCHARIDE GUM-1@!@生物多糖胶",
+        "pid": 201,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "05e4704b699e91f5105538cecc90db95",
+        "name": "CI 77891",
+        "nameCn": "CI 77891",
+        "nameEn": "CI 77891",
+        "aliasOther": "CI 77891@!@颜料白 6@!@PIGMENT WHITE 6",
+        "pid": 10,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "d60d662a563c6a33eeab85a0f331e868",
+        "name": "透明质酸钠",
+        "nameCn": "透明质酸钠",
+        "nameEn": "SODIUM HYALURONATE",
+        "aliasOther": "透明质酸钠@!@SODIUM HYALURONATE@!@玻璃酸钠@!@玻尿酸钠@!@低分子透明质酸钠@!@高分子透明质酸钠",
+        "pid": 18,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "93",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "bfec0883eaf98a1dc06240b903b38574",
+        "name": "蜂王浆",
+        "nameCn": "蜂王浆",
+        "nameEn": "ROYAL JELLY",
+        "aliasOther": "蜂王浆@!@ROYAL JELLY",
+        "pid": 752,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50"
+        ],
+        "effectIdList": [
+          "74"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "f37cf1217662c47c54e0a674738751ea",
+        "name": "酵母菌/木醋杆菌/红茶发酵产物",
+        "nameCn": "酵母菌/木醋杆菌/红茶发酵产物",
+        "nameEn": "SACCHAROMYCES/XYLINUM/BLACK TEA FERMENT",
+        "aliasOther": "酵母菌/木醋杆菌/红茶发酵产物@!@SACCHAROMYCES/XYLINUM/BLACK TEA FERMENT@!@酵母菌属/木醋杆菌/红茶发酵产物",
+        "pid": 1685,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "95",
+          "50"
+        ],
+        "effectIdList": [
+          "95",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          },
+          {
+            "id": 95,
+            "name": "抗皱剂",
+            "nameCh": "抗皱剂",
+            "nameEn": "抗皱剂"
+          }
+        ],
+        "effect": [
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 95,
+            "name": "抗皱",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗皱",
+            "nameEn": "抗皱"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "5f01c6d5451cc23d21e4d820775823b6",
+        "name": "苧烯",
+        "nameCn": "苧烯",
+        "nameEn": "LIMONENE",
+        "aliasOther": "苧烯@!@LIMONENE@!@苎烯@!@1,8-萜二烯",
+        "pid": 1762,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4-5",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "40",
+          "45",
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 40,
+            "name": "气味抑制剂",
+            "nameCh": "气味抑制剂",
+            "nameEn": "Odor Inhibitor"
+          },
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "886953ae0995dad0e6f1f0d04fb9bead",
+        "name": "芳樟醇",
+        "nameCn": "芳樟醇",
+        "nameEn": "LINALOOL",
+        "aliasOther": "芳樟醇@!@LINALOOL@!@3,7-二甲基-1,6-辛二烯-3-醇@!@伽罗木醇@!@沉香萜醇@!@沉香醇@!@胡荽醇@!@芫荽醇@!@里那醇",
+        "pid": 3828,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3-4",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "70",
+          "40",
+          "14"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 40,
+            "name": "气味抑制剂",
+            "nameCh": "气味抑制剂",
+            "nameEn": "Odor Inhibitor"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "f5ff1e3bda1a56e459ce7001c4ebd849",
+        "name": "α-异甲基紫罗兰酮",
+        "nameCn": "α-异甲基紫罗兰酮",
+        "nameEn": "ALPHA-ISOMETHYL IONONE",
+        "aliasOther": "α-异甲基紫罗兰酮@!@ALPHA-ISOMETHYL IONONE@!@3-甲基-4-(2,6,6-三甲基-2-环己烯-1-炔基)-3-丁烯-2-酮",
+        "pid": 3070,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "8f33dda3fcf618fee32f4a7255c74176",
+        "name": "香叶醇",
+        "nameCn": "香叶醇",
+        "nameEn": "GERANIOL",
+        "aliasOther": "香叶醇@!@GERANIOL",
+        "pid": 6284,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "27b7729ca060c0d4da2a3635f225b371",
+        "name": "香茅醇",
+        "nameCn": "香茅醇",
+        "nameEn": "CITRONELLOL",
+        "aliasOther": "香茅醇@!@CITRONELLOL@!@β-Citronellol@!@香草醇@!@3,7-二甲基-6-辛烯-1-醇",
+        "pid": 6267,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3-4",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "e4901808896fcdfcb60f69be1e978d74",
+        "name": "月桂醇硫酸酯钠",
+        "nameCn": "月桂醇硫酸酯钠",
+        "nameEn": "SODIUM LAURYL SULFATE",
+        "aliasOther": "月桂醇硫酸酯钠@!@SODIUM LAURYL SULFATE@!@十二醇硫酸酯钠@!@SLS@!@K12@!@K12针",
+        "pid": 163,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85",
+          "12",
+          "44",
+          "17",
+          "63"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 12,
+            "name": "变性剂",
+            "nameCh": "变性剂",
+            "nameEn": "Denaturant"
+          },
+          {
+            "id": 17,
+            "name": "增泡剂",
+            "nameCh": "增泡剂",
+            "nameEn": "Foam Boosters"
+          },
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 1,
+            "name": "SLS／SLES表面活性剂",
+            "nameCh": "SLS／SLES表面活性剂",
+            "nameEn": "SLS/SLES Surfactant"
+          }
+        ]
+      },
+      {
+        "mid": "8cc468dcb48cd1c5f407905ba3dc8181",
+        "name": "夏块菌(TUBER AESTIVUM)提取物",
+        "nameCn": "夏块菌(TUBER AESTIVUM)提取物",
+        "nameEn": "TUBER AESTIVUM EXTRACT",
+        "aliasOther": "夏块菌(TUBER AESTIVUM)提取物@!@TUBER AESTIVUM EXTRACT",
+        "pid": 8667,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "51"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 51,
+            "name": "皮肤保护剂",
+            "nameCh": "皮肤保护剂",
+            "nameEn": "Skin Repellent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "dc0a39328e2356a1a9784a1a08de44b2",
+        "name": "CI 77491",
+        "nameCn": "CI 77491",
+        "nameEn": "CI 77491",
+        "aliasOther": "CI 77491@!@PIGMENT RED 101@!@铁红@!@颜料红 101@!@颜料红 102@!@红色氧化铁",
+        "pid": 27023,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "ca60d2dfef930373a8cdb9055964fcf3",
+        "name": "苯甲醇",
+        "nameCn": "苯甲醇",
+        "nameEn": "BENZYL ALCOHOL",
+        "aliasOther": "苯甲醇@!@BENZYL ALCOHOL@!@苄醇@!@苄基醇",
+        "pid": 93,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          },
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "39449124b91e6a76c9cfffbe18451a96",
+        "name": "氧化锡",
+        "nameCn": "氧化锡",
+        "nameEn": "TIN OXIDE",
+        "aliasOther": "氧化锡@!@TIN OXIDE@!@二氧化锡@!@CI 77861",
+        "pid": 6590,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-4",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "35",
+          "84",
+          "15",
+          "71"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          },
+          {
+            "id": 35,
+            "name": "摩擦剂",
+            "nameCh": "摩擦剂",
+            "nameEn": "Abrasives"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          },
+          {
+            "id": 84,
+            "name": "不透明剂",
+            "nameCh": "不透明剂",
+            "nameEn": "Opacifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "5c8ffb393e3dfc57b8d7b9568cc2b410",
+        "name": "羟乙基纤维素",
+        "nameCn": "羟乙基纤维素",
+        "nameEn": "HYDROXYETHYLCELLULOSE",
+        "aliasOther": "羟乙基纤维素@!@HYDROXYETHYLCELLULOSE@!@HEC@!@250纤维素",
+        "pid": 105,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "f3da667c4af9212f52ddab7cbb8d62f2",
+        "name": "CI 14700",
+        "nameCn": "CI 14700",
+        "nameEn": "CI 14700; AKA504",
+        "aliasOther": "CI 14700@!@AKA504@!@丽春红SX@!@FOOD RED 1@!@食品红 4@!@食品红 1@!@胭脂红SX",
+        "pid": 187,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "b0b5cc13932309abccefa5b62c7f35c7",
+        "name": "柠檬酸钠",
+        "nameCn": "柠檬酸钠",
+        "nameEn": "SODIUM CITRATE",
+        "aliasOther": "柠檬酸钠@!@SODIUM CITRATE@!@2-羟基丙烷-1,2,3-三羧酸钠@!@枸橼酸钠",
+        "pid": 61,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83",
+          "61"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 61,
+            "name": "螯合剂",
+            "nameCh": "螯合剂",
+            "nameEn": "Complexing agent"
+          },
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "5fe731dff2707ea40502b3e8911cc03b",
+        "name": "山梨酸钾",
+        "nameCn": "山梨酸钾",
+        "nameEn": "POTASSIUM SORBATE",
+        "aliasOther": "山梨酸钾@!@POTASSIUM SORBATE@!@2,4－己二烯酸钾@!@己二烯酸钾",
+        "pid": 28,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "8d5f6b9f96264ff791abe8d21b0723e7",
+        "name": "生物素",
+        "nameCn": "生物素",
+        "nameEn": "BIOTIN",
+        "aliasOther": "生物素@!@BIOTIN@!@维生素B7@!@辅酶R@!@D-Biotin@!@维生素H",
+        "pid": 280,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "50",
+          "49"
+        ],
+        "effectIdList": [
+          "33"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 49,
+            "name": "皮肤渗透剂",
+            "nameCh": "皮肤渗透剂",
+            "nameEn": "Skin penetration Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 33,
+            "name": "控油",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "控油",
+            "nameEn": "控油"
+          }
+        ],
+        "avoid": []
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 42,
+    "ingredientNum": {
+      "risk_ingredient_num": 16,
+      "safety_level_2_num": 9,
+      "safety_level_1_num": 29,
+      "function_ingredient_num": 13,
+      "function_ingredient_num_v310": 12,
+      "ingredient_num": 42,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 4
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 3,
+        "xAxis": "3"
+      },
+      {
+        "yAxis": 20,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "3-4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "4-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2-4"
+      },
+      {
+        "yAxis": 4,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "1-4"
+      },
+      {
+        "yAxis": 3,
+        "xAxis": "4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2-5"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "2"
+      },
+      {
+        "yAxis": 4,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

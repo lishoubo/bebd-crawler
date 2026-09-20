@@ -1,0 +1,246 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,47,129,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DM6Uv1nKyleRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMdN8d2oEJgE%2Flovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXWubyUe1PmI%2BVX3ZnamMV%2FQlPPULGUC3dByxZ%2BMoQ8lRYkVkyrCDim%2Ff1dTog9IvMZE5RCUv5UtLU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRzEGskRDZs1%2B74uvwHwQYeIYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1752863717@210781c6_0e3e_1981ed1b6f5_cc7b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/RjMl225CXN7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=4495926DB9E734FBB487050227B158D7"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGlocXAcLU1ZZAEoWBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmYJGlISVQIKVV9YFxJSXzI4TAJvD3t_USU_QD1BfG96RzwTKkd7JFJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgQAXFteCUwnA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWwQCUVlVZhdCVjlcQQleMwIKVF5fAUsVM20JGlkXbTYyAyg6bktnRBxATCR2W2dLHTtfb0JKCyhzdRlTCXJpVQolTSpcUGZaUwIXJjYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/3954682d-a796-5ca1-a836-7440ac4901bb.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "哑光版"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2025000100"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001896"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002425"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2025001770"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1745510400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1741276800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1605715200"
+      }
+    ],
+    "category3Name": "定妆",
+    "price": "",
+    "sda_approval_date": 1745510400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "持久",
+        "id": 5243
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c95461b02fb618189e0da66e278408d9",
+        "sku_id": 33466799,
+        "attribute_type": "9",
+        "attribute_val": "1745510400"
+      },
+      {
+        "mid": "e049391adecc4f1f66a0fffa6804f0f1",
+        "sku_id": 33361466,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2025001770"
+      },
+      {
+        "mid": "9d60f6fa7654871aacfcd74e0cc77871",
+        "sku_id": 4195692,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002425"
+      },
+      {
+        "mid": "9d60f6fa7654871aacfcd74e0cc77871",
+        "sku_id": 4195692,
+        "attribute_type": "9",
+        "attribute_val": "1605715200"
+      },
+      {
+        "mid": "e049391adecc4f1f66a0fffa6804f0f1",
+        "sku_id": 33361466,
+        "attribute_type": "9",
+        "attribute_val": "1741276800"
+      },
+      {
+        "mid": "e049391adecc4f1f66a0fffa6804f0f1",
+        "sku_id": 33361466,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c95461b02fb618189e0da66e278408d9",
+        "sku_id": 33466799,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2025000100"
+      },
+      {
+        "mid": "9f287641358d9b7b28d2165bd8f37c88",
+        "sku_id": 31373180,
+        "attribute_type": "2",
+        "attribute_val": "哑光版"
+      },
+      {
+        "mid": "9f287641358d9b7b28d2165bd8f37c88",
+        "sku_id": 31373180,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001896"
+      },
+      {
+        "mid": "9f287641358d9b7b28d2165bd8f37c88",
+        "sku_id": 31373180,
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "mid": "9d60f6fa7654871aacfcd74e0cc77871",
+        "sku_id": 4195692,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c95461b02fb618189e0da66e278408d9",
+        "sku_id": 33466799,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/ae36a95b-f4ed-552d-aa45-966b81bce993.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f2ee2ed8-113b-5cb0-927d-68ddbf15a1d5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3954682d-a796-5ca1-a836-7440ac4901bb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/460f2e30-4b95-5b02-b120-ab910725dfaa.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体,喷雾剂",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩持妆喷雾 经典版",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/f2ee2ed8-113b-5cb0-927d-68ddbf15a1d5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5243",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.9,
+    "mid": "c95461b02fb618189e0da66e278408d9",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2025000100",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 396,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "科丝美诗（中国）化妆品有限公司（曾用名：科丝美诗（上海）化妆品有限公司、高丝美诗（上海）化妆品有限公司）",
+        "mid": "5fe1bb7a82f88aa001a3fc60b1be0bcf"
+      },
+      {
+        "name": "韵斐诗化妆品（上海）有限公司（曾用名：上海姿秀化妆品有限公司）",
+        "mid": "bf9529805af3acf11428fb8ff83cea3c"
+      }
+    ],
+    "category4Name": "定妆喷雾",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 395,
+    "registered_day": 20250425,
+    "goods_form": "30,24"
+  },
+  "success": true
+}

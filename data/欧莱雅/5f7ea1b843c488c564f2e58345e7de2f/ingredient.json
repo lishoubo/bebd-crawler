@@ -1,0 +1,1089 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "欧莱雅男士自然无瑕轻透修颜乳 #002",
+        "ingredients": [],
+        "type": 1,
+        "esId": "4061193_1_1"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "包装成分表",
+        "ingredients": [],
+        "type": 2,
+        "esId": "4061193_1_2"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "欧莱雅男士自然无瑕轻透修颜乳 #002",
+        "ingredients": [],
+        "type": 3,
+        "esId": "4061193_1_3"
+      }
+    ],
+    "total": 3,
+    "ingredientTable": [
+      {
+        "mid": "89666eebf6b9a1e071f8e5a5d9b843b7",
+        "name": "水",
+        "nameCn": "水",
+        "nameEn": "WATER; AQUA",
+        "aliasOther": "水@!@WATER@!@AQUA@!@去离子水@!@Purified Water@!@Deionized Water@!@纯水",
+        "pid": 1,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "bd588aa5f8e4ff41041b89c056bdc827",
+        "name": "甘油",
+        "nameCn": "甘油",
+        "nameEn": "GLYCERIN",
+        "aliasOther": "甘油@!@GLYCERIN@!@Glycerine@!@丙三醇@!@Glycerol",
+        "pid": 4,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "05e4704b699e91f5105538cecc90db95",
+        "name": "CI 77891",
+        "nameCn": "CI 77891",
+        "nameEn": "CI 77891",
+        "aliasOther": "CI 77891@!@颜料白 6@!@PIGMENT WHITE 6",
+        "pid": 10,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "18707e20101445b3c66d403015888b8a",
+        "name": "聚二甲基硅氧烷",
+        "nameCn": "聚二甲基硅氧烷",
+        "nameEn": "DIMETHICONE",
+        "aliasOther": "聚二甲基硅氧烷@!@DIMETHICONE@!@二甲基硅酮@!@DC200/100cst@!@二甲基硅油@!@地美司康@!@DC200/350cst@!@硅灵@!@PDMS",
+        "pid": 5,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-5",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "beaeacf692943623663aae57ecfc180e",
+        "name": "角鲨烷",
+        "nameCn": "角鲨烷",
+        "nameEn": "SQUALANE",
+        "aliasOther": "角鲨烷@!@SQUALANE@!@2,6,10,15,19,23-六甲基二十四烷",
+        "pid": 39,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "c82d6dee94c21a0874a32163cecc92bb",
+        "name": "1,2-戊二醇",
+        "nameCn": "1,2-戊二醇",
+        "nameEn": "PENTYLENE GLYCOL",
+        "aliasOther": "1,2-戊二醇@!@PENTYLENE GLYCOL@!@1,2-Pentanediol@!@戊二醇",
+        "pid": 64,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "4ee7c60f8b7ee74d326602ab89f3e6cb",
+        "name": "烟酰胺",
+        "nameCn": "烟酰胺",
+        "nameEn": "NIACINAMIDE",
+        "aliasOther": "烟酰胺@!@NIACINAMIDE@!@维生素B3@!@nicotinamide@!@尼克酰胺",
+        "pid": 107,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5",
+          "80",
+          "24",
+          "96"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 80,
+            "name": "抗糖化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗糖化",
+            "nameEn": "抗糖化"
+          },
+          {
+            "id": 96,
+            "name": "紧致",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "紧致",
+            "nameEn": "紧致"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d6a592e46de9915f02c32ce3385f9cb7",
+        "name": "玉米(ZEA MAYS)淀粉",
+        "nameCn": "玉米(ZEA MAYS)淀粉",
+        "nameEn": "ZEA MAYS (CORN) STARCH",
+        "aliasOther": "玉米(ZEA MAYS)淀粉@!@ZEA MAYS (CORN) STARCH@!@玉蜀黍淀粉@!@六谷粉",
+        "pid": 6983,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "51",
+          "71",
+          "28",
+          "35"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 28,
+            "name": "抗结块剂",
+            "nameCh": "抗结块剂",
+            "nameEn": "Anticaking Agent"
+          },
+          {
+            "id": 35,
+            "name": "摩擦剂",
+            "nameCh": "摩擦剂",
+            "nameEn": "Abrasives"
+          },
+          {
+            "id": 51,
+            "name": "皮肤保护剂",
+            "nameCh": "皮肤保护剂",
+            "nameEn": "Skin Repellent"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "9db07666542d81654069fa0981d24ed0",
+        "name": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameCn": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameEn": "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "aliasOther": "聚丙烯酰基二甲基牛磺酸铵@!@AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "pid": 483,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19",
+          "86",
+          "71"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "04ad1fc347fda331059641e4683a5613",
+        "name": "CI 77492",
+        "nameCn": "CI 77492",
+        "nameEn": "CI 77492",
+        "aliasOther": "CI 77492@!@铁黄@!@PIGMRNT YELLOW 43@!@PIGMRNT YELLOW 42@!@颜料黄 42@!@颜料黄 43@!@黄色氧化铁",
+        "pid": 45,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "85923634ca5e2b938746c9eeaec12c26",
+        "name": "合成氟金云母",
+        "nameCn": "合成氟金云母",
+        "nameEn": "SYNTHETIC FLUORPHLOGOPITE",
+        "aliasOther": "合成氟金云母@!@SYNTHETIC FLUORPHLOGOPITE",
+        "pid": 44,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "15"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "eb34cbee6bf9c9875aaab5bd1069a1d7",
+        "name": "肉豆蔻醇肉豆蔻酸酯",
+        "nameCn": "肉豆蔻醇肉豆蔻酸酯",
+        "nameEn": "MYRISTYL MYRISTATE",
+        "aliasOther": "肉豆蔻醇肉豆蔻酸酯@!@MYRISTYL MYRISTATE@!@十四酸十四酯",
+        "pid": 397,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 16,
+            "name": "致痘风险等级（高）",
+            "nameCh": "致痘风险等级（高）",
+            "nameEn": "Acne Ingredients(high)"
+          }
+        ]
+      },
+      {
+        "mid": "9d55b5fb1626be04e87a8e6bf4094d52",
+        "name": "甘油硬脂酸酯 SE",
+        "nameCn": "甘油硬脂酸酯 SE",
+        "nameEn": "GLYCERYL STEARATE SE",
+        "aliasOther": "甘油硬脂酸酯 SE@!@GLYCERYL STEARATE SE@!@甘油硬脂酸SE",
+        "pid": 144,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 15,
+            "name": "致痘风险等级（中）",
+            "nameCh": "致痘风险等级（中）",
+            "nameEn": "Acne Ingredients(medium)"
+          }
+        ]
+      },
+      {
+        "mid": "ff8b05bf95e6877a8f0171487697d4e0",
+        "name": "辛酰甘氨酸",
+        "nameCn": "辛酰甘氨酸",
+        "nameEn": "CAPRYLOYL GLYCINE",
+        "aliasOther": "辛酰甘氨酸@!@CAPRYLOYL GLYCINE",
+        "pid": 593,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "33"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 33,
+            "name": "控油",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "控油",
+            "nameEn": "控油"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "006cadf9e038ebd24273daf65e2d2554",
+        "name": "鲸蜡醇磷酸酯钾",
+        "nameCn": "鲸蜡醇磷酸酯钾",
+        "nameEn": "POTASSIUM CETYL PHOSPHATE",
+        "aliasOther": "鲸蜡醇磷酸酯钾@!@POTASSIUM CETYL PHOSPHATE@!@磷酸十六烷基酯钾盐@!@EverMap 160K",
+        "pid": 232,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "dc0a39328e2356a1a9784a1a08de44b2",
+        "name": "CI 77491",
+        "nameCn": "CI 77491",
+        "nameEn": "CI 77491",
+        "aliasOther": "CI 77491@!@PIGMENT RED 101@!@铁红@!@颜料红 101@!@颜料红 102@!@红色氧化铁",
+        "pid": 27023,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "5b761752ec68e670a3acf0d7949b70be",
+        "name": "辛甘醇",
+        "nameCn": "辛甘醇",
+        "nameEn": "CAPRYLYL GLYCOL",
+        "aliasOther": "辛甘醇@!@CAPRYLYL GLYCOL@!@辛乙二醇",
+        "pid": 27,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45",
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "35d0516b190e03a60c1d988f0671a1a5",
+        "name": "硬脂酸",
+        "nameCn": "硬脂酸",
+        "nameEn": "STEARIC ACID",
+        "aliasOther": "硬脂酸@!@STEARIC ACID@!@C18酸@!@十八碳烷酸@!@十八酸",
+        "pid": 34,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "63",
+          "86",
+          "44"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          }
+        ]
+      },
+      {
+        "mid": "02c51007c489e21342e1343d1ccd6c6a",
+        "name": "棕榈酸",
+        "nameCn": "棕榈酸",
+        "nameEn": "PALMITIC ACID",
+        "aliasOther": "棕榈酸@!@PALMITIC ACID",
+        "pid": 106,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "63",
+          "44"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          }
+        ]
+      },
+      {
+        "mid": "59d388ebd29837f34123ed795f6a03ec",
+        "name": "CI 77499",
+        "nameCn": "CI 77499",
+        "nameEn": "CI 77499",
+        "aliasOther": "CI 77499@!@颜料黑11@!@PIGMENT BLACK 11@!@黑色氧化铁",
+        "pid": 36,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "798808625008a046af8d8d2091601eea",
+        "name": "黄原胶",
+        "nameCn": "黄原胶",
+        "nameEn": "XANTHAN GUM",
+        "aliasOther": "黄原胶@!@XANTHAN GUM@!@汉生胶@!@三仙胶",
+        "pid": 19,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "997faf151a14a74a00b29d994edb7339",
+        "name": "氢氧化钠",
+        "nameCn": "氢氧化钠",
+        "nameEn": "SODIUM HYDROXIDE",
+        "aliasOther": "氢氧化钠@!@SODIUM HYDROXIDE",
+        "pid": 42,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-4",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "63",
+          "83",
+          "44"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "8aa9270954d9cda616f09cd83895bb3c",
+        "name": "神经酰胺 NP",
+        "nameCn": "神经酰胺 NP",
+        "nameEn": "Ceramide NP",
+        "aliasOther": "神经酰胺 NP@!@Ceramide NP@!@CERAMIDE 3@!@神经酰胺 3",
+        "pid": 5698,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "93",
+          "24"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "4fd217139cfd20889c2732320dd6b221",
+        "name": "肉豆蔻酸",
+        "nameCn": "肉豆蔻酸",
+        "nameEn": "MYRISTIC ACID",
+        "aliasOther": "肉豆蔻酸@!@MYRISTIC ACID@!@十四烷脂肪酸@!@十四酸",
+        "pid": 182,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85",
+          "44",
+          "63"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 15,
+            "name": "致痘风险等级（中）",
+            "nameCh": "致痘风险等级（中）",
+            "nameEn": "Acne Ingredients(medium)"
+          }
+        ]
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 25,
+    "ingredientNum": {
+      "risk_ingredient_num": 12,
+      "safety_level_2_num": 0,
+      "safety_level_1_num": 22,
+      "function_ingredient_num": 7,
+      "function_ingredient_num_v310": 7,
+      "ingredient_num": 25,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 3
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 1,
+        "xAxis": "2-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "1-4"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 17,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 3,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

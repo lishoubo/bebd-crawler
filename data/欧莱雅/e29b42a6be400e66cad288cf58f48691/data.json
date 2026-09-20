@@ -1,0 +1,206 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,43,58,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DfHOSBPn16Thw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDl7fI%2Bl8CVuE8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoLL%2FrAGW0D1qskmx5kiO8DpndR0CisZIhQFSrzgTbVr6jkc6dhO0G8QLUCY%2FhoYCTgBZryyizy%2BAQBAo9D6vdGo10y3Dkkwg1TAuYlxD3RswG5CeUMT0tgpQ4ohGuQI23Ejm0VHwZL8SwKYnk10ZzO4HQf7B5XnBNcYl7w3%2FA2kb&union_lens=lensId:TAPI@1706820932@213e6c04_11ce_18d6674930d_2e23@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/ZjebHhZ2dGA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=3A574263C65003C4DC1F8F0901058C69"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAQwJK1olXDYCVV9cDU8TAmoAE1wlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWAIGVVtVAEwIWipURmtNIHNCCBYvUi5wABtzckF-A2NJDB8tBEcnA28MHVkTXAUHU25dCUoWBm4NHFIVbTYCUW4LZksWAm4NGl8UWAYyVF5ZDk4RB2kKH2sVWwQHVVxdD0IWB2wJK1sdWTbU2-GIgcfCjfDRi-ZGCUFcCW5tOEgnM18IK1glA2gDB1lYWEoRUAFUHgZUA0FAEjBdDksWCmkKH1glXwcDVlxtOHtnSAtLfTJUHQZgJzYUYBV_WAZtaDxoCFpsVgsKDTlQA2ZfGzpHAwEAPTggOEsn"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/a6b94321-1097-5d09-bab0-0fcc93d5ffb7.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503697"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001922"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002774"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002977"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1631030400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1472140800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥76",
+    "sda_approval_date": 1631030400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "去屑",
+        "id": 5266
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "f59abaef3195e5de74e42959fb5d50c5",
+        "sku_id": 167019,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002977"
+      },
+      {
+        "mid": "5b3cdbe6f514c66f07b928fa06336b75",
+        "sku_id": 659010,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002774"
+      },
+      {
+        "mid": "5b3cdbe6f514c66f07b928fa06336b75",
+        "sku_id": 659010,
+        "attribute_type": "9",
+        "attribute_val": "1472140800"
+      },
+      {
+        "mid": "e29b42a6be400e66cad288cf58f48691",
+        "sku_id": 30250976,
+        "attribute_type": "9",
+        "attribute_val": "1631030400"
+      },
+      {
+        "mid": "f59abaef3195e5de74e42959fb5d50c5",
+        "sku_id": 167019,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "e29b42a6be400e66cad288cf58f48691",
+        "sku_id": 30250976,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503697"
+      },
+      {
+        "mid": "c0266982925827d88aa63fa0c04801c5",
+        "sku_id": 1085346,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001922"
+      },
+      {
+        "mid": "c0266982925827d88aa63fa0c04801c5",
+        "sku_id": 1085346,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_8824fac5-4a37-445c-89b4-bd3ecdba9ce7.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/60e0ffbc-f222-5332-9c60-de23981041b7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a6b94321-1097-5d09-bab0-0fcc93d5ffb7.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅多效修复去屑洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/60e0ffbc-f222-5332-9c60-de23981041b7.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5266",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "e29b42a6be400e66cad288cf58f48691",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "700ml",
+    "sda_approval_no": "苏G妆网备字2021503697",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅多效修复去屑洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20210908,
+    "goods_form": "24"
+  },
+  "success": true
+}

@@ -1,0 +1,131 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DMNBOxCjxLoxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMW%2Bo%2BFOGa3hRRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXS7UD%2FJlWI1UhjAhu8F6Sm35yJsrRJ1lwOFg3xKM9MIXGrY6bTqYG%2F7paP%2F0w9yBAQ%2BRpvqBWSjuG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQoU4CVJSrgoCRO%2FNohUxQtA7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753125771@213fd72a_0e37_1982e705a42_bf33@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/DJhA4xAOQc9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=68218F18A7CC0283CA605E8C13FF5937"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARwJK1olXQ8GUl1fCUMWAl8IGloTXQcCVlpcC0oTCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkIGlsXWQcBVVpUFxJSXzI4EiVJVVZFLAk4fExNZiZ6GAtrWHJ-ElJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OHV0QVA8KXVZeDUgnA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVoSWwULVA4KZhdJWTgIXh5AMwIDUVxdAEkeM20JGlkXbTYyFhsCCDF2ABVAWQVDJ1kAPQQlbxRkVgp4RDUXBF0AAj8ZCwJfCjt4RycUVFQyVG5dCksQMw"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/0010311e-bfcb-5452-9f74-2c87e64bfa51.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "¥439",
+    "sda_approval_date": 1665936000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "面部修护",
+        "id": 5210
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_59ef67ff-ba5c-4961-b43c-617fa94b5b54.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/4abcca6e-d5c3-5ec9-8f73-d69835d0bde4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/77c00fc9-b746-56e1-86ee-408359fa34e4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/81f1c554-df68-5dec-82ef-b0f4776b221f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0010311e-bfcb-5452-9f74-2c87e64bfa51.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/800c3090-1265-5547-ac19-729968b80b32.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/84048acc-00f6-55b5-bca7-6b1dd6983fc0.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜浓缩肌活修护精华液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/81f1c554-df68-5dec-82ef-b0f4776b221f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5210",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.1,
+    "mid": "d0d53d36a4b9836188278665fd470411",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "苏G妆网备字2022004553",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅黑金精华@!@欧莱雅金致臻颜浓缩肌活修护精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20221017,
+    "goods_form": "24"
+  },
+  "success": true
+}

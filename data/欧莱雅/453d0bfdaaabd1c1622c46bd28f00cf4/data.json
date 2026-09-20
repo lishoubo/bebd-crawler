@@ -1,0 +1,139 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DU9mkCArLbKNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRGIarSsdTh15x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2BAF%2FpNHOH8PEj9Qhb68jyBzRD18rVfQC6vFy6%2FXBdJdADie5%2FYSGLk5Fkzx6Pl8qKer1UkSP6wp9Sl6A8DCHkh4pJxZ0HuPCJjxrjkFrFpzrlTXAcGcs7zhdnglgCRfdWeROFjoSTN31986spE0BTibkoc5A4PXY6SzK2cLxZeJaKjN5UpLsgtU1NVKZy3ECfGDF1NzTQoPw%3D%3D&union_lens=lensId:TAPI@1753122275@216606ac_0e18_1982e3b0273_c29a@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/rx9hLeqtPI6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6B897036499AE9DE183EAFCD966CAAFA"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASkJK1olWAYLV1hUC0gWAl8IGloUWgMHU15cDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBGoNHFsUWwAdDRsBVXsNeW5-ZglIP2R8IlclaSMSAClvUj9TUQoyVF5ZDkkRAmwNHGsVXAcDUV9YD0IXM18IHmtGM9GfwofiiJO9t7ucmY-Hx9G_9IrCm3sXA2sOHl0RWwQGZF5bAU4QB2kLG10TWgIyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkoQB2sNHwhAM1pBEBYYTBlEbW0LHFsdXwYFZFxcCUkVM184fTkVFEVAM18FYwoXAm9hWQRVPHhxByEaX0JrYAZmGRpFNVF3KjtdVC4WWxBwWSl1bQYyVFxdD3s"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/0dda6f6b-3b47-5e99-b495-225d8ea04d29.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "乳液",
+    "price": "¥235",
+    "sda_approval_date": 1582214400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/91_b41cc10a-8daf-4988-bf8e-ca6c4bf0e90c.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/b1a4a0cd-0c1a-5a82-bba1-098dc01d6adc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fa0e62fb-64d3-523d-9872-561ea67abc79.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/02530d3b-d914-5c6d-8b29-9138c322e2cf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7fa7a4c9-b8ab-534b-8a2a-7378a130af2b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8d27e036-c739-5fd9-ba95-7aa088521fa4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/964e865d-dd3d-5221-91ad-341498e379f9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0dda6f6b-3b47-5e99-b495-225d8ea04d29.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6afeca50-632e-5343-b2d2-ca984be5da49.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9cede873-153a-5b76-8bf0-8c20db8e83e4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a3eb7a84-1abe-53b1-9b95-c49cda635c9c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b42592f5-84ba-5567-9a01-8bae3501eae2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜视黄醇精粹抗皱乳液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/8d27e036-c739-5fd9-ba95-7aa088521fa4.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "453d0bfdaaabd1c1622c46bd28f00cf4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "110ml",
+    "sda_approval_no": "苏G妆网备字2020000804",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 525,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通乳液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20200221,
+    "goods_form": "23"
+  },
+  "success": true
+}

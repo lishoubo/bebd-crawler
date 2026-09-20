@@ -1,0 +1,166 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,59,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DMw72UdIWU4Fw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDhMKpVu5U9vMMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9zRD18rVfQC7Qi04ZWz7rmS2%2Fdw3%2FHzs46Q2H%2F%2FxwwJU369TDWYGVJuxNDUnzCuCAvREMo%2BQ%2FcEuU8p4q%2BXYlP8mgXp2mOfxGU1NVKZy3ECfZGL0GbiMMd2bRQoY%2Ba8IAFvHH3Tc8ne1Csspncqyz6uVVt2SKMhA7xg5p7bh%2BFbQ%3D&union_lens=lensId:TAPI@1675636758@21070fe7_0c2c_18623bbd725_5363@01"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/0adefd33-68d8-5a4c-bed4-890c38ee0a91.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004737"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004736"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004735"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1561305600"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥99",
+    "sda_approval_date": 1561305600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "发色护理",
+        "id": 5262
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "7600f34ca4c236adc58adfc89ffd4e87",
+        "sku_id": 2812502,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004736"
+      },
+      {
+        "mid": "014cda5a259991a43a80d32ccb1b02ff",
+        "sku_id": 2812503,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004737"
+      },
+      {
+        "mid": "014cda5a259991a43a80d32ccb1b02ff",
+        "sku_id": 2812503,
+        "attribute_type": "9",
+        "attribute_val": "1561305600"
+      },
+      {
+        "mid": "7600f34ca4c236adc58adfc89ffd4e87",
+        "sku_id": 2812502,
+        "attribute_type": "9",
+        "attribute_val": "1561305600"
+      },
+      {
+        "mid": "363ef7873bcc5bf17ccb8f71aaeed991",
+        "sku_id": 2812501,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019004735"
+      },
+      {
+        "mid": "363ef7873bcc5bf17ccb8f71aaeed991",
+        "sku_id": 2812501,
+        "attribute_type": "9",
+        "attribute_val": "1561305600"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/144_e395cb30-42d1-4343-9ed8-a487c0dff24a.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2dd94895-1eab-51ab-80ca-5b05b726cee8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/39028fd4-fc86-50ed-bb15-5a3fd646eba8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8adb5d97-1c78-5fbc-b039-3877354e6ded.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0adefd33-68d8-5a4c-bed4-890c38ee0a91.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4934d8cf-0c7e-5123-ae6b-d8d13b771316.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"深棕色\"}, {\"name\": \"性状\", \"condition\": \"带珠光乳状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕精油锁色炫亮润发乳（适合深棕发色）",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5204,5262",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本品含水杨酸，三岁以下儿童勿用。本品香精原料含有芳樟醇、己基肉桂醛。如不慎触及眼睛时，请立即用水冲洗。如佩戴隐形眼镜，应先取下眼镜。",
+    "usageMode": "淋洗",
+    "safety_1_num": 3.8,
+    "mid": "7600f34ca4c236adc58adfc89ffd4e87",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2019004736",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "将锁色炫亮润发乳涂抹于头发上，静置后冲净，集中修护锁色，容量可多次使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "发色护理",
+        "id": "59"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20190624,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,147 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,52,129,51,126,54,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DqtszVCPSRvVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVzibkPv4HwYJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6zap%2BKcPDQmMi5reOXPAdbsofmOYtZk%2F%2BhfqJQ%2FU1uxVzJqMfihg%2FgdjSzANN2x%2BGnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12ObQ9yl8wYDPa2PJjlt8NzqVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1743103270@213dad2d_1233_195d90d1e7d_1bab@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/kCbACUtPffA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=5D277E29934525EF0B0F621134D0A7BD"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGloTWw4DXFxYDU8UBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkOE1odXwMHUF1YFxJSXzI4cyxSXgFRCCE9VBcUSydPeDpDNAJyJFJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgIEVFdcAU0nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWwVWB1pYZhdCVjZKTgJHMwIKVlZbDUseM20JGlkXbTYyNF4mTDR0WiZyTFtPK3FUKFddfjFnAxt4dVl-NHVgLAUhfDFkVCpsHyBMWjYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/1d534680-6ba9-5d8c-8cb6-c39b2a5fc047.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "眼部护理",
+    "price": "¥449",
+    "sda_approval_date": 1672329600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "提亮",
+        "id": 5208
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_135740a0-efc3-4bd9-84db-c01b4458cd8e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/93a59acd-71ef-5fd8-86db-2f2bb86d3e0b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bd41773a-625a-5a76-92da-7e5abf8d07a9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0795c94b-de05-5044-a311-b17b6939c973.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/23bbb5b3-e779-5fd5-96ed-d5b5b6e63149.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/31e2bfd1-4051-52b8-8f57-ffdcfbe5db59.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5ae80719-bb27-5db6-84d3-2e2d7960c754.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4d961258-a814-536c-97c6-7c0e9bcdba3d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8c5031ab-3d2e-5c95-a4b2-803594d77fe8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d534680-6ba9-5d8c-8cb6-c39b2a5fc047.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4c4efaa6-b62b-57e5-8b84-78b02deca967.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cd113216-123f-54e2-acc1-5a1e8524c26c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ce82d1b3-15d2-5882-9f22-04d14d3ad0d4.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈焕颜淡纹眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/31e2bfd1-4051-52b8-8f57-ffdcfbe5db59.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5203,5208",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "55766a4b8ae0dc413326c1b11bf07fa7",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "20ml",
+    "sda_approval_no": "苏G妆网备字2022011981",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅20眼霜@!@欧莱雅复颜玻尿酸水光充盈焕颜淡纹眼霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20221230,
+    "goods_form": "23"
+  },
+  "success": true
+}

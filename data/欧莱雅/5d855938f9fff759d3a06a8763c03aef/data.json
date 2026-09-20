@@ -1,0 +1,190 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,45",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DszfiwQIjxvFw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMWbnnTQ07MnZ8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr66oVAgDj1CyJngB8O7wRBeN%2B4NG8gDSlwNaAF0yetwECzXzUihjZef17aVcTyfRY0G5CeUMT0tgovynyZqoK2AM5AJIIgxWT9zopPg%2FEg5pbApieTXRnM7gdB%2FsHlecE1xiXvDf8DaRs%3D&union_lens=lensId:TAPI@1721582182@21075122_1366_190d64b5f72_3aae@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/ZaOsE5wpzB9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=955C120FD670242F58E499955F53283D"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/ba29e07f-d23b-582c-90cd-84a8bb55cfeb.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000105"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000852"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000431"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20186633"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1610899200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1525276800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1428422400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1421769600"
+      }
+    ],
+    "category3Name": "卸妆",
+    "price": "¥100",
+    "sda_approval_date": 1610899200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "卸妆",
+        "id": 5214
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "ac6167e0a5907204a165653d6eec6e80",
+        "sku_id": 1247113,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20186633"
+      },
+      {
+        "mid": "ac6167e0a5907204a165653d6eec6e80",
+        "sku_id": 1247113,
+        "attribute_type": "9",
+        "attribute_val": "1525276800"
+      },
+      {
+        "mid": "4b4d7ec8185f5efe8b8ef3b21cebe44c",
+        "sku_id": 2133800,
+        "attribute_type": "9",
+        "attribute_val": "1421769600"
+      },
+      {
+        "mid": "5d855938f9fff759d3a06a8763c03aef",
+        "sku_id": 4281947,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000105"
+      },
+      {
+        "mid": "5d855938f9fff759d3a06a8763c03aef",
+        "sku_id": 4281947,
+        "attribute_type": "9",
+        "attribute_val": "1610899200"
+      },
+      {
+        "mid": "4b4d7ec8185f5efe8b8ef3b21cebe44c",
+        "sku_id": 2133800,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000431"
+      },
+      {
+        "mid": "bdd89e2a105d4577554ab4e9e23c753b",
+        "sku_id": 103719,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000852"
+      },
+      {
+        "mid": "bdd89e2a105d4577554ab4e9e23c753b",
+        "sku_id": 103719,
+        "attribute_type": "9",
+        "attribute_val": "1428422400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_c2ee369d-2241-44fb-8f34-56aee6dcc671.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/8980da47-aa8b-514c-80fe-6bb31810f4da.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1f664037-1743-5808-88c1-5cfa3713fa46.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/abfcca07-a908-5df2-9e67-99d938f12a1e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/185c8f16-41ed-5f41-bce3-3729b6cb70ae.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/78d6c79b-2465-565b-9a57-937c0c2da3de.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ba29e07f-d23b-582c-90cd-84a8bb55cfeb.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部,眼部,口唇",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅眼唇卸妆液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/8980da47-aa8b-514c-80fe-6bb31810f4da.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5214",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "5d855938f9fff759d3a06a8763c03aef",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "150ml",
+    "sda_approval_no": "鄂G妆网备字2021000105",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅眼唇卸妆液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 111,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "眼唇卸妆",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20210118,
+    "goods_form": "24"
+  },
+  "success": true
+}

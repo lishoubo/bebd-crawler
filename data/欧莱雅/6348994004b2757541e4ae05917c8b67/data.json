@@ -1,0 +1,161 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dm61NRt3CjwRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMckgKONgGxoaJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rvRJvroK0Wa%2FUwVNlKMm7aohF3ijPkKur0ky%2BbNjjW5hv6b2H407fz%2F3uiBsQv5dkUKCNhBEKAKGU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvR9o1AvxmEUUjZmj6Y37eQh4YHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753119200@21075122_1801_1982e0c1435_3b8d@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/7e7c6b7b-d292-5a85-bcd0-c2c856fe3c5a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2024011307"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001448"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002170"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1735056000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1521734400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥130",
+    "sda_approval_date": 1521734400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "934283690bb1e70069742c32c1a991b7",
+        "sku_id": 33246619,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2024011307"
+      },
+      {
+        "mid": "934283690bb1e70069742c32c1a991b7",
+        "sku_id": 33246619,
+        "attribute_type": "9",
+        "attribute_val": "1735056000"
+      },
+      {
+        "mid": "6348994004b2757541e4ae05917c8b67",
+        "sku_id": 1085358,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001448"
+      },
+      {
+        "mid": "e31de5b7da01e078f556c92e2e98fb95",
+        "sku_id": 209293,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "e31de5b7da01e078f556c92e2e98fb95",
+        "sku_id": 209293,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002170"
+      },
+      {
+        "mid": "6348994004b2757541e4ae05917c8b67",
+        "sku_id": 1085358,
+        "attribute_type": "9",
+        "attribute_val": "1521734400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_cdf69244-8b1a-478c-a1b0-acd8890b3662.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/003dcf74-3be8-5156-9fd2-f1082d1a0e18.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7e7c6b7b-d292-5a85-bcd0-c2c856fe3c5a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士劲能醒肤露",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/003dcf74-3be8-5156-9fd2-f1082d1a0e18.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5203,5201",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 4.0,
+    "mid": "6348994004b2757541e4ae05917c8b67",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2018001448",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士劲能醒肤露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20180323,
+    "goods_form": ""
+  },
+  "success": true
+}

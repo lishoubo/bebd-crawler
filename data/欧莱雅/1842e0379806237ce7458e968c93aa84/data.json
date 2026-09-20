@@ -1,0 +1,138 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,52,130,129,51,126,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1721318400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_d9121ad0-02df-4254-abdc-7dc84e09c5f4.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/4dceb793-a1c7-511c-967d-ab9c3858d2bd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/75e978fd-8eac-55d3-92cd-72cceca92ec4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/07cd19d2-794a-5b25-a23f-25c5c645ca63.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4dc1ab84-263b-52dc-9180-1872fd8afd34.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/97e5c39e-5da0-5216-a32b-853cc94026f0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a1fb74f9-99e6-5e83-9af4-2b78f5ba6147.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/aa679315-a4b0-5fe4-b7b4-ed2b98ad84b8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cd8c2b84-0fac-5837-bff9-d5afd1a45cbb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd103dd8-93be-5b68-9545-ee68417793b6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/136f8369-2548-5293-9f97-aa4420c5e577.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/300cfeb4-9478-5d3c-b11f-da393d34d65c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/33da72a0-5227-554b-833b-114a38f449f0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6b79721a-e04b-5bbf-992b-0789168e8a8b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/72920add-fd40-5b8e-a337-a5e4a83ba546.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ee854cd6-1a64-5a3f-96e3-a874964ae647.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f79f727b-4a1f-5da9-b38d-b8ed228032bd.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜专研抗皱紧致面霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5207,5225,5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "1842e0379806237ce7458e968c93aa84",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024002644",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜专研抗皱紧致面霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20240719,
+    "goods_form": "23"
+  },
+  "success": true
+}

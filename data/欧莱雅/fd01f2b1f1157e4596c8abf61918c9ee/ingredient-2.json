@@ -1,0 +1,1188 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "欧莱雅奇焕润发精油 (炫耀巴黎)",
+        "ingredients": [],
+        "type": 1,
+        "esId": "2199926_1_1"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "新成分表",
+        "ingredients": [],
+        "type": 2,
+        "esId": "2199926_1_2"
+      }
+    ],
+    "total": 2,
+    "ingredientTable": [
+      {
+        "mid": "c1cac0ea9339ad4aa3e3229699cd4396",
+        "name": "环五聚二甲基硅氧烷",
+        "nameCn": "环五聚二甲基硅氧烷",
+        "nameEn": "CYCLOPENTASILOXANE",
+        "aliasOther": "环五聚二甲基硅氧烷@!@CYCLOPENTASILOXANE@!@十甲基环戊硅氧烷@!@环戊硅氧烷",
+        "pid": 22,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "38",
+          "20"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "4d4d8c7c67ba1200fe25ebb84819c014",
+        "name": "聚二甲基硅氧烷醇",
+        "nameCn": "聚二甲基硅氧烷醇",
+        "nameEn": "DIMETHICONOL",
+        "aliasOther": "聚二甲基硅氧烷醇@!@DIMETHICONOL",
+        "pid": 138,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "20"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "918ab1bd9e473b6a266512340f522678",
+        "name": "乙醇",
+        "nameCn": "乙醇",
+        "nameEn": "ALCOHOL",
+        "aliasOther": "乙醇@!@ALCOHOL@!@Ethyl Alcohol@!@Ethanol@!@Grain Alcohol@!@酒精",
+        "pid": 16,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 13,
+            "name": "酒精",
+            "nameCh": "酒精",
+            "nameEn": "Alcohol"
+          }
+        ]
+      },
+      {
+        "mid": "9fe1b981e28e55aa1da51c855cb64f80",
+        "name": "辛酸/癸酸甘油三酯",
+        "nameCn": "辛酸/癸酸甘油三酯",
+        "nameEn": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+        "aliasOther": "辛酸/癸酸甘油三酯@!@CAPRYLIC/CAPRIC TRIGLYCERIDE@!@辛酸/癸酸三甘油酯@!@GTCC",
+        "pid": 21,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "351b70a6afa107931975fb930e357a0d",
+        "name": "水杨酸苄酯",
+        "nameCn": "水杨酸苄酯",
+        "nameEn": "BENZYL SALICYLATE",
+        "aliasOther": "水杨酸苄酯@!@BENZYL SALICYLATE@!@柳酸苄酯",
+        "pid": 5886,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "94"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 94,
+            "name": "光稳定剂",
+            "nameCh": "光稳定剂",
+            "nameEn": "光稳定剂"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 6,
+            "name": "化学防晒剂",
+            "nameCh": "化学防晒剂",
+            "nameEn": "Chemical UV Filter"
+          }
+        ]
+      },
+      {
+        "mid": "59326c783c68085e4917c2adf6c9bded",
+        "name": "向日葵(HELIANTHUS ANNUUS)籽油",
+        "nameCn": "向日葵(HELIANTHUS ANNUUS)籽油",
+        "nameEn": "HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL",
+        "aliasOther": "向日葵(HELIANTHUS ANNUUS)籽油@!@HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL@!@葵花籽油",
+        "pid": 6308,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "50",
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "db7d59bef652d237f7a628710e7e6614",
+        "name": "辛酸/癸酸甘油酯类",
+        "nameCn": "辛酸/癸酸甘油酯类",
+        "nameEn": "CAPRYLIC/CAPRIC GLYCERIDES",
+        "aliasOther": "辛酸/癸酸甘油酯类@!@CAPRYLIC/CAPRIC GLYCERIDES",
+        "pid": 905,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "67804765507c9fa76e35ea4f6b22749a",
+        "name": "野大豆(GLYCINE SOJA)油",
+        "nameCn": "野大豆(GLYCINE SOJA)油",
+        "nameEn": "GLYCINE SOJA (SOYBEAN) OIL",
+        "aliasOther": "野大豆(GLYCINE SOJA)油@!@GLYCINE SOJA (SOYBEAN) OIL",
+        "pid": 6680,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "38",
+          "50"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d6888143184884801735cbceaa21fe57",
+        "name": "椰子(COCOS NUCIFERA)油",
+        "nameCn": "椰子(COCOS NUCIFERA)油",
+        "nameEn": "COCOS NUCIFERA (COCONUT) OIL",
+        "aliasOther": "椰子(COCOS NUCIFERA)油@!@COCOS NUCIFERA (COCONUT) OIL@!@椰子脂",
+        "pid": 6665,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "50",
+          "20"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 16,
+            "name": "致痘风险等级（高）",
+            "nameCh": "致痘风险等级（高）",
+            "nameEn": "Acne Ingredients(high)"
+          }
+        ]
+      },
+      {
+        "mid": "ca60d2dfef930373a8cdb9055964fcf3",
+        "name": "苯甲醇",
+        "nameCn": "苯甲醇",
+        "nameEn": "BENZYL ALCOHOL",
+        "aliasOther": "苯甲醇@!@BENZYL ALCOHOL@!@苄醇@!@苄基醇",
+        "pid": 93,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          },
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "5f01c6d5451cc23d21e4d820775823b6",
+        "name": "苧烯",
+        "nameCn": "苧烯",
+        "nameEn": "LIMONENE",
+        "aliasOther": "苧烯@!@LIMONENE@!@苎烯@!@1,8-萜二烯",
+        "pid": 1762,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4-5",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "40",
+          "45",
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 40,
+            "name": "气味抑制剂",
+            "nameCh": "气味抑制剂",
+            "nameEn": "Odor Inhibitor"
+          },
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "86f8fa919dd8d904525c655b8fc64901",
+        "name": "母菊(CHAMOMILLA RECUTITA)花提取物",
+        "nameCn": "母菊(CHAMOMILLA RECUTITA)花提取物",
+        "nameEn": "CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT",
+        "aliasOther": "母菊(CHAMOMILLA RECUTITA)花提取物@!@CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT@!@Roman Anthemis Nobilis Extract (Chamomile)",
+        "pid": 5009,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "13"
+        ],
+        "effectIdList": [
+          "74",
+          "24",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 13,
+            "name": "口腔护理剂",
+            "nameCh": "口腔护理剂",
+            "nameEn": "Oral Care"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "886953ae0995dad0e6f1f0d04fb9bead",
+        "name": "芳樟醇",
+        "nameCn": "芳樟醇",
+        "nameEn": "LINALOOL",
+        "aliasOther": "芳樟醇@!@LINALOOL@!@3,7-二甲基-1,6-辛二烯-3-醇@!@伽罗木醇@!@沉香萜醇@!@沉香醇@!@胡荽醇@!@芫荽醇@!@里那醇",
+        "pid": 3828,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3-4",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "70",
+          "40",
+          "14"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 40,
+            "name": "气味抑制剂",
+            "nameCh": "气味抑制剂",
+            "nameEn": "Odor Inhibitor"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "8f33dda3fcf618fee32f4a7255c74176",
+        "name": "香叶醇",
+        "nameCn": "香叶醇",
+        "nameEn": "GERANIOL",
+        "aliasOther": "香叶醇@!@GERANIOL",
+        "pid": 6284,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "25a7bb411695fe40522dddb3838ab5c1",
+        "name": "塔希提栀子(GARDENIA TAITENSIS)花提取物",
+        "nameCn": "塔希提栀子(GARDENIA TAITENSIS)花提取物",
+        "nameEn": "GARDENIA TAITENSIS FLOWER EXTRACT",
+        "aliasOther": "塔希提栀子(GARDENIA TAITENSIS)花提取物@!@GARDENIA TAITENSIS FLOWER EXTRACT@!@GARDENIA TAHITENSIS FLOWER EXTRACT@!@塔希提栀子(GARDENIA TAHITENSIS)花提取物",
+        "pid": 5979,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "d687cc97d754550c23fdabe507c61a06",
+        "name": "羟基香茅醛",
+        "nameCn": "羟基香茅醛",
+        "nameEn": "HYDROXYCITRONELLAL",
+        "aliasOther": "羟基香茅醛@!@HYDROXYCITRONELLAL@!@7-羟基-3,7-二甲基-1-辛醛@!@羟基香草醛",
+        "pid": 5294,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "1bd60a0146edcbf5fef29949752e98b6",
+        "name": "异丁香酚",
+        "nameCn": "异丁香酚",
+        "nameEn": "ISOEUGENOL",
+        "aliasOther": "异丁香酚@!@ISOEUGENOL",
+        "pid": 6768,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "6",
+        "safetyNum": 6,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "70",
+          "14"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "c8b86a33ee373f52bc8493ce0621a35f",
+        "name": "己基肉桂醛",
+        "nameCn": "己基肉桂醛",
+        "nameEn": "HEXYL CINNAMAL",
+        "aliasOther": "己基肉桂醛@!@HEXYL CINNAMAL@!@甲位己基桂醛@!@Hexyl cinnamaldehyde@!@α-己基肉桂醛@!@α-Hexylcinnamaldehyde",
+        "pid": 4306,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "14",
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "deabb0676feb7b810770983d06bdb173",
+        "name": "莲(NELUMBO NUCIFERA)花提取物",
+        "nameCn": "莲(NELUMBO NUCIFERA)花提取物",
+        "nameEn": "NELUMBO NUCIFERA FLOWER EXTRACT",
+        "aliasOther": "莲(NELUMBO NUCIFERA)花提取物@!@NELUMBO NUCIFERA FLOWER EXTRACT",
+        "pid": 4772,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "24",
+          "60"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "77505098ce02cf578694259a1013e64e",
+        "name": "红没药醇",
+        "nameCn": "红没药醇",
+        "nameEn": "BISABOLOL",
+        "aliasOther": "红没药醇@!@BISABOLOL@!@α-红没药醇@!@6-甲基-2-(4-甲基-3-环己烯-1-基)-5-庚烯-2-醇@!@甜没药醇@!@α-4-二甲酯-α-(4-甲酯-3-戊烷醇)-3-环庚酮-1-甲醇@!@防风根醇",
+        "pid": 129,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "5"
+        ],
+        "effectIdList": [
+          "75",
+          "5",
+          "93",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 75,
+            "name": "去黑头",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "去黑头",
+            "nameEn": "去黑头"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "65f0e6d2a8a810463e6876d4e79aa64a",
+        "name": "狗牙蔷薇(ROSA CANINA)花提取物",
+        "nameCn": "狗牙蔷薇(ROSA CANINA)花提取物",
+        "nameEn": "ROSA CANINA FLOWER EXTRACT",
+        "aliasOther": "狗牙蔷薇(ROSA CANINA)花提取物@!@ROSA CANINA FLOWER EXTRACT",
+        "pid": 3951,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "36",
+          "50",
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "24",
+          "36"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 36,
+            "name": "收敛剂",
+            "nameCh": "收敛剂",
+            "nameEn": "Astringent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 36,
+            "name": "收敛",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "收敛",
+            "nameEn": "收敛"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "1f054f776414e78bc75297fedd601793",
+        "name": "亚麻(LINUM USITATISSIMUM)花提取物",
+        "nameCn": "亚麻(LINUM USITATISSIMUM)花提取物",
+        "nameEn": "LINUM USITATISSIMUM (LINSEED) FLOWER EXTRACT",
+        "aliasOther": "亚麻(LINUM USITATISSIMUM)花提取物@!@LINUM USITATISSIMUM (LINSEED) FLOWER EXTRACT@!@LINUM USITATISSIMUM FLOWER EXTRACT",
+        "pid": 6473,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "aa5f615b022be5907ec9ff8764936f89",
+        "name": "生育酚(维生素E)",
+        "nameCn": "生育酚(维生素E)",
+        "nameEn": "TOCOPHEROL",
+        "aliasOther": "生育酚(维生素E)@!@TOCOPHEROL@!@生育酚@!@DL-α-生育酚@!@3,4-二氢-2,5,7,8-四甲基-2-(4,8,12-三甲基十三烷基)-6-色满醇@!@维生素E@!@维他命E",
+        "pid": 5707,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "95"
+        ],
+        "effectIdList": [
+          "95",
+          "24",
+          "96"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 95,
+            "name": "抗皱剂",
+            "nameCh": "抗皱剂",
+            "nameEn": "抗皱剂"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 95,
+            "name": "抗皱",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗皱",
+            "nameEn": "抗皱"
+          },
+          {
+            "id": 96,
+            "name": "紧致",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "紧致",
+            "nameEn": "紧致"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          }
+        ]
+      },
+      {
+        "mid": "f646b1f1b1702d6158c695ecf5f0f6d7",
+        "name": "丁羟甲苯",
+        "nameCn": "丁羟甲苯",
+        "nameEn": "BHT",
+        "aliasOther": "丁羟甲苯@!@BHT@!@二丁基羟基甲苯@!@Di-Butyl Hydroxy Toluene@!@2,6-二叔丁基对甲酚",
+        "pid": 12,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "5",
+        "safetyNum": 5,
+        "safetyLevel": 2,
+        "effectIdList": [
+          "24"
+        ],
+        "active": "0",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": []
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 25,
+    "ingredientNum": {
+      "risk_ingredient_num": 13,
+      "safety_level_2_num": 10,
+      "safety_level_1_num": 14,
+      "function_ingredient_num": 9,
+      "function_ingredient_num_v310": 8,
+      "ingredient_num": 25,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 1
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 1,
+        "xAxis": "4-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "6"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "3"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "3-4"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "5"
+      },
+      {
+        "yAxis": 4,
+        "xAxis": "4"
+      },
+      {
+        "yAxis": 11,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

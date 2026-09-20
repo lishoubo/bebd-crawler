@@ -1,0 +1,134 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,128,130,129,51,53,54,48,126",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/3a29b1fe-bf8c-587d-810b-f128654446b1.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1770134400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "提亮",
+        "id": 5208
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/516eecac-2585-5f4a-b09c-459a74ab003f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/54e17014-55af-5705-9bdf-9bde6be37c5b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/732e6495-891b-5c6d-85af-f211a027e3e5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a4981eed-1d34-5ff6-8222-62c65f255aa4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2fccecd4-2228-5bc2-aa0e-b5b2fc351a0f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a29b1fe-bf8c-587d-810b-f128654446b1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/73a0f22d-59ed-590b-b95c-dc512f27af93.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c9ef7b95-7217-5eb1-a579-b4c8da32acc6.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士精华焕亮洁面乳",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/732e6495-891b-5c6d-85af-f211a027e3e5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5208",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.0,
+    "mid": "0fbf057371a2d11cd8ee0e9014a30767",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2026000531",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20260204,
+    "goods_form": "23"
+  },
+  "success": true
+}

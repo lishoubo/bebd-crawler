@@ -1,0 +1,250 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "41,44,128,52,130,129,53,126,54",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOyjUwmPM9ztw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMREG1UhKgDzkRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOU%2Bm9r2DYIxVMlIqJAw%2BW1BT8UG0q9AP8HQwOwVxqu7E06nM78OL9cSMEnMERQrH0G5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQBaA7nyygFqA2jTdzpv3rgg7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753117591@2132fb04_0db1_1982df38803_d9eb@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/HmgA4i8NnB7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=DD5CB14A5607AD6F612632813EE65A38"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASoJK1olXQ8GUl1fCUMWAl8MH1wcXQ8FUF1VDHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpZD0IXCmgMGFMRQl9HCANTTBRPXTB0Tw5NDWNSAlJeZkp5A192RjsRFk1QBDs-VCpBfhdRASNxHXRyWFJtCEsTBW0OGlgQWjYCVV9cDUoSBGYIK2sVWDZDOl5cCEMSCmgNK1sVWQAHUlpbCk8nA2kOHV4cXgUAUlpeC3sXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwTXlQHVwwzVBVNUG8NHwd7WQcDVlteDUknAW4JGVklbTZRXTcgaSJOew9bR1xPFgJDDSoofy8UQxhadVlrPHwFNAYHTCtAVBJ2RA1SCTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/724454ab-9fae-5864-8dd5-ca6b53b2b6f9.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023002975"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003119"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003287"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002110"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20188664"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1687881600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1531065600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥38.9",
+    "sda_approval_date": 1687881600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "祛痘",
+        "id": 5215
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "5a18b70839557c11a532b65b7ede20a9",
+        "sku_id": 1252945,
+        "attribute_type": "9",
+        "attribute_val": "1531065600"
+      },
+      {
+        "mid": "245150475d5ac85bd0ff3ab662c1cf8a",
+        "sku_id": 31926122,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023002975"
+      },
+      {
+        "mid": "245150475d5ac85bd0ff3ab662c1cf8a",
+        "sku_id": 31926122,
+        "attribute_type": "9",
+        "attribute_val": "1687881600"
+      },
+      {
+        "mid": "207e929ea9120f551dc8a74368149086",
+        "sku_id": 1195416,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003119"
+      },
+      {
+        "mid": "207e929ea9120f551dc8a74368149086",
+        "sku_id": 1195416,
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "mid": "c617db0b135b2d6bccf52ecbdaac1bf0",
+        "sku_id": 208909,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002110"
+      },
+      {
+        "mid": "5a18b70839557c11a532b65b7ede20a9",
+        "sku_id": 1252945,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20188664"
+      },
+      {
+        "mid": "4fe3628c6a01ad3741b4a153605a4d2e",
+        "sku_id": 824907,
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      },
+      {
+        "mid": "c617db0b135b2d6bccf52ecbdaac1bf0",
+        "sku_id": 208909,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "4fe3628c6a01ad3741b4a153605a4d2e",
+        "sku_id": 824907,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003287"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_296382d8-f6bd-47f6-b7f2-9cb7ec49bd90.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2437b455-38c5-5def-82ab-8b5417be9b92.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2d29ee9e-3ad6-56c3-a839-9bc1baf6e779.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f93497e-29a9-5226-976a-3ebcf2184807.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5afdbe55-d145-5bee-9a60-c1206cc74c60.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/66e0cb55-a0ef-5377-9b84-f6635b4d1e2a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/783fb381-eb9f-5720-a269-ccecb9a78b56.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9b9929bb-d2ec-5742-bc01-5e0a8707c34e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a1a50b4d-1671-53a8-9bab-783aca376dc2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a27a2d41-f0eb-5f9f-9784-04244e8ebabe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b9938b9f-429c-597a-934e-2585a677351f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/16192f8d-237b-5ed7-ba79-61a06c59a754.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1bbe2f1f-b6a0-53d8-b29b-87d78a83c863.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1c298097-c8ed-51e0-8a89-28550bc9879a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4581d2ae-c741-5d98-a4ae-ac861a8debd5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/724454ab-9fae-5864-8dd5-ca6b53b2b6f9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7373f84e-a934-5963-b6ba-df6ee5761b38.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91adee43-404b-51f4-927a-bea482e9229d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bcce3767-8e85-5b7c-9c6b-9ceaf2de9cd7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ccb60415-a7b3-58ec-a60b-f6f83a196c98.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d71402df-330d-5f8c-930a-716d2c2ba381.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"粉色\"}, {\"name\": \"性状\", \"condition\": \"膏状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士火山岩控油清痘洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/b9938b9f-429c-597a-934e-2585a677351f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5215,5308,5205",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "老包装：注意：本品香精原料含有苧烯。本品含水杨酸，三岁以下儿童勿用。水杨酸在本品中的使用目的为皮肤调理剂。 新包装：注意：本品香精原料含有苧烯。本品含水杨酸，三岁以下儿童勿用。水杨酸在本品中的使用目的为祛痘剂。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "245150475d5ac85bd0ff3ab662c1cf8a",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "100ml",
+    "sda_approval_no": "苏G妆网备字2023002975",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士火山岩控油清痘洁面膏",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量的产品于掌心，加水揉搓起泡，涂抹在湿润的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水洗净，使用时避开眼部，如不慎入眼即用清水冲洗，适合每日使用。实际效果因人而异。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "祛痘",
+        "id": "41"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20230628,
+    "goods_form": "23"
+  },
+  "success": true
+}

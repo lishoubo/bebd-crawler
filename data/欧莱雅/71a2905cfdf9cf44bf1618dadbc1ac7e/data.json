@@ -1,0 +1,136 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dxzg6N%2BrKI7hw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQ3QH1eeb0v5t4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6hvhjb91DrEUv695HSXRJeA9MMhGy9tMb3LmscdyLzc8aD56%2BH3WRjHE6mT%2BcKUnm8bChKbVFVRT3qdB77ShfYVFzQeSXzIFOSvfOzuRq1h4bG3wMSQqBr19Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1722446633@213c6a63_126e_19109d1db77_2289@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/MTyyN7Tfhk5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=2EC29544A96264C876C05E33CE1ACCAC"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/17dfeb1b-6184-59ce-882e-f3994665db92.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003289"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201813761"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1540483200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "¥135",
+    "sda_approval_date": 1540483200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9a58b73a0fbb8b4d64bd9ddf85cb9c06",
+        "sku_id": 824632,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003289"
+      },
+      {
+        "mid": "71a2905cfdf9cf44bf1618dadbc1ac7e",
+        "sku_id": 2576466,
+        "attribute_type": "9",
+        "attribute_val": "1540483200"
+      },
+      {
+        "mid": "71a2905cfdf9cf44bf1618dadbc1ac7e",
+        "sku_id": 2576466,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201813761"
+      },
+      {
+        "mid": "9a58b73a0fbb8b4d64bd9ddf85cb9c06",
+        "sku_id": 824632,
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_a2728df7-1ff6-4564-9220-4b13ae853468.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/cd7cb92d-353a-52c5-8365-ca3ce4c6ee4f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/17dfeb1b-6184-59ce-882e-f3994665db92.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"乳白色\"}, {\"name\": \"性状\", \"condition\": \"凝霜\"}, {\"name\": \"气味\", \"condition\": \"原料特征气味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL VITA LIFT ANTI-AGEING EYE CREAM",
+    "name": "欧莱雅男士锐能抗皱紧致眼部凝霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5225",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无。",
+    "safety_1_num": 4.5,
+    "mid": "71a2905cfdf9cf44bf1618dadbc1ac7e",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "15g",
+    "sda_approval_no": "国妆备进字J201813761",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "早晚使用于眼部皮肤，使用按摩头均匀涂抹眼霜，并轻柔按摩眼周皮肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 38,
+    "registered_day": 20181026,
+    "goods_form": ""
+  },
+  "success": true
+}

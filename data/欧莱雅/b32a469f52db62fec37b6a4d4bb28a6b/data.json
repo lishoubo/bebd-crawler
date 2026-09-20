@@ -1,0 +1,226 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,130,129,51,42,48,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DMW1bMoQu0Ltw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMdAWR77NOshBxq3IhSJN6GSw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6hvjnx7pujToAVAh7rExGyxIlraEy%2FxUoW%2BNjgJ5DwT9HKKAJqG9mLyPBEU0Z5M20nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12O9GQw9AZokEF0hdJKxJ4gvVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1760163754@213e71e2_1d34_199d1ef71b8_8cf9@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/uNYxrfEyNh6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6B195336D12AA8AFDDFB27C35B2B8899"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002283"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002282"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006887"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006886"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1751904000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1751817600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥419",
+    "sda_approval_date": 1751904000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "be88c374f8fd710948dc15e5f6bbb6f8",
+        "sku_id": 32330674,
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      },
+      {
+        "mid": "b32a469f52db62fec37b6a4d4bb28a6b",
+        "sku_id": 33645088,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002283"
+      },
+      {
+        "mid": "b32a469f52db62fec37b6a4d4bb28a6b",
+        "sku_id": 33645088,
+        "attribute_type": "9",
+        "attribute_val": "1751904000"
+      },
+      {
+        "mid": "aa04a6069b3c5787407d8e9ea9f3c870",
+        "sku_id": 33634654,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002282"
+      },
+      {
+        "mid": "aa04a6069b3c5787407d8e9ea9f3c870",
+        "sku_id": 33634654,
+        "attribute_type": "9",
+        "attribute_val": "1751817600"
+      },
+      {
+        "mid": "00fe277fd9445e66fbb8cd0fb0387e52",
+        "sku_id": 32332321,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006887"
+      },
+      {
+        "mid": "00fe277fd9445e66fbb8cd0fb0387e52",
+        "sku_id": 32332321,
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      },
+      {
+        "mid": "be88c374f8fd710948dc15e5f6bbb6f8",
+        "sku_id": 32330674,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006886"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_8491eb76-41a4-418f-b9a8-0562a9824edc.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/ef56a85f-87c4-58cb-9bdf-210db56ab437.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ce857630-9cda-5164-9f13-96549dac6ff8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b1e17a46-eb8b-5cfe-b819-302bf503653a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d47b8f8-49d1-557e-9a9d-f3c282acd0ca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7d7fb52f-24b6-5d0f-94ae-20f25601384a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5d88a731-efc5-519c-a8bb-8e697add366b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜胶原轻盈霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.1,
+    "mid": "b32a469f52db62fec37b6a4d4bb28a6b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "60ml",
+    "sda_approval_no": "苏G妆网备字2025002283",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜花蜜胶原轻盈霜@!@小蜜罐@!@小蜜罐4.0@!@小蜜罐面霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20250708,
+    "goods_form": "23"
+  },
+  "success": true
+}

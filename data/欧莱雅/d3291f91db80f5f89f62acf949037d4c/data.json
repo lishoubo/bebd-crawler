@@ -1,0 +1,196 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,52,51,126,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dj6s7%2BSgRGUNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDlPFx08C9aD%2BJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr66BLgsciBYANF8KzA420EK2%2Ft7VzB8gfd331kLlg6LLcYGYNn%2FipeozoUVpXy5YcKnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OSpgJvw9%2BU0%2FINB39aZGr8VNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1711919620@0b5e1429_10ed_18e965c6207_1dfc@01"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/633594cc-f326-5c91-85f3-3d30760fde3e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003848"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000638"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000404"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002346"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1656345600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1487779200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1456416000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418227200"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "",
+    "sda_approval_date": 1656345600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "1d287d0e50d03ce5e32dc054c71a6682",
+        "sku_id": 727442,
+        "attribute_type": "9",
+        "attribute_val": "1487779200"
+      },
+      {
+        "mid": "85284cbe589e1cc22be3bf959bd09e36",
+        "sku_id": 508440,
+        "attribute_type": "9",
+        "attribute_val": "1456416000"
+      },
+      {
+        "mid": "db01bdb1b361525f27d1a679d13906c9",
+        "sku_id": 216137,
+        "attribute_type": "9",
+        "attribute_val": "1418227200"
+      },
+      {
+        "mid": "d3291f91db80f5f89f62acf949037d4c",
+        "sku_id": 30974042,
+        "attribute_type": "9",
+        "attribute_val": "1656345600"
+      },
+      {
+        "mid": "1d287d0e50d03ce5e32dc054c71a6682",
+        "sku_id": 727442,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000638"
+      },
+      {
+        "mid": "db01bdb1b361525f27d1a679d13906c9",
+        "sku_id": 216137,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002346"
+      },
+      {
+        "mid": "85284cbe589e1cc22be3bf959bd09e36",
+        "sku_id": 508440,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000404"
+      },
+      {
+        "mid": "d3291f91db80f5f89f62acf949037d4c",
+        "sku_id": 30974042,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003848"
+      }
+    ],
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/1f3117b9-1c41-5b93-9c1a-3e0bbd9a3def.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/eebc2554-3feb-5c9e-b4db-00ace4c04f68.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1a21cac2-b05d-5c8b-bba4-f1683ef89f5f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c70a13a2-dacc-5f92-a750-c5cf3bce269a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/57ff53f1-3f52-5611-98cd-e8f97a01a051.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/633594cc-f326-5c91-85f3-3d30760fde3e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅青春密码酵素眼部精华肌底液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/1a21cac2-b05d-5c8b-bba4-f1683ef89f5f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "d3291f91db80f5f89f62acf949037d4c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022003848",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 180,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼部精华",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20220628,
+    "goods_form": "24"
+  },
+  "success": true
+}

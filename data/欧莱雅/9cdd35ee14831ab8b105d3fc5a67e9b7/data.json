@@ -1,0 +1,170 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,52,129,51,53",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DbsLtYVJxJQNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSB7%2BX3qcbs4MMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr61TTYCxmgoFxC5%2BrnWWXSPfIem4xbScFZO4%2Fz6LA2ups%2FCGQW29N5iLe%2FjwTeNDJi8bChKbVFVRT3qdB77ShfYV6KG8uwF68xAa8oTxrY1KVZ0VUmvPPyHHGtiTZKNIGDIYULNg46oBA%3D&union_lens=lensId:TAPI@1753119238@2121bc3b_1d09_1982e0ca799_bf4a@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/El3ro1Jxim9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=E94CCD117A3BA86228D1B3D4DB472ED7"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023004880"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015000134"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1685980800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1420560000"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1685980800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9cdd35ee14831ab8b105d3fc5a67e9b7",
+        "sku_id": 31841244,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023004880"
+      },
+      {
+        "mid": "4a6f06ebd514a7d97c6df1c7c58f9123",
+        "sku_id": 203336,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015000134"
+      },
+      {
+        "mid": "9cdd35ee14831ab8b105d3fc5a67e9b7",
+        "sku_id": 31841244,
+        "attribute_type": "9",
+        "attribute_val": "1685980800"
+      },
+      {
+        "mid": "4a6f06ebd514a7d97c6df1c7c58f9123",
+        "sku_id": 203336,
+        "attribute_type": "9",
+        "attribute_val": "1420560000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_3a5d6d99-18d8-4fdb-9c21-459986194c18.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/8db75f0d-658b-5460-b917-1e368e454b92.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7172e45f-4c1a-53c7-80f5-92e68d46bfe5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8d1c2bb4-ae4d-523e-9797-7e763c19cdab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d799f8d8-fa43-51d5-9de5-c92759216e19.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1c1c9416-0999-5fc4-b813-a57588cce922.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d9ccab5-5bc1-5acd-bcfe-19f69f760bab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56c6f19e-01a4-5a6a-9ac3-d4b503c35361.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/79c53202-7c70-5470-bdae-bcb05401e3a3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f19e463-d00d-5c38-b1af-ba03bfc5f844.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a321cd85-cd18-5fad-a3bd-8b57ae5e61cf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b7127a7c-065b-5ae2-b51b-657b1be0d9b5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c6988f93-912c-5209-b546-46f03133c2d2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士控油炭爽双效洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5205",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "9cdd35ee14831ab8b105d3fc5a67e9b7",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023004880",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士控油炭爽双效洁面膏",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20230606,
+    "goods_form": "23"
+  },
+  "success": true
+}

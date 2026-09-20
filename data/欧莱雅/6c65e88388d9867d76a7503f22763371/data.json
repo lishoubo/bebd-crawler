@@ -1,0 +1,194 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,129,51,54,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DQkylHzsPakRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfBXfEFl3cBuRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6L%2FOwPAqAmcYe7x%2BGBbu1KxWuI0mHwEzJ3F4Fh9asQ4bNzqGlytA5ELNtfW2oPGLFnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OJZp4nZVXnEUh8S%2Fa8acahVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753120491@212b4e8b_0e1a_1982e1fc735_3715@01"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021002754"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018010186"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1617897600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1544716800"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥630",
+    "sda_approval_date": 1544716800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "提亮",
+        "id": 5208
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "6c65e88388d9867d76a7503f22763371",
+        "sku_id": 2334734,
+        "attribute_type": "9",
+        "attribute_val": "1544716800"
+      },
+      {
+        "mid": "9192b6613cc94767745c736557a73786",
+        "sku_id": 4375426,
+        "attribute_type": "9",
+        "attribute_val": "1617897600"
+      },
+      {
+        "mid": "6c65e88388d9867d76a7503f22763371",
+        "sku_id": 2334734,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018010186"
+      },
+      {
+        "mid": "9192b6613cc94767745c736557a73786",
+        "sku_id": 4375426,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021002754"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0f29b32d-bc02-419e-8976-e19eb81c9896.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/85bbed04-eb79-5a11-b043-b79b1ca20981.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a05e0ed5-9f3e-564a-96aa-16a6ba82f084.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2e12aab8-f55d-5a15-bb10-945d7c90dd66.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3265c507-5f9a-57e0-bbe4-43ad64e014e0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56b22fa6-b3bd-5d55-b8d4-bccb43d77deb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/86db7018-e1d7-50d0-828a-4cfecdd0ef70.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ca8ca464-de22-57fb-b782-04364d7320c7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ef530318-8798-55f8-9c87-674283dfe434.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/01eff1e9-7dd3-510d-a69f-7e425b591cb5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5277f0af-8d8c-5d5d-b9d4-d415ea19cb92.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a909292e-c163-50cd-a0fd-623e4e377453.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bb715eab-a778-5fa9-a31e-5a72aa96a613.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cd7313d8-580c-52a7-9a08-6286ed64c3d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ecd9da15-4d59-503e-87a6-9931f1c9dfb2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养肌活修护精华",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5210,5208,5226,5207,5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.2,
+    "mid": "6c65e88388d9867d76a7503f22763371",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "苏G妆网备字2018010186",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 149,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "其他精华",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20181214,
+    "goods_form": "25"
+  },
+  "success": true
+}

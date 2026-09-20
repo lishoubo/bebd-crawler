@@ -1,0 +1,110 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,47",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/9644914f-d0d5-5e4e-8818-5d6bb5b4a04b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "定妆",
+    "price": "",
+    "sda_approval_date": 1765987200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "遮瑕",
+        "id": 5238
+      },
+      {
+        "name": "持久",
+        "id": 5243
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/081707b2-dd43-520c-810e-f6d93ea89496.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9644914f-d0d5-5e4e-8818-5d6bb5b4a04b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "块状",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩无瑕持妆粉饼 320色号",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/081707b2-dd43-520c-810e-f6d93ea89496.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5243,5238",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.9,
+    "mid": "10b7c8f53828199c998e87f45e73d89b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2025001844",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 208,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "莹特丽化妆品（苏州）有限公司",
+        "mid": "b25155410234b3533a74b06b221220e6"
+      },
+      {
+        "name": "莹特丽科技（苏州工业园区）有限公司第一分公司",
+        "mid": "e3c5ea15bd0176207aa47cf707d81d19"
+      }
+    ],
+    "category4Name": "粉饼",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 395,
+    "registered_day": 20251218,
+    "goods_form": "27"
+  },
+  "success": true
+}

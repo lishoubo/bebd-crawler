@@ -1,0 +1,125 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DC1ZCssypZ4Zw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMY7SxpyHLZu7RitN3%2FurF3x1JqeEpII60FAKj%2BNmLVghA2GXE01CapHEHXFb4qvcl2%2F9daiuH%2BPPOlGkMkr%2BSUUYmUGuVZn0uZuaA4ICoOZct7dfDVSyN9y0PuIO4jsS5K9AKYQRNvRfXQrwKeXXMuP27oGucSkqHop1ifaHs%2BWJ2UDg6D7J93TcHGQzGzqYRl9Pt6G4UU6O%2FufIeaShmLuZ9jVgNIYyYebGZTOEJNxQwKYnk10ZzO4HQf7B5XnBNcYl7w3%2FA2kb&union_lens=lensId:TAPI@1744551251@213def39_1971_1962f5b8d1a_4ac0@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/Y2p5WvOnfg5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=BEBDC7ED1FE22AC72883D1F6A4561D64"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAToJK1olWAcAUFxaCkMXB18IGloUXQIEUl5fCUInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWA2sOHVsXXA8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKx9WOV1qF1wha01fVx9YXlJKKHBXEAhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4cVQcCXFdbDXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlxFCQICUwwzVBVNVGxRTVx7WQcDUVpZCEInAW4JGVklbTYHEykmSgJlQGcNe1N2I3xQFg0-cg1-ZClWdVkTX20KKSkFD0NoVRJWeSRTNjYCZF5aDk8WMw"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/b36adfcc-8bc7-5a28-9003-5345e9b8381c.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥109",
+    "sda_approval_date": 1591718400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_c43c0ef6-36d3-4b7a-9882-9457d93408c9.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/12e69a24-c817-5187-93af-7d1911353883.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1c0f6af7-b40b-5cdc-8a5f-92193a92e25e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2488a2a8-8341-5068-9daf-a5c8a3f862e0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/28628cd3-bfc7-5091-9c3a-e8fa0ef8920e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2ef0e502-b1a1-54de-82b2-627b16e805ba.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3b603942-63c4-595c-aefa-342125b4bfd2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/42768683-9c66-51a1-b997-d301d325193f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/60c40303-02d0-5a1e-a3a0-2fa35f083a82.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/77ab9ad6-b6db-5120-9835-37c0a18beddf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a07e085b-ffd1-5a66-8e6d-165d8a73432a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a3f81172-25e7-5d1b-9685-cb56ab87d38e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a5cb8246-4cd9-5ae9-80d1-4b704a10191c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b417ea13-9069-5a05-9a2e-c7f896b0b4dd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bbc7385c-9134-5955-9fb1-f7ff9885e9d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c8c40196-34c6-5531-91d2-df63347f075d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d856458d-c650-5eac-8303-a339ddae079a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e5f2b307-6575-52fa-9487-854fd5e51b87.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f03a8a19-6c54-54a3-9174-84208179b038.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2fe11878-bb0f-5ad5-8028-63f223229c4f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3b8d5bbb-3812-57d8-9fcf-a07fbf000337.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/637289c9-1ed2-531a-a06d-cb5ee78f4a4c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7bec4abc-dfb9-50c2-8c38-4271c78c907b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/868e94ef-ed60-52d3-a0c5-17b928f22941.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a598f0b0-4e4b-59b5-81d1-7a758656aa12.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b36adfcc-8bc7-5a28-9003-5345e9b8381c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cf691918-a9e2-59a9-b2c6-4b57e6a53996.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d2619759-1104-5c4a-a38e-7eeab49f94f4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd7ae20d-1135-524c-a39b-7d7ae6991a3c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/29b3bb1d-174b-5df0-87ec-b80f36da89b4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/50797fa0-d666-53b5-8f9f-c1940c3569cd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8fca43aa-31e8-575a-9447-cfa784d84f45.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bcec2ad9-fa69-59f1-bc75-562bb1c67b31.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c769f5b2-66fc-5a2d-a3de-6a5f2ef88c06.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/db2bebfe-34bc-5cb6-828a-32d21b3e2de2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ec0ef334-4948-5d34-ad9e-c2668abe5f15.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f82057cf-45a3-5a8b-a002-7b98bf813b1a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅玻尿酸水光润发乳",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/a3f81172-25e7-5d1b-9685-cb56ab87d38e.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.7,
+    "mid": "cd06db7b3426b4faffcca7eeceee43bd",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2020003698",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅玻尿酸水光润发乳",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20200610,
+    "goods_form": "23"
+  },
+  "success": true
+}

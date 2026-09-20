@@ -1,0 +1,141 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "47,48",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/64ff3267-6f38-50bd-9b08-dca2f5db697e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023000805"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019001924"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1686844800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1563724800"
+      }
+    ],
+    "category3Name": "头发造型",
+    "price": "",
+    "sda_approval_date": 1686844800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "91a6f1a668ecfeb69fe85a1584a0ae79",
+        "sku_id": 31861738,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023000805"
+      },
+      {
+        "mid": "13c78634e3a56b2988a15e2e5787731c",
+        "sku_id": 3160879,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019001924"
+      },
+      {
+        "mid": "91a6f1a668ecfeb69fe85a1584a0ae79",
+        "sku_id": 31861738,
+        "attribute_type": "9",
+        "attribute_val": "1686844800"
+      },
+      {
+        "mid": "13c78634e3a56b2988a15e2e5787731c",
+        "sku_id": 3160879,
+        "attribute_type": "9",
+        "attribute_val": "1563724800"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_22711d45-395c-4e52-8229-8ea00a08297d.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/5ecd80ec-8cd2-5e05-ae56-4296680fd7b9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/64ff3267-6f38-50bd-9b08-dca2f5db697e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "泥",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士哑光塑型发泥",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/5ecd80ec-8cd2-5e05-ae56-4296680fd7b9.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.2,
+    "mid": "91a6f1a668ecfeb69fe85a1584a0ae79",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2023000805",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士哑光塑型发泥",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 385,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "韵斐诗化妆品（上海）有限公司（曾用名：上海姿秀化妆品有限公司）",
+        "mid": "bf9529805af3acf11428fb8ff83cea3c"
+      }
+    ],
+    "category4Name": "发泥/发蜡",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 70,
+    "registered_day": 20230616,
+    "goods_form": "28"
+  },
+  "success": true
+}

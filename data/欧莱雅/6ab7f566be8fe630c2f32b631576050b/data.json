@@ -1,0 +1,186 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,52,129,54",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DvYD1DBLkP2Bw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTH3epNbeEEG8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6FkPysP6N3mKh3kyyuHDZseNkY8nik09n6MElpLPBvDCt2xJyYJywmM3FC1r4aWTzG5CeUMT0tgovynyZqoK2AARzgZhnUuBSglJZGEnJs5nApieTXRnM7gdB%2FsHlecE1xiXvDf8DaRs%3D&union_lens=lensId:TAPI@1753117722@2127dbf4_0e7b_1982df5880f_9d36@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/emCRX7oWdK8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=44CFFF8A27883D779A6413691E43D918"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/648eac32-2730-5fa2-aedd-4012ff4eacf7.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003123"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000827"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002179"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "¥39",
+    "sda_approval_date": 1527696000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "6ab7f566be8fe630c2f32b631576050b",
+        "sku_id": 1153226,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003123"
+      },
+      {
+        "mid": "6ab7f566be8fe630c2f32b631576050b",
+        "sku_id": 1153226,
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "mid": "7b783778ea388ce400f7b4788fe904e3",
+        "sku_id": 2370128,
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "mid": "b2b7dee1be84803d70e09bfc9adb1ba8",
+        "sku_id": 209047,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002179"
+      },
+      {
+        "mid": "b2b7dee1be84803d70e09bfc9adb1ba8",
+        "sku_id": 209047,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "7b783778ea388ce400f7b4788fe904e3",
+        "sku_id": 2370128,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000827"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/75c26420-658d-4dc2-a7d5-a65c46f10096.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2f75214d-b39a-5304-8e0d-7c3d2c6e2325.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5ba7b817-f87f-507a-99aa-270bc0b86d98.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/19731d83-8cb3-51d5-baa8-ae39240d5748.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ca46c531-dbca-5f66-87b7-5eb52b3ec9ea.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cd5fabb5-e123-5b56-82a3-741726da0639.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d469ee20-ea14-57ec-bb20-4ffbb093f0a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f5e04fdc-5f02-5629-bebc-2edc1f2e9ab0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f606c15-aa9e-57bd-bf89-6845d5258ba0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/648eac32-2730-5fa2-aedd-4012ff4eacf7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7ad900a3-f5fd-559e-8c95-aa764655d653.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f4cd62b-92f5-5ddb-9eab-2849f71ec59f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b55e662a-50dc-5f2b-9122-28a862347cf8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ca88d5c6-e292-5be2-af71-e7bf875c447e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f549bf2e-95c6-576a-9eb3-a09a7f26f178.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士劲能深层净化洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/2f75214d-b39a-5304-8e0d-7c3d2c6e2325.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "6ab7f566be8fe630c2f32b631576050b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "100g",
+    "sda_approval_no": "苏G妆网备字2018003123",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士劲能深层净化洁面膏",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20180531,
+    "goods_form": "23"
+  },
+  "success": true
+}

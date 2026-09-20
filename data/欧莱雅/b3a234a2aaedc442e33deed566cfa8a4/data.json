@@ -1,0 +1,228 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,128,52,46,45,129,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DWx79s1nO58Fw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZ8PlkM1ilE95x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6fTUvkTh4uiECf%2BLmZOGAMjgbnmM3bI4xsTESmMa88CwUX3hHubtptEONdbB2Ebp5nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OFbqFb8gL1GDhb9TtZnpMXlNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753117525@212b46e6_1885_1982df284c6_9e78@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/PjJxSsvRXM8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=F94AA1D6F899B1CAABF1DCBFDF630320"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASAJK1olWAUKVV5cCU0RC18LElsdXgYDZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLXg8CXF1dCVRORjNVKwVPIFJUMRg-ay5hAzdeSTAcAX5QXAhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kBE1wSWAIKVF1VCHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlxFCQICUwszVA8TQW0BQgl7WgALU1dcCnsVAm4KGWslbUNWCysfUwBOdTcAQjxLGH9QFSwafzVrWW1KXCF1MwRxK18adwNfW2wBEi5oHkR7I25dOEsVA2g4Gms"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003901"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000549"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201812991"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1537977600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      }
+    ],
+    "category3Name": "卸妆",
+    "price": "¥99",
+    "sda_approval_date": 1530720000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "卸妆",
+        "id": 5214
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003901"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201812991"
+      },
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000549"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "9",
+        "attribute_val": "1537977600"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/5c6a82f1815b4.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1da00397-87ba-58fd-9333-7942f6592e1b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5229475c-77fd-5143-bc98-b8acd5fbafbf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1bd976b9-8b49-5698-93f5-128192d7b039.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/06ea17fc-aee9-5164-8918-aaf805528d22.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/396b2246-917b-516d-99dd-2ea495ab88d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/452f7d53-abe5-5b7e-8d3d-d512386eebfa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6750af6b-290b-5d8c-8b4a-b2ec15a034de.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6d5cbe8e-e9f3-5849-9799-6a6e4e432240.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9e30e476-20ac-5a25-b422-91cef6a4612a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9f6d84d4-2990-5c89-8b9c-6a0cbf86c316.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部,眼部,口唇",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅三合一卸妆洁颜水倍润型",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5204,5214",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "250ml",
+    "sda_approval_no": "苏G妆网备字2018003901",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 113,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "卸妆水/液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20180705,
+    "goods_form": "24"
+  },
+  "success": true
+}

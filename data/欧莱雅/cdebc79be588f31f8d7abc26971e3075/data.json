@@ -1,0 +1,151 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "127,44,128,46,130,129,53,48,54,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DEjtpXGDFbARw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb3oNE01h1BuJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOQj6sn5n8KbDawM9nv%2FYfdqYhloiAwcF4uQC28gZA3VvzS9p3HgUrlPVrts4NCieL8bChKbVFVRT3qdB77ShfYeCTnndEcWujSkKigp6VTXkC3944%2FKIKS8CmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1753125910@2107fcdd_0e59_1982e72760c_2c26@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/Ely90GcdJ4A?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=32B724B1A10544C4206D20DCF64E98F7"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAQwJK1olXDYCVV9cC0kTBW8KElMlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXgQGUl5fAUMIWipURmtzWEF1EiYACyhefW9OZw19JXZ0XV49BEcnA28MHVkTXAUHU25dCUoWBm4NHFIVbTYCUW4LZksWAm4JE10UWgUyVF5ZDk4RB2kKH2sVWwQHVVxeCEkWCmkNK1sdWTbU2-GIgcfCjfDRi-ZGCUFcCW5tOEgnM18IK1glA2gDB1lYAUsUAAFUHgZUFV1SFDBdDksXB2kPGV4lXwcDVlxtOHtqejlxbgVnDQNAK1k-CDxUXxZNZAkdWm1sViIdXDJQUR11HlhIO2F1VhUJOEsn"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/282c0ea6-fc33-5dc3-950a-ee5ca6c9b819.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "¥34.9",
+    "sda_approval_date": 1648828800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_3b965606-7906-4f46-abbd-400034b84ad0.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/08e3cc32-f35a-5e0d-a385-a8d35833ca8f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/282c0ea6-fc33-5dc3-950a-ee5ca6c9b819.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士水能保湿净油洁面啫喱",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/08e3cc32-f35a-5e0d-a385-a8d35833ca8f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5308,5205",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "cdebc79be588f31f8d7abc26971e3075",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "100ml",
+    "sda_approval_no": "苏G妆网备字2022000333",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士水能保湿净油洁面啫喱",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 100,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面啫喱/凝胶",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（宣称无泪配方）",
+        "id": "127"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20220402,
+    "goods_form": "25"
+  },
+  "success": true
+}

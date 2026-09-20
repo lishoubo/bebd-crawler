@@ -1,0 +1,2599 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "新成分表",
+        "ingredients": [],
+        "type": 1,
+        "esId": "31978563_1_1"
+      },
+      {
+        "tableIndex": 2,
+        "tableName": "新成分表",
+        "ingredients": [],
+        "type": 1,
+        "esId": "31978563_2_1"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "染发乳",
+        "ingredients": [],
+        "type": 2,
+        "esId": "31978563_1_2"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "新成分表",
+        "ingredients": [],
+        "type": 3,
+        "esId": "31978563_1_3"
+      }
+    ],
+    "total": 4,
+    "ingredientTable": [
+      {
+        "mid": "89666eebf6b9a1e071f8e5a5d9b843b7",
+        "name": "水",
+        "nameCn": "水",
+        "nameEn": "WATER; AQUA",
+        "aliasOther": "水@!@WATER@!@AQUA@!@去离子水@!@Purified Water@!@Deionized Water@!@纯水",
+        "pid": 1,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "bd588aa5f8e4ff41041b89c056bdc827",
+        "name": "甘油",
+        "nameCn": "甘油",
+        "nameEn": "GLYCERIN",
+        "aliasOther": "甘油@!@GLYCERIN@!@Glycerine@!@丙三醇@!@Glycerol",
+        "pid": 4,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d005a7a052e34ab1b3800cb71135ef20",
+        "name": "乙醇胺",
+        "nameCn": "乙醇胺",
+        "nameEn": "ETHANOLAMINE",
+        "aliasOther": "乙醇胺@!@ETHANOLAMINE@!@2-氨基乙醇@!@2-羟基乙胺@!@单乙醇胺",
+        "pid": 511,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "6",
+        "safetyNum": 6,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "83"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "d621aeab3b4300ecd641c8d622bf87ff",
+        "name": "丙烯酸(酯)类共聚物",
+        "nameCn": "丙烯酸(酯)类共聚物",
+        "nameEn": "ACRYLATES COPOLYMER",
+        "aliasOther": "丙烯酸(酯)类共聚物@!@ACRYLATES COPOLYMER@!@丙烯酸酯聚合体",
+        "pid": 3360,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "22",
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 22,
+            "name": "成膜剂",
+            "nameCh": "成膜剂",
+            "nameEn": "Film Forming Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "4a08b27ab74a6c6f188f3033108afa9f",
+        "name": "异抗坏血酸(异维生素C)",
+        "nameCn": "异抗坏血酸(异维生素C)",
+        "nameEn": "ERYTHORBIC ACID",
+        "aliasOther": "异抗坏血酸(异维生素C)@!@ERYTHORBIC ACID@!@异抗坏血酸(异 Vc)",
+        "pid": 6776,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "24"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "5f473f60c6659fbeb2badea2567fd231",
+        "name": "PEG-40 氢化蓖麻油",
+        "nameCn": "PEG-40 氢化蓖麻油",
+        "nameEn": "PEG-40 HYDROGENATED CASTOR OIL",
+        "aliasOther": "PEG-40 氢化蓖麻油@!@PEG-40 HYDROGENATED CASTOR OIL@!@RH 40@!@CO 40",
+        "pid": 85,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 7,
+            "name": "含PEG的成分",
+            "nameCh": "含PEG的成分",
+            "nameEn": "PEG Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "6bb6bf581e41b89492ed46810d213cac",
+        "name": "椰油基甜菜碱",
+        "nameCn": "椰油基甜菜碱",
+        "nameEn": "COCO-BETAINE",
+        "aliasOther": "椰油基甜菜碱@!@COCO-BETAINE",
+        "pid": 612,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50",
+          "20",
+          "17",
+          "63",
+          "71",
+          "44",
+          "31"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 17,
+            "name": "增泡剂",
+            "nameCh": "增泡剂",
+            "nameEn": "Foam Boosters"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "bddf55161ce50df83a8b171d40ca2d27",
+        "name": "乙二醇二硬脂酸酯",
+        "nameCn": "乙二醇二硬脂酸酯",
+        "nameEn": "GLYCOL DISTEARATE",
+        "aliasOther": "乙二醇二硬脂酸酯@!@GLYCOL DISTEARATE@!@二乙醇二硬脂酸@!@珠光片双酯",
+        "pid": 170,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "84"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 84,
+            "name": "不透明剂",
+            "nameCh": "不透明剂",
+            "nameEn": "Opacifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "130a8179a473ab9a11bc7d76cc9964a1",
+        "name": "对苯二胺",
+        "nameCn": "对苯二胺",
+        "nameEn": "p-PHENYLENEDIAMINE",
+        "aliasOther": "对苯二胺@!@p-PHENYLENEDIAMINE@!@p-苯二胺@!@乌尔丝D",
+        "pid": 338,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "10",
+        "safetyNum": 10,
+        "safetyLevel": 3,
+        "usedIdList": [
+          "52",
+          "37"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          },
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "9d7545056cb8d450d0ba2b4c0a07e49a",
+        "name": "间苯二酚",
+        "nameCn": "间苯二酚",
+        "nameEn": "RESORCINOL",
+        "aliasOther": "间苯二酚@!@RESORCINOL@!@1,3-二羟基苯@!@雷索辛@!@树脂酚",
+        "pid": 219,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "9",
+        "safetyNum": 9,
+        "safetyLevel": 3,
+        "usedIdList": [
+          "12",
+          "85",
+          "37"
+        ],
+        "effectIdList": [
+          "73",
+          "24"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 12,
+            "name": "变性剂",
+            "nameCh": "变性剂",
+            "nameEn": "Denaturant"
+          },
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 73,
+            "name": "祛痘",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "祛痘",
+            "nameEn": "祛痘"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "18707e20101445b3c66d403015888b8a",
+        "name": "聚二甲基硅氧烷",
+        "nameCn": "聚二甲基硅氧烷",
+        "nameEn": "DIMETHICONE",
+        "aliasOther": "聚二甲基硅氧烷@!@DIMETHICONE@!@二甲基硅酮@!@DC200/100cst@!@二甲基硅油@!@地美司康@!@DC200/350cst@!@硅灵@!@PDMS",
+        "pid": 5,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-5",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "2f3b0382dadfb964df953891818e9814",
+        "name": "焦亚硫酸钠",
+        "nameCn": "焦亚硫酸钠",
+        "nameEn": "SODIUM METABISULFITE",
+        "aliasOther": "焦亚硫酸钠@!@SODIUM METABISULFITE@!@Sodium Disulfite@!@偏亚硫酸钠@!@Sodium Metabisulphite@!@Sodium Pyrosulphite",
+        "pid": 300,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-6",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69",
+          "65"
+        ],
+        "effectIdList": [
+          "24"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 65,
+            "name": "还原剂",
+            "nameCh": "还原剂",
+            "nameEn": "Reducing Agent"
+          },
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "65775ad60120d71213c3a9c016bbc7c5",
+        "name": "椰油酰胺丙基甜菜碱",
+        "nameCn": "椰油酰胺丙基甜菜碱",
+        "nameEn": "COCAMIDOPROPYL BETAINE",
+        "aliasOther": "椰油酰胺丙基甜菜碱@!@COCAMIDOPROPYL BETAINE@!@N-椰油酰胺丙基-N@!@CAB@!@椰油基酰胺丙基二甲基甘氨酸@!@N-二甲基甘氨酸内盐@!@CAPB",
+        "pid": 77,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-5",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "44",
+          "63",
+          "85"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "2e8fb636e4b1c52691ac405d6630a916",
+        "name": "对氨基苯酚",
+        "nameCn": "对氨基苯酚",
+        "nameEn": "p-AMINOPHENOL",
+        "aliasOther": "对氨基苯酚@!@p-AMINOPHENOL@!@p-氨基苯酚",
+        "pid": 3044,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "7",
+        "safetyNum": 7,
+        "safetyLevel": 3,
+        "usedIdList": [
+          "37"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "9a7d349832ec295f163081ac0af8dcdf",
+        "name": "氯化钠",
+        "nameCn": "氯化钠",
+        "nameEn": "SODIUM CHLORIDE",
+        "aliasOther": "氯化钠@!@SODIUM CHLORIDE@!@食盐",
+        "pid": 35,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "13",
+          "86"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 13,
+            "name": "口腔护理剂",
+            "nameCh": "口腔护理剂",
+            "nameEn": "Oral Care"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "dc863fd233fc17a52ff7d161dd23b2bb",
+        "name": "聚季铵盐-7",
+        "nameCn": "聚季铵盐-7",
+        "nameEn": "POLYQUATERNIUM-7",
+        "aliasOther": "聚季铵盐-7@!@POLYQUATERNIUM-7@!@M550@!@二甲基二烯丙基氯化铵-丙烯酰胺共聚物",
+        "pid": 239,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-5",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "22",
+          "31"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 22,
+            "name": "成膜剂",
+            "nameCh": "成膜剂",
+            "nameEn": "Film Forming Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "d0b50c852b340a43e7fdd6c746a5822b",
+        "name": "巯基乙酸",
+        "nameCn": "巯基乙酸",
+        "nameEn": "THIOGLYCOLIC ACID",
+        "aliasOther": "巯基乙酸@!@THIOGLYCOLIC ACID@!@巯基醋酸",
+        "pid": 1331,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-6",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "58",
+          "47",
+          "65"
+        ],
+        "effectIdList": [
+          "24"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 47,
+            "name": "烫发剂",
+            "nameCh": "烫发剂",
+            "nameEn": "Hair-Waving/Straightening Agent"
+          },
+          {
+            "id": 58,
+            "name": "脱毛剂",
+            "nameCh": "脱毛剂",
+            "nameEn": "Depilatory agent"
+          },
+          {
+            "id": 65,
+            "name": "还原剂",
+            "nameCh": "还原剂",
+            "nameEn": "Reducing Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "c683440ceb857393977d910167ace4e8",
+        "name": "2-氨基-3-羟基吡啶",
+        "nameCn": "2-氨基-3-羟基吡啶",
+        "nameEn": "2-AMINO-3-HYDROXYPYRIDINE",
+        "aliasOther": "2-氨基-3-羟基吡啶@!@2-AMINO-3-HYDROXYPYRIDINE",
+        "pid": 1001,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-4",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "37"
+        ],
+        "effectIdList": [
+          "60"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          }
+        ],
+        "effect": [
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "69bf9e9b46e29ea479ca29a1cbac8463",
+        "name": "氨端聚二甲基硅氧烷",
+        "nameCn": "氨端聚二甲基硅氧烷",
+        "nameEn": "AMODIMETHICONE",
+        "aliasOther": "氨端聚二甲基硅氧烷@!@AMODIMETHICONE",
+        "pid": 292,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "31"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "9db07666542d81654069fa0981d24ed0",
+        "name": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameCn": "聚丙烯酰基二甲基牛磺酸铵",
+        "nameEn": "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "aliasOther": "聚丙烯酰基二甲基牛磺酸铵@!@AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+        "pid": 483,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19",
+          "86",
+          "71"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "65a88fa48c4292cbd6b7bc9d94489cdb",
+        "name": "丙烯酸(酯)类/山嵛醇聚醚-25 甲基丙烯酸酯共聚物",
+        "nameCn": "丙烯酸(酯)类/山嵛醇聚醚-25 甲基丙烯酸酯共聚物",
+        "nameEn": "ACRYLATES/BEHENETH-25 METHACRYLATE COPOLYMER",
+        "aliasOther": "丙烯酸(酯)类/山嵛醇聚醚-25 甲基丙烯酸酯共聚物@!@ACRYLATES/BEHENETH-25 METHACRYLATE COPOLYMER",
+        "pid": 3344,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "71",
+          "19"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "94280cf9caeb113119f128357aba2947",
+        "name": "间氨基苯酚",
+        "nameCn": "间氨基苯酚",
+        "nameEn": "m-AMINOPHENOL",
+        "aliasOther": "间氨基苯酚@!@m-AMINOPHENOL@!@m-氨基苯酚@!@CI 76545",
+        "pid": 2837,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "8",
+        "safetyNum": 8,
+        "safetyLevel": 3,
+        "usedIdList": [
+          "37"
+        ],
+        "effectIdList": [
+          "24"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "edf31f2252fecf792cc200b7834d5bbf",
+        "name": "辛基/癸基葡糖苷",
+        "nameCn": "辛基/癸基葡糖苷",
+        "nameEn": "CAPRYLYL/CAPRYL GLUCOSIDE",
+        "aliasOther": "辛基/癸基葡糖苷@!@CAPRYLYL/CAPRYL GLUCOSIDE",
+        "pid": 630,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "44",
+          "19",
+          "63",
+          "17"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 17,
+            "name": "增泡剂",
+            "nameCh": "增泡剂",
+            "nameEn": "Foam Boosters"
+          },
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "15c7909007f8ba21f3c1baab30ee97da",
+        "name": "十三烷醇聚醚-10",
+        "nameCn": "十三烷醇聚醚-10",
+        "nameEn": "TRIDECETH-10",
+        "aliasOther": "十三烷醇聚醚-10@!@TRIDECETH-10",
+        "pid": 1028,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "44",
+          "63",
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "c6e8133b363ccc03777737203878f528",
+        "name": "乙二胺四乙酸",
+        "nameCn": "乙二胺四乙酸",
+        "nameEn": "EDTA",
+        "aliasOther": "乙二胺四乙酸@!@EDTA@!@Ethylenediaminetetraacetic acid",
+        "pid": 287,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "61"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 61,
+            "name": "螯合剂",
+            "nameCh": "螯合剂",
+            "nameEn": "Complexing agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "bf991668e0bb91f54f61bf4aef1e2d6f",
+        "name": "脯氨酸",
+        "nameCn": "脯氨酸",
+        "nameEn": "PROLINE",
+        "aliasOther": "脯氨酸@!@PROLINE",
+        "pid": 364,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "50"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 54,
+    "ingredientNum": {
+      "risk_ingredient_num": 17,
+      "safety_level_2_num": 5,
+      "safety_level_1_num": 44,
+      "function_ingredient_num": 25,
+      "function_ingredient_num_v310": 25,
+      "ingredient_num": 54,
+      "safety_level_3_num": 4,
+      "safety_level_4_num": 1
+    },
+    "microIngredientList": [
+      {
+        "mid": "32bd278881ad851149462fb3cfe93df7",
+        "name": "刺阿干树(ARGANIA SPINOSA)仁油",
+        "nameCn": "刺阿干树(ARGANIA SPINOSA)仁油",
+        "nameEn": "ARGANIA SPINOSA KERNEL OIL",
+        "aliasOther": "刺阿干树(ARGANIA SPINOSA)仁油@!@ARGANIA SPINOSA KERNEL OIL@!@摩洛哥坚果油@!@阿甘油@!@Argan Nut Oil",
+        "pid": 3490,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "38",
+          "50"
+        ],
+        "effectIdList": [
+          "5",
+          "24"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d2d1243a2903440c47101872be4bd602",
+        "name": "4-氨基-2-羟基甲苯",
+        "nameCn": "4-氨基-2-羟基甲苯",
+        "nameEn": "4-AMINO-2-HYDROXYTOLUENE",
+        "aliasOther": "4-氨基-2-羟基甲苯@!@4-AMINO-2-HYDROXYTOLUENE",
+        "pid": 345,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "6",
+        "safetyNum": 6,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "37"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "0a303b9d7e004475f71c0ecbae5c945a",
+        "name": "2-甲基-5-羟乙氨基苯酚",
+        "nameCn": "2-甲基-5-羟乙氨基苯酚",
+        "nameEn": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+        "aliasOther": "2-甲基-5-羟乙氨基苯酚@!@2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+        "pid": 716,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "6",
+        "safetyNum": 6,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "37"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 37,
+            "name": "染发剂",
+            "nameCh": "染发剂",
+            "nameEn": "Hair dye"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "73f9f54845b6b4a87f950b33d5036ba7",
+        "name": "PEG-100 硬脂酸酯",
+        "nameCn": "PEG-100 硬脂酸酯",
+        "nameEn": "PEG-100 STEARATE",
+        "aliasOther": "PEG-100 硬脂酸酯@!@PEG-100 STEARATE",
+        "pid": 71,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 7,
+            "name": "含PEG的成分",
+            "nameCh": "含PEG的成分",
+            "nameEn": "PEG Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "b2ae64838ed16fa8cc4df27bddacee10",
+        "name": "苯氧乙醇",
+        "nameCn": "苯氧乙醇",
+        "nameEn": "PHENOXYETHANOL",
+        "aliasOther": "苯氧乙醇@!@PHENOXYETHANOL@!@PE",
+        "pid": 3,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-4",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "558ed37f5ee55ea43764d700c1628f2d",
+        "name": "硬脂醇聚醚-6",
+        "nameCn": "硬脂醇聚醚-6",
+        "nameEn": "STEARETH-6",
+        "aliasOther": "硬脂醇聚醚-6@!@STEARETH-6",
+        "pid": 1921,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85",
+          "44",
+          "63"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "ac8617b2287fb905d31ae7a1047c5b22",
+        "name": "水杨酸",
+        "nameCn": "水杨酸",
+        "nameEn": "SALICYLIC ACID",
+        "aliasOther": "水杨酸@!@SALICYLIC ACID@!@β-羟基酸@!@柳酸",
+        "pid": 152,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4-7",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "23"
+        ],
+        "effectIdList": [
+          "73",
+          "23",
+          "33",
+          "10"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 23,
+            "name": "去头屑剂",
+            "nameCh": "去头屑剂",
+            "nameEn": "Antidandruff Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 10,
+            "name": "去角质",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "去角质",
+            "nameEn": "Radiation Protection"
+          },
+          {
+            "id": 23,
+            "name": "去屑",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "去屑",
+            "nameEn": "去屑"
+          },
+          {
+            "id": 33,
+            "name": "控油",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "控油",
+            "nameEn": "控油"
+          },
+          {
+            "id": 73,
+            "name": "祛痘",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "祛痘",
+            "nameEn": "祛痘"
+          }
+        ],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          },
+          {
+            "id": 8,
+            "name": "孕妇慎用成分",
+            "nameCh": "孕妇慎用成分",
+            "nameEn": "Pregnant Women Caution Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "6f8be4ace47fb352a8d2c943b1311ea9",
+        "name": "苯甲酸钠",
+        "nameCn": "苯甲酸钠",
+        "nameEn": "SODIUM BENZOATE",
+        "aliasOther": "苯甲酸钠@!@SODIUM BENZOATE@!@安息香酸钠",
+        "pid": 32,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "2d197c720ab5a44fa2014a24b0e50f96",
+        "name": "十三烷醇聚醚-3",
+        "nameCn": "十三烷醇聚醚-3",
+        "nameEn": "TRIDECETH-3",
+        "aliasOther": "十三烷醇聚醚-3@!@TRIDECETH-3",
+        "pid": 2129,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "63",
+          "44",
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "26e5d0ca0714241b6b2c5ca9071789ce",
+        "name": "2-油酰胺基-1,3-十八烷二醇",
+        "nameCn": "2-油酰胺基-1,3-十八烷二醇",
+        "nameEn": "2-OLEAMIDO-1,3-OCTADECANEDIOL",
+        "aliasOther": "2-油酰胺基-1,3-十八烷二醇@!@2-OLEAMIDO-1,3-OCTADECANEDIOL",
+        "pid": 456,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "93"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "592b273abef0be5aafbbe7f6899979ac",
+        "name": "丙二醇",
+        "nameCn": "丙二醇",
+        "nameEn": "PROPYLENE GLYCOL",
+        "aliasOther": "丙二醇@!@PROPYLENE GLYCOL@!@1,2-丙二醇",
+        "pid": 9,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "16adccb3c2bf5cef4d774e34e088cd82",
+        "name": "乙酸",
+        "nameCn": "乙酸",
+        "nameEn": "ACETIC ACID",
+        "aliasOther": "乙酸@!@ACETIC ACID@!@冰醋酸@!@醋酸",
+        "pid": 1357,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "3045d4041096f17c96c7a732fe4afde1",
+        "name": "PCA 钠",
+        "nameCn": "PCA 钠",
+        "nameEn": "SODIUM PCA",
+        "aliasOther": "PCA 钠@!@SODIUM PCA@!@PCA-Na@!@2-吡咯烷酮-5-羧酸钠@!@吡咯烷酮羧酸钠@!@L-吡咯烷酮羧酸钠",
+        "pid": 108,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "31"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "c09dcaf44ec5fb83aa39edd13ceccfe7",
+        "name": "乳酸钠",
+        "nameCn": "乳酸钠",
+        "nameEn": "SODIUM LACTATE",
+        "aliasOther": "乳酸钠@!@SODIUM LACTATE@!@DL-乳酸钠@!@α-羟基丙酸钠",
+        "pid": 203,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-5",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83",
+          "5"
+        ],
+        "effectIdList": [
+          "5",
+          "10"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 10,
+            "name": "去角质",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "去角质",
+            "nameEn": "Radiation Protection"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "84ace9838f27427d40fa6fabc97138ed",
+        "name": "精氨酸",
+        "nameCn": "精氨酸",
+        "nameEn": "ARGININE",
+        "aliasOther": "精氨酸@!@ARGININE@!@L-Arginine@!@(2s)-2-Amino-5-guanidinopentanoic Acid@!@2-氨基-5-胍基戊酸@!@L-精氨酸@!@胍基戊氨酸",
+        "pid": 94,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "83",
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "4f695bad4d64765f383ee4fe441c25eb",
+        "name": "天冬氨酸",
+        "nameCn": "天冬氨酸",
+        "nameEn": "ASPARTIC ACID",
+        "aliasOther": "天冬氨酸@!@ASPARTIC ACID@!@天门冬氨酸",
+        "pid": 431,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "31"
+        ],
+        "effectIdList": [
+          "74",
+          "24"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "219da7ca2df6ec6a58887aad71c71b0f",
+        "name": "吡咯烷酮羧酸",
+        "nameCn": "吡咯烷酮羧酸",
+        "nameEn": "PCA",
+        "aliasOther": "吡咯烷酮羧酸@!@PCA@!@焦谷氨酸",
+        "pid": 816,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "5",
+          "50"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d0227939967b03e738670c96154752c6",
+        "name": "山梨(糖)醇",
+        "nameCn": "山梨(糖)醇",
+        "nameEn": "SORBITOL",
+        "aliasOther": "山梨(糖)醇@!@SORBITOL@!@山梨醇",
+        "pid": 5633,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "0f63fe9278f915f0d28f4553c7221e9d",
+        "name": "甘氨酸",
+        "nameCn": "甘氨酸",
+        "nameEn": "GLYCINE",
+        "aliasOther": "甘氨酸@!@GLYCINE@!@氨基乙酸",
+        "pid": 199,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50",
+          "5",
+          "31",
+          "20"
+        ],
+        "effectIdList": [
+          "74",
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "6504b35375e464bd3f4d39c0bd2aeaf1",
+        "name": "丙氨酸",
+        "nameCn": "丙氨酸",
+        "nameEn": "ALANINE",
+        "aliasOther": "丙氨酸@!@ALANINE",
+        "pid": 257,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "31",
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "79ecac47a3bf39a3485b38914e4e6c56",
+        "name": "丝氨酸",
+        "nameCn": "丝氨酸",
+        "nameEn": "SERINE",
+        "aliasOther": "丝氨酸@!@SERINE@!@丝胺酸",
+        "pid": 178,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "31",
+          "5"
+        ],
+        "effectIdList": [
+          "5",
+          "68"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 68,
+            "name": "防脱发",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "防脱发",
+            "nameEn": "防脱发"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "c2c62dc4e6815e2844e16ef40c4e74c9",
+        "name": "缬氨酸",
+        "nameCn": "缬氨酸",
+        "nameEn": "VALINE",
+        "aliasOther": "缬氨酸@!@VALINE@!@α-氨基异戊酸@!@2-氨基-3-甲基丁酸",
+        "pid": 417,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "50",
+          "31",
+          "5"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "232263ad48cab44595b01f9b73780915",
+        "name": "姜(ZINGIBER OFFICINALE)根提取物",
+        "nameCn": "姜(ZINGIBER OFFICINALE)根提取物",
+        "nameEn": "ZINGIBER OFFICINALE (GINGER) ROOT EXTRACT",
+        "aliasOther": "姜(ZINGIBER OFFICINALE)根提取物@!@ZINGIBER OFFICINALE (GINGER) ROOT EXTRACT",
+        "pid": 4386,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "74",
+          "68",
+          "24",
+          "60"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 68,
+            "name": "防脱发",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "防脱发",
+            "nameEn": "防脱发"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "d2b14643ba9ec23bb9c1e481e8e1cad8",
+        "name": "异亮氨酸",
+        "nameCn": "异亮氨酸",
+        "nameEn": "ISOLEUCINE",
+        "aliasOther": "异亮氨酸@!@ISOLEUCINE@!@L-异亮氨酸@!@L-异白氨酸@!@L-α-氨基-β-甲基戊酸",
+        "pid": 605,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "31",
+          "20",
+          "50"
+        ],
+        "effectIdList": [
+          "68"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 68,
+            "name": "防脱发",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "防脱发",
+            "nameEn": "防脱发"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "330741b5bc9437cbca7241b2c8a5d878",
+        "name": "苏氨酸",
+        "nameCn": "苏氨酸",
+        "nameEn": "THREONINE",
+        "aliasOther": "苏氨酸@!@THREONINE",
+        "pid": 318,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "50",
+          "31"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "da2fd7ebe88d19b00cdf28b560e02db0",
+        "name": "苯丙氨酸",
+        "nameCn": "苯丙氨酸",
+        "nameEn": "PHENYLALANINE",
+        "aliasOther": "苯丙氨酸@!@PHENYLALANINE",
+        "pid": 534,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "31",
+          "20",
+          "50"
+        ],
+        "effectIdList": [
+          "56",
+          "68"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 56,
+            "name": "祛斑美白",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "祛斑美白",
+            "nameEn": "祛斑美白"
+          },
+          {
+            "id": 68,
+            "name": "防脱发",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "防脱发",
+            "nameEn": "防脱发"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "9a438459d153b65bd3143c5a03654c92",
+        "name": "组氨酸",
+        "nameCn": "组氨酸",
+        "nameEn": "HISTIDINE",
+        "aliasOther": "组氨酸@!@HISTIDINE@!@(S)-2-氨基-3-(4-咪唑基)丙酸@!@L-α-氨基-β-4-咪唑基丙酸",
+        "pid": 515,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "50",
+          "20",
+          "31"
+        ],
+        "effectIdList": [
+          "5",
+          "93"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      }
+    ],
+    "safetyDistribute": [
+      {
+        "yAxis": 11,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "7"
+      },
+      {
+        "yAxis": 24,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "2-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "1-4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "4-7"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "9"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "1-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2-4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "3"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "10"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "8"
+      },
+      {
+        "yAxis": 3,
+        "xAxis": "6"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "2-6"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

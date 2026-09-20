@@ -1,0 +1,130 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,129,51,42,126,48,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "乳液",
+    "price": "",
+    "sda_approval_date": 1761753600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/62060202-674f-5eae-be5a-ee175cfeaf54.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/aa2e070e-fbd2-5d54-ba5e-f186b6081dc3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/39181e80-ccce-53a1-88a2-43d22ea40b10.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/57f27e6f-bf55-5a42-96ce-c7f5b7e9f556.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e193df13-e060-59d7-a472-ead7cddeea0c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2fdef249-c10a-5e66-949a-c22f36c1a613.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/632da091-11e2-5119-8690-d8abf11bbac1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/badd9b1c-ad50-5948-b61c-a926a3693fb2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bbd0ddc7-c9f3-574c-9815-e71bae3b9407.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/52f39ec4-c978-5648-8fbf-038ebba21cbc.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜胶原精华乳",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品含有芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "fe1617518ab9b7d89a2f61ce898df728",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025006493",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 147,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天早晚使用在清洁后的面部及颈部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20251030,
+    "goods_form": "23"
+  },
+  "success": true
+}

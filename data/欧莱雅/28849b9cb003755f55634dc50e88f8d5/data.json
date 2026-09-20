@@ -1,0 +1,125 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DP0PzL%2Fi%2Bw1xw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRYreWfqhdZEt4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXR9VFV3Gf5TEnonbhWprsMROBcpTyAjpsrmmv9iNlPaMzX%2FGEhW0N2SfHM%2B1Ti6qLZMjUB65JUDQX0%2B3obhRTo7%2B58h5pKGYu9YY89nTcJHEaIm3Es2yy2BM49ZNfa1BgxuQnlDE9LYKvRn9s5lIr3k%3D&union_lens=lensId:TAPI@1753119423@212cb236_0e4f_1982e0f7c03_db90@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/BarGXsHCRg5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=ECEF4F93891756D95A1C379ACA2102B7"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGloTXQcCV1leDkoeC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkIGlsWWgUEVVdVFxJSXzI4RhttPF0KFSY9WkhBaDNMZhhHAANUAlJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgcBUFpUDUInA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWgNWVVpUZhdCVjtTSxlAMwIKVVlZAU8XM20JGlkXbTYyMyMeASIXXCRqfCBOJkN7CQMiaRZtW2l_dVkdXVFRLh4qcykXejB-ZA58XTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/0f5de905-cf6f-52e9-90a3-f7451ddb240c.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面膜",
+    "price": "¥115",
+    "sda_approval_date": 1671984000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_182f1d0b-cc49-4601-a485-a0f7afe0650b.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/65b6a4a2-3413-5d09-93f9-415cd7a29aed.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/847eb86b-1700-56d4-b1ff-3a9a529a2b5d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/16ccb1aa-cfb0-50d3-829b-f058f76043a9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/26de0a21-7208-5e7c-bf80-4b28fc9e4fe1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0f5de905-cf6f-52e9-90a3-f7451ddb240c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b13b3ada-fbab-53e3-a945-f8b4b090be34.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"料体颜色\", \"condition\": \"无色透明\"}, {\"name\": \"膜材颜色\", \"condition\": \"白色\"}, {\"name\": \"料体性状\", \"condition\": \"液体\"}, {\"name\": \"膜材性状\", \"condition\": \"无纺布\"}, {\"name\": \"料体气味\", \"condition\": \"有原料特征性气味\"}, {\"name\": \"膜材气味\", \"condition\": \"无异常气味\"}]}]",
+    "goodsForm": "液体,贴、膜、含基材",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅青春密码密集肌能精华鲜注面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/16ccb1aa-cfb0-50d3-829b-f058f76043a9.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "无",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "28849b9cb003755f55634dc50e88f8d5",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "33g*5",
+    "sda_approval_no": "苏G妆网备字2022010882",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅青春密码密集肌能精华鲜注面膜",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1. 将面膜袋沿虚线折叠。 2. 用力按压原液区域，至中间封条张开，展开面膜袋。 3. 将精华注入膜布区域，充分浸润。 4. 取出膜布展开，轻敷于脸部，静享15分钟密集养护。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20221226,
+    "goods_form": "32,24"
+  },
+  "success": true
+}

@@ -1,0 +1,135 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,128,45,130,129,48,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DzL9NobIykd5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMczuHKC0kZP679%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoLL%2FrAGW0D1qskmx5kiO8DpndR0CisZIhQFSrzgTbVr6HDMdeRESgab0%2B4y7ZtefHn93%2FTVNvq42PCQxaI924F%2FqMBHETZHkudKWZaO0EZXlnkThY6Ekzd8EZDCAa%2BBasGlVppH0xRiGt%2FiK6nf8MIJxrYk2SjSBgyGFCzYOOqAQ&union_lens=lensId:TAPI@1753122009@2107fb66_0dd8_1982e36f1d1_5d7f@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/SxL5VMttEh7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=720881204D0469125FAF7FF152F53787"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/9ca1b448-c654-5a00-9d19-248b3c32489e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "卸妆",
+    "price": "¥149",
+    "sda_approval_date": 1553184000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "卸妆",
+        "id": 5214
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0922a051-24e2-46a1-bb57-b580bc67af47.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/9936039f-4344-51b7-953f-ef4979090e60.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f7f8665-7e4b-55b7-90f9-c27d96188604.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/522c2939-89b1-5a38-b197-05cb67c2ca26.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9ca1b448-c654-5a00-9d19-248b3c32489e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部,眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅花萃净透卸妆油",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/9936039f-4344-51b7-953f-ef4979090e60.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5214",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.8,
+    "mid": "73ad4208e62cbcb6a3eb43af8b8d9f51",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "250ml",
+    "sda_approval_no": "苏G妆网备字2019001989",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅花萃卸妆油@!@欧莱雅花萃净透卸妆油",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 112,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "卸妆油/洁面油",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20190322,
+    "goods_form": "24"
+  },
+  "success": true
+}

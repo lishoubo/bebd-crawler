@@ -1,0 +1,234 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DvEWoKi8Q%2FQJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXcX%2FgQ5fV6T8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXbjmReAdxKdvonpkgtk%2BttLOQ5Z3DcVSHx7hhrB%2F3IijaXEqaNOC98gV1hIrG%2FG13GFlFFvC63p8U1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRyUyP0UL9FIyYgP%2FO%2B4PRHIYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753120942@2132c26b_0e48_1982e26a91c_cab7@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/yCMABHIA4d5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=A37F0C4F83DC72BA84AE06FF1983BE9C"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "美颜遮瑕"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "美颜柔紫"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190502"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190497"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1677772800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1555603200"
+      }
+    ],
+    "category3Name": "防晒",
+    "price": "¥170",
+    "sda_approval_date": 1555603200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "提亮",
+        "id": 5208
+      },
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "f597f6137919f92bf2174317148be0be",
+        "sku_id": 31769276,
+        "attribute_type": "9",
+        "attribute_val": "1677772800"
+      },
+      {
+        "mid": "7878bd93374e48b2075a970fe4b55ffa",
+        "sku_id": 2594455,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190502"
+      },
+      {
+        "mid": "1f01d88942f4e233d61271836a3b3bfd",
+        "sku_id": 2553254,
+        "attribute_type": "9",
+        "attribute_val": "1555603200"
+      },
+      {
+        "mid": "f597f6137919f92bf2174317148be0be",
+        "sku_id": 31769276,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "f597f6137919f92bf2174317148be0be",
+        "sku_id": 31769276,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190497"
+      },
+      {
+        "mid": "7878bd93374e48b2075a970fe4b55ffa",
+        "sku_id": 2594455,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "7878bd93374e48b2075a970fe4b55ffa",
+        "sku_id": 2594455,
+        "attribute_type": "9",
+        "attribute_val": "1555603200"
+      },
+      {
+        "mid": "f597f6137919f92bf2174317148be0be",
+        "sku_id": 31769276,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "f597f6137919f92bf2174317148be0be",
+        "sku_id": 31769276,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "7878bd93374e48b2075a970fe4b55ffa",
+        "sku_id": 2594455,
+        "attribute_type": "1",
+        "attribute_val": "美颜柔紫"
+      },
+      {
+        "mid": "7878bd93374e48b2075a970fe4b55ffa",
+        "sku_id": 2594455,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "1f01d88942f4e233d61271836a3b3bfd",
+        "sku_id": 2553254,
+        "attribute_type": "1",
+        "attribute_val": "美颜遮瑕"
+      },
+      {
+        "mid": "1f01d88942f4e233d61271836a3b3bfd",
+        "sku_id": 2553254,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "1f01d88942f4e233d61271836a3b3bfd",
+        "sku_id": 2553254,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "1f01d88942f4e233d61271836a3b3bfd",
+        "sku_id": 2553254,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190497"
+      }
+    ],
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/123_0efeb4b4-5f06-4346-8511-598f60f87ccc.png?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"浅紫色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"花香味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}]",
+    "spa": "PA++++",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅新多重防护隔离露 美颜柔紫",
+    "category2Name": "防晒",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,6711,5208",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "避免接触眼周，如不慎入眼，请立刻用水冲洗。本品香精原料含有芳樟醇、己基肉桂醛、α-异甲基紫罗兰酮、苧烯。",
+    "safety_1_num": 3.6,
+    "mid": "7878bd93374e48b2075a970fe4b55ffa",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "40ml",
+    "sda_approval_no": "国妆特字G20190502",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅新多重防护隔离露 美颜柔紫",
+    "functionType": "祛斑类，防晒类",
+    "shelfLife": "3年",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "用于彻底清洁的面部肌肤，每日作为肌肤护理的最后一步使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20190419,
+    "goods_form": ""
+  },
+  "success": true
+}

@@ -1,0 +1,117 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,52,130,129,53,48,58",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/33d3d532-83fc-59ee-99be-f589f1af5d0f.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1655222400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "去屑",
+        "id": 5266
+      },
+      {
+        "name": "头皮护理",
+        "id": 6714
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_0067a009-068c-4408-99b6-8d2cf66dc604.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/f3cb18ca-983d-54e3-8e75-ba0a9e14fd98.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd2ab377-04b3-5d61-bbd9-15011d0dabe8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/59f81faf-767b-54c6-ad8e-d9889b708321.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/33d3d532-83fc-59ee-99be-f589f1af5d0f.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "L'OREAL PROFESSIONNEL PARIS Scalp Advanced ANTI-Dandruff Dermo-clarifier SHAMPOO",
+    "name": "巴黎欧莱雅沙龙专属头皮专研去屑净化洗发水",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/59f81faf-767b-54c6-ad8e-d9889b708321.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "6714,5266",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "3ac31ad28d786d78e3809b62c31cb62e",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2022003039",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "L'OREAL PROFESSIONNEL PARIS Scalp Advanced ANTI-Dandruff Dermo-clarifier SHAMPOO@!@巴黎欧莱雅沙龙专属头皮专研去屑净化洗发水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 66,
+    "registered_day": 20220615,
+    "goods_form": "24"
+  },
+  "success": true
+}

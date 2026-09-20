@@ -1,0 +1,170 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,129,126,43",
+    "CPS": [
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/yByW3vVr3yA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=9F417C4210B98592582ECBD1E97AA23D"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/e5b2c502-5516-52a1-8b7f-007ff9a6a36b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019009464"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002520"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1571932800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1469980800"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥140",
+    "sda_approval_date": 1571932800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "50ce9bfcabdbdd7c6fcfa7abb43df536",
+        "sku_id": 2820477,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019009464"
+      },
+      {
+        "mid": "50ce9bfcabdbdd7c6fcfa7abb43df536",
+        "sku_id": 2820477,
+        "attribute_type": "9",
+        "attribute_val": "1571932800"
+      },
+      {
+        "mid": "9aa6fe96c0f68ba5670b596b533cf0cc",
+        "sku_id": 617950,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002520"
+      },
+      {
+        "mid": "9aa6fe96c0f68ba5670b596b533cf0cc",
+        "sku_id": 617950,
+        "attribute_type": "9",
+        "attribute_val": "1469980800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_4c45fc8b-8a35-4d4e-bcfd-b7ed5c3e1b62.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/e5581efa-be99-5c69-bc6c-37db087a84db.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/19f13888-35b8-5c00-b47d-6eee45b27e3c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/43a5a883-ee76-5790-a1e4-f4a27f335fbd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/60a310cd-1040-58af-b4d5-815f3b60aa6c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/981cab56-56bd-50e3-9083-6b08902a94d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7659add1-e8b4-59fb-a14e-6e4e4d708b36.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d081d677-af9c-52a4-99ba-5f5650778f59.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e5b2c502-5516-52a1-8b7f-007ff9a6a36b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士舒润强肤修护霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/43a5a883-ee76-5790-a1e4-f4a27f335fbd.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5204,5210",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "50ce9bfcabdbdd7c6fcfa7abb43df536",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2019009464",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早晚涂抹于清洁后的面部。尤其适合冬季。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20191025,
+    "goods_form": "23"
+  },
+  "success": true
+}

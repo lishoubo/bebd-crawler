@@ -1,0 +1,192 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dvo6kts%2Ff%2BChw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMcBxtVtt3pzH8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoLL%2FrAGW0D1qskmx5kiO8DpndR0CisZIhQFSrzgTbVr6aN%2F1gEcKJ1qsXXLQzz855oMdxZBW%2BhKrObYp0HmWvnEawofrLPXRGC5T66AP01kl8bChKbVFVRTV77anC5OECOn31%2F8dCLvdezm65v3B0bnlVbdkijIQO8YOae24fhW0&union_lens=lensId:TAPI@1741280792@2132c26b_121b_1956c6c50ad_2747@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/TFfN6LE08L9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=F2C193D8668BF871578D10E6D537CA6B"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.cn/goods_pack/1f8e1f67-2821-523a-8777-a7c83520a2df.pdf",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020000806"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000358"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000900"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001245"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020010855"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1609084800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1582214400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1516032000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1489334400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1426176000"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥189",
+    "sda_approval_date": 1609084800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "11cc1fd6209a75bfcd606a219c756415",
+        "sku_id": 4242560,
+        "attribute_type": "9",
+        "attribute_val": "1609084800"
+      },
+      {
+        "mid": "3720e3f064f18666e26cd1211e23a972",
+        "sku_id": 739948,
+        "attribute_type": "9",
+        "attribute_val": "1489334400"
+      },
+      {
+        "mid": "31b3f04c339cf24808f5e2f714899512",
+        "sku_id": 193307,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001245"
+      },
+      {
+        "mid": "3720e3f064f18666e26cd1211e23a972",
+        "sku_id": 739948,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000900"
+      },
+      {
+        "mid": "31b3f04c339cf24808f5e2f714899512",
+        "sku_id": 193307,
+        "attribute_type": "9",
+        "attribute_val": "1426176000"
+      },
+      {
+        "mid": "4dbf75976ef8a61cbe9476cc68b88b49",
+        "sku_id": 1085343,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000358"
+      },
+      {
+        "mid": "4dbf75976ef8a61cbe9476cc68b88b49",
+        "sku_id": 1085343,
+        "attribute_type": "9",
+        "attribute_val": "1516032000"
+      },
+      {
+        "mid": "bcbdddbe6ad8a47b63c64ce43816de48",
+        "sku_id": 3209685,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020000806"
+      },
+      {
+        "mid": "bcbdddbe6ad8a47b63c64ce43816de48",
+        "sku_id": 3209685,
+        "attribute_type": "9",
+        "attribute_val": "1582214400"
+      },
+      {
+        "mid": "11cc1fd6209a75bfcd606a219c756415",
+        "sku_id": 4242560,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2020010855"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_59a55dbe-cd9a-4555-8440-f4f204e17347.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/160e0df1-9b91-554e-a40e-727bc4091537.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ac4746a6-2912-5d5a-b835-9d6139919030.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "中国（上海）自由贸易试验区富特西一路473号二层B17室",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "上海欧莱雅国际贸易有限公司",
+    "piece_price": "",
+    "titleEn": "L’OREAL REVITALIFT AQUA MILKY TONER",
+    "name": "欧莱雅复颜清乳柔肤水",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.cn/goods_pack/5ba9a120-250d-53db-b45f-e432f425bb48.pdf",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 3.8,
+    "mid": "11cc1fd6209a75bfcd606a219c756415",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 2,
+    "net_content": "130ml",
+    "sda_approval_no": "国妆网备进字（沪）2020010855",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "本品香精含有苧烯、芳樟醇、水杨酸苄酯、苯甲醇；苯甲醇在本品中的使用目的为香精中的芳香成分。",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量涂抹于清洁后的面部肌肤；",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "上海欧莱雅国际贸易有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "中国（上海）自由贸易试验区富特西一路473号二层B17室",
+    "category3_id": 23,
+    "registered_day": 20201228,
+    "goods_form": ""
+  },
+  "success": true
+}

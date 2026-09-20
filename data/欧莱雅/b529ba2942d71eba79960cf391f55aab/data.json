@@ -1,0 +1,183 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,43,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/ea9d7a32-84b7-5862-8d80-d6810dfee171.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003314"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020003645"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001675"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1651161600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1591718400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥109",
+    "sda_approval_date": 1651161600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "4640e0d351e2009a65406414fed54524",
+        "sku_id": 1181935,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001675"
+      },
+      {
+        "mid": "4640e0d351e2009a65406414fed54524",
+        "sku_id": 1181935,
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      },
+      {
+        "mid": "6e9f92f08eecd2252d1a5103f6fad936",
+        "sku_id": 3805607,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020003645"
+      },
+      {
+        "mid": "6e9f92f08eecd2252d1a5103f6fad936",
+        "sku_id": 3805607,
+        "attribute_type": "9",
+        "attribute_val": "1591718400"
+      },
+      {
+        "mid": "b529ba2942d71eba79960cf391f55aab",
+        "sku_id": 30846501,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003314"
+      },
+      {
+        "mid": "b529ba2942d71eba79960cf391f55aab",
+        "sku_id": 30846501,
+        "attribute_type": "9",
+        "attribute_val": "1651161600"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_a585a9b2-bdce-4b68-bccd-34b9d6a43a70.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/0ee4f94e-ef8d-5d3c-9f9f-208f7fc07ebf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/18b39df5-af22-5a7f-8f92-23460d105609.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4d8b8efb-d3ea-56c8-986c-46ab0b0b3a6e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4f450486-ca81-52c2-8f49-20eb4feac334.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4f902ce1-0a5a-5403-a7da-2b6a4ee99d1f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/773c7036-f2de-5b85-953f-3c455402c6b5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/94786ee9-cb75-56b3-a018-03d6a0ad5d81.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9945c8b5-320c-583a-aee8-37f2695ce210.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b93245d2-7ead-510b-8ec6-ab9a571d8484.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c41c71aa-d131-5732-a732-b8a76ae7a58e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e8ac097a-f8fa-5960-82f0-21ad6f3edacc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/eac1540c-124e-5be8-a05d-c0d312951e89.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f99d75fa-eed7-5439-a376-ab7457017ea0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0fbfb817-6edd-5ed6-9c16-fdd09021bbe1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/10e262d0-97f4-5ff1-bc89-1b55c2deefe2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/90a6f05f-a058-52de-b616-d8d1aa9552e3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ccdf3c00-352d-5f1a-9359-c16e84ff6e61.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ea9d7a32-84b7-5862-8d80-d6810dfee171.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f84c85c1-500c-565e-b62c-ede3d5d4e660.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕精油润发乳(奇焕垂顺)",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/eac1540c-124e-5be8-a05d-c0d312951e89.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "b529ba2942d71eba79960cf391f55aab",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2022003314",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅奇焕精油润发乳(奇焕垂顺)",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20220429,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,109 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,51,54,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1754496000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "面部修护",
+        "id": 5210
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/334cfb12-44b0-5a35-9503-19ac28ed8aca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/345a3e96-f7e5-5700-9284-e67c24531af6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/376382bf-de63-541f-8a5e-8d0b9736852a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5ec3c76d-6d85-5167-9209-8566829880d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/75e2ffba-7e6d-56ff-ab93-112fac50cdfb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8ab87d97-549b-5bf3-9529-0580268db6f4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91aeb3f7-a418-5c8c-87b3-c988e3868199.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a9386f49-bb6f-5e91-bf55-a5651dd5b1e6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3c237792-57f1-5668-a9cf-a1d89a264baa.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"米杏色\"}, {\"name\": \"性状\", \"condition\": \"乳霜\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "L’OREAL Paris AGE PERFECT MIDNIGHT CREAM",
+    "name": "欧莱雅金致臻颜修护霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/8ab87d97-549b-5bf3-9529-0580268db6f4.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5210",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品原料香精含有：羟基香茅醛、己基肉桂醛、苯甲醇、α-异甲基紫罗兰酮、苧烯、香茅醇、香叶醇、水杨酸苄酯、芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "532eefa795070904b3d1e0adc502e127",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2025005358",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早晚，取适量本品涂抹于面部和颈部，从下往上轻柔按摩。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 28,
+    "registered_day": 20250807,
+    "goods_form": "23"
+  },
+  "success": true
+}

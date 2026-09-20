@@ -1,0 +1,156 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DPO%2FcqBnaw6hw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMc1tMHXcLtKGMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B8m%2F2fD02n23iS%2FV%2FkvuipzRD18rVfQC6EuM7wkVK6rjgq8YLfD7k8A2N11wQxSgomc3w%2BQJIUbjzhw8f%2BnU%2F52BIQ2SBvPAIEPGx3nZ4%2BD4U78WdWpURTG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQVUw2q9lWxtQCelNasEfqVg7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753117498@2146bf99_2865_1982df21d26_5cfa@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/cHcqe9VKOb6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=056DCC43F119EBACE8B7CB1A996E2084"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olXwQAVF9fCUsXC18IGloUXAIKVlpUCUonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAmsAGV8cXAcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwRpBE93SjZVahFhCi5uWyJzDmFxVC5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0zShFFbWYBElIcVDYCVFpbDU0TBW0MK1sTWwAHXV1dAUsVA2c4G1MRbdCN64vUhJ6ZnLaYpghBGlhfZG5tC3snM284GGtLMwcFBAtVDkgVbTNWQQteG0RQOltVDkwRB28MK1kUXAQAZG5tbRRARB1JRBNTFmUDMz4uXztRdzEMGBBCG2gALSUfCTJnXBZORgxjLnMLLFltCHsXAW8PKw"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20151071"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1666713600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1548950400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1436112000"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥1620",
+    "sda_approval_date": 1666713600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "提亮",
+        "id": 5208
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c80c9d32edcd80561c85d4dd9d6a0553",
+        "sku_id": 3851868,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20151071"
+      },
+      {
+        "mid": "9aeefd7a60ddf79f739cfb007f8db8a2",
+        "sku_id": 369050,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20151071"
+      },
+      {
+        "mid": "b8a095cddb2f3020ebd311f6b5a8e118",
+        "sku_id": 31776968,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20151071"
+      },
+      {
+        "mid": "b8a095cddb2f3020ebd311f6b5a8e118",
+        "sku_id": 31776968,
+        "attribute_type": "9",
+        "attribute_val": "1666713600"
+      },
+      {
+        "mid": "9aeefd7a60ddf79f739cfb007f8db8a2",
+        "sku_id": 369050,
+        "attribute_type": "9",
+        "attribute_val": "1548950400"
+      },
+      {
+        "mid": "c80c9d32edcd80561c85d4dd9d6a0553",
+        "sku_id": 3851868,
+        "attribute_type": "9",
+        "attribute_val": "1436112000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_78b2b609-b3f5-4c1f-8406-1e8d14a196d5.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "修丽可",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "SKINCEUTICALS PHLORETIN CF",
+    "name": "修丽可臻白焕亮日间精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "c239348f1152aad988dd0ae98a661431",
+    "claim_ids": "5208,5210,6711",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "若因本品所含的维生素 C 产生不适反应，拉长使用间隔直至肌肤适应。仅供外用，避免接触眼睛。请 将本品存放在阴凉处，避免光照。请严格依照说明使用。如果皮肤感到不适，请停止使用并咨询皮肤医生 或修丽可护肤人员。一段时间后维生素 C 可能会氧化并颜色变深但不影响效果。",
+    "safety_1_num": 4.9,
+    "mid": "b8a095cddb2f3020ebd311f6b5a8e118",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特进字J20151071",
+    "approvaler": "薇姿",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "修丽可臻白焕亮日间精华液@!@SKINCEUTICALS PHLORETIN CF HIGH PERFORMANCE，原生产企业为欧莱雅美国 （L’Oreal USA Products, Inc@!@修丽可臻白修护日间精华液@!@SKINCEUTICALS PHLORETIN CF HIGH PERFORMANCE@!@SKINCEUTICALS PHLORETIN CF",
+    "functionType": "祛斑美白类",
+    "shelfLife": "3年",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日清晨皮肤清洁后，用 4-5 滴于手掌心，使用指尖涂抹在干燥的脸部、颈部及胸部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20221026,
+    "goods_form": ""
+  },
+  "success": true
+}

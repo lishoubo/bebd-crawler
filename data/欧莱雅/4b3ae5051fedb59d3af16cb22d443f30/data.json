@@ -1,0 +1,286 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,48",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DH1mIi6ckIF5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQgIjcLyx4h3J1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoF89e%2BGOY3UMk7hJz5VPtUFzS2cxjgrTrQ78kLi7yCuXTbsTgRTk%2Bm30msgpBZPVkTLy79fBrtxk0wkDzP9MX3ZfT7ehuFFOjqQA4hM45PSRhBq2JKKPFiyGBxtRxxN%2B37bbyfWeBtWY&union_lens=lensId:TAPI@1753124400@21671615_0e24_1982e5b6c1f_d46a@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/O9htzxbXu18?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=85CF279212F5CE748CDA943B6610E26A"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/adf00d85-7311-55fb-8cb0-22984f8a367a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "薰衣草"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "茉莉"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "玫瑰"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006134"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006132"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006131"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006130"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000820"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000819"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000818"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥79",
+    "sda_approval_date": 1517760000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "4b3ae5051fedb59d3af16cb22d443f30",
+        "sku_id": 1085351,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000820"
+      },
+      {
+        "mid": "4b3ae5051fedb59d3af16cb22d443f30",
+        "sku_id": 1085351,
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "mid": "2d3c5ed0c7056981491260c79e476751",
+        "sku_id": 2289767,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006131"
+      },
+      {
+        "mid": "94cf3e2493ef5a4f4b1f3498e51102ab",
+        "sku_id": 1153218,
+        "attribute_type": "3",
+        "attribute_val": "薰衣草"
+      },
+      {
+        "mid": "cb6f7cdd7813e6d493fe84bce1523c82",
+        "sku_id": 2289761,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "b6da9bd0ff440d657165c5e4bfb6b091",
+        "sku_id": 2289776,
+        "attribute_type": "3",
+        "attribute_val": "茉莉"
+      },
+      {
+        "mid": "b6da9bd0ff440d657165c5e4bfb6b091",
+        "sku_id": 2289776,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006132"
+      },
+      {
+        "mid": "341424035d1ea8b77292ed7d57c80ec4",
+        "sku_id": 1195403,
+        "attribute_type": "3",
+        "attribute_val": "玫瑰"
+      },
+      {
+        "mid": "341424035d1ea8b77292ed7d57c80ec4",
+        "sku_id": 1195403,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000818"
+      },
+      {
+        "mid": "341424035d1ea8b77292ed7d57c80ec4",
+        "sku_id": 1195403,
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "mid": "3d8c6c2c4d10c7bd59c899aa355a1e71",
+        "sku_id": 2292664,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006134"
+      },
+      {
+        "mid": "4b3ae5051fedb59d3af16cb22d443f30",
+        "sku_id": 1085351,
+        "attribute_type": "3",
+        "attribute_val": "茉莉"
+      },
+      {
+        "mid": "2d3c5ed0c7056981491260c79e476751",
+        "sku_id": 2289767,
+        "attribute_type": "3",
+        "attribute_val": "薰衣草"
+      },
+      {
+        "mid": "cb6f7cdd7813e6d493fe84bce1523c82",
+        "sku_id": 2289761,
+        "attribute_type": "3",
+        "attribute_val": "玫瑰"
+      },
+      {
+        "mid": "b6da9bd0ff440d657165c5e4bfb6b091",
+        "sku_id": 2289776,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "3d8c6c2c4d10c7bd59c899aa355a1e71",
+        "sku_id": 2292664,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "94cf3e2493ef5a4f4b1f3498e51102ab",
+        "sku_id": 1153218,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000819"
+      },
+      {
+        "mid": "94cf3e2493ef5a4f4b1f3498e51102ab",
+        "sku_id": 1153218,
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "mid": "2d3c5ed0c7056981491260c79e476751",
+        "sku_id": 2289767,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "cb6f7cdd7813e6d493fe84bce1523c82",
+        "sku_id": 2289761,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006130"
+      },
+      {
+        "mid": "3d8c6c2c4d10c7bd59c899aa355a1e71",
+        "sku_id": 2292664,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/82848d44-6123-447f-97cb-2d61c7365f07.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/064873b4-553c-5a18-a5da-1ae7d2d7911d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/76cc960e-9cb9-55f0-95c9-26f6d4bacd8d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/af880225-cb2d-564d-baa9-81256a4b462a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d9076d8b-3541-5ec5-bf39-103780b9384d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c6480f17-1963-50e4-8793-8ccd6cebec01.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/78de0112-7d3f-5d63-9857-ef30779ace22.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/72e3a576-a3cc-5462-9836-301cc7e275cb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/adf00d85-7311-55fb-8cb0-22984f8a367a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅奇焕润发精油 高级香水香型- 清雅茉莉",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/064873b4-553c-5a18-a5da-1ae7d2d7911d.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "4b3ae5051fedb59d3af16cb22d443f30",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "100ml",
+    "sda_approval_no": "苏G妆网备字2018000820",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅奇焕润发精油 高级香水香型- 清雅茉莉",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 313,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "广州栋方生物科技股份有限公司（曾用名：广州栋方日化有限公司）",
+        "mid": "fd8c0ba72e71a43a45b5061a8cd6e933"
+      }
+    ],
+    "category4Name": "护发精油",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20180205,
+    "goods_form": "24"
+  },
+  "success": true
+}

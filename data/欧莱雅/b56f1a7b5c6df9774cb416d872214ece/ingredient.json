@@ -1,0 +1,575 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "ingredients": [],
+        "type": 1,
+        "esId": "573421_1_1"
+      },
+      {
+        "tableIndex": 1,
+        "ingredients": [],
+        "type": 3,
+        "esId": "573421_1_3"
+      }
+    ],
+    "total": 2,
+    "ingredientTable": [
+      {
+        "mid": "89666eebf6b9a1e071f8e5a5d9b843b7",
+        "name": "水",
+        "nameCn": "水",
+        "nameEn": "WATER; AQUA",
+        "aliasOther": "水@!@WATER@!@AQUA@!@去离子水@!@Purified Water@!@Deionized Water@!@纯水",
+        "pid": 1,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "918ab1bd9e473b6a266512340f522678",
+        "name": "乙醇",
+        "nameCn": "乙醇",
+        "nameEn": "ALCOHOL",
+        "aliasOther": "乙醇@!@ALCOHOL@!@Ethyl Alcohol@!@Ethanol@!@Grain Alcohol@!@酒精",
+        "pid": 16,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "45"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 45,
+            "name": "溶剂",
+            "nameCh": "溶剂",
+            "nameEn": "Solvent"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 13,
+            "name": "酒精",
+            "nameCh": "酒精",
+            "nameEn": "Alcohol"
+          }
+        ]
+      },
+      {
+        "mid": "28e920892db092743129dde5a40e5454",
+        "name": "二氨基嘧啶氧化物",
+        "nameCn": "二氨基嘧啶氧化物",
+        "nameEn": "DIAMINOPYRIMIDINE OXIDE",
+        "aliasOther": "二氨基嘧啶氧化物@!@DIAMINOPYRIMIDINE OXIDE",
+        "pid": 3717,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-3",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "50"
+        ],
+        "effectIdList": [
+          "68"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 68,
+            "name": "防脱发",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "防脱发",
+            "nameEn": "防脱发"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "5f473f60c6659fbeb2badea2567fd231",
+        "name": "PEG-40 氢化蓖麻油",
+        "nameCn": "PEG-40 氢化蓖麻油",
+        "nameEn": "PEG-40 HYDROGENATED CASTOR OIL",
+        "aliasOther": "PEG-40 氢化蓖麻油@!@PEG-40 HYDROGENATED CASTOR OIL@!@RH 40@!@CO 40",
+        "pid": 85,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 7,
+            "name": "含PEG的成分",
+            "nameCh": "含PEG的成分",
+            "nameEn": "PEG Ingredients"
+          }
+        ]
+      },
+      {
+        "mid": "6bf53c953b1662b63193981eaa2c9a28",
+        "name": "三乙醇胺",
+        "nameCn": "三乙醇胺",
+        "nameEn": "TRIETHANOLAMINE",
+        "aliasOther": "三乙醇胺@!@TRIETHANOLAMINE@!@TEA",
+        "pid": 49,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "6",
+        "safetyNum": 6,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "83"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 83,
+            "name": "pH调节剂",
+            "nameCh": "pH调节剂",
+            "nameEn": "pH Adjustment"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          }
+        ]
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "b959c8cb64b9514638005fc12157f0f3",
+        "name": "卡波姆",
+        "nameCn": "卡波姆",
+        "nameEn": "CARBOMER",
+        "aliasOther": "卡波姆@!@CARBOMER@!@聚羧乙烯@!@卡波姆 940@!@卡波树脂",
+        "pid": 24,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "19"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "2513d3c74d99d0ff3d14e4041c2e1298",
+        "name": "聚季铵盐-11",
+        "nameCn": "聚季铵盐-11",
+        "nameEn": "POLYQUATERNIUM-11",
+        "aliasOther": "聚季铵盐-11@!@POLYQUATERNIUM-11",
+        "pid": 814,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "22",
+          "31"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 22,
+            "name": "成膜剂",
+            "nameCh": "成膜剂",
+            "nameEn": "Film Forming Agent"
+          },
+          {
+            "id": 31,
+            "name": "抗静电剂",
+            "nameCh": "抗静电剂",
+            "nameEn": "Antistatic Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "64f2d9c86bdc94494ec65b0d9d830e4d",
+        "name": "薄荷醇",
+        "nameCn": "薄荷醇",
+        "nameEn": "MENTHOL",
+        "aliasOther": "薄荷醇@!@MENTHOL",
+        "pid": 234,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "36",
+          "50",
+          "43"
+        ],
+        "effectIdList": [
+          "60",
+          "36"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 36,
+            "name": "收敛剂",
+            "nameCh": "收敛剂",
+            "nameEn": "Astringent"
+          },
+          {
+            "id": 43,
+            "name": "清凉剂",
+            "nameCh": "清凉剂",
+            "nameEn": "Algefacient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 36,
+            "name": "收敛",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "收敛",
+            "nameEn": "收敛"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "e5f570d47363ab5ca7523758b68bb86d",
+        "name": "辣薄荷(MENTHA PIPERITA)油",
+        "nameCn": "辣薄荷(MENTHA PIPERITA)油",
+        "nameEn": "MENTHA PIPERITA (PEPPERMINT) OIL",
+        "aliasOther": "辣薄荷(MENTHA PIPERITA)油@!@MENTHA PIPERITA (PEPPERMINT) OIL@!@薄荷精油",
+        "pid": 4725,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "4",
+        "safetyNum": 4,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "40",
+          "43"
+        ],
+        "effectIdList": [
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 40,
+            "name": "气味抑制剂",
+            "nameCh": "气味抑制剂",
+            "nameEn": "Odor Inhibitor"
+          },
+          {
+            "id": 43,
+            "name": "清凉剂",
+            "nameCh": "清凉剂",
+            "nameEn": "Algefacient"
+          }
+        ],
+        "effect": [
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "26e5d0ca0714241b6b2c5ca9071789ce",
+        "name": "2-油酰胺基-1,3-十八烷二醇",
+        "nameCn": "2-油酰胺基-1,3-十八烷二醇",
+        "nameEn": "2-OLEAMIDO-1,3-OCTADECANEDIOL",
+        "aliasOther": "2-油酰胺基-1,3-十八烷二醇@!@2-OLEAMIDO-1,3-OCTADECANEDIOL",
+        "pid": 456,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "93"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "834017e15a4c9105ec9c942375a7989d",
+        "name": "新橙皮苷二氢查耳酮",
+        "nameCn": "新橙皮苷二氢查耳酮",
+        "nameEn": "NEOHESPERIDIN DIHYDROCHALCONE",
+        "aliasOther": "新橙皮苷二氢查耳酮@!@NEOHESPERIDIN DIHYDROCHALCONE",
+        "pid": 2435,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "effectIdList": [
+          "24"
+        ],
+        "active": "1",
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "6392fce4adc1328925719adf351940f0",
+        "name": "红花葡糖苷",
+        "nameCn": "红花葡糖苷",
+        "nameEn": "SAFFLOWER GLUCOSIDE",
+        "aliasOther": "红花葡糖苷@!@SAFFLOWER GLUCOSIDE@!@红花酸葡糖苷",
+        "pid": 4124,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50",
+          "20"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 13,
+    "ingredientNum": {
+      "risk_ingredient_num": 4,
+      "safety_level_2_num": 3,
+      "safety_level_1_num": 9,
+      "function_ingredient_num": 5,
+      "function_ingredient_num_v310": 5,
+      "ingredient_num": 13,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 1
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 1,
+        "xAxis": "1-3"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "6"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "3"
+      },
+      {
+        "yAxis": 6,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

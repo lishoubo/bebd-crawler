@@ -1,0 +1,260 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DGRzlgsHLPKxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQ2fPcPdDVRvlovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoLL%2FrAGW0D1qskmx5kiO8DrXn%2F66GKkZXdiAqJEDPmt6qCyi9wtzJW%2BTa11lMwgdfbdSGAejUPt9emBR6ch%2ForZ89eeMxiy2iYEVdJPYy66lX0%2B3obhRTo7%2B58h5pKGYu9YY89nTcJHEmKxuUOfpLnCOBmRFBu6FLlNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753119717@210522c8_0dff_1982e13f9da_5b9e@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/IzRTG0Pgja7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=B3A533B5CDE37192B79304DE327F264D"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASAJK1olWAYKU1tVDk0QB18NHloWWAILZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLWAMDV1tZAVRORjNVKw9lWUZHEgcvak9Pei4WTz0UK0IFJghRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kBHlMVWAYGUltZD3sXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwQCQRXVwwzVAhcBS1AExl7WQYGUlpYDUgnAW4JGVklbTZZXQkIcBZ_ZCgNfwZ8ClMEISo4fUhqdTgJaRIQWGgAMiobQQ9qdBFeXh5lOFRrKSRtCHsXBGkMGms"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503696"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003142"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002581"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002813"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002609"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20168550"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1631635200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1525795200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1473177600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418572800"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥67",
+    "sda_approval_date": 1473177600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "干枯毛躁",
+        "id": 5304
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9fe1f488d655948e5eafb8f33f04535d",
+        "sku_id": 30269326,
+        "attribute_type": "9",
+        "attribute_val": "1631635200"
+      },
+      {
+        "mid": "d2f7b35b2cc52ccfb59b55b6c47fb97c",
+        "sku_id": 576044,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "d2f7b35b2cc52ccfb59b55b6c47fb97c",
+        "sku_id": 576044,
+        "attribute_type": "9",
+        "attribute_val": "1473177600"
+      },
+      {
+        "mid": "732af8ae2bc035a6457ca0add81acf18",
+        "sku_id": 1195420,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "9fe1f488d655948e5eafb8f33f04535d",
+        "sku_id": 30269326,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "9fe1f488d655948e5eafb8f33f04535d",
+        "sku_id": 30269326,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503696"
+      },
+      {
+        "mid": "732af8ae2bc035a6457ca0add81acf18",
+        "sku_id": 1195420,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003142"
+      },
+      {
+        "mid": "c95da03d111d5efcf6f5d2cdd80889ff",
+        "sku_id": 2477381,
+        "attribute_type": "9",
+        "attribute_val": "1525795200"
+      },
+      {
+        "mid": "d2f7b35b2cc52ccfb59b55b6c47fb97c",
+        "sku_id": 576044,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20168550"
+      },
+      {
+        "mid": "2863169d293a1e351ef9c3e55fc38eb5",
+        "sku_id": 2129156,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "732af8ae2bc035a6457ca0add81acf18",
+        "sku_id": 1195420,
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "mid": "c95da03d111d5efcf6f5d2cdd80889ff",
+        "sku_id": 2477381,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002581"
+      },
+      {
+        "mid": "a9a5743e3f02a21bed4a34931522ac44",
+        "sku_id": 411874,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002813"
+      },
+      {
+        "mid": "a9a5743e3f02a21bed4a34931522ac44",
+        "sku_id": 411874,
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      },
+      {
+        "mid": "2863169d293a1e351ef9c3e55fc38eb5",
+        "sku_id": 2129156,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002609"
+      },
+      {
+        "mid": "2863169d293a1e351ef9c3e55fc38eb5",
+        "sku_id": 2129156,
+        "attribute_type": "9",
+        "attribute_val": "1418572800"
+      },
+      {
+        "mid": "a9a5743e3f02a21bed4a34931522ac44",
+        "sku_id": 411874,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c95da03d111d5efcf6f5d2cdd80889ff",
+        "sku_id": 2477381,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_2be3aec5-f57b-4f21-bb88-76749b133f1c.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"啫喱\"}, {\"name\": \"气味\", \"condition\": \"花香\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅精油润养洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5304",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本产品含水杨酸，三岁以下儿童勿用。",
+    "safety_1_num": 4.1,
+    "mid": "d2f7b35b2cc52ccfb59b55b6c47fb97c",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "700ml",
+    "sda_approval_no": "国妆备进字J20168550",
+    "approvaler": "欧莱雅(中国)有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅精油润养洗发露",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "涂抹于湿头发上，轻轻按摩至产生泡沫，最后用清水冲洗干净。同时搭配使用欧莱雅精油润养8系列产品，滋养效果更佳。若不慎接触到眼睛，请立即用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20160907,
+    "goods_form": ""
+  },
+  "success": true
+}

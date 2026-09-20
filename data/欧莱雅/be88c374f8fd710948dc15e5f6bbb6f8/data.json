@@ -1,0 +1,218 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,130,129,51,126,48,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DMW1bMoQu0Ltw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMdAWR77NOshBxq3IhSJN6GSw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6hvjnx7pujToAVAh7rExGyxIlraEy%2FxUoW%2BNjgJ5DwT9HKKAJqG9mLyPBEU0Z5M20nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12O9GQw9AZokEF0hdJKxJ4gvVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1760163754@213e71e2_1d34_199d1ef71b8_8cf9@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/uNYxrfEyNh6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=0435951B6A5200B7F3E6470B8B12BC14"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXwEFXVxeD0MVCl8IGlodXwMDUlpUCk4WC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcKHloTWQ8AUV9VFxJSXzI4SSV9XWRwNBc9CQ90Bw96eQhdPwdJAlJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgALU1pYDU4nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGVAFWU1lUZhdCVjQLTw8SMwIKVltfD0kWM20JGlkXbTYyK1w7WBZEfRZUQRtQPmJ3IiwWCjFsXw10dVlUDW5VISA4CBdeUw5VcFxsPTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/0f1a1bd0-0e50-5178-b7ce-4b8595a16b2d.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002283"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002282"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006887"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006886"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1751904000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1751817600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥319",
+    "sda_approval_date": 1695571200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "be88c374f8fd710948dc15e5f6bbb6f8",
+        "sku_id": 32330674,
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      },
+      {
+        "mid": "b32a469f52db62fec37b6a4d4bb28a6b",
+        "sku_id": 33645088,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002283"
+      },
+      {
+        "mid": "b32a469f52db62fec37b6a4d4bb28a6b",
+        "sku_id": 33645088,
+        "attribute_type": "9",
+        "attribute_val": "1751904000"
+      },
+      {
+        "mid": "aa04a6069b3c5787407d8e9ea9f3c870",
+        "sku_id": 33634654,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2025002282"
+      },
+      {
+        "mid": "aa04a6069b3c5787407d8e9ea9f3c870",
+        "sku_id": 33634654,
+        "attribute_type": "9",
+        "attribute_val": "1751817600"
+      },
+      {
+        "mid": "00fe277fd9445e66fbb8cd0fb0387e52",
+        "sku_id": 32332321,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006887"
+      },
+      {
+        "mid": "00fe277fd9445e66fbb8cd0fb0387e52",
+        "sku_id": 32332321,
+        "attribute_type": "9",
+        "attribute_val": "1695571200"
+      },
+      {
+        "mid": "be88c374f8fd710948dc15e5f6bbb6f8",
+        "sku_id": 32330674,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023006886"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_5576036b-b5ad-41c6-a4b1-47b5d9246e2d.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/cc1c388f-2b44-5e53-a211-6f72d34d17fa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d4f663bf-e8f6-5998-ad88-81ec04076c5f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0f1a1bd0-0e50-5178-b7ce-4b8595a16b2d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9b4dc617-5d42-5052-b4b5-78b2075486b9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b8def526-d612-5971-9080-66f1979d6dab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/da578598-7d90-5a75-b4e3-74990e1a89b5.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"乳黄色\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜胶原面霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/1fea538b-2584-5972-9ef3-3e91b5d10703.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "be88c374f8fd710948dc15e5f6bbb6f8",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "60ml",
+    "sda_approval_no": "苏G妆网备字2023006886",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜花蜜胶原面霜@!@欧莱雅小蜜罐面霜 第二代",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天早晚使用在清洁后的面部及颈部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20230925,
+    "goods_form": "23"
+  },
+  "success": true
+}

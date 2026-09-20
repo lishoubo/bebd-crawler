@@ -1,0 +1,321 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNzVaINMp7dhw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMc0LRGtXAxuR79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2F2sRarjDcFgQnyRP6UDGFzzRD18rVfQC6EuM7wkVK6rjfMVLR3J77E4kNb1mXCszYeo3hdSr1i7eMDaeWE1O8puUEgvB42kgZFlfqT6Fd5%2FStQyl4IesqQG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQzzP0wRW882smXbYCp2jfVg7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753118619@2107fb66_0dd8_1982e03393d_c298@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/U2n3YiTlGPA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=D839DE6ED7C37CABF9698FBB3F722AEB"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/874d9f25-62a5-5616-9ddc-831d09c32107.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "098"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "101"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "101.5"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "102"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "103"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "104"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "105"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "106"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018001401"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018001396"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001376"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001375"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001374"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001373"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001372"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001371"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1530547200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "¥150",
+    "sda_approval_date": 1530547200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "哑光",
+        "id": 5231
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "7e9ea2e9c8dd18e898afeda6d6467202",
+        "sku_id": 863048,
+        "attribute_type": "1",
+        "attribute_val": "103"
+      },
+      {
+        "mid": "bef30df705a420fa3e99530d87231066",
+        "sku_id": 863045,
+        "attribute_type": "1",
+        "attribute_val": "106"
+      },
+      {
+        "mid": "bef30df705a420fa3e99530d87231066",
+        "sku_id": 863045,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "2ee85908324a67a591fa12dfa7387568",
+        "sku_id": 863049,
+        "attribute_type": "1",
+        "attribute_val": "102"
+      },
+      {
+        "mid": "023c6f1b5ec29b25be95c401be3c2b97",
+        "sku_id": 863044,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "7e9ea2e9c8dd18e898afeda6d6467202",
+        "sku_id": 863048,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "ce7a5e0920da1d1997e4db4dd03ee891",
+        "sku_id": 1195404,
+        "attribute_type": "1",
+        "attribute_val": "101.5"
+      },
+      {
+        "mid": "ce7a5e0920da1d1997e4db4dd03ee891",
+        "sku_id": 1195404,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018001396"
+      },
+      {
+        "mid": "0296219f54217ceddb92d42f6b4d876c",
+        "sku_id": 863046,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001373"
+      },
+      {
+        "mid": "0296219f54217ceddb92d42f6b4d876c",
+        "sku_id": 863046,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "d25c03e4eba679efec6026f164f9d538",
+        "sku_id": 863047,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001374"
+      },
+      {
+        "mid": "d25c03e4eba679efec6026f164f9d538",
+        "sku_id": 863047,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "bef30df705a420fa3e99530d87231066",
+        "sku_id": 863045,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001372"
+      },
+      {
+        "mid": "2ee85908324a67a591fa12dfa7387568",
+        "sku_id": 863049,
+        "attribute_type": "9",
+        "attribute_val": "1501084800"
+      },
+      {
+        "mid": "023c6f1b5ec29b25be95c401be3c2b97",
+        "sku_id": 863044,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001371"
+      },
+      {
+        "mid": "3b825f577023249b070aeb2afca06925",
+        "sku_id": 1085352,
+        "attribute_type": "9",
+        "attribute_val": "1530547200"
+      },
+      {
+        "mid": "ce7a5e0920da1d1997e4db4dd03ee891",
+        "sku_id": 1195404,
+        "attribute_type": "9",
+        "attribute_val": "1530547200"
+      },
+      {
+        "mid": "0296219f54217ceddb92d42f6b4d876c",
+        "sku_id": 863046,
+        "attribute_type": "1",
+        "attribute_val": "105"
+      },
+      {
+        "mid": "7e9ea2e9c8dd18e898afeda6d6467202",
+        "sku_id": 863048,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001375"
+      },
+      {
+        "mid": "d25c03e4eba679efec6026f164f9d538",
+        "sku_id": 863047,
+        "attribute_type": "1",
+        "attribute_val": "104"
+      },
+      {
+        "mid": "2ee85908324a67a591fa12dfa7387568",
+        "sku_id": 863049,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001376"
+      },
+      {
+        "mid": "023c6f1b5ec29b25be95c401be3c2b97",
+        "sku_id": 863044,
+        "attribute_type": "1",
+        "attribute_val": "101"
+      },
+      {
+        "mid": "3b825f577023249b070aeb2afca06925",
+        "sku_id": 1085352,
+        "attribute_type": "1",
+        "attribute_val": "098"
+      },
+      {
+        "mid": "3b825f577023249b070aeb2afca06925",
+        "sku_id": 1085352,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018001401"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/0_f212b1d7-6d26-44e1-97c4-1aca9163e23c.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/c36eebf9-3047-550e-9b1e-0f2a7af566bd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/874d9f25-62a5-5616-9ddc-831d09c32107.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩持色哑光粉底液 101.5",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/c36eebf9-3047-550e-9b1e-0f2a7af566bd.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5205,5238,5231",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 4.5,
+    "mid": "ce7a5e0920da1d1997e4db4dd03ee891",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "鄂G妆网备字2018001396",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅恒放溢彩持色哑光粉底液 101.5",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20180703,
+    "goods_form": ""
+  },
+  "success": true
+}

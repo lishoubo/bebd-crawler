@@ -1,0 +1,119 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,39,130,129,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOeeV91lAVkVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZBKum8IGdExMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXfyzeZnwAcdqm3oFtyRbDGTWKm1SsvEY0YaX0ICluiIMreSG%2Fj%2F5mIgcCzVIVHIGF8GYYogDoIujU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRGcrC82rLAtaEtZrUSNVeioYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753118598@21666f14_0e34_1982e02e548_597c@01"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "防晒",
+    "price": "¥179",
+    "sda_approval_date": 1677772800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "防晒",
+        "id": 5223
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/0_4caa9928-324d-4726-858e-3758a11857cd.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/850b636e-6d7b-5868-9d88-f490e51ab7a6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a829192-9706-5825-a6a2-3deb44f1200b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅新多重防护隔离露 水感轻肌",
+    "category2Name": "防晒",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5201",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.7,
+    "mid": "7b1b089f9cd8b7adbe8580cf71a7a916",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20190496",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅新多重防护隔离露 水感轻肌",
+    "functionType": "防晒类（SPF50+,PA+++）",
+    "shelfLife": "",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "防晒",
+        "id": "39"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20230303,
+    "goods_form": "23"
+  },
+  "success": true
+}

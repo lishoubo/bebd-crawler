@@ -1,0 +1,183 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DCSrXijSGrFFw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDsV8KC0xHMZ6lovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6lsJd4FX%2Fv%2FQG4sRwcVZ2YFvMUs7ckHNBt%2BReexW%2ByvWEgKW8LWXBuO1LX7cb1MqmU1NVKZy3ECfZGL0GbiMMd7w2knS3pWanPwg7XU2hqSWQRTINp%2BXug%2BVVt2SKMhA7xg5p7bh%2BFbQ%3D&union_lens=lensId:TAPI@1663889767@210561ad_0b46_183678efc89_db8e@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/xV37VZoDC66?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=398C647BBFD2B7168D2C0A38116A7356"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/1c09dc0b-60a1-5672-b895-17ffaaab118a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "新升级"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005922"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2018044212"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2017089925"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1534435200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523808000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1499961600"
+      }
+    ],
+    "category3Name": "面膜",
+    "price": "¥178",
+    "sda_approval_date": 1534435200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "7d4d8ef9976b5904a5b41ec4413b2d97",
+        "sku_id": 2278223,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018005922"
+      },
+      {
+        "mid": "43da33c5d0ba6ec271d990893ef1f256",
+        "sku_id": 848123,
+        "attribute_type": "9",
+        "attribute_val": "1499961600"
+      },
+      {
+        "mid": "f81c602fded53d2c9dee1e58c8e3cb4c",
+        "sku_id": 1153225,
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2018044212"
+      },
+      {
+        "mid": "f81c602fded53d2c9dee1e58c8e3cb4c",
+        "sku_id": 1153225,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "f81c602fded53d2c9dee1e58c8e3cb4c",
+        "sku_id": 1153225,
+        "attribute_type": "9",
+        "attribute_val": "1523808000"
+      },
+      {
+        "mid": "43da33c5d0ba6ec271d990893ef1f256",
+        "sku_id": 848123,
+        "attribute_type": "8",
+        "attribute_val": "粤G妆网备字2017089925"
+      },
+      {
+        "mid": "7d4d8ef9976b5904a5b41ec4413b2d97",
+        "sku_id": 2278223,
+        "attribute_type": "2",
+        "attribute_val": "新升级"
+      },
+      {
+        "mid": "7d4d8ef9976b5904a5b41ec4413b2d97",
+        "sku_id": 2278223,
+        "attribute_type": "9",
+        "attribute_val": "1534435200"
+      },
+      {
+        "mid": "43da33c5d0ba6ec271d990893ef1f256",
+        "sku_id": 848123,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/90684ffd-76b4-4733-bd38-1fe42e073e53.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/ab8db77a-5482-5747-8d2c-487685400931.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1c09dc0b-60a1-5672-b895-17ffaaab118a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明液体浸在白色无纺布及蓝色衬膜\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅清润葡萄籽鲜粹面膜（新升级）",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/ab8db77a-5482-5747-8d2c-487685400931.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "无",
+    "safety_1_num": 4.9,
+    "mid": "7d4d8ef9976b5904a5b41ec4413b2d97",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "5pcs",
+    "sda_approval_no": "苏G妆网备字2018005922",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅清润葡萄籽鲜粹面膜（新升级）",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1、双手托住蓝色衬膜，将面膜朝里轻敷于面部。2、均匀地将面膜贴于面部后，揭下蓝色衬膜。3、15分钟后取下面膜。4、轻柔按摩脸部促进精华液吸收。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20180817,
+    "goods_form": ""
+  },
+  "success": true
+}

@@ -1,0 +1,119 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,128,46,129",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dt55%2F%2Bcdvj3Fw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMWfYSjCHgi7VJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rrAT8cHBxDUQ4zUuiPSMsc0xdSEEY%2BmRJ%2BDcOqFWrfeIhLNug7iB7pJkQx2mpbikVd9uWP5GQuIh8bChKbVFVRT3qdB77ShfYeCTnndEcWujZivpH59FRV%2FSEGKkI2%2FMdcCmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1753124260@0b843de7_1c82_1982e594b40_209b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/YPuA0stGDa6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=4FB0140951E5BD6F6D2AF0234C15D56A"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/48f7da54-4e40-5add-8156-f275a3d515d2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "¥109",
+    "sda_approval_date": 1603814400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_b0ead78d-8541-4f0f-9954-dbda64f8b12e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/7b36a41f-ba7f-5057-9260-236c73f7c4e1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/02ea28ed-af79-5e01-a0af-899a84a43b9d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/085cfe8b-4eb3-57dc-beb9-4ea90f44fd9a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dcbf3cfb-958c-5dbc-904b-f65a601d4db0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e9801c28-a009-5054-990c-bbc08b541ead.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dc35082a-4a16-54a0-baec-081cfed507f5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/38b78a2f-d051-5725-b647-2b7d87c25cd4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/48f7da54-4e40-5add-8156-f275a3d515d2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5176474c-bdef-576f-bac7-688e2ac8a9ee.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a89ff032-98f8-507c-b937-236ec206c43c.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士水能保湿氨基酸洁面乳",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/085cfe8b-4eb3-57dc-beb9-4ea90f44fd9a.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5203",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "5e76c559d4ef7a8abfe940fd3f3d7172",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "180ml",
+    "sda_approval_no": "苏G妆网备字2020008019",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20201028,
+    "goods_form": "23"
+  },
+  "success": true
+}

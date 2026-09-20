@@ -1,0 +1,131 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2F1sMFxafiZhw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeRIk055D5Re79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXelxmCzU3wg5%2Fef95zZXeE7WEXqtk6Zj4S2VpwJiXprqJtcdYb8WHceNsNc874c8HEyHwsIWHLn9U1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRRugKdDk7cbPu4XbTMFESM4YHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753122229@210474bb_0e65_1982e3a4ea9_6b9b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/NLl4ETUgn39?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=4E7D3A2AB1617077575EA57D8A57D1D6"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/1f2de552-eafb-53e3-8f9b-3eb628688fd9.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021500085"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007537"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1627228800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "¥360",
+    "sda_approval_date": 1567094400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "2895da1495317bf868f64149c72a2c9b",
+        "sku_id": 2861805,
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      },
+      {
+        "mid": "f02ed3b515073b0444b2771715aeeb41",
+        "sku_id": 30213276,
+        "attribute_type": "9",
+        "attribute_val": "1627228800"
+      },
+      {
+        "mid": "2895da1495317bf868f64149c72a2c9b",
+        "sku_id": 2861805,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007537"
+      },
+      {
+        "mid": "f02ed3b515073b0444b2771715aeeb41",
+        "sku_id": 30213276,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021500085"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/5de62f5c52d39.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/bd49eb6d-92e2-5156-8348-00f0f148347c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1f2de552-eafb-53e3-8f9b-3eb628688fd9.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/bd49eb6d-92e2-5156-8348-00f0f148347c.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 4.2,
+    "mid": "2895da1495317bf868f64149c72a2c9b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "15ml",
+    "sda_approval_no": "苏G妆网备字2019007537",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20190830,
+    "goods_form": ""
+  },
+  "success": true
+}

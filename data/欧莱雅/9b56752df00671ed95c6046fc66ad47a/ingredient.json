@@ -1,0 +1,901 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "欧莱雅恒放溢彩印迹天鹅绒哑光唇釉 115",
+        "ingredients": [],
+        "type": 1,
+        "esId": "32866082_1_1"
+      }
+    ],
+    "total": 1,
+    "ingredientTable": [
+      {
+        "mid": "18707e20101445b3c66d403015888b8a",
+        "name": "聚二甲基硅氧烷",
+        "nameCn": "聚二甲基硅氧烷",
+        "nameEn": "DIMETHICONE",
+        "aliasOther": "聚二甲基硅氧烷@!@DIMETHICONE@!@二甲基硅酮@!@DC200/100cst@!@二甲基硅油@!@地美司康@!@DC200/350cst@!@硅灵@!@PDMS",
+        "pid": 5,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-5",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "20",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "579e171a9fd8e2fa1e05065e16642a49",
+        "name": "异十二烷",
+        "nameCn": "异十二烷",
+        "nameEn": "ISODODECANE",
+        "aliasOther": "异十二烷@!@ISODODECANE@!@2,2,4,4,6-五甲基庚烷",
+        "pid": 114,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "79d0044a66922871316c38e95b2e866a",
+        "name": "三甲基硅烷氧基硅酸酯",
+        "nameCn": "三甲基硅烷氧基硅酸酯",
+        "nameEn": "TRIMETHYLSILOXYSILICATE",
+        "aliasOther": "三甲基硅烷氧基硅酸酯@!@TRIMETHYLSILOXYSILICATE",
+        "pid": 140,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "22",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 22,
+            "name": "成膜剂",
+            "nameCh": "成膜剂",
+            "nameEn": "Film Forming Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "a7eccfefa6f4c847e4f0ae0ed71c9628",
+        "name": "锦纶-611/聚二甲基硅氧烷共聚物",
+        "nameCn": "锦纶-611/聚二甲基硅氧烷共聚物",
+        "nameEn": "NYLON-611/DIMETHICONE COPOLYMER",
+        "aliasOther": "锦纶-611/聚二甲基硅氧烷共聚物@!@NYLON-611/DIMETHICONE COPOLYMER",
+        "pid": 1280,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50",
+          "71",
+          "19",
+          "20",
+          "15",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          },
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 20,
+            "name": "头发调理剂",
+            "nameCh": "头发调理剂",
+            "nameEn": "Hair Conditioning Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "a8b43f5ee96550217092ee0e3d4e3fb4",
+        "name": "聚二甲基硅氧烷交联聚合物",
+        "nameCn": "聚二甲基硅氧烷交联聚合物",
+        "nameEn": "DIMETHICONE CROSSPOLYMER",
+        "aliasOther": "聚二甲基硅氧烷交联聚合物@!@DIMETHICONE CROSSPOLYMER",
+        "pid": 220,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "11",
+          "19",
+          "71",
+          "86"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 11,
+            "name": "发用定型剂",
+            "nameCh": "发用定型剂",
+            "nameEn": "Hair Styling Agent"
+          },
+          {
+            "id": 19,
+            "name": "增稠剂",
+            "nameCh": "增稠剂",
+            "nameEn": "Thickener"
+          },
+          {
+            "id": 71,
+            "name": "黏度控制剂",
+            "nameCh": "黏度控制剂",
+            "nameEn": "Rheology modifier"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "05e4704b699e91f5105538cecc90db95",
+        "name": "CI 77891",
+        "nameCn": "CI 77891",
+        "nameEn": "CI 77891",
+        "aliasOther": "CI 77891@!@颜料白 6@!@PIGMENT WHITE 6",
+        "pid": 10,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "dc0a39328e2356a1a9784a1a08de44b2",
+        "name": "CI 77491",
+        "nameCn": "CI 77491",
+        "nameEn": "CI 77491",
+        "aliasOther": "CI 77491@!@PIGMENT RED 101@!@铁红@!@颜料红 101@!@颜料红 102@!@红色氧化铁",
+        "pid": 27023,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "985e8aa9df92f0ab7c35cf8171353029",
+        "name": "C30-45 烷基二甲硅烷基聚丙基倍半硅氧烷",
+        "nameCn": "C30-45 烷基二甲硅烷基聚丙基倍半硅氧烷",
+        "nameEn": "C30-45 ALKYLDIMETHYLSILYL POLYPROPYLSILSESQUIOXANE",
+        "aliasOther": "C30-45 烷基二甲硅烷基聚丙基倍半硅氧烷@!@C30-45 ALKYLDIMETHYLSILYL POLYPROPYLSILSESQUIOXANE@!@C30-45 烷醇二甲基甲硅烷聚丙基硅倍半氧烷",
+        "pid": 7456,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "22",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 22,
+            "name": "成膜剂",
+            "nameCh": "成膜剂",
+            "nameEn": "Film Forming Agent"
+          },
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "e0f35d9b0196d8f42d39c765ad41435c",
+        "name": "月桂酰赖氨酸",
+        "nameCn": "月桂酰赖氨酸",
+        "nameEn": "LAUROYL LYSINE",
+        "aliasOther": "月桂酰赖氨酸@!@LAUROYL LYSINE@!@N-(十二酰基)赖氨酸",
+        "pid": 134,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "63",
+          "85",
+          "44"
+        ],
+        "active": "2",
+        "used": [
+          {
+            "id": 44,
+            "name": "清洁剂",
+            "nameCh": "清洁剂",
+            "nameEn": "Cleansing Agent"
+          },
+          {
+            "id": 63,
+            "name": "表面活性剂",
+            "nameCh": "表面活性剂",
+            "nameEn": "Surfactant"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "30be32cec506a0f5588c6f1ed6a3db06",
+        "name": "甲硅烷基化硅石",
+        "nameCn": "甲硅烷基化硅石",
+        "nameEn": "SILICA SILYLATE",
+        "aliasOther": "甲硅烷基化硅石@!@SILICA SILYLATE",
+        "pid": 312,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "15",
+          "14"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 14,
+            "name": "吸附剂",
+            "nameCh": "吸附剂",
+            "nameEn": "Adsorbent"
+          },
+          {
+            "id": 15,
+            "name": "填充剂",
+            "nameCh": "填充剂",
+            "nameEn": "Filler"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "b2ae64838ed16fa8cc4df27bddacee10",
+        "name": "苯氧乙醇",
+        "nameCn": "苯氧乙醇",
+        "nameEn": "PHENOXYETHANOL",
+        "aliasOther": "苯氧乙醇@!@PHENOXYETHANOL@!@PE",
+        "pid": 3,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "2-4",
+        "safetyNum": 2,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "69"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 69,
+            "name": "防腐剂",
+            "nameCh": "防腐剂",
+            "nameEn": "preservative"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 2,
+            "name": "一般防腐剂",
+            "nameCh": "一般防腐剂",
+            "nameEn": "General Preservatives"
+          }
+        ]
+      },
+      {
+        "mid": "92f8ab6dba5a23eb4850304e9efc6f1a",
+        "name": "棕榈酸乙基己酯",
+        "nameCn": "棕榈酸乙基己酯",
+        "nameEn": "ETHYLHEXYL PALMITATE",
+        "aliasOther": "棕榈酸乙基己酯@!@ETHYLHEXYL PALMITATE@!@棕榈酸异辛酯",
+        "pid": 78,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38",
+          "85"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 16,
+            "name": "致痘风险等级（高）",
+            "nameCh": "致痘风险等级（高）",
+            "nameEn": "Acne Ingredients(high)"
+          }
+        ]
+      },
+      {
+        "mid": "5883fba3064dcde61461d91856905e31",
+        "name": "CI 15850",
+        "nameCn": "CI 15850",
+        "nameEn": "CI 15850; AKA201; AKA202",
+        "aliasOther": "CI 15850@!@AKA201@!@AKA202@!@立索尔宝红",
+        "pid": 131,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-5",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "42b7fb2a043e4e9d156f2c9415096293",
+        "name": "三乙氧基甲硅烷基乙基聚二甲基硅氧乙基聚二甲基硅氧烷",
+        "nameCn": "三乙氧基甲硅烷基乙基聚二甲基硅氧乙基聚二甲基硅氧烷",
+        "nameEn": "TRIETHOXYSILYLETHYL POLYDIMETHYLSILOXYETHYL DIMETHICONE",
+        "aliasOther": "三乙氧基甲硅烷基乙基聚二甲基硅氧乙基聚二甲基硅氧烷@!@TRIETHOXYSILYLETHYL POLYDIMETHYLSILOXYETHYL DIMETHICONE",
+        "pid": 1189,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "84"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 84,
+            "name": "不透明剂",
+            "nameCh": "不透明剂",
+            "nameEn": "Opacifier"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 10,
+            "name": "硅油",
+            "nameCh": "硅油",
+            "nameEn": "Silicone Oil"
+          }
+        ]
+      },
+      {
+        "mid": "7a0ada5a22c8bf026bcc771b7a3758e6",
+        "name": "三异硬脂酸异丙氧钛盐",
+        "nameCn": "三异硬脂酸异丙氧钛盐",
+        "nameEn": "ISOPROPYL TITANIUM TRIISOSTEARATE",
+        "aliasOther": "三异硬脂酸异丙氧钛盐@!@ISOPROPYL TITANIUM TRIISOSTEARATE@!@三异硬酯酸钛酸异丙酯@!@三(异十八酸-O)(2-丙氧)钛",
+        "pid": 283,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "85",
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          },
+          {
+            "id": 85,
+            "name": "乳化剂",
+            "nameCh": "乳化剂",
+            "nameEn": "Emulsifier"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "59d388ebd29837f34123ed795f6a03ec",
+        "name": "CI 77499",
+        "nameCn": "CI 77499",
+        "nameEn": "CI 77499",
+        "aliasOther": "CI 77499@!@颜料黑11@!@PIGMENT BLACK 11@!@黑色氧化铁",
+        "pid": 36,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1-2",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "cb1f6fd4fe91932802cc3c4373ed8a29",
+        "name": "香精",
+        "nameCn": "香精",
+        "nameEn": "PARFUM; AROMA",
+        "aliasOther": "香精@!@PARFUM@!@AROMA",
+        "pid": 7285,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safetyLevel": 4,
+        "usedIdList": [
+          "70"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 70,
+            "name": "芳香剂",
+            "nameCh": "芳香剂",
+            "nameEn": "Fragrance Ingredient"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 14,
+            "name": "香精香料",
+            "nameCh": "香精香料",
+            "nameEn": "Flavors and Fragrances"
+          }
+        ]
+      },
+      {
+        "mid": "0ca0cadd7c73980546a6b675410c4c7f",
+        "name": "CI 45410",
+        "nameCn": "CI 45410",
+        "nameEn": "CI 45410; AKA104(1); AKA231",
+        "aliasOther": "CI 45410@!@AKA104(1)@!@AKA231@!@ACID RED 92@!@酸性红 92",
+        "pid": 267,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "5",
+        "safetyNum": 5,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 11,
+            "name": "致痘风险等级（低）",
+            "nameCh": "致痘风险等级（低）",
+            "nameEn": "Acne Ingredients(low)"
+          },
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      },
+      {
+        "mid": "f1f32c7d3a641d56e07d58d72166fa78",
+        "name": "三羟基硬脂精",
+        "nameCn": "三羟基硬脂精",
+        "nameEn": "TRIHYDROXYSTEARIN",
+        "aliasOther": "三羟基硬脂精@!@TRIHYDROXYSTEARIN",
+        "pid": 296,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "38"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 38,
+            "name": "润肤剂",
+            "nameCh": "润肤剂",
+            "nameEn": "Emollient"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      },
+      {
+        "mid": "d60d662a563c6a33eeab85a0f331e868",
+        "name": "透明质酸钠",
+        "nameCn": "透明质酸钠",
+        "nameEn": "SODIUM HYALURONATE",
+        "aliasOther": "透明质酸钠@!@SODIUM HYALURONATE@!@玻璃酸钠@!@玻尿酸钠@!@低分子透明质酸钠@!@高分子透明质酸钠",
+        "pid": 18,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5"
+        ],
+        "effectIdList": [
+          "74",
+          "5",
+          "93",
+          "60"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          },
+          {
+            "id": 60,
+            "name": "舒缓",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "舒缓",
+            "nameEn": "舒缓"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 93,
+            "name": "修护",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "修护",
+            "nameEn": "修护"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "a5dd20913f1b86cb3c5b97685145f9f2",
+        "name": "葡甘露聚糖",
+        "nameCn": "葡甘露聚糖",
+        "nameEn": "GLUCOMANNAN",
+        "aliasOther": "葡甘露聚糖@!@GLUCOMANNAN",
+        "pid": 11376,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "50",
+          "51",
+          "86"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          },
+          {
+            "id": 51,
+            "name": "皮肤保护剂",
+            "nameCh": "皮肤保护剂",
+            "nameEn": "Skin Repellent"
+          },
+          {
+            "id": 86,
+            "name": "乳化稳定剂",
+            "nameCh": "乳化稳定剂",
+            "nameEn": "Emulsion Stabilizer"
+          }
+        ],
+        "effect": [],
+        "avoid": []
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 21,
+    "ingredientNum": {
+      "risk_ingredient_num": 12,
+      "safety_level_2_num": 1,
+      "safety_level_1_num": 18,
+      "function_ingredient_num": 1,
+      "function_ingredient_num_v310": 1,
+      "ingredient_num": 21,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 2
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 1,
+        "xAxis": "2-4"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "2-5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "5"
+      },
+      {
+        "yAxis": 1,
+        "xAxis": "1-5"
+      },
+      {
+        "yAxis": 4,
+        "xAxis": "1-2"
+      },
+      {
+        "yAxis": 11,
+        "xAxis": "1"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "未知"
+      }
+    ]
+  },
+  "success": true
+}

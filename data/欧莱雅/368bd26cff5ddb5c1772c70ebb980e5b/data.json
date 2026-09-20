@@ -1,0 +1,139 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,43,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dd%2Bm50S7H4VFw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXLsUIarZ9w%2B8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9%2BKD6%2F15kHz%2FeEwtlhyGqV5%2FElg6ZfnWCcSfCX2ckHwfn9MY1hTrhA4e%2FV94eTkh3NUf46Y6zWzQbkJ5QxPS2Ci%2FKfJmqgrYAVeUbyPGEXTB7%2BZ3kHgzMGvkIZEXIWtGoca2JNko0gYMhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1753124612@2146bd04_0db8_1982e5eaae5_a013@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/qSh8MgF1f69?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=3E5FAC5C528C29E53C8B8D3A8A11E48A"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARoJK1olWAcAUFxUDE0QBl8OHFgRWgAyEAEFVhQnWipNWhkeQxhaEQoBFxBCHD1WR0UTWgUGU1hCUQ5LXl9vHA98WWZLJjsCDxFfaCdUbDBzHGRyWFJtCEsTBW0OGlgQWjYCVV9cDUoSBGYIK2sVWDZROonAnpKog7eir4yQ-9G5wYngqJ-IkF8IG18TWAAGUlxZOEsRBWkNE1oSXAYCVVhtCEMTM7mHpI6c0dOMy4fNtRhDRDFVK2slXjYyZF5tC3tJbW4PHg5HDlRROgIDUh0WVjRcdVscXAMDU1tbOEkWAm0KK2slKANSFiI8U08RZilQX19TBVJ8CRYIdEJDRwEKez1ABU1cVjlbQAN1axlUZiUlXTYCU1hZCXs"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥36",
+    "sda_approval_date": 1525795200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_264465cd-b946-4ed2-8843-4b2bb7abf1cd.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/3a6f0bbd-3c79-58c8-804e-cd6004be5fde.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0a55e6a8-26c1-5195-a0cd-774f8cd620b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/09cfef16-4ff1-50ab-bb40-fc4f2795e7d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/45bb9c30-395f-58c6-bb6c-65029fdea708.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/06c840d5-e4c2-5ca6-b007-683c4bcded4b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/60433b7e-6a1b-5f62-9280-0f8b752f521b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/96257d84-7d75-54ce-bb7b-aa361009a21e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/190f8edc-f42d-5de8-b149-448e6589687d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1aea112e-3f22-563c-b7a7-5f19cecdd638.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2af212a5-9759-56ad-ba8d-a14fa6a13446.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3f9d0cab-2ce4-5d49-8e59-6ced1105036c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1784a6db-dd0e-5a6b-adb2-7026bdb986c4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1b617a15-2c2a-58c4-a6a8-6c053a28d755.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2606d628-cb73-51f9-a989-f1db852fffcb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/633bdf65-19a9-5650-9985-e9bb72793f86.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/63564b6e-f01d-579f-b49a-18bbe594dc9e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9e373978-ef4a-5cb3-ab8b-0241ea2a7574.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/df9e955c-fe3c-5674-b4ce-d822aa79e2d3.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅精油润养润发乳",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.0,
+    "mid": "368bd26cff5ddb5c1772c70ebb980e5b",
+    "description": "为干枯发质定制，8种植物精萃油，润养直达发根 莹润发丝至发梢 全新升级巴黎欧莱雅精油润养8润发乳，蕴含8种臻选植物精萃油，润养不油腻，干枯头发焕变柔锻触感，润泽闪耀. ",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "400ml",
+    "sda_approval_no": "苏G妆网备字2018002554",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅精油润养润发乳",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20180509,
+    "goods_form": "23"
+  },
+  "success": true
+}

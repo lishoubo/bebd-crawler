@@ -1,0 +1,221 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "30蜜糖色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "24黄金象牙"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "22亮肌象牙"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "20浅米色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "12自然粉玫"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172538"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172492"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172491"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172490"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172489"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "",
+    "sda_approval_date": 1489939200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "哑光",
+        "id": 5231
+      },
+      {
+        "name": "持久",
+        "id": 5243
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "ac7b805a2f95d16fca5953ed22457509",
+        "sku_id": 745552,
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      },
+      {
+        "mid": "24e5622da692b3c81bf721cf402c6732",
+        "sku_id": 745550,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172489"
+      },
+      {
+        "mid": "133342a381d23084840c4d31e60b4fd3",
+        "sku_id": 745554,
+        "attribute_type": "1",
+        "attribute_val": "24黄金象牙"
+      },
+      {
+        "mid": "133342a381d23084840c4d31e60b4fd3",
+        "sku_id": 745554,
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      },
+      {
+        "mid": "bb7920cb7548b44d4b3ad224a44ee25d",
+        "sku_id": 2537861,
+        "attribute_type": "1",
+        "attribute_val": "12自然粉玫"
+      },
+      {
+        "mid": "bb7920cb7548b44d4b3ad224a44ee25d",
+        "sku_id": 2537861,
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      },
+      {
+        "mid": "c55ed083fbccc690f6b4b4a070f59cc0",
+        "sku_id": 745543,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172538"
+      },
+      {
+        "mid": "24e5622da692b3c81bf721cf402c6732",
+        "sku_id": 745550,
+        "attribute_type": "1",
+        "attribute_val": "22亮肌象牙"
+      },
+      {
+        "mid": "bb7920cb7548b44d4b3ad224a44ee25d",
+        "sku_id": 2537861,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172490"
+      },
+      {
+        "mid": "ac7b805a2f95d16fca5953ed22457509",
+        "sku_id": 745552,
+        "attribute_type": "1",
+        "attribute_val": "20浅米色"
+      },
+      {
+        "mid": "ac7b805a2f95d16fca5953ed22457509",
+        "sku_id": 745552,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172491"
+      },
+      {
+        "mid": "24e5622da692b3c81bf721cf402c6732",
+        "sku_id": 745550,
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      },
+      {
+        "mid": "133342a381d23084840c4d31e60b4fd3",
+        "sku_id": 745554,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20172492"
+      },
+      {
+        "mid": "c55ed083fbccc690f6b4b4a070f59cc0",
+        "sku_id": 745543,
+        "attribute_type": "1",
+        "attribute_val": "30蜜糖色"
+      },
+      {
+        "mid": "c55ed083fbccc690f6b4b4a070f59cc0",
+        "sku_id": 745543,
+        "attribute_type": "9",
+        "attribute_val": "1489939200"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"米色\"}, {\"name\": \"性状\", \"condition\": \"乳液\"}, {\"name\": \"气味\", \"condition\": \"原料特征气味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL INFALLIBLE MATTE FOUNDATION - 22 RADIANT BEIGE",
+    "name": "欧莱雅全日持久哑光粉底液 22 亮肌象牙",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5231,5243",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无",
+    "safety_1_num": 4.5,
+    "mid": "24e5622da692b3c81bf721cf402c6732",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆备进字J20172489",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "均匀涂抹全脸",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 43,
+    "registered_day": 20170320,
+    "goods_form": ""
+  },
+  "success": true
+}

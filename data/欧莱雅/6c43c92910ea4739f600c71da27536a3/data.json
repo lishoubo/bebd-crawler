@@ -1,0 +1,197 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DC%2BWCXu7JXaZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXEbqFcFrNVaMMgx22UI05Z1JqeEpII60FAKj%2BNmLVghA2GXE01CapHUp56cAcZLv751sV9uE9T2OlGkMkr%2BSUUYmUGuVZn0ufcfsQORDzPCX2a03KFMqQwLZMqoQW%2BfuB6GmlJyRiVTMCgWV3FKm%2FGBlHJ0V1Wn1iWUvQDpE3nr2sQ4%2F%2Bc59dUfR36EgR4Q0pja1c%2FbgaCs81%2FjirJuHg0bkJ5QxPS2Ci%2FKfJmqgrYASp3Oj7PbYVe57Zr75sQCz%2B15kDSLkJfTca2JNko0gYMhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1746962928@216606ac_0e18_196bf1ad499_0b97@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/YMg1uzb1Dj9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=206D615B13D1ED226C9B000D80A0AF6D"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/6e28d062-694b-521d-a7db-ddc78f1180f4.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018008009"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004025"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002676"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20160043"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1539273600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1452096000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418659200"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥220",
+    "sda_approval_date": 1539273600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "cdc9fbbd2e3543df0f672e3c15eb2103",
+        "sku_id": 701056,
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      },
+      {
+        "mid": "11f4d53b73ab5c3561d5b43b45959c2b",
+        "sku_id": 516514,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20160043"
+      },
+      {
+        "mid": "6ca6bd37773e52c4c8ed98089710f699",
+        "sku_id": 212204,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002676"
+      },
+      {
+        "mid": "11f4d53b73ab5c3561d5b43b45959c2b",
+        "sku_id": 516514,
+        "attribute_type": "9",
+        "attribute_val": "1452096000"
+      },
+      {
+        "mid": "6c43c92910ea4739f600c71da27536a3",
+        "sku_id": 2146552,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018008009"
+      },
+      {
+        "mid": "6c43c92910ea4739f600c71da27536a3",
+        "sku_id": 2146552,
+        "attribute_type": "9",
+        "attribute_val": "1539273600"
+      },
+      {
+        "mid": "cdc9fbbd2e3543df0f672e3c15eb2103",
+        "sku_id": 701056,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004025"
+      },
+      {
+        "mid": "6ca6bd37773e52c4c8ed98089710f699",
+        "sku_id": 212204,
+        "attribute_type": "9",
+        "attribute_val": "1418659200"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/7eac8ad9-5215-404b-9333-48a1d771c701.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/3a9c70b6-5c6b-5f8f-99a6-3a00aefc5e5a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6e28d062-694b-521d-a7db-ddc78f1180f4.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅 复颜抗皱紧致滋润日霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/3a9c70b6-5c6b-5f8f-99a6-3a00aefc5e5a.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5203,5204,5207,5226,5201",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 3.7,
+    "mid": "6c43c92910ea4739f600c71da27536a3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2018008009",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅 复颜抗皱紧致滋润日霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 140,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "日霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20181012,
+    "goods_form": ""
+  },
+  "success": true
+}

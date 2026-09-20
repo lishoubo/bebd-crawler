@@ -1,0 +1,166 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,47,129,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DndaF8w1v88Zw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMWu%2BpRs%2FDlD%2Ft4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6vFy6%2FXBdJdADie5%2FYSGLk5Fkzx6Pl8qKAp3gr0sTOAsSS6BVxt%2FpntkFpGlv9%2FZwYy2K0KdfRTenpkC3LPD9A8FaAgPYVdjTxsKEptUVVFPep0HvtKF9hUXNB5JfMgU4dZ6NfoA2W8dpJYPi%2Bl%2Fb8X0%2B3obhRTo5xKmPmpIKZsA%3D%3D&umpChannel=bybtqdyh&u_channel=bybtqdyh&maskChannel=bybtrs&union_lens=lensId:TAPI@1753120623@213dad2d_0e3a_1982e21caa7_b399@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/KPpv5e5uXz5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=BEC686ABB864E6C47388B512789190AB"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/a0f9bedb-abab-526b-8efe-058d6c4f832f.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000278"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000047"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1420300800"
+      }
+    ],
+    "category3Name": "唇部护理",
+    "price": "¥39",
+    "sda_approval_date": 1581523200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "a81e6091d6ed3553abe44082aca0a069",
+        "sku_id": 164553,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000047"
+      },
+      {
+        "mid": "14e45e534d1b7099de4938db98c9a793",
+        "sku_id": 3256902,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "a81e6091d6ed3553abe44082aca0a069",
+        "sku_id": 164553,
+        "attribute_type": "9",
+        "attribute_val": "1420300800"
+      },
+      {
+        "mid": "14e45e534d1b7099de4938db98c9a793",
+        "sku_id": 3256902,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000278"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_618914f3-a96d-44d2-93a7-1df99486c977.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2de2554c-d42d-5900-830a-91df172ecba8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e3534773-3fcb-53bb-a497-a30cd9804909.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4d94e6fa-15cf-5aed-8b77-fa495c52badb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a0f9bedb-abab-526b-8efe-058d6c4f832f.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "蜡基",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "口唇",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士劲能极润护唇膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/2de2554c-d42d-5900-830a-91df172ecba8.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "14e45e534d1b7099de4938db98c9a793",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "3.5g",
+    "sda_approval_no": "鄂G妆网备字2020000278",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士劲能极润护唇膏",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 169,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "护唇/润唇膏",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 37,
+    "registered_day": 20200213,
+    "goods_form": "29"
+  },
+  "success": true
+}

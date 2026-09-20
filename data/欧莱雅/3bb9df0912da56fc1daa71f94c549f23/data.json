@@ -1,0 +1,151 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DKaRM%2FAkVunxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfoD9X7rg9Jft4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXUxHqAU9%2BnBxuzfLQ%2BVNIeNVCp%2B9d3LqD7%2F%2BhngucFgXvREMo%2BQ%2FcEvJqiWeZtMEaNBliLONbjhAU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvR0RDJ21PiYttKW3%2Fn%2Fe%2B%2F0oYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753120663@2133e4e7_0d9d_1982e2268ff_e145@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/626e9427-c060-5a1d-aa5d-7d24887054b4.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020000379"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018009292"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000820"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1579017600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1542556800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1488902400"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥480",
+    "sda_approval_date": 1579017600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "740b29751ef7ce3c1f75e734d75edf7c",
+        "sku_id": 2202208,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018009292"
+      },
+      {
+        "mid": "740b29751ef7ce3c1f75e734d75edf7c",
+        "sku_id": 2202208,
+        "attribute_type": "9",
+        "attribute_val": "1542556800"
+      },
+      {
+        "mid": "3bb9df0912da56fc1daa71f94c549f23",
+        "sku_id": 3241933,
+        "attribute_type": "9",
+        "attribute_val": "1579017600"
+      },
+      {
+        "mid": "515b6197f08f7a8eb1ec8b41bd3c3e41",
+        "sku_id": 732721,
+        "attribute_type": "9",
+        "attribute_val": "1488902400"
+      },
+      {
+        "mid": "3bb9df0912da56fc1daa71f94c549f23",
+        "sku_id": 3241933,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020000379"
+      },
+      {
+        "mid": "515b6197f08f7a8eb1ec8b41bd3c3e41",
+        "sku_id": 732721,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017000820"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_37c2fc33-5df5-4dd1-b274-8e9400a82dbe.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/dd9d6b5e-b629-5c02-b40c-86a2389b5b1e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e7723bb8-d94c-50bc-bd80-9dd5dc95b59d.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"粉色\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养肌活面霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/2b802d17-19c1-5c42-8f0e-584a7ccb7588.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料中含有过敏原：香茅醇、苧烯、α-异甲基紫罗兰酮、芳樟醇、苯甲醇、香叶醇。",
+    "safety_1_num": 3.8,
+    "mid": "3bb9df0912da56fc1daa71f94c549f23",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2020000379",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天使用在清洁后的面部及颈部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20200115,
+    "goods_form": ""
+  },
+  "success": true
+}

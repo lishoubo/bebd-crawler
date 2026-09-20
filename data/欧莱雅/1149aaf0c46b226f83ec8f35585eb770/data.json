@@ -1,0 +1,117 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "55,56,44,128,130,129,48,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1655222400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "丰盈",
+        "id": 5260
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_2ce22c05-7527-47ac-beb4-fdba42d32933.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/8a6f02a8-871c-564c-9dcf-100b251653dc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8381d683-f881-5ab9-847c-73aa6b2ea6b5.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "L'OREAL PROFESSIONNEL PARIS Serioxyl Advanced Purifier Bodifier SHAMPOO",
+    "name": "巴黎欧莱雅沙龙专属芯基源净澈丰盈洗发水",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5260",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "1149aaf0c46b226f83ec8f35585eb770",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2022003042",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "L'OREAL PROFESSIONNEL PARIS Serioxyl Advanced Purifier Bodifier SHAMPOO@!@巴黎欧莱雅沙龙专属芯基源净澈丰盈洗发水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "爽身",
+        "id": "55"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 66,
+    "registered_day": 20220615,
+    "goods_form": "24"
+  },
+  "success": true
+}

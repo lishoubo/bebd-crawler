@@ -1,0 +1,146 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/8df761e2-a804-55a9-a862-532f16c17888.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001673"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004923"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002955"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1504195200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1473696000"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥480",
+    "sda_approval_date": 1522684800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "7d4e834f9dac86053ae1de389e3f5b3f",
+        "sku_id": 997263,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004923"
+      },
+      {
+        "mid": "753379cf58d73f652a1bcd763755f566",
+        "sku_id": 1195442,
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      },
+      {
+        "mid": "a51c5c881b9bfb5144d8cb0af55cf1b2",
+        "sku_id": 570926,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002955"
+      },
+      {
+        "mid": "a51c5c881b9bfb5144d8cb0af55cf1b2",
+        "sku_id": 570926,
+        "attribute_type": "9",
+        "attribute_val": "1473696000"
+      },
+      {
+        "mid": "753379cf58d73f652a1bcd763755f566",
+        "sku_id": 1195442,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001673"
+      },
+      {
+        "mid": "7d4e834f9dac86053ae1de389e3f5b3f",
+        "sku_id": 997263,
+        "attribute_type": "9",
+        "attribute_val": "1504195200"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_005f5b2e-ea31-4000-a214-df59fe943f28.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/d046918d-5537-50a8-853f-43e07d21dd19.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8df761e2-a804-55a9-a862-532f16c17888.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养肌活双萃精华露",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/d046918d-5537-50a8-853f-43e07d21dd19.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "safety_1_num": 3.7,
+    "mid": "753379cf58d73f652a1bcd763755f566",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2018001673",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "雅珂迪包装科技（苏州）有限公司",
+        "mid": "436906f209dfb1b45000bd7fcdb5f0df"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20180403,
+    "goods_form": ""
+  },
+  "success": true
+}

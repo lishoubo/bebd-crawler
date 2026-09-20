@@ -1,0 +1,181 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRuqiyQ%2BARUdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMS%2BK88Pu%2F9WHMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXedv8ksUloo6GqDi68E2EEpfuFByNtDcAUHmZYjnI%2FNgCy2C66rdYcwWP%2BUhwDjZYRK5ja4UHv8kX0%2B3obhRTo7%2B58h5pKGYu9YY89nTcJHEBjltYNfooYnml74MIpF%2FkhuQnlDE9LYKvRn9s5lIr3k%3D&union_lens=lensId:TAPI@1753119088@2133f0ea_0e27_1982e0a5de6_e660@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/NeTI9I0saZ9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=08147947BA555720C541B9B7C3147C11"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATAJK1olXQ8GUl1fCUMWAl8IGloXXQEBUVldD08VAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0IHFgQWgYFUFxeFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZBLygebAlAcAxeHDtQLnp6DDY-dhZnD2M4G1sRWwQEVV1YD3sXAm4JHloQWg8CZG5dDXtWbW8JG1MQVAEHZF5dDE0SBWsOGV8lXQAEUltUCksfA2cLE2sVVQIygtHi3cKb1uGXwsuoDlJFCgNtOHsUM184G2sWbVhsVVlbCEtEVGZmRwVPDltYDhczDEoWC2oNGV8lXwcDVlxtOHtLewlYZg1hPgReUlomTw0SWG5OGBAULnxlOlwidEsTUDVXElkQGgVANT4jcHsXM28KG1wl"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF35"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20170937"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1632931200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      }
+    ],
+    "category3Name": "防晒",
+    "price": "¥319",
+    "sda_approval_date": 1632931200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "b7aa70a3e6f24e3aa95aabc51cdbfdb2",
+        "sku_id": 30401608,
+        "attribute_type": "9",
+        "attribute_val": "1632931200"
+      },
+      {
+        "mid": "351be0dc0ad9bf8a5b22b76b9c51b99a",
+        "sku_id": 1263388,
+        "attribute_type": "6",
+        "attribute_val": "SPF35"
+      },
+      {
+        "mid": "351be0dc0ad9bf8a5b22b76b9c51b99a",
+        "sku_id": 1263388,
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      },
+      {
+        "mid": "b7aa70a3e6f24e3aa95aabc51cdbfdb2",
+        "sku_id": 30401608,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "351be0dc0ad9bf8a5b22b76b9c51b99a",
+        "sku_id": 1263388,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "b7aa70a3e6f24e3aa95aabc51cdbfdb2",
+        "sku_id": 30401608,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20170937"
+      },
+      {
+        "mid": "351be0dc0ad9bf8a5b22b76b9c51b99a",
+        "sku_id": 1263388,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20170937"
+      },
+      {
+        "mid": "b7aa70a3e6f24e3aa95aabc51cdbfdb2",
+        "sku_id": 30401608,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/0_b232312e-adb4-4606-a3e7-3c4494de6536.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/470cc3b6-3c9b-512c-8bc3-c01cc286c002.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cdf518e4-1f12-5b67-9bd2-afe4121c07ca.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜奢养粉妍防晒乳",
+    "category2Name": "防晒",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "6711,5223",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "本品香精原料中含有α-异甲基紫罗兰酮、苯甲醇、香茅醇、香叶醇、苧烯、芳樟醇。",
+    "safety_1_num": 3.7,
+    "mid": "b7aa70a3e6f24e3aa95aabc51cdbfdb2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20170937",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅牡丹防晒霜@!@欧莱雅金致臻颜奢养粉妍防晒乳",
+    "functionType": "防晒类（SPF35,PA+++），祛斑美白类",
+    "shelfLife": "3年",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天使用于清洁后的肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20210930,
+    "goods_form": ""
+  },
+  "success": true
+}

@@ -1,0 +1,273 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "114-N"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "103-N"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "102-N"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "01-N"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "90"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "160"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "165"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002493"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002492"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002491"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002489"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814287"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814286"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814069"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1541606400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1447689600"
+      }
+    ],
+    "category3Name": "腮红/胭脂",
+    "price": "",
+    "sda_approval_date": 1541606400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "4f7bb335391e096d377a95c029e55108",
+        "sku_id": 2617894,
+        "attribute_type": "9",
+        "attribute_val": "1541606400"
+      },
+      {
+        "mid": "6e19102315bf2c8e88e51adbbea97513",
+        "sku_id": 509583,
+        "attribute_type": "1",
+        "attribute_val": "103-N"
+      },
+      {
+        "mid": "6e19102315bf2c8e88e51adbbea97513",
+        "sku_id": 509583,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002491"
+      },
+      {
+        "mid": "0e888225c3220320689e90b05a3fa82d",
+        "sku_id": 2580664,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814069"
+      },
+      {
+        "mid": "bbd4cd1cbb7c7763028d7399a9217bc2",
+        "sku_id": 2617893,
+        "attribute_type": "1",
+        "attribute_val": "160"
+      },
+      {
+        "mid": "bbd4cd1cbb7c7763028d7399a9217bc2",
+        "sku_id": 2617893,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814286"
+      },
+      {
+        "mid": "5ad48fb75b85dfdd24d2eb625a0566ae",
+        "sku_id": 509585,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002493"
+      },
+      {
+        "mid": "875402585475c0919b33016bb490f3fe",
+        "sku_id": 509584,
+        "attribute_type": "9",
+        "attribute_val": "1447689600"
+      },
+      {
+        "mid": "0e888225c3220320689e90b05a3fa82d",
+        "sku_id": 2580664,
+        "attribute_type": "1",
+        "attribute_val": "90"
+      },
+      {
+        "mid": "0e888225c3220320689e90b05a3fa82d",
+        "sku_id": 2580664,
+        "attribute_type": "9",
+        "attribute_val": "1541606400"
+      },
+      {
+        "mid": "bbd4cd1cbb7c7763028d7399a9217bc2",
+        "sku_id": 2617893,
+        "attribute_type": "9",
+        "attribute_val": "1541606400"
+      },
+      {
+        "mid": "4f7bb335391e096d377a95c029e55108",
+        "sku_id": 2617894,
+        "attribute_type": "1",
+        "attribute_val": "165"
+      },
+      {
+        "mid": "4f7bb335391e096d377a95c029e55108",
+        "sku_id": 2617894,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201814287"
+      },
+      {
+        "mid": "c9ef1d2ab1f086b02f7a65976ab97311",
+        "sku_id": 509582,
+        "attribute_type": "1",
+        "attribute_val": "102-N"
+      },
+      {
+        "mid": "c9ef1d2ab1f086b02f7a65976ab97311",
+        "sku_id": 509582,
+        "attribute_type": "9",
+        "attribute_val": "1447689600"
+      },
+      {
+        "mid": "875402585475c0919b33016bb490f3fe",
+        "sku_id": 509584,
+        "attribute_type": "1",
+        "attribute_val": "114-N"
+      },
+      {
+        "mid": "6e19102315bf2c8e88e51adbbea97513",
+        "sku_id": 509583,
+        "attribute_type": "9",
+        "attribute_val": "1447689600"
+      },
+      {
+        "mid": "5ad48fb75b85dfdd24d2eb625a0566ae",
+        "sku_id": 509585,
+        "attribute_type": "1",
+        "attribute_val": "01-N"
+      },
+      {
+        "mid": "5ad48fb75b85dfdd24d2eb625a0566ae",
+        "sku_id": 509585,
+        "attribute_type": "9",
+        "attribute_val": "1447689600"
+      },
+      {
+        "mid": "c9ef1d2ab1f086b02f7a65976ab97311",
+        "sku_id": 509582,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002489"
+      },
+      {
+        "mid": "875402585475c0919b33016bb490f3fe",
+        "sku_id": 509584,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015002492"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"粉红色带珠光\"}, {\"name\": \"性状\", \"condition\": \"固体粉块\"}, {\"name\": \"气味\", \"condition\": \"果香\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL TRUE MATCH BLUSH 90",
+    "name": "欧莱雅绝配无瑕腮红 90",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5238",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "香精原料中含有苯甲醇。",
+    "safety_1_num": 4.3,
+    "mid": "0e888225c3220320689e90b05a3fa82d",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆备进字J201814069",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "使用化妆刷等工具，取适量产品均匀轻扫于脸颊。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 49,
+    "registered_day": 20181108,
+    "goods_form": ""
+  },
+  "success": true
+}

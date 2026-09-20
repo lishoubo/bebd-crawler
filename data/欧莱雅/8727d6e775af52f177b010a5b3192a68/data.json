@@ -1,0 +1,143 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,129,51,54,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DkcHlqISe3D5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVsW2DPBtaMIlovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6JivjO5xU6A9qd%2B8FXBPklTo7ExIsuFxTEBEdiLcwTLqQwpEFx3YhG1bvOpyWhSYj8bChKbVFVRT3qdB77ShfYdwvtfmgfF3BafuYt%2BaepC1hKKEhaMIrkl9Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1739646967@212bef65_0f41_1950b0a20a9_9bba@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/hrrJu2PNtsA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=DD7CE1453A478F6CB197FAE16357BB4F"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGloTVQ4FUFZfDE4TBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkAE1wRVQQGUVpbFxJSXzI4YQBNDVZ9MQs4Q0hjeWkLWSNLPnRgElJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgIEV1ddCE0nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWwVWVVdbZhdCVjZKRl1dMwIKUF5VAEoQM20JGlkXbTYyVSlZCExpVWZxelNVFgV7FwgfQDRLVhp-dVlCC3BdATVfTzIVaxVWST1TXDYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/067e2588-636f-5a5c-aacc-8d266adefbf2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "¥339",
+    "sda_approval_date": 1672070400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_df04ea9e-2e09-4e21-b456-b6178272ec1b.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/a84e5392-123b-5a9b-b1dc-d28288176ec7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a480a1bb-7ae2-5982-a7c1-76d8705d7c97.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0061c066-c93d-55ef-8599-0b50d3db648c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1570f5df-7873-5b89-9af1-ff7866ae41d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1b1a4cfc-9828-5e4d-bacf-12fa44b329ff.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2cc47d5e-3462-5ffe-b7bb-511a30d74569.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/88ff2e3a-9792-53b7-9ace-186a40111f98.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ba4f665f-bf98-5217-adcc-f479eba25166.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8fc849b5-a1d6-5639-a414-51e2f617e090.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/98f7bb40-2351-5703-af7d-319a838b58e7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c90b2026-ff4e-5e6d-bdd6-09531aff22ef.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/64e83ec2-a6e1-5262-b410-0a4cae16a4fe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/892fd424-abbb-5f6d-bb36-f2287f83acff.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9dcf3f9c-ece1-5e55-afa2-f80e14fc85a5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d0d6d5d0-b242-52d5-82e7-6bbf32de5240.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a55d652b-ce53-5f16-8895-f064b07fd338.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜精纯维C紧致精华液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/03ae81fe-a955-5fa7-baef-0d7cd4e2b131.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5207,5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "8727d6e775af52f177b010a5b3192a68",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "苏G妆网备字2022010593",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅真c瓶@!@欧莱雅复颜精纯维C紧致精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20221227,
+    "goods_form": "24"
+  },
+  "success": true
+}

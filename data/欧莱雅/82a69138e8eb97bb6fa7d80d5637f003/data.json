@@ -1,0 +1,131 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,129,51,53,126,54",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dl5EsWrAdizNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQ%2Btn5Fhpaqelovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6SyeYBnk%2FFvtbRPAIYOo1HuOMPGjccoFZtiJz7baCojnlyOxDjwGS1ANi2kELKHxdnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OLwXMvcmaQyLjwt8fQY1wjFNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753125737@213d8142_0e59_1982e6fd559_1f66@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/PIuWOfKlm9A?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=30E933FE1DB97850FD0F2E21830123FD"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olWAcAU1ZVAEsUC18IGloUXwIHVF5dD0knRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAWsNG1sVWgQdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK1x9BW1KXTUbbU5pQghyeiBtFVNgPy5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4cVA4GUFdUD3sXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwRXgEKUVgzVBVNVG8NGBl7XQAKUF5eAEknAW4JGVklbTZxKjwFdAhoejMIWQxzFk98EFsOTz10dmtIdVlUDW5VISA4CBdyAjd0WwdcPTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/bfb9b7e7-7166-555b-ba64-e8d64d187033.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥240",
+    "sda_approval_date": 1655827200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "提亮",
+        "id": 5208
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_9e4c0f14-b5ed-4182-b166-8bc302dcbb91.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/d5ea6ace-0b1c-57aa-9c00-157c914c0997.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c76ed40b-37dc-5346-bd30-5d528b0f8abf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0282bbb3-6c56-5567-90f0-912ba82a2b1f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2ee0af9a-ba7d-523e-9217-92290c3ce135.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/47b84f5d-d153-5e75-bb0f-d360f18d1537.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6d4ffdbe-c5ef-53c9-981b-f0db44acb9fc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/77227bd3-23ab-5633-a591-be6fd62a6890.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cf666e6f-d4dc-5729-b45f-49db64289cd1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/735e8ca7-b677-5e9e-9d24-bc675b544de7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9d6ea037-e7b6-52d0-ad64-2b4a0f2ce13a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/01414bea-b675-50f6-8e58-e2b416769a25.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c48b1e2-d549-5705-a564-3599c4528c64.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3e0c611b-6674-59ad-96e3-630c699d66a8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f85018a1-5ab4-52fc-bc02-84f74f18654a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅臻曜晶透轻酸焕亮精华水",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/cf666e6f-d4dc-5729-b45f-49db64289cd1.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5208",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "82a69138e8eb97bb6fa7d80d5637f003",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "130ml",
+    "sda_approval_no": "苏G妆网备字2022002088",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅臻曜晶透轻酸焕亮精华水@!@注光水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20220622,
+    "goods_form": "24"
+  },
+  "success": true
+}

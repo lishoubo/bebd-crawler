@@ -1,0 +1,156 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,48,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DHHXUB0PgtSxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQ1GKbY5TTh%2FRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr66XMLRFJ4FZxN%2BFu5nYIDF82%2FRqoV9KXxk8kP%2FKduP%2FrISFSH1%2BvcKMn%2F0q3cFm6RnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12Our1hFKdrUcCHQ0%2F6aqsF8VNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753119541@0b522591_0d30_1982e114abb_831f@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/szqf8wKwzNA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=98407BBF2F131B14250A107EA93DB267"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020005683"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017005287"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1596729600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1505059200"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥179",
+    "sda_approval_date": 1596729600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "e1a33e8c870de878c9dcd0e360156acc",
+        "sku_id": 1007020,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017005287"
+      },
+      {
+        "mid": "14edc4a4f38a85d67ed875ae765cc320",
+        "sku_id": 3884708,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020005683"
+      },
+      {
+        "mid": "14edc4a4f38a85d67ed875ae765cc320",
+        "sku_id": 3884708,
+        "attribute_type": "9",
+        "attribute_val": "1596729600"
+      },
+      {
+        "mid": "e1a33e8c870de878c9dcd0e360156acc",
+        "sku_id": 1007020,
+        "attribute_type": "9",
+        "attribute_val": "1505059200"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_a32e6447-7254-422a-89bd-a88887e3825f.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/40b23703-6a7c-5e65-b2bf-f00324edf753.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/464e618f-ae92-57a9-8e42-686469d0d9d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f98512a-e6b2-5610-a32a-d4ac5175a701.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3e82d497-e715-57c0-a3b6-46a6384ce5a3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/687f7df6-1f71-5962-b0a2-603318249025.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/96c04321-04cb-5988-a6e6-5a81197ca1d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/97b4f756-3f97-5019-bb6c-6eb9af58124b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e7097036-8e06-59c9-83f6-8e10aa0be61c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2ce66c93-6d63-5bf3-8456-6eb1a762dde3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/065957a6-e9ed-54f9-9b86-09d0ce35317c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/37c8553f-ed52-52e8-b59e-d20f661dabe3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/556f3717-d452-54a0-bd9f-3d11055334dc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/79d7b2a5-8681-5e83-b885-68fd7b154daf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f149f145-d28e-5542-a688-e30b8f039802.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜牡丹奢养粉妍精萃水",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "14edc4a4f38a85d67ed875ae765cc320",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "125ml",
+    "sda_approval_no": "苏G妆网备字2020005683",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜牡丹奢养粉妍精萃水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20200807,
+    "goods_form": "24"
+  },
+  "success": true
+}

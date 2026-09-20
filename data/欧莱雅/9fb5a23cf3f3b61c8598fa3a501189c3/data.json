@@ -1,0 +1,370 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,52,128,45,129,126",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DWx79s1nO58Fw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZ8PlkM1ilE95x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6fTUvkTh4uiECf%2BLmZOGAMjgbnmM3bI4xsTESmMa88CwUX3hHubtptEONdbB2Ebp5nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OFbqFb8gL1GDhb9TtZnpMXlNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753117525@212b46e6_1885_1982df284c6_9e78@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/SsRiUarmSF8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=C829416B907D3E97D3D649D8E3CFC234"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/b7739382-22ef-5533-bd57-5dd787696f3d.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "炭净型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "清爽型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "清彻型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "深彻型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "深澈型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002352"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000074"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000070"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007947"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003902"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000551"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024005800"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2019003577"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1731427200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1604592000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1568563200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1561046400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1484582400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1484150400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      }
+    ],
+    "category3Name": "卸妆",
+    "price": "¥95",
+    "sda_approval_date": 1530720000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "卸妆",
+        "id": 5214
+      },
+      {
+        "name": "清爽",
+        "id": 5334
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "61abddb00ed76e54941cef5489e942de",
+        "sku_id": 2819205,
+        "attribute_type": "9",
+        "attribute_val": "1568563200"
+      },
+      {
+        "mid": "4875f128a83e8d51427d59e1f624958a",
+        "sku_id": 713385,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000070"
+      },
+      {
+        "mid": "880fa21d789993b662a63dfcf33eab79",
+        "sku_id": 4170753,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002352"
+      },
+      {
+        "mid": "0a340191362885b4fcd57541e3084927",
+        "sku_id": 508578,
+        "attribute_type": "2",
+        "attribute_val": "清爽型"
+      },
+      {
+        "mid": "0a340191362885b4fcd57541e3084927",
+        "sku_id": 508578,
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      },
+      {
+        "mid": "f4e2e086f60293fe3137cf1736193e47",
+        "sku_id": 33180556,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024005800"
+      },
+      {
+        "mid": "f4e2e086f60293fe3137cf1736193e47",
+        "sku_id": 33180556,
+        "attribute_type": "9",
+        "attribute_val": "1731427200"
+      },
+      {
+        "mid": "9fb5a23cf3f3b61c8598fa3a501189c3",
+        "sku_id": 1195394,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "61abddb00ed76e54941cef5489e942de",
+        "sku_id": 2819205,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007947"
+      },
+      {
+        "mid": "a3bab7903d70b71bb62e0a3bb608149e",
+        "sku_id": 2641061,
+        "attribute_type": "2",
+        "attribute_val": "清彻型"
+      },
+      {
+        "mid": "880fa21d789993b662a63dfcf33eab79",
+        "sku_id": 4170753,
+        "attribute_type": "2",
+        "attribute_val": "深澈型"
+      },
+      {
+        "mid": "880fa21d789993b662a63dfcf33eab79",
+        "sku_id": 4170753,
+        "attribute_type": "9",
+        "attribute_val": "1604592000"
+      },
+      {
+        "mid": "f65b4faf9ec6fff358c112124a5f5c8b",
+        "sku_id": 716455,
+        "attribute_type": "2",
+        "attribute_val": "深彻型"
+      },
+      {
+        "mid": "0a340191362885b4fcd57541e3084927",
+        "sku_id": 508578,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000551"
+      },
+      {
+        "mid": "f4e2e086f60293fe3137cf1736193e47",
+        "sku_id": 33180556,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "9fb5a23cf3f3b61c8598fa3a501189c3",
+        "sku_id": 1195394,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003902"
+      },
+      {
+        "mid": "9fb5a23cf3f3b61c8598fa3a501189c3",
+        "sku_id": 1195394,
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "mid": "4875f128a83e8d51427d59e1f624958a",
+        "sku_id": 713385,
+        "attribute_type": "2",
+        "attribute_val": "深澈型"
+      },
+      {
+        "mid": "4875f128a83e8d51427d59e1f624958a",
+        "sku_id": 713385,
+        "attribute_type": "9",
+        "attribute_val": "1484150400"
+      },
+      {
+        "mid": "f65b4faf9ec6fff358c112124a5f5c8b",
+        "sku_id": 716455,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000074"
+      },
+      {
+        "mid": "f65b4faf9ec6fff358c112124a5f5c8b",
+        "sku_id": 716455,
+        "attribute_type": "9",
+        "attribute_val": "1484582400"
+      },
+      {
+        "mid": "61abddb00ed76e54941cef5489e942de",
+        "sku_id": 2819205,
+        "attribute_type": "2",
+        "attribute_val": "炭净型"
+      },
+      {
+        "mid": "a3bab7903d70b71bb62e0a3bb608149e",
+        "sku_id": 2641061,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2019003577"
+      },
+      {
+        "mid": "a3bab7903d70b71bb62e0a3bb608149e",
+        "sku_id": 2641061,
+        "attribute_type": "9",
+        "attribute_val": "1561046400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_ed9cea4f-c37f-42e6-83a2-4008336389e4.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/15988c6b-4077-537e-ab52-f6dd4866e22f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c2f411c-184d-5650-ad97-11b3f62b3ada.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/377e64b0-9838-5b81-89ad-c2372739abfa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d8a1e5cd-19ca-5fcd-bdd3-e21a765aa0a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/657801cd-93c5-5536-a696-539485a76537.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/72e047ac-8bb0-523d-aba1-29b811bf7a63.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/97d09dd7-8d9a-54ce-a60e-3120d5f14259.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b7739382-22ef-5533-bd57-5dd787696f3d.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部,眼部,口唇",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅三合一卸妆洁颜水清爽型",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/15988c6b-4077-537e-ab52-f6dd4866e22f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5334,5214,5206",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "9fb5a23cf3f3b61c8598fa3a501189c3",
+    "description": "一款集净化、清洁和滋润为一体的卸妆产品。它蕴含突破性的MICELLAR胶束净颜科技，创新的胶束分子结构能像磁铁般轻松吸附彩妆浊质，带走肌肤表面和纹理中的污垢，全脸只需轻轻一抹，无需水洗揉搓，简单的步骤即能带来恰到好处的净透肌肤，其蕴含的优质保湿分子还能在净透肌肤的同时维持肌肤的酸碱度和滋润度；无酒精、香精、油脂的配方亦能满足敏感肌肤的需求。 ",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "400ml",
+    "sda_approval_no": "苏G妆网备字2018003902",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅黑魔水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 113,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "卸妆水/液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20180705,
+    "goods_form": "24"
+  },
+  "success": true
+}

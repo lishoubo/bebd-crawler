@@ -1,0 +1,119 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,51,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOi%2FElyFomkZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVUcVeOTPMqY79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6Hti%2BCd9ou3jUpe0khA6AiaWiyy%2FLNR1JG8J989a3w2LC2ORBiPYfg8PjDzeCH%2FpZnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OucgtxktvbT0enmUfyyDaIlNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1743099499@2146a0e7_10f5_195d8d393a0_abde@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/7hspcsy8sC6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=CA3F9639B0BC9C86C05FBD1410198B1B"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGloQXg4DXFhUDEMfC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoLE1odWw8GXFZVFxJSXzI4HiZjVAIcLw0_VxdnBGtTeCgRNUVcNFJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgMFUFdeDUwnA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGVQYEVwxUZhdCVjYMRBpGMwIKV1ldC0MRM20JGlkXbTYyNSEdS0JfYCt9QhkVCEFaCwoEbxtMaxt-dVkXWmJhDCA6Dj5geTxQeyRlHTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/23171be4-0ddf-59d6-8b47-c7a2796fe0c1.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "¥379",
+    "sda_approval_date": 1619107200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_dd744485-6c38-4fb9-83a3-80adde415734.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1b89c32b-2625-5750-8ee0-1cc52a6ac914.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/42288efd-3110-5b01-b50e-da6c33f69ca2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4aec1a46-2dd3-5a6f-95f7-9628f89a4369.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/64262460-e514-5e09-85db-1a253830bfe5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8f364ce6-5a23-57a1-99b6-84ad3ead51ee.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/98923566-8e93-5c05-83f9-8e566c8b6c6c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e8de24f6-1829-56d3-94d3-749f34afd5c8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/23171be4-0ddf-59d6-8b47-c7a2796fe0c1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/60e6bc79-32a2-54f6-a1be-e2616b367239.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/63aa9471-a165-5076-a551-556efa988adc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7334db69-12e7-56b5-ba80-694867bc5ef6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/84a4b7c2-c3d3-508d-b03a-23fa65ed689c.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜精纯视黄醇夜精华露",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/1b89c32b-2625-5750-8ee0-1cc52a6ac914.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "3e3af0419d28956ec4aa02642b926579",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "苏G妆网备字2021003251",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20210423,
+    "goods_form": "24"
+  },
+  "success": true
+}

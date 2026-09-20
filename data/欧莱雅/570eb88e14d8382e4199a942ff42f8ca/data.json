@@ -1,0 +1,118 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "41,44,129,53,54",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/83b42390-814a-55c8-8074-a85b2b2aa1b2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "¥49",
+    "sda_approval_date": 1537200000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "去黑头",
+        "id": 5216
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/7c98e3db-f7ea-48b3-848c-f366217ea25e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2e8e4011-8068-5830-9150-29ebeacaff00.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/83b42390-814a-55c8-8074-a85b2b2aa1b2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士黑魔力净黑头3合1洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/2e8e4011-8068-5830-9150-29ebeacaff00.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5216,5308,5206",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "570eb88e14d8382e4199a942ff42f8ca",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "150ml",
+    "sda_approval_no": "苏G妆网备字2018007007",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "祛痘",
+        "id": "41"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20180918,
+    "goods_form": "23"
+  },
+  "success": true
+}

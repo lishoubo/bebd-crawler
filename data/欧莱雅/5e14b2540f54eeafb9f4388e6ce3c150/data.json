@@ -1,0 +1,174 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,45,129",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DS2va3z7lJ0Nw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMYI%2BcvI13DEOJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6krJf3nqDNA0e0tEFS%2FaDAMTv5fqBzkCLWe%2BBNb82mB%2BYyxmo6gpyO%2B2UXq3J89TyG5CeUMT0tgovynyZqoK2AARzgZhnUuBS1C%2BZu38oxf%2FApieTXRnM7gdB%2FsHlecE1xiXvDf8DaRs%3D&union_lens=lensId:TAPI@1753692090@212b4e8b_1427_1985031aebb_d80c@01"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/16bac214-bf15-5c0a-a04e-df29737bd74a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005593"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017007350"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016001888"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1689523200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1513267200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1465920000"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1689523200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "5e14b2540f54eeafb9f4388e6ce3c150",
+        "sku_id": 31972048,
+        "attribute_type": "9",
+        "attribute_val": "1689523200"
+      },
+      {
+        "mid": "68f9f45ad2d115d0962343344a24f91a",
+        "sku_id": 2136601,
+        "attribute_type": "9",
+        "attribute_val": "1513267200"
+      },
+      {
+        "mid": "5e14b2540f54eeafb9f4388e6ce3c150",
+        "sku_id": 31972048,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005593"
+      },
+      {
+        "mid": "24e45d8b52a1d6f04a144ccd11845ae5",
+        "sku_id": 580597,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016001888"
+      },
+      {
+        "mid": "68f9f45ad2d115d0962343344a24f91a",
+        "sku_id": 2136601,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017007350"
+      },
+      {
+        "mid": "24e45d8b52a1d6f04a144ccd11845ae5",
+        "sku_id": 580597,
+        "attribute_type": "9",
+        "attribute_val": "1465920000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_7ddaba93-ea31-4516-a773-e1d5272688fa.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/0a52a708-ccdf-50c7-b777-9ccbd3bf1e2a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/98a5b913-01ba-59c7-82a3-3d5bd170140f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/25cf6e5f-9d79-52cd-a545-f8e3bcbd31f5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/29281f40-d751-5b92-9599-1496f86087d8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2e629d78-9fd1-54d8-9378-3f51e5254835.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/eaea2244-d2ad-5320-ae74-3cbe0e6b7249.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b92946cd-31b7-5669-a26d-9397a54783e8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/16bac214-bf15-5c0a-a04e-df29737bd74a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56325a62-05a2-5266-910c-ccf827259f6b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9b360096-5b0a-536c-8a24-5c2903eabe07.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bef300f1-6db0-5245-8574-bd953138e0f3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c261ed4b-c88a-5d87-8d9e-da76a5ca569d.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅清润葡萄籽水嫩洁面乳",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/25cf6e5f-9d79-52cd-a545-f8e3bcbd31f5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "5e14b2540f54eeafb9f4388e6ce3c150",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023005593",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅清润葡萄籽水嫩洁面乳",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20230717,
+    "goods_form": "23"
+  },
+  "success": true
+}

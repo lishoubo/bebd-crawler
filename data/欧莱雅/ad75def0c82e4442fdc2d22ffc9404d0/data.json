@@ -1,0 +1,209 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,43,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/c41904a4-deaa-5ba9-8030-c6fc6ad7632e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005618"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003256"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020003648"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001704"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1686240000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1650816000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1591718400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1522771200"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥109",
+    "sda_approval_date": 1650816000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "亮泽",
+        "id": 5259
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "4d4ce3638568daf37bdab895954ecb7a",
+        "sku_id": 1073670,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001704"
+      },
+      {
+        "mid": "ad75def0c82e4442fdc2d22ffc9404d0",
+        "sku_id": 30846498,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003256"
+      },
+      {
+        "mid": "01785fe1de32b0a0fc3d2827eecc7d16",
+        "sku_id": 3805609,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020003648"
+      },
+      {
+        "mid": "4d4ce3638568daf37bdab895954ecb7a",
+        "sku_id": 1073670,
+        "attribute_type": "9",
+        "attribute_val": "1522771200"
+      },
+      {
+        "mid": "ad75def0c82e4442fdc2d22ffc9404d0",
+        "sku_id": 30846498,
+        "attribute_type": "9",
+        "attribute_val": "1650816000"
+      },
+      {
+        "mid": "b34eeef83903f9bfb8050073654687a7",
+        "sku_id": 31841227,
+        "attribute_type": "9",
+        "attribute_val": "1686240000"
+      },
+      {
+        "mid": "01785fe1de32b0a0fc3d2827eecc7d16",
+        "sku_id": 3805609,
+        "attribute_type": "9",
+        "attribute_val": "1591718400"
+      },
+      {
+        "mid": "b34eeef83903f9bfb8050073654687a7",
+        "sku_id": 31841227,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005618"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_9c15b831-9b35-4335-bf3a-8896069a0972.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/c9e230bd-0f1c-53cb-bbd3-7c22e6cfbe0b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d52f3ebc-8ec4-5f8a-b71a-a6fc7f19fb7c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1b92982e-7ef6-5542-944d-d425d4556f97.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/29ec6965-9d85-5173-b878-9e3d3a5f9cc4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/38716979-2a6f-56d3-87cc-ecc66e5526a7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/82476059-2219-52dc-8f2f-4118326d0722.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b20499bf-ab1a-5e76-b81f-2051d631fd37.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b583adfd-1dd4-5965-b340-3d3f74a66dfe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f787d511-cf55-52f8-a010-ee7ef2cb494c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cd3fb1ac-aca5-50f4-b4bc-715e73dab175.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/05def76a-3728-56df-bb15-3ce9a46e7dec.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3fb10033-8be2-5c2a-a465-a5d44cea6a24.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6779d48c-0be0-5a99-97b7-9bbc416b01f3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/85b61581-a07c-58fb-8609-567ceab9a547.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ac7d2341-376a-58e1-8c57-f85cf94de65f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c41904a4-deaa-5ba9-8030-c6fc6ad7632e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"淡黄色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕精油润发乳(奇焕炫亮)",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/38716979-2a6f-56d3-87cc-ecc66e5526a7.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5259",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "若不慎接触到眼睛，请立即用清水冲洗。请勿吞食，避免儿童接触。注意：香精原料含芳樟醇，己基肉桂醛，苧烯，香豆素",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "ad75def0c82e4442fdc2d22ffc9404d0",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2022003256",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅奇焕精油润发乳(奇焕炫亮)",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "将产品均匀涂抹于发丝直至发梢，稍加按摩后冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20220425,
+    "goods_form": "23"
+  },
+  "success": true
+}

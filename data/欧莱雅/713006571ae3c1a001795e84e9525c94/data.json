@@ -1,0 +1,1236 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOeeV91lAVkVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZBKum8IGdExMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXfyzeZnwAcdqm3oFtyRbDGTWKm1SsvEY0YaX0ICluiIMreSG%2Fj%2F5mIgcCzVIVHIGF8GYYogDoIujU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRGcrC82rLAtaEtZrUSNVeioYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753118598@21666f14_0e34_1982e02e548_597c@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/KnEMxIhtGh6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=55D7985A49FB68FC3856A67F1ADD6585"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARUJK1olXQ8GUl1fCUMWAl8MGFgQXwEBVV1aCHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpeC04VBGwJGFwVQl9HCANtCk9LAyRxRC52WlJWIlslbytXYAR-a1cZbQYCUFhfDkoUBmg4G1oUXAMDUVlUCHsnA2o4WjUVXAYKUVdaDXsXA2sOHl0RWwQGZF5bDEkXA2YME1MUXAAyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBWwKH1oWM1pXAQsGSh4WbWsBE18cXQIFZFxcCUkVM184eS5RO1kCLlpbARdlBxd_UgtwGE1qV10JZkl3ZTpQUAUXOgBKHC4FVE9ofV8IK1sXXQEy"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "自然"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "绿色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "紫色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "素颜亮采"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "修正偏黄暗沉肤色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "修正偏红肤色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "象牙色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "象牙白"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "自然色"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "柔紫"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "匀净效果"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "匀净"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "水感轻肌"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "粉嫩亮采型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "清爽盈透型"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "新版"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF42"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20213202"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190496"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140549"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130679"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130125"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130123"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130120"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130119"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20121179"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20121102"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20110613"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20110612"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20100997"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20100971"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160993"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140550"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140548"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140511"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20111040"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1635955200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1586188800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1555603200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1550073600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1463760000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1449072000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1403798400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1375200000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1362067200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1346688000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1345478400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1322496000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1310659200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1276272000"
+      }
+    ],
+    "category3Name": "防晒",
+    "price": "¥199",
+    "sda_approval_date": 1555603200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "防晒",
+        "id": 5223
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20110612"
+      },
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "9",
+        "attribute_val": "1310659200"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140550"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "1",
+        "attribute_val": "象牙色"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "9",
+        "attribute_val": "1463760000"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "2",
+        "attribute_val": "新版"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130123"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "1",
+        "attribute_val": "修正偏黄暗沉肤色"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20121102"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "9",
+        "attribute_val": "1362067200"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130120"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "9",
+        "attribute_val": "1362067200"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "9",
+        "attribute_val": "1635955200"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20100971"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "1",
+        "attribute_val": "水感轻肌"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "9",
+        "attribute_val": "1586188800"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "2",
+        "attribute_val": "粉嫩亮采型"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "9",
+        "attribute_val": "1403798400"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "9",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "8",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "1",
+        "attribute_val": "匀净效果"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20111040"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "9",
+        "attribute_val": "1322496000"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140511"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "9",
+        "attribute_val": "1403798400"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "1",
+        "attribute_val": "修正偏红肤色"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20110613"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "1",
+        "attribute_val": "柔紫"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "9",
+        "attribute_val": "1403798400"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "1",
+        "attribute_val": "绿色"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "9",
+        "attribute_val": "1362067200"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "9",
+        "attribute_val": "1276272000"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "1",
+        "attribute_val": "柔紫"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "1",
+        "attribute_val": "水感轻肌"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "6",
+        "attribute_val": "SPF42"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160993"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "1",
+        "attribute_val": "水感轻肌"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20190496"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "9",
+        "attribute_val": "1555603200"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "1",
+        "attribute_val": "自然"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140549"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "1",
+        "attribute_val": "素颜亮采"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "9",
+        "attribute_val": "1276272000"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "6",
+        "attribute_val": "SPF42"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "1",
+        "attribute_val": "匀净"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140548"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140548"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "2",
+        "attribute_val": "清爽盈透型"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20121179"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "9",
+        "attribute_val": "1346688000"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "1",
+        "attribute_val": "匀净效果"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20111040"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "9",
+        "attribute_val": "1449072000"
+      },
+      {
+        "mid": "e693d66216d694f89df614dc5fd6a6e0",
+        "sku_id": 2547588,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "91afd66aa70934e191bba7fe3dda4297",
+        "sku_id": 4894,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "3816f6719fc98970c4a17e1d6749e49c",
+        "sku_id": 3734750,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "4e138a35f507ed38bdb91bc0d88f5a6d",
+        "sku_id": 2547377,
+        "attribute_type": "9",
+        "attribute_val": "1310659200"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130119"
+      },
+      {
+        "mid": "469353f058559047afc748a9568b8b83",
+        "sku_id": 4892,
+        "attribute_type": "9",
+        "attribute_val": "1362067200"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "1",
+        "attribute_val": "紫色"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "2da1cc0010a8382201b39df89ea14b4a",
+        "sku_id": 4879,
+        "attribute_type": "9",
+        "attribute_val": "1345478400"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "1",
+        "attribute_val": "自然色"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130125"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140550"
+      },
+      {
+        "mid": "c8abeab3a5ffe4616e784bab85a30a9d",
+        "sku_id": 4890,
+        "attribute_type": "9",
+        "attribute_val": "1550073600"
+      },
+      {
+        "mid": "b3d180c5c0fdb3cdf40815a94dcf84b6",
+        "sku_id": 573220,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "713006571ae3c1a001795e84e9525c94",
+        "sku_id": 2594452,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "1",
+        "attribute_val": "象牙白"
+      },
+      {
+        "mid": "a8ce1b1ec52be4c687268fb3cbe8a030",
+        "sku_id": 4889,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "a40d12f32cda14e003e57d046c09dfc3",
+        "sku_id": 30702285,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20213202"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "1",
+        "attribute_val": "象牙白"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20100997"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "9",
+        "attribute_val": "1403798400"
+      },
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "1",
+        "attribute_val": "自然色"
+      },
+      {
+        "mid": "4037ef55bfee30188d6e3848aa5d2e89",
+        "sku_id": 2623183,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "267d6cf0c3a1f80dbf72390b680e43da",
+        "sku_id": 3854999,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "1",
+        "attribute_val": "象牙色"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20140511"
+      },
+      {
+        "mid": "2a4caad3a3761a6c772eaa1d6415ba3c",
+        "sku_id": 2585896,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160993"
+      },
+      {
+        "mid": "c4dbc4d010818ae986058ec5145d18ba",
+        "sku_id": 4887,
+        "attribute_type": "7",
+        "attribute_val": "PA++++"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20130679"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "9",
+        "attribute_val": "1375200000"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "1",
+        "attribute_val": "匀净"
+      },
+      {
+        "mid": "af7979bed5db5a82e20155c005411dc6",
+        "sku_id": 3533225,
+        "attribute_type": "6",
+        "attribute_val": "SPF50+"
+      },
+      {
+        "mid": "601f1362b26d89066d2f0dd3e24f7d2b",
+        "sku_id": 4888,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "7bfd5b72de05b37adf388fe09c74605c",
+        "sku_id": 3823527,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "8ba622175dc74bc8090f069ffc2ecf3b",
+        "sku_id": 4884,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "29ff98316cf0d57f4701b9646e00e4b9",
+        "sku_id": 4891,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "a6c3c0656ecc44d80ae8a2db2ebd3e5b",
+        "sku_id": 3894221,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "ff522eb8e67b4492b097708c2d8bd89b",
+        "sku_id": 4893,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "ed4d35776d246842673eeaa9a8c4244b",
+        "sku_id": 4885,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "23eca149d3c9996f6076bd998b72dfed",
+        "sku_id": 2622715,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "38713a4cc114b01c0abbaf92f8d40e66",
+        "sku_id": 4886,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/0_99fc240a-34ff-419f-be55-df975135727f.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"乳黄色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"花香味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}]",
+    "spa": "PA+++",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅新多重防护隔离露 水感轻肌",
+    "category2Name": "防晒",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5201",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "避免接触眼周，如不慎入眼，请立刻用水冲洗。本品香精原料含有香茅醇、芳樟醇。",
+    "safety_1_num": 4.0,
+    "mid": "713006571ae3c1a001795e84e9525c94",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特字G20190496",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅新多重防护隔离露 水感轻肌@!@欧莱雅小银管防晒",
+    "functionType": "防晒类",
+    "shelfLife": "3年",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早上使用于清洁后的脸部和颈部肌肤，作为肌肤护理的最后一步使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20190419,
+    "goods_form": ""
+  },
+  "success": true
+}

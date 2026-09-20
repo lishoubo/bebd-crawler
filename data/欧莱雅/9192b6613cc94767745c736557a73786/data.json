@@ -1,0 +1,127 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DQkylHzsPakRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfBXfEFl3cBuRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6L%2FOwPAqAmcYe7x%2BGBbu1KxWuI0mHwEzJ3F4Fh9asQ4bNzqGlytA5ELNtfW2oPGLFnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OJZp4nZVXnEUh8S%2Fa8acahVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753120491@212b4e8b_0e1a_1982e1fc735_3715@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/d40436eb-cde9-51c1-969b-96930c18d204.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021002754"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018010186"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1617897600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1544716800"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥79",
+    "sda_approval_date": 1617897600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "6c65e88388d9867d76a7503f22763371",
+        "sku_id": 2334734,
+        "attribute_type": "9",
+        "attribute_val": "1544716800"
+      },
+      {
+        "mid": "9192b6613cc94767745c736557a73786",
+        "sku_id": 4375426,
+        "attribute_type": "9",
+        "attribute_val": "1617897600"
+      },
+      {
+        "mid": "6c65e88388d9867d76a7503f22763371",
+        "sku_id": 2334734,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018010186"
+      },
+      {
+        "mid": "9192b6613cc94767745c736557a73786",
+        "sku_id": 4375426,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021002754"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_a1280480-6657-4e59-8fb7-598a828465ba.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/ea4bdfa4-ab61-52d3-b946-6cf5b8cc79fe.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养精华液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/ea4bdfa4-ab61-52d3-b946-6cf5b8cc79fe.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "safety_1_num": 4.2,
+    "mid": "9192b6613cc94767745c736557a73786",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "1.5ml*20pcs",
+    "sda_approval_no": "苏G妆网备字2021002754",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜松露奢养精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20210409,
+    "goods_form": ""
+  },
+  "success": true
+}

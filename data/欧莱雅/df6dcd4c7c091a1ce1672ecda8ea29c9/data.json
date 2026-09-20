@@ -1,0 +1,128 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,52,130,129,53,54,48,43",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/1ec9136b-d93c-5e17-878a-8b49625398f0.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "",
+    "price": "",
+    "sda_approval_date": 1751212800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 0,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/85904584-5c8c-5e8d-a26e-44aee51ee4d8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f6ff6565-db44-57c5-8235-751b65b270d2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/08933f5d-6910-5cee-a3a1-4d7dc057fb18.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91e40b7c-07a6-54c9-92c6-e8d389715ec9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1ec9136b-d93c-5e17-878a-8b49625398f0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5db83198-e251-5233-a796-c6bf72d4322c.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅玻尿酸水养洗发露",
+    "category2Name": "",
+    "pm_image": "https://img.bevol.com/goods_pack/f6ff6565-db44-57c5-8235-751b65b270d2.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "df6dcd4c7c091a1ce1672ecda8ea29c9",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025005841",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 0,
+    "registered_day": 20250630,
+    "goods_form": "24"
+  },
+  "success": true
+}

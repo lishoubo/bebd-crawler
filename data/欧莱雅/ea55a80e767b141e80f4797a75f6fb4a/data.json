@@ -1,0 +1,120 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,128,52,46,45,129,53,54,126",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/4cdbc05a-6b4f-57a8-9a81-b4c75035d742.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "¥159",
+    "sda_approval_date": 1589299200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/183_1ce87900-e863-4037-8d07-d9181705dd30.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/024d7a36-8dd3-5817-956f-b6371f76cacd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8fb8f3ca-ee6e-54f6-bca6-fcf315abd4b5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b84ecd1e-7d58-58da-b955-62576bf92894.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d2bd7873-2405-5225-857d-a19cfbc8a31c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d3e371ce-e0fd-5a7c-9f92-eba59c7df164.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f177b811-c763-5733-886e-e0ed5147cfe8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/984ce338-9d2f-597c-bd81-d13b5261de5b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4cdbc05a-6b4f-57a8-9a81-b4c75035d742.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/54a95a55-8fc4-59d6-80a3-fc82c49d3f66.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/64584b67-88f6-560b-842d-7f98d911b2c6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/703e8323-c9e5-589e-9704-d68ca22312cf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e5ad4792-d1a8-5b85-a181-0aef08c3ecb5.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光洁面啫喱",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/024d7a36-8dd3-5817-956f-b6371f76cacd.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "ea55a80e767b141e80f4797a75f6fb4a",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "125ml",
+    "sda_approval_no": "苏G妆网备字2020002778",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 100,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面啫喱/凝胶",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20200513,
+    "goods_form": "25"
+  },
+  "success": true
+}

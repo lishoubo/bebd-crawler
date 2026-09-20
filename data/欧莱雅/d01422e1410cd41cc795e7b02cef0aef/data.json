@@ -1,0 +1,125 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,129,51,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DEV3053cF1BRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMcPSbpjgfyBLJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6jT5N9UUIEG%2FKzJTbg2jeYTH5%2BRMOXT64fjzhbKniGJDf4FQHcbvVk6BP3ksL1%2FqznkThY6Ekzd9ffOrKRNAU4m5KHOQOD12O8KJzn1qqs8VoGfIBftwQTVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753121020@0b830dfc_0dbd_1982e27daf7_127b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/y5DNdbt0Q48?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=A00B95A38B48AAF396500F5FF9A42B12"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGlsUXAABVVlaD0wRBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JHVgUWgEFU1hbFxJSXzI4ZjodLw9XTi0_dUh_ejF-EisSB3x7ElJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgYDV15dAE4nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWwUAUwkPZhdCVjtDWgkWMwIKVF9cDkMeM20JGlkXbTYyNw4HVRZjCxdoaQ1rGU9-IFY4dz18YTJedVlrPHwFNAYHTCtjRjdMQSF0CTYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/2de394bf-90ff-5ca9-a907-20c5f5f7e2db.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "乳液",
+    "price": "¥350",
+    "sda_approval_date": 1567094400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/5de6309494c14.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/cc4950d3-76e8-532d-857b-3a98041c17cb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2cd5d5e4-b561-5b41-bbfd-a2a7e678b5a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/305054b8-52e0-5d33-b22a-65f2e3475be3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5cc1b63d-e526-5727-ab4e-920b17295477.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/77e57c04-08d2-56ca-88c1-8f2eaaa903ea.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9453b8d1-5567-5690-8eaa-03078ea6065b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dc0f7a32-3a1f-5cea-b9d6-658e76ddeab0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e3ebc518-cd99-535f-878f-11699a52aac9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f1619869-8151-5c2e-aabd-dc8fb1c5d1cf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d1d47dd-35c2-5afa-a5fe-f0af18b7d12e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0ccf0836-ca04-5073-b0d4-4b9fd9828ba9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0d676ff0-5fa9-5afa-95af-99769efc1dcf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/20c8bc1a-f6b2-5812-b5eb-0970573eeffe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2de394bf-90ff-5ca9-a907-20c5f5f7e2db.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f9e7b9c0-53ad-5dc0-90a4-6eae1303e9b3.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳液\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养乳液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/dc0f7a32-3a1f-5cea-b9d6-658e76ddeab0.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有芳樟醇、苧烯、香叶醇、香茅醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "d01422e1410cd41cc795e7b02cef0aef",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "110ml",
+    "sda_approval_no": "苏G妆网备字2019007559",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 525,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通乳液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天早晚使用于清洁后的面部及颈部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20190830,
+    "goods_form": "23"
+  },
+  "success": true
+}

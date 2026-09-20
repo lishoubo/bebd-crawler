@@ -1,0 +1,186 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,51,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DTfHITR5R%2BbJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMR%2Fkt%2F01G1d1J1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6mqI92h8e7tn%2F5G6D1dT4ID%2BtL86QqfCvzjJ%2B8pT0OSGQ97X6JGFANIxCiC4HLlVL8bChKbVFVRT3qdB77ShfYVFzQeSXzIFO6gLCI41sRswDfEfDcMpb4V9Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1740676370@21671615_0dfb_19548658fa2_5e99@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/QHnXRrsfFn5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=50A46077DC50A0E5F6B68DA7AE064903"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARUJK1olXQ8GUl1fCUMWAl8MGFgQXQAGUVlZAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpeC04XBWsNHF8dQl9HCANtTh98Byt6bwB3IEZ5KislXR1Qfj9ja1cZbQYCUFhfDkoUBmg4G1oUXAMDUVlUCHsnA2o4WjUVXAYKUVdaDXsXA2sOHl0RWwQGZF5bDEkXA2kAHlITVQIyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBW0JSAwWM1pXAQtZTBRIbWsBEl4VXgEGZFxcCUkVM184QCx0LnBFFzwlCSluVi9IeTJRFHVnAysvZklURj11byFdNX4KXB0gcQpsVF8IK1sXXQEy"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/4dbd031c-5dc5-56b7-8aed-9d4f04944b09.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021506256"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003610"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002433"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1637164800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1529424000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1496592000"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥210",
+    "sda_approval_date": 1637164800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "13ee96f260c499e180c797ce53b193dc",
+        "sku_id": 805139,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002433"
+      },
+      {
+        "mid": "13ee96f260c499e180c797ce53b193dc",
+        "sku_id": 805139,
+        "attribute_type": "9",
+        "attribute_val": "1496592000"
+      },
+      {
+        "mid": "a1498fae9276d0271f87366e8454cba0",
+        "sku_id": 1085345,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003610"
+      },
+      {
+        "mid": "a1498fae9276d0271f87366e8454cba0",
+        "sku_id": 1085345,
+        "attribute_type": "9",
+        "attribute_val": "1529424000"
+      },
+      {
+        "mid": "c94d2e227139697a8bbbb28afc78c25b",
+        "sku_id": 30400744,
+        "attribute_type": "9",
+        "attribute_val": "1637164800"
+      },
+      {
+        "mid": "c94d2e227139697a8bbbb28afc78c25b",
+        "sku_id": 30400744,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021506256"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_8b3cfc6e-1e78-4f61-bf2f-6d2f95d5c257.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/313555ab-f30c-523f-b03a-176ccbaaca97.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/92d18aa2-3378-5b24-bd0a-11b0561cab72.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a61795c6-d4cc-56c6-9a73-475605c25fe5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ab24cb78-3196-55e0-ad28-623590850920.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/43d6f717-27e8-5b92-89fe-519078d98eef.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4dbd031c-5dc5-56b7-8aed-9d4f04944b09.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/553d51f7-05b9-5519-bbcd-3dd61441ba00.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/40036e21-88ab-5d1a-abe4-88f6d2c633db.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜积雪草微精华露",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/ab24cb78-3196-55e0-ad28-623590850920.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.8,
+    "mid": "c94d2e227139697a8bbbb28afc78c25b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "130ml",
+    "sda_approval_no": "苏G妆网备字2021506256",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜积雪草微精华露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20211118,
+    "goods_form": "24"
+  },
+  "success": true
+}

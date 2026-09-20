@@ -1,0 +1,126 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,43,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/6b8e6f4c-4279-5636-971b-a0d7fc72b0a1.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1670774400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "焗油",
+        "id": 5257
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/14d2e4ba-e7ab-5c54-889c-13b81a5ea96c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/33fc1787-2f19-5921-9185-9ad8d17286f1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5105cf66-b469-55f3-817c-8f188c47e199.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6b8e6f4c-4279-5636-971b-a0d7fc72b0a1.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明粘稠液体\"}, {\"name\": \"气味\", \"condition\": \"有原料特征性气味\"}]}, {\"table_name\": \"商品2\", \"table_index\": \"2\", \"result\": [{\"name\": \"颜色\", \"condition\": \"米黄色\"}, {\"name\": \"性状\", \"condition\": \"珠光霜状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳,液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅 奇焕精油 焗油护理 奇焕垂顺 蒸汽发膜",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/14d2e4ba-e7ab-5c54-889c-13b81a5ea96c.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5257",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有芳樟醇、己基肉桂醛、香豆素、苧烯、茴香醇。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "e62460d84026d502ed1b7562b473efe1",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022010758",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1 撕开标上“1”的袋装。 2 洗发后拭干多余水分，将发膜涂抹于发根至发梢。 3 撕开标上“2”的袋装，戴上自热发帽。 4 停留五分钟，按摩头皮。之后用清水冲洗干净，若不慎接触到眼睛，请立刻用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20221212,
+    "goods_form": "23,24"
+  },
+  "success": true
+}

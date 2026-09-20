@@ -1,0 +1,113 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,51,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DM7tIdb73kqpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaKcvzeMRL1Q5x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6Z6Lx5Suo5EMnyXqD0ENLl854S9FyPDnqvjQ3gxfGO%2BBqZhg0nEUVzZAYt%2FDII4UbnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OEMMopqqiL0ciR%2FWGwv7RW1NTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753121015@2107fb66_0dd8_1982e27c5c0_d41a@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/DIBSQL8jqC8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=E9281694F2A327256EA3166B174CF9C4"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/cc5d5285-b5db-5eda-81e4-0e3653a67efa.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥260",
+    "sda_approval_date": 1567094400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/5de62cda46ec3.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/00ae62c5-f193-583a-a3f9-0ee014ff1df5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0d79062f-44c5-5a56-bcd8-8df3dff1b932.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c4bb326-760f-5989-b2f7-14436503032b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/406e2176-42e9-5f95-9a25-f23364e170a9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6a6c553e-1566-50c5-a29b-d8b951122bfb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b02a2ff1-f273-56a6-9133-9c7aaf20f996.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b2498ec8-de09-500b-8d31-437b6283cd86.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e787d1a5-4295-59bd-82d1-c6c5be632ba2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fca38669-fb52-52c7-9ed2-3dc00692f6d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8e5f5dcc-9a1b-5d8e-a966-e3b764a67a36.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3ef9ba57-01b5-5ab7-bce1-e7867dfa6ca6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4e377789-3c8c-5de1-95fe-9ad368c846e3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8b63c9e7-0eb6-516f-bf81-a516e1fc8433.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9d592514-e94a-57fe-979d-b8d6c3cee8d7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9ed9ee9e-d0e7-5776-8fb3-4ea10bad05f7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/affdc0da-8567-55fa-9d14-967153d2d423.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cc5d5285-b5db-5eda-81e4-0e3653a67efa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d9c66b89-d06c-5d48-a0a4-43118b4938c9.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养精华蜜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/00ae62c5-f193-583a-a3f9-0ee014ff1df5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "0f45661f6966f7c7f1d6d2594e0c9b3e",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "130ml",
+    "sda_approval_no": "苏G妆网备字2019007558",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜花蜜奢养精华蜜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20190830,
+    "goods_form": "24"
+  },
+  "success": true
+}

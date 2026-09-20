@@ -1,0 +1,227 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,129,47,51,126,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "100"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "110"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001567"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001566"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001565"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001564"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1703779200"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "",
+    "sda_approval_date": 1703779200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9ec065a656d100e8cc4c1cfe651884f4",
+        "sku_id": 32431014,
+        "attribute_type": "1",
+        "attribute_val": "110"
+      },
+      {
+        "mid": "9ec065a656d100e8cc4c1cfe651884f4",
+        "sku_id": 32431014,
+        "attribute_type": "9",
+        "attribute_val": "1703779200"
+      },
+      {
+        "mid": "b4c0c8bab0f25ffc0408f62b52ef7f4a",
+        "sku_id": 32431015,
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "mid": "b4c0c8bab0f25ffc0408f62b52ef7f4a",
+        "sku_id": 32431015,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001567"
+      },
+      {
+        "mid": "b91848e0050404d734529f184b930758",
+        "sku_id": 32431722,
+        "attribute_type": "1",
+        "attribute_val": "100"
+      },
+      {
+        "mid": "b91848e0050404d734529f184b930758",
+        "sku_id": 32431722,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001564"
+      },
+      {
+        "mid": "b91848e0050404d734529f184b930758",
+        "sku_id": 32431722,
+        "attribute_type": "9",
+        "attribute_val": "1703779200"
+      },
+      {
+        "mid": "840fbbd8d02bed245ad761436c5e1824",
+        "sku_id": 32464584,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001566"
+      },
+      {
+        "mid": "b4c0c8bab0f25ffc0408f62b52ef7f4a",
+        "sku_id": 32431015,
+        "attribute_type": "9",
+        "attribute_val": "1703779200"
+      },
+      {
+        "mid": "840fbbd8d02bed245ad761436c5e1824",
+        "sku_id": 32464584,
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "mid": "840fbbd8d02bed245ad761436c5e1824",
+        "sku_id": 32464584,
+        "attribute_type": "9",
+        "attribute_val": "1703779200"
+      },
+      {
+        "mid": "9ec065a656d100e8cc4c1cfe651884f4",
+        "sku_id": 32431014,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2023001565"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/c0970500-d2fe-5946-b0e2-da1ad34574e4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/320aa377-0917-512b-900c-f37cdb13e0ea.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜提拉紧肤积雪草精华粉底液（新版）110",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/c0970500-d2fe-5946-b0e2-da1ad34574e4.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.8,
+    "mid": "9ec065a656d100e8cc4c1cfe651884f4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2023001565",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20231229,
+    "goods_form": "23"
+  },
+  "success": true
+}

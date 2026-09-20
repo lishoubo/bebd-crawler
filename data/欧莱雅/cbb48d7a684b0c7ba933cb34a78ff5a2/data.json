@@ -1,0 +1,197 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,129,53,54",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/a13cf02e-1304-5832-b548-8530c92e75e9.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023001266"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001975"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002589"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002094"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1684857600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1524153600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1497369600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1684857600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9732644ec80d75dbe5a30dfef1c901ba",
+        "sku_id": 808526,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002589"
+      },
+      {
+        "mid": "e589fd58b35998b7bd353b1fa0461b30",
+        "sku_id": 208751,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "ff66ac0b42472faa9a19e4e712634bc1",
+        "sku_id": 1085360,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001975"
+      },
+      {
+        "mid": "e589fd58b35998b7bd353b1fa0461b30",
+        "sku_id": 208751,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002094"
+      },
+      {
+        "mid": "9732644ec80d75dbe5a30dfef1c901ba",
+        "sku_id": 808526,
+        "attribute_type": "9",
+        "attribute_val": "1497369600"
+      },
+      {
+        "mid": "ff66ac0b42472faa9a19e4e712634bc1",
+        "sku_id": 1085360,
+        "attribute_type": "9",
+        "attribute_val": "1524153600"
+      },
+      {
+        "mid": "cbb48d7a684b0c7ba933cb34a78ff5a2",
+        "sku_id": 31777024,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023001266"
+      },
+      {
+        "mid": "cbb48d7a684b0c7ba933cb34a78ff5a2",
+        "sku_id": 31777024,
+        "attribute_type": "9",
+        "attribute_val": "1684857600"
+      }
+    ],
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/27044194-5f28-5df8-87f4-415664146e6e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a874c374-95d6-5aa2-b851-1920528d6e9e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/714a97ee-1174-5294-b751-f340532afdc1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a13cf02e-1304-5832-b548-8530c92e75e9.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"黑色\"}, {\"name\": \"性状\", \"condition\": \"膏状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士控油炭爽净亮洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/a874c374-95d6-5aa2-b851-1920528d6e9e.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5205,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苧烯、芳樟醇。本品含水杨酸，三岁以下儿童勿用。水杨酸在本品中的使用目的为皮肤调理剂。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "cbb48d7a684b0c7ba933cb34a78ff5a2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023001266",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量的产品于掌心，加水揉搓起泡。涂抹在润湿的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水洗净。使用时避开眼部，如不慎入眼请立即用清水冲洗。适合每日使用。推荐和后续护肤产品搭配使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20230524,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,143 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,52,130,129,51,126,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DjsCy1DZbfmJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTocyIWAc%2BTzlovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6JgXXNjfKYPeQr4xXX9IRfE6ODIwYT7Xwy0DB6fOeeEREPayx2L75jydyZxKisqY6nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OpfHOJ4S%2FhNm8vYN%2F5IHZtFNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753128787@0bf8d016_28bd_1982e9e5ed5_7105@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/zQ7U8d3LPE9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=9213A5FCA999837F003638A49FFF1F32"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olXQ4BVVpZCUsfB18IGloWXQcBU1ZaDUInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUA24LHFMSWA8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK0EWKWdGM0A4bRZpWGpQfhNUAQ9_KghRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4dXQ8BUlhdDHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwQCFILUQwzVBVNVS9XUBp7XQ8CVFxcAU8nAW4JGVklbTZ9FSkmSgJlQGcNe1NCLm1DCx8FVggXfgRMdVkTX20KKSkFD0NoVRJeWghoNjYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "眼部护理",
+    "price": "",
+    "sda_approval_date": 1732118400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_edb1424b-8e7f-468c-a112-7e9a86c94678.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2620c83f-4acc-5fdc-9c44-8a635bff1438.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2a919087-6515-5cd9-9860-2fb9f4d3ac9c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3d64ec0e-0a97-5ca5-99f9-b3b2dd48c327.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/66a2b93f-8a06-5c16-8cab-cf2daeaf54c0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/68ea3d62-26c8-5acb-a601-0d92cffa14dd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/79361298-606a-5de5-8682-6bc53710882e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/92a0f4d5-f253-5202-b362-d6880b53c0ca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9b85e1fe-3c3d-5795-a6bb-a63b3f2265f8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/abf05016-bb62-5b34-abef-d43164eaa899.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d3f5f9bd-f6e4-57c4-bb51-4e4f786756b1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd5e674b-8e51-531e-be31-8f1771d8967f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0dd5c2f5-2762-58d0-af01-be71080da4bd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/42e48c73-8d73-58da-a893-c8a8d4b20c68.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/446c3f46-de8e-5650-8b65-b1b16a88c3b9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c8690de1-3ad5-56f1-942a-2b8097e9df0b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e05c2c8f-bff5-5e46-bbc9-f95caff75e9c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6903a3bc-d710-5c8c-b2c1-e28729d51f6e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0ebb2ec7-cf42-58e3-a2b2-9a6f4da20a51.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3db6f83b-4502-5bcb-b3f2-f7c7d163e629.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b2086913-2c07-5ca5-97be-002da8b7b0ac.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部,眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈玻色因全脸淡纹眼霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5203",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "d4cf9854949f28e4e0288a82b043f083",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024001724",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜玻尿酸水光充盈玻色因全脸淡纹眼霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20241121,
+    "goods_form": "23"
+  },
+  "success": true
+}

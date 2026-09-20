@@ -1,0 +1,442 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,52,129,53,54,58",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DecaLIU5D0gNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMR%2BJMC42ujYb79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rvRJvroK0Wa%2FqZJB10PqLhhky4fT2iUplRAUflFXopO4SaAT0ZnZVGwWnStcou2aS%2FX3SHXcp8Qc8bChKbVFVRT3qdB77ShfYeCTnndEcWuj%2FNgHaQ%2B20dFnQHz9r3S8nsCmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1753120489@2146bd04_0db8_1982e1fc0fa_b6f8@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/Pvv23gAziSA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=E571E6A0DDD1CBD957C7C3B5ED681365"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAQDVVheC04WBV8IGloUXAUBUlhaDkwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAmwLHV0SWwEdDRsBVXseUB93QDpMNWRZVwcGc0JrVzJ_EjplUQoyVF5ZDkkRAmwNHGsVXAcDUV9YD0IXM18IHmtGM9GfwofiiJO9t7iNvYyuyNG_9IrCm3sXA2sOHl0RWwQGZF5bAUMQBGgPH10XVAEyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkoQA2oBSVsTM1pGUBsOUBVJbWgIG14dWwYHZFxcCUkVM184aCVGAQdhET4EcSBcVG9OQR1PO01LIFY9SQxISA9mGSJuHwd7JAEkThZAdRxsbA8SbQYyVFlbDEonAl8"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/87efee67-6e2a-5153-b019-4072bd872501.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "木炭"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "薄荷"
+      },
+      {
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018008886"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000759"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006890"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006887"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006886"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002540"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004024"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001503"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001502"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001501"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001500"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001499"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1541347200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1497196800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1446998400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥75",
+    "sda_approval_date": 1541347200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "去屑",
+        "id": 5266
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "73f521bfe2e5f852aaf8148e9ab5b110",
+        "sku_id": 240003,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001500"
+      },
+      {
+        "mid": "c94039724ed90e787153ea1969964211",
+        "sku_id": 507680,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015004024"
+      },
+      {
+        "mid": "c94039724ed90e787153ea1969964211",
+        "sku_id": 507680,
+        "attribute_type": "9",
+        "attribute_val": "1446998400"
+      },
+      {
+        "mid": "1f1786af52cd70acc41b4c9588ea6da9",
+        "sku_id": 1010217,
+        "attribute_type": "9",
+        "attribute_val": "1497196800"
+      },
+      {
+        "mid": "49b0e263089d45a95d1d1ce054632371",
+        "sku_id": 240002,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "439357f3676483af105667b6e159d643",
+        "sku_id": 1066985,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "73f521bfe2e5f852aaf8148e9ab5b110",
+        "sku_id": 240003,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "6856759e90c3f5362bf65d49e9610f00",
+        "sku_id": 1066982,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "1f1786af52cd70acc41b4c9588ea6da9",
+        "sku_id": 1010217,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "89d6f68b92e50c35a4ea15b3a5728cf8",
+        "sku_id": 240004,
+        "attribute_type": "3",
+        "attribute_val": "薄荷"
+      },
+      {
+        "mid": "89d6f68b92e50c35a4ea15b3a5728cf8",
+        "sku_id": 240004,
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      },
+      {
+        "mid": "6856759e90c3f5362bf65d49e9610f00",
+        "sku_id": 1066982,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006887"
+      },
+      {
+        "mid": "6856759e90c3f5362bf65d49e9610f00",
+        "sku_id": 1066982,
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      },
+      {
+        "mid": "439357f3676483af105667b6e159d643",
+        "sku_id": 1066985,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006890"
+      },
+      {
+        "mid": "875edf4c4714cbeb2e0176b98df2eca2",
+        "sku_id": 240005,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001502"
+      },
+      {
+        "mid": "875edf4c4714cbeb2e0176b98df2eca2",
+        "sku_id": 240005,
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      },
+      {
+        "mid": "ff9a2d379ad81e764bb84ccb23303627",
+        "sku_id": 1085359,
+        "attribute_type": "9",
+        "attribute_val": "1517760000"
+      },
+      {
+        "mid": "72aa1c0d4d913946139bceb126f85afa",
+        "sku_id": 240006,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001503"
+      },
+      {
+        "mid": "72aa1c0d4d913946139bceb126f85afa",
+        "sku_id": 240006,
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      },
+      {
+        "mid": "f352b3650d7372acc2c9c4ce30133b7f",
+        "sku_id": 2185608,
+        "attribute_type": "3",
+        "attribute_val": "木炭"
+      },
+      {
+        "mid": "f352b3650d7372acc2c9c4ce30133b7f",
+        "sku_id": 2185608,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018008886"
+      },
+      {
+        "mid": "f352b3650d7372acc2c9c4ce30133b7f",
+        "sku_id": 2185608,
+        "attribute_type": "9",
+        "attribute_val": "1541347200"
+      },
+      {
+        "mid": "c94039724ed90e787153ea1969964211",
+        "sku_id": 507680,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "72aa1c0d4d913946139bceb126f85afa",
+        "sku_id": 240006,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "875edf4c4714cbeb2e0176b98df2eca2",
+        "sku_id": 240005,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "73f521bfe2e5f852aaf8148e9ab5b110",
+        "sku_id": 240003,
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      },
+      {
+        "mid": "89d6f68b92e50c35a4ea15b3a5728cf8",
+        "sku_id": 240004,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001501"
+      },
+      {
+        "mid": "ff9a2d379ad81e764bb84ccb23303627",
+        "sku_id": 1085359,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018000759"
+      },
+      {
+        "mid": "49b0e263089d45a95d1d1ce054632371",
+        "sku_id": 240002,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015001499"
+      },
+      {
+        "mid": "49b0e263089d45a95d1d1ce054632371",
+        "sku_id": 240002,
+        "attribute_type": "9",
+        "attribute_val": "1428854400"
+      },
+      {
+        "mid": "439357f3676483af105667b6e159d643",
+        "sku_id": 1066985,
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      },
+      {
+        "mid": "1f1786af52cd70acc41b4c9588ea6da9",
+        "sku_id": 1010217,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002540"
+      },
+      {
+        "mid": "a5eb81a7fcc9a85ee73feee56be48f54",
+        "sku_id": 1066981,
+        "attribute_type": "3",
+        "attribute_val": "薄荷"
+      },
+      {
+        "mid": "a5eb81a7fcc9a85ee73feee56be48f54",
+        "sku_id": 1066981,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017006886"
+      },
+      {
+        "mid": "a5eb81a7fcc9a85ee73feee56be48f54",
+        "sku_id": 1066981,
+        "attribute_type": "9",
+        "attribute_val": "1511280000"
+      },
+      {
+        "mid": "ff9a2d379ad81e764bb84ccb23303627",
+        "sku_id": 1085359,
+        "attribute_type": "3",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_7c2ee38a-f748-406d-961d-23cd6974a353.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/a4c1ab67-10df-5460-a7b3-07cf498e95b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/87efee67-6e2a-5153-b019-4072bd872501.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士去屑洗发露(橡木炭净彻)",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/a4c1ab67-10df-5460-a7b3-07cf498e95b0.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5266,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "f352b3650d7372acc2c9c4ce30133b7f",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "400ml",
+    "sda_approval_no": "苏G妆网备字2018008886",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20181105,
+    "goods_form": "25"
+  },
+  "success": true
+}

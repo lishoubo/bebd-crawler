@@ -1,0 +1,139 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,130,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D3lH%2FyVe8Jctw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVYuRpJk38ELRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6vFy6%2FXBdJdADie5%2FYSGLk5Fkzx6Pl8qKvlE%2FVy4KmUW8qSkjCgwFcb5u2XzUPf5TNUz4EQSOVOB%2FFhtWVk3A%2FOrS0yh3xlwLxsKEptUVVFPep0HvtKF9h1pA6x3kzfM8VVpWnYYd1zo80dHpUDuPBX0%2B3obhRTo5xKmPmpIKZsA%3D%3D&union_lens=lensId:TAPI@1753127031@212b46e6_1885_1982e839450_d7f4@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/KBwmA0pW2Q9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=F005F1D4D3DA2A041B4DF77BD23CE85B"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARwJK1olXQ8GUl1fCUMWAl8IGloSXwYHU1dfDEkXA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgKG14SVAQGVl5dFxJSXzI4ZChIGgVYAxo-WjVwXDZ4XjAUXFBaNFJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OHV0QVAQDVl9UDUonA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVoSXQMLBl5bZhdJWTxQHgsTMwYEU11fDUsXM20JGlkXbTYyVyk1TB1eaAl3GCtwBVFUUCQZDDJOBw5eTjUXJnxgMQAlehBoai1rQBxRNEcyVG5dCksQMw"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "眼部护理",
+    "price": "¥219",
+    "sda_approval_date": 1656518400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_1e646bc9-d493-4e13-8cb6-d23d1fb44ca3.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/ff79eaab-ecc8-5942-8bca-274f6ec20b29.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4184998c-7b08-535c-b813-9ec503de5898.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/95a19b6e-d8a8-5caf-8c2d-532b5bc4047b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9eb1e17b-0ca2-58cf-8ebe-44271aa5c215.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b1a15557-31bd-57b5-baec-ebbf41ae38ec.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bb13cbef-e9ef-51e5-a63d-c7e0934b2c6c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/50105b21-83c8-5434-b8eb-8dafff330f8f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a2c9753e-6edd-5e8d-a6a6-69c149a6c248.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b60fda4f-55bb-5acd-93dd-b5bc813d0045.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c244a781-01d9-5fda-86b8-0a843bbb265b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dec7d060-c0fd-5e87-a77e-9e9e7f69db67.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e06fc8fb-e6c4-54bd-998f-b0da985c1315.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"无味\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部,眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士青春肌源多效淡纹眼霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15,16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5225",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "无",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "f1c68a62e30342afc548b9e3549ad69d",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "25ml",
+    "sda_approval_no": "苏G妆网备字2022002786",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士青春肌源多效淡纹眼霜",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每日早晚使用于眼周，亦可适用于全脸及颈部。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20220630,
+    "goods_form": "23"
+  },
+  "success": true
+}

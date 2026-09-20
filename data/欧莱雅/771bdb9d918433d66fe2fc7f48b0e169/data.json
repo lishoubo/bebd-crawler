@@ -1,0 +1,264 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "10"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF21"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20253497"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20253488"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20191214"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1745164800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1683216000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1566748800"
+      }
+    ],
+    "category3Name": "隔离",
+    "price": "",
+    "sda_approval_date": 1745164800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "f789e19d4f43e1b205c15827e2a448b6",
+        "sku_id": 2629411,
+        "attribute_type": "9",
+        "attribute_val": "1566748800"
+      },
+      {
+        "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+        "sku_id": 33449864,
+        "attribute_type": "1",
+        "attribute_val": "10"
+      },
+      {
+        "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+        "sku_id": 33449864,
+        "attribute_type": "9",
+        "attribute_val": "1745164800"
+      },
+      {
+        "mid": "731a0b642ad2a5976ff3560f49c92aa0",
+        "sku_id": 33450395,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "f789e19d4f43e1b205c15827e2a448b6",
+        "sku_id": 2629411,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "bba4c2c70772534ce1f36157f0fb8ea1",
+        "sku_id": 31779900,
+        "attribute_type": "1",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "bba4c2c70772534ce1f36157f0fb8ea1",
+        "sku_id": 31779900,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "bba4c2c70772534ce1f36157f0fb8ea1",
+        "sku_id": 31779900,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+        "sku_id": 33449864,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "f789e19d4f43e1b205c15827e2a448b6",
+        "sku_id": 2629411,
+        "attribute_type": "6",
+        "attribute_val": "SPF21"
+      },
+      {
+        "mid": "f789e19d4f43e1b205c15827e2a448b6",
+        "sku_id": 2629411,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+        "sku_id": 33449864,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20253488"
+      },
+      {
+        "mid": "bba4c2c70772534ce1f36157f0fb8ea1",
+        "sku_id": 31779900,
+        "attribute_type": "9",
+        "attribute_val": "1683216000"
+      },
+      {
+        "mid": "731a0b642ad2a5976ff3560f49c92aa0",
+        "sku_id": 33450395,
+        "attribute_type": "1",
+        "attribute_val": "20"
+      },
+      {
+        "mid": "731a0b642ad2a5976ff3560f49c92aa0",
+        "sku_id": 33450395,
+        "attribute_type": "9",
+        "attribute_val": "1745164800"
+      },
+      {
+        "mid": "bba4c2c70772534ce1f36157f0fb8ea1",
+        "sku_id": 31779900,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20191214"
+      },
+      {
+        "mid": "f789e19d4f43e1b205c15827e2a448b6",
+        "sku_id": 2629411,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20191214"
+      },
+      {
+        "mid": "731a0b642ad2a5976ff3560f49c92aa0",
+        "sku_id": 33450395,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20253497"
+      },
+      {
+        "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+        "sku_id": 33449864,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "731a0b642ad2a5976ff3560f49c92aa0",
+        "sku_id": 33450395,
+        "attribute_type": "7",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅奇焕光采粉嫩透亮修颜霜（新版）10",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5238",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "无",
+    "safety_1_num": 4.4,
+    "mid": "771bdb9d918433d66fe2fc7f48b0e169",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字20253488",
+    "approvaler": "宜昌天美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "防晒类（SPF50+,PA+++）",
+    "shelfLife": "3年",
+    "category4_id": 200,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "素颜乳/霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量本品均匀涂抹于面部及颈部。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 42,
+    "registered_day": 20250421,
+    "goods_form": ""
+  },
+  "success": true
+}

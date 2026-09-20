@@ -1,0 +1,177 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,129,48",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003913"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002609"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000301"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1688659200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1525795200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1688659200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "3d82c76fea1aee667e0cbeb899179cb5",
+        "sku_id": 228660,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000301"
+      },
+      {
+        "mid": "f0b4a7ca8fbd1d84c4e0c25f6aefa49e",
+        "sku_id": 31970932,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003913"
+      },
+      {
+        "mid": "ecdf324fbd6d84c6f9b59074d956976f",
+        "sku_id": 1085387,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002609"
+      },
+      {
+        "mid": "ecdf324fbd6d84c6f9b59074d956976f",
+        "sku_id": 1085387,
+        "attribute_type": "9",
+        "attribute_val": "1525795200"
+      },
+      {
+        "mid": "f0b4a7ca8fbd1d84c4e0c25f6aefa49e",
+        "sku_id": 31970932,
+        "attribute_type": "9",
+        "attribute_val": "1688659200"
+      },
+      {
+        "mid": "3d82c76fea1aee667e0cbeb899179cb5",
+        "sku_id": 228660,
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_d3ca0a41-9450-4a17-bfc8-ab6e67ef9105.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/4e228b27-1f18-539e-92f7-6253e6a9a086.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8295d960-89a3-59b2-a7bf-d24520bec269.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c02e207d-ff9c-59ce-99da-05c355ec3ad9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6040aa29-297f-58df-ba27-e9faf13938ac.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a6919adf-b35a-546b-811d-528b6943c4f4.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅透明质酸水润护发膜",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "f0b4a7ca8fbd1d84c4e0c25f6aefa49e",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023003913",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅透明质酸水润护发膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20230707,
+    "goods_form": "23"
+  },
+  "success": true
+}

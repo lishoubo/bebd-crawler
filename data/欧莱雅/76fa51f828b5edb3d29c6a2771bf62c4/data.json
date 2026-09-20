@@ -1,0 +1,135 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,52,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DtZBES8jtva9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXirki9qLZSFJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2BAF%2FpNHOH8PEj9Qhb68jyBzRD18rVfQC6vFy6%2FXBdJdADie5%2FYSGLk5Fkzx6Pl8qK%2BxRVH9BrIi1UvLN7Yb5r6e%2B1Uqez0QWjSKzYVYf9zbG6%2FnbVVKeoWtLe1P%2FwjC%2F7xsKEptUVVFPep0HvtKF9h1pA6x3kzfM%2BTJt95K9fiuAbJZQXSYfabX0%2B3obhRTo5xKmPmpIKZsA%3D%3D&union_lens=lensId:TAPI@1727204840@0bbb31ba_0f30_192256e52ca_3997@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/RHD1qom1ZB8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=3BD8E34FAC8C45A9C1E284342B780151"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ8GUl1fCUMWAl8IGlodWgAFV1tcDkMVC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcPHVwWWAcEXFxVFxJSXzI4BQ5OC3xiVhk-UkwXRWlDEi5RWnxKElJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OH1kVXgIEUllZCk8nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVpGWwQDBwoIZhdCVjZNRwFSMwIKVlxdAEkUM20JGlkXbTYyPDsoQQoVdG5gaF1IHlN6KFwuVChUYBNBdVloNmZlADwYVSNUXhhRHg4WGjYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "乳液",
+    "price": "¥320",
+    "sda_approval_date": 1655740800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "提亮",
+        "id": 5208
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_bf0cb355-6eca-4379-ba08-3d9e4b735e6b.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/0aded808-6866-56e6-a2be-ac459c876362.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/21085b48-7aa8-5f62-98e4-f680f14f2478.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6c3a2812-88ef-58a4-88e7-23bb02553ed5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91dfe491-ce65-5f9c-90ae-23e3d3266973.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c724aee7-72e5-52f3-89fb-f3e8dc476a11.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fce02371-aacf-56d2-a829-d1c8a51e6393.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d6b47975-57da-5c1a-b9ff-9d0c9c9867a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3665b39f-189b-58a9-b5f2-f56aceffbad5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/009d9246-04e1-5f3e-970c-de002646fa3e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/161cce7c-3074-59d0-b26b-38f3b7e349d9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d917d3e-6ecc-5b46-a80e-22392cf6e3bc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/570a0e1e-0f1f-5a2d-847d-2c74cc650fcb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6e20ddb1-7f75-5320-9d32-a3ad7c7c6361.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/96cd98d0-23a4-56a3-9bb2-1b1fbe5b9847.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f605b87f-7336-530c-8542-737f587b1f25.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fe6e0631-2b65-5df8-bdd5-afbb4d4f3f35.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅臻曜晶透细肤焕亮乳液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/21085b48-7aa8-5f62-98e4-f680f14f2478.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5208",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "76fa51f828b5edb3d29c6a2771bf62c4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "110ml",
+    "sda_approval_no": "苏G妆网备字2022002262",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "注光乳@!@欧莱雅臻曜晶透细肤焕亮乳液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 525,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通乳液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20220621,
+    "goods_form": "23"
+  },
+  "success": true
+}

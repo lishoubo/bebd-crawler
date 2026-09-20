@@ -1,0 +1,214 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,129,42",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7sCqwWH9CWBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaIa6eRdjJjaJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoF89e%2BGOY3UM7eWc%2FPoudXp8JJW78X6OgwYepbYCru04QLqgMvkPlmZDTwt%2FjxNE%2BkOffBznZlrjneUjzDPbE%2Fs4%2BfirBrx7mJrIyC%2FNckMO%2BnbOsDOF7SRTU1UpnLcQJ8YMXU3NNCg%2F&union_lens=lensId:TAPI@1753119830@216606b9_0e29_1982e15b187_984e@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/UjsHe3H3rMA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=860C21956F961B704908D7DFDAF6EEC3"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olWAQDVVhdD0ITCl8IGl0QWwYAZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLXQcEUVhdClRORjNVFR9KBVhdKAoIUBtyUzkEGDUVMwYyPzcuQzVNehJoeANhW3tJXTgHQEwUY2MEK1sVWQAAUl9eDUwnA24JGl4UWAELVG5tCE4nUAHfhs3M4oba_uqKje3AuPrfpvvBwpUyVF5ZDk4RB2kKH2sVWw8KU1laCE8RBWgPK1sdWTbU2-GIgcfCjfDRi-ZGCUFcCW5tOEgnM18IK1glA2gDU1pZDkwVCgFUX19QXEMFDDBaCUMTA2YLE2sXXAcAVm5tODkSQTh2Xj9gClhqVi4FDzheAGkMYFJJIW9ZLjxUZklIXytceBlVDVZwJhUPDC9XZV8IK1sSWwIDZF9t"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002510"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000636"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002811"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002996"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1525708800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1459267200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥59",
+    "sda_approval_date": 1525708800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "蓬松",
+        "id": 5253
+      },
+      {
+        "name": "丰盈",
+        "id": 5260
+      },
+      {
+        "name": "干枯毛躁",
+        "id": 5304
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "561475e7ee72dbfdf6b67960b327e893",
+        "sku_id": 655126,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000636"
+      },
+      {
+        "mid": "561475e7ee72dbfdf6b67960b327e893",
+        "sku_id": 655126,
+        "attribute_type": "9",
+        "attribute_val": "1459267200"
+      },
+      {
+        "mid": "4db524475ee3f884ab0d4a7be57a9ea4",
+        "sku_id": 1085365,
+        "attribute_type": "9",
+        "attribute_val": "1525708800"
+      },
+      {
+        "mid": "9b668c3156ff07cc42ed411a354dd1e7",
+        "sku_id": 2134230,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002996"
+      },
+      {
+        "mid": "9b668c3156ff07cc42ed411a354dd1e7",
+        "sku_id": 2134230,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "617694aa6f9ea1e38409569569977182",
+        "sku_id": 411792,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015002811"
+      },
+      {
+        "mid": "4db524475ee3f884ab0d4a7be57a9ea4",
+        "sku_id": 1085365,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002510"
+      },
+      {
+        "mid": "617694aa6f9ea1e38409569569977182",
+        "sku_id": 411792,
+        "attribute_type": "9",
+        "attribute_val": "1438272000"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/a2257ea1-8c51-4330-be77-f5e2db14c72a.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1f2397eb-b807-5731-85e9-11502bfaac55.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/280a205d-1195-5d37-ade9-ccba150a7be8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/34e4f591-3eb5-5eb4-b052-62816fe75743.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/48b748ac-4cd4-5c20-87de-631a1c1627d1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a450c33a-f8d0-5737-9730-1bc7d0339e28.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d1ec7798-b8ab-5f04-84c8-25b5f750ed7a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/21dc7540-f917-5180-9538-c7f92aece013.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/35332acc-207d-5442-b446-f21c4936d8cb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/47e9d1d4-65e2-5d33-8cb5-644388e5994d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/783370e4-20de-55f7-82ce-997f30526a1f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f27a2be8-4166-59ac-bc52-fea879753370.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅精油润养护发膜",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5260,5253,5304",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "4db524475ee3f884ab0d4a7be57a9ea4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "250ml",
+    "sda_approval_no": "苏G妆网备字2018002510",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅精油润养护发膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 313,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      }
+    ],
+    "category4Name": "护发精油",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20180508,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,149 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "55,56,44,46,128,52,130,129,53,48,54,126,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DKV0KkuXg3Ohw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMS%2FUKkMQvxIwt4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2BAF%2FpNHOH8PEj9Qhb68jyB6KzCl%2BPoUvtWfGLsfftQ6fVcyfhsC2GGh9FE7Hn9%2BSbcEqSNRC7I%2FejOEwpGqodg8yjotrw0A3ZfT7ehuFFOjv7nyHmkoZi7F6Sw2GwK7Rw6rxeF2UboE8CmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1753128843@0b830dfc_0dbd_1982e9f37d7_56ae@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/OmLZ3aafwy9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=1A104AFA9B0EF4BABFF8695C544A0451"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1735574400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_fc1d67a6-a98c-410d-bc08-2bddd603532a.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/37eee469-31a1-5f8b-a737-b74dd1264400.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/66129fed-013a-5a14-946b-7975c46d10ab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8fb35cc7-a6d2-5522-a662-1433c174cb13.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ba1bc216-31ab-5661-b0e8-e00ce273e4f9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bc3b878f-2439-545b-9a99-bafa50bd2b3f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bda2439d-ac80-5088-a2aa-dae0b0c3db6b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c826082b-1797-5dee-bba3-bf0ed4a4148b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e6593124-2837-53dc-8b93-d00d4299a421.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/01b3c388-6439-5a1b-b763-25916d4e5390.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3f552d3e-b49c-54e4-9f77-d27786935ad1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ff63879-83fd-507b-b2b6-d277cf5dde91.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5953c59e-7278-5876-8874-591f8d9c395f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6d4c86d7-4504-5f44-8f2d-303ff8ed8b21.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ad3eb693-0dfe-5307-99c1-e22eb20b180e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b6ddb962-af9d-5590-b023-284f884e36a5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c9f199f9-139c-5c3f-a5f8-e671c8adedf2.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅玻尿酸空气感洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "c4bab6cee58acf6160b46677fa965a86",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024011003",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅玻尿酸空气感洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "爽身",
+        "id": "55"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20241231,
+    "goods_form": "24"
+  },
+  "success": true
+}

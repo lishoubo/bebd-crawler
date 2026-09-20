@@ -1,0 +1,312 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "130,47",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/e3b53af7-4092-589e-a7fa-87ffcbbb6bde.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "100"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "115"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "230"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "245"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "400"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "420"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "500"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000752"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000751"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000750"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000749"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000687"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000686"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000685"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000677"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1714060800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      }
+    ],
+    "category3Name": "唇妆",
+    "price": "",
+    "sda_approval_date": 1713888000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "哑光",
+        "id": 5231
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "d362352d668318cc7ed45061e23307aa",
+        "sku_id": 32866081,
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "mid": "70de35d18ce9e9056082019779162837",
+        "sku_id": 32765673,
+        "attribute_type": "1",
+        "attribute_val": "245"
+      },
+      {
+        "mid": "2a62e711f284635ef9c928809cd28d87",
+        "sku_id": 32754906,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "5fe370e975669b80c6473354bcc0d82d",
+        "sku_id": 32769596,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000749"
+      },
+      {
+        "mid": "9b56752df00671ed95c6046fc66ad47a",
+        "sku_id": 32866082,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "11c6ac1b083e7c100635d8825941ca96",
+        "sku_id": 32759893,
+        "attribute_type": "1",
+        "attribute_val": "420"
+      },
+      {
+        "mid": "11c6ac1b083e7c100635d8825941ca96",
+        "sku_id": 32759893,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000687"
+      },
+      {
+        "mid": "11c6ac1b083e7c100635d8825941ca96",
+        "sku_id": 32759893,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "1e07952e5155db106e2c43f5765f093e",
+        "sku_id": 32764028,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "a0b9956c82867051c26620ae2e85bf54",
+        "sku_id": 32758041,
+        "attribute_type": "1",
+        "attribute_val": "500"
+      },
+      {
+        "mid": "a0b9956c82867051c26620ae2e85bf54",
+        "sku_id": 32758041,
+        "attribute_type": "9",
+        "attribute_val": "1714060800"
+      },
+      {
+        "mid": "70de35d18ce9e9056082019779162837",
+        "sku_id": 32765673,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000685"
+      },
+      {
+        "mid": "70de35d18ce9e9056082019779162837",
+        "sku_id": 32765673,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "5fe370e975669b80c6473354bcc0d82d",
+        "sku_id": 32769596,
+        "attribute_type": "1",
+        "attribute_val": "230"
+      },
+      {
+        "mid": "1e07952e5155db106e2c43f5765f093e",
+        "sku_id": 32764028,
+        "attribute_type": "1",
+        "attribute_val": "100"
+      },
+      {
+        "mid": "1e07952e5155db106e2c43f5765f093e",
+        "sku_id": 32764028,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000752"
+      },
+      {
+        "mid": "a0b9956c82867051c26620ae2e85bf54",
+        "sku_id": 32758041,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000677"
+      },
+      {
+        "mid": "d362352d668318cc7ed45061e23307aa",
+        "sku_id": 32866081,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000750"
+      },
+      {
+        "mid": "d362352d668318cc7ed45061e23307aa",
+        "sku_id": 32866081,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "2a62e711f284635ef9c928809cd28d87",
+        "sku_id": 32754906,
+        "attribute_type": "1",
+        "attribute_val": "400"
+      },
+      {
+        "mid": "2a62e711f284635ef9c928809cd28d87",
+        "sku_id": 32754906,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000686"
+      },
+      {
+        "mid": "5fe370e975669b80c6473354bcc0d82d",
+        "sku_id": 32769596,
+        "attribute_type": "9",
+        "attribute_val": "1713888000"
+      },
+      {
+        "mid": "9b56752df00671ed95c6046fc66ad47a",
+        "sku_id": 32866082,
+        "attribute_type": "1",
+        "attribute_val": "115"
+      },
+      {
+        "mid": "9b56752df00671ed95c6046fc66ad47a",
+        "sku_id": 32866082,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2024000751"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/6bf8e6c3-a0a4-5161-a5ee-9f53eb71e8d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ae10f1d6-146a-5262-8611-cd875496fecc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e3b53af7-4092-589e-a7fa-87ffcbbb6bde.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "口唇",
+    "piece_price": "",
+    "titleEn": "L’OREAL MATTE RESISTANCE LIQUID LIPSTICK 115",
+    "name": "欧莱雅恒放溢彩印迹天鹅绒哑光唇釉 115",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/ae10f1d6-146a-5262-8611-cd875496fecc.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5231",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "9b56752df00671ed95c6046fc66ad47a",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2024000751",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 243,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "唇彩/唇釉",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 48,
+    "registered_day": 20240424,
+    "goods_form": "24"
+  },
+  "success": true
+}

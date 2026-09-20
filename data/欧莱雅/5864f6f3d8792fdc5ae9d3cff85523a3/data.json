@@ -1,0 +1,217 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DlGl4tKgkURtw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU2KqqCVpKAl8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXSlOcyGjlz7qMoG1hL%2FKzWBptfOUtK1jcVkbb%2BmyiO6PcFW%2BqDs3HHWQmlWc7j10EvN1tQjyURz0G5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQLcPEkXVx6Ec744OXwqXhsA7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753125862@213f3154_0e06_1982e71bb7f_3929@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/9k3d0EYbps5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=C4622213FD628D92FC90A7814467782C"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARwJK1olXQ8GUl1fCUMWAl8IGloTVQ4FUVhdCE8SA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkAE1wQWwYCUFtdFxJSXzI4GjN3InhfCwI4AFFrRwYJHCgcJXFQElJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OHV0QVA4DUlxaCU0nA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVoSWQ5SB1xfZhdJWTgKRx1SMwYEXF1ZC04eM20JGlkXbTYyVAo_UDdUfBZUGxlCO31AMQ06Q0kVfBRRYjUXHFZqAysjbUtLSj8PWl9sXWYyVG5dCksQMw"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C30"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223943"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223816"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223777"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223767"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "¥369",
+    "sda_approval_date": 1670515200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "光感",
+        "id": 5232
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "a58f625ea453c50d3b5fc8f86b4c3097",
+        "sku_id": 31433127,
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "mid": "5864f6f3d8792fdc5ae9d3cff85523a3",
+        "sku_id": 31447333,
+        "attribute_type": "1",
+        "attribute_val": "C30"
+      },
+      {
+        "mid": "c80c0a0f482197263d7677cac98280b1",
+        "sku_id": 31432671,
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "mid": "a58f625ea453c50d3b5fc8f86b4c3097",
+        "sku_id": 31433127,
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "mid": "5864f6f3d8792fdc5ae9d3cff85523a3",
+        "sku_id": 31447333,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223767"
+      },
+      {
+        "mid": "8c89809fcd5c57a863c9d848d4ff0693",
+        "sku_id": 31432655,
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "mid": "8c89809fcd5c57a863c9d848d4ff0693",
+        "sku_id": 31432655,
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "mid": "c80c0a0f482197263d7677cac98280b1",
+        "sku_id": 31432671,
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "mid": "c80c0a0f482197263d7677cac98280b1",
+        "sku_id": 31432671,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223943"
+      },
+      {
+        "mid": "a58f625ea453c50d3b5fc8f86b4c3097",
+        "sku_id": 31433127,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223816"
+      },
+      {
+        "mid": "5864f6f3d8792fdc5ae9d3cff85523a3",
+        "sku_id": 31447333,
+        "attribute_type": "9",
+        "attribute_val": "1670515200"
+      },
+      {
+        "mid": "8c89809fcd5c57a863c9d848d4ff0693",
+        "sku_id": 31432655,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20223777"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/0_47e7f9f3-5cbd-4054-8083-31e6af005a29.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/da195b3c-4c09-547c-b314-4de35c481f35.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/578359e6-256c-5fc2-89ff-8ca9657448bf.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜柔光无瑕气垫霜 C30",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5238,5232",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "safety_1_num": 4.2,
+    "mid": "5864f6f3d8792fdc5ae9d3cff85523a3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "12g",
+    "sda_approval_no": "国妆特字20223767",
+    "approvaler": "宜昌天美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜柔光无瑕气垫霜 C30",
+    "functionType": "防晒类（SPF50+,浴后SPF50,PA++++）",
+    "shelfLife": "",
+    "category4_id": 205,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "莹特丽化妆品（苏州）有限公司",
+        "mid": "b25155410234b3533a74b06b221220e6"
+      }
+    ],
+    "category4Name": "气垫BB/CC霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20221209,
+    "goods_form": ""
+  },
+  "success": true
+}

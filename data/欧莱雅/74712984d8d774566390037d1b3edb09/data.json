@@ -1,0 +1,101 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,129",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DUDeWEO7M4MBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDuVdKpBdttls5x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9zRD18rVfQC7Qi04ZWz7rmS2%2Fdw3%2FHzs4ZdZ8SQCmlqeUQgIjh9kv7KYwf%2FGPJHOx9WRRv8tTD6l6Po1%2BooXMNbnJiwyDO1giG5CeUMT0tgovynyZqoK2AMuHKMRKLq33QSHSD%2Bf%2FxspO%2FaObIjZTQ3GtiTZKNIGDIYULNg46oBA%3D&union_lens=lensId:TAPI@1684525945@21334ac5_0ce6_18835921261_bb89@01"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/89f58313-dead-5ca4-89b2-f72ac1cf2240.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥218",
+    "sda_approval_date": 1614268800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_46820ec1-f71f-4144-a12f-971af64fd4d7.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1b098e67-ecb9-5818-b7c1-c10c52af9a7f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ea0ad8f-73cc-5e6a-83f5-72262936ff01.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/89f58313-dead-5ca4-89b2-f72ac1cf2240.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5ba9800d-f873-5ef4-90a3-7aed0703acc8.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明液体\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅玻尿酸水光轻盈液体发膜",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/1b098e67-ecb9-5818-b7c1-c10c52af9a7f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "西曲氯铵在本品中的使用目的为抗静电剂；山嵛基三甲基氯化铵在本品中的使用目的为发用调理剂。本品香精原料含：苯甲醇、芳樟醇、水杨酸苄酯、己基肉桂醛。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "74712984d8d774566390037d1b3edb09",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "200ml",
+    "sda_approval_no": "苏G妆网备字2021001489",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "洗发后取适量涂抹于发丝中端至末梢，稍加按摩，停留8秒后即用清水洗净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20210226,
+    "goods_form": "24"
+  },
+  "success": true
+}

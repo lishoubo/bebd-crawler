@@ -1,0 +1,93 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/e480b2ed-7e8e-5e43-abdb-bcc13752b615.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "面膜",
+    "price": "",
+    "sda_approval_date": 1629734400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_96dfba7d-86a2-477b-b8a7-87bba58c521b.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/19eab3b7-35d0-50f3-a31c-808a90dc8662.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e480b2ed-7e8e-5e43-abdb-bcc13752b615.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"附着在白色半透明无纺布\"}, {\"name\": \"颜色\", \"condition\": \"无色透明\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士玻尿酸保湿修护面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/19eab3b7-35d0-50f3-a31c-808a90dc8662.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5210,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品含水杨酸，三岁以下儿童勿用",
+    "safety_1_num": 4.6,
+    "mid": "5ec41686def95338c05bcf35b258a7c2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2021503261",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士玻尿酸保湿修护面膜",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 158,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "贴片面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "展开后均匀贴敷 ，调整至平整覆盖 ，等待5-15分钟，取下面膜，按摩后清水洗净",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20210824,
+    "goods_form": ""
+  },
+  "success": true
+}

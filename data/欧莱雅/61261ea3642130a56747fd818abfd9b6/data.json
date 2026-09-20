@@ -1,0 +1,94 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DwOPagKR%2BVmJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDhm8NOMO1XXR79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6IRG7RpJqnruq9fxIlRqhFPPhOV2XsnZKJtcdYb8WHce%2B0Rar%2Fv1F%2Bn8PHp7uJi09U1NVKZy3ECfZGL0GbiMMd%2BpCi4B6Kb40YQj8cr%2FeSOU9%2FvZc6uMbleVVt2SKMhA7xg5p7bh%2BFbQ%3D&union_lens=lensId:TAPI@1677697379@0bb57573_0ab0_1869e8e6ac8_d92a@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/d8c2ad74-6a02-5691-8e13-7308cb14f5db.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "¥69",
+    "sda_approval_date": 1569686400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "祛痘",
+        "id": 5215
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/3566179493919572805_6279564e-6a5d-4ed7-aaac-b3866881d348.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/57046dcf-c550-5fd0-a5f6-79676b1de1f3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d8c2ad74-6a02-5691-8e13-7308cb14f5db.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"红白相间\"}, {\"name\": \"性状\", \"condition\": \"膏体\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士火山岩双效清痘洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/57046dcf-c550-5fd0-a5f6-79676b1de1f3.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5215,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本品香精原料含有苧烯、肉桂醛、水杨酸苄酯、丁香酚。",
+    "safety_1_num": 4.5,
+    "mid": "61261ea3642130a56747fd818abfd9b6",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "100ml",
+    "sda_approval_no": "苏G妆网备字2019008557",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量的产品于掌心，加水揉搓起泡。涂抹在润湿的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水洗净。使用时避开眼部，如不慎入眼请即用清水冲洗。适合每日使用。实际效果因人而异。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20190929,
+    "goods_form": ""
+  },
+  "success": true
+}

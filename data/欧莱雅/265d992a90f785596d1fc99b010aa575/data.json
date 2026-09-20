@@ -1,0 +1,122 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,130,129,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/8a22fdc0-1f80-5ce5-9924-69dbaae8d81b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面膜",
+    "price": "",
+    "sda_approval_date": 1671984000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_23b73633-dae5-4587-9cb4-9941a9dcd75e.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1bb98031-3172-56e9-94a9-650538604aca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e6fe29d4-00cd-594c-a708-d3675d9fd953.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f52884d3-edfa-5ad2-bed1-4f1344339fd8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/de082056-7bd6-59c7-bee0-513e9d6b3685.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd77d1e8-7f65-5f20-9346-247a8cd4d822.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/059464e2-0ea5-58ea-8f3b-373c9ef0f009.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/22bf93cc-5dad-58c9-9a86-585d6de31e00.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8a22fdc0-1f80-5ce5-9924-69dbaae8d81b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体,贴、膜、含基材",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士玻尿酸保湿修护面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/1bb98031-3172-56e9-94a9-650538604aca.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5203,5210",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "265d992a90f785596d1fc99b010aa575",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022011803",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士玻尿酸保湿修护面膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20221226,
+    "goods_form": "32,24"
+  },
+  "success": true
+}

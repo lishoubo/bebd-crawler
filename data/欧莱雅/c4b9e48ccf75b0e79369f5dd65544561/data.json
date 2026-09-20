@@ -1,0 +1,156 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DnVGZr231iItw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDrASpvT%2BQNsLlovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoLL%2FrAGW0D1qskmx5kiO8DpndR0CisZIhQFSrzgTbVr6ggBvEsWZ3qM0hZAQl%2Fsw91x9qa5F7xotfcGySNRJP%2F%2B%2FwTzw5dIYSnPHaVcxSl4YnkThY6Ekzd%2B7dg2k86fsdWxWM6BGvulmefncWraOGxpxrYk2SjSBgyGFCzYOOqAQ&union_lens=lensId:TAPI@1707164667@21279f37_10d5_18d7af18f47_366d@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019008529"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004921"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20186581"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1569513600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1525276800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1504195200"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "¥59",
+    "sda_approval_date": 1525276800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c4b9e48ccf75b0e79369f5dd65544561",
+        "sku_id": 1088281,
+        "attribute_type": "9",
+        "attribute_val": "1525276800"
+      },
+      {
+        "mid": "dbd2b48f69fc24f836ba67f8ca789be4",
+        "sku_id": 997262,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004921"
+      },
+      {
+        "mid": "dbd2b48f69fc24f836ba67f8ca789be4",
+        "sku_id": 997262,
+        "attribute_type": "9",
+        "attribute_val": "1504195200"
+      },
+      {
+        "mid": "0d934b825696bd2fa93711831f47fd6d",
+        "sku_id": 2819671,
+        "attribute_type": "9",
+        "attribute_val": "1569513600"
+      },
+      {
+        "mid": "0d934b825696bd2fa93711831f47fd6d",
+        "sku_id": 2819671,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019008529"
+      },
+      {
+        "mid": "c4b9e48ccf75b0e79369f5dd65544561",
+        "sku_id": 1088281,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20186581"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_b32c6313-b508-4bbb-84f0-c0f0986c6630.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"原料特征气味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘ OREAL MEN EXPERT HYDRA SENSITIVE BIRCH SAP FACE WASH",
+    "name": "欧莱雅男士舒润强肤洁面乳",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5201,5203,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "避开眼部周围皮肤，如不慎接触眼部，请立刻以清水冲洗。",
+    "safety_1_num": 4.5,
+    "mid": "c4b9e48ccf75b0e79369f5dd65544561",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "150ml",
+    "sda_approval_no": "国妆备进字J20186581",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 103,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洁面乳",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1：取适量产品于掌心，加水揉搓起泡沫。 2：涂于湿润的面部并集中在前额、鼻子和下巴处轻轻按摩。 3：然后用清水冲洗干净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 18,
+    "registered_day": 20180503,
+    "goods_form": ""
+  },
+  "success": true
+}

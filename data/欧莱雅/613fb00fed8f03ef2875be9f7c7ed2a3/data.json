@@ -1,0 +1,234 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "W30"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C10"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20235036"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233647"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233646"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233640"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233639"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1701792000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "",
+    "sda_approval_date": 1701792000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      },
+      {
+        "name": "光感",
+        "id": 5232
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "8ff59599f4fc85bd4b395936552e91d2",
+        "sku_id": 32130135,
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "mid": "8ff59599f4fc85bd4b395936552e91d2",
+        "sku_id": 32130135,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233640"
+      },
+      {
+        "mid": "8ff59599f4fc85bd4b395936552e91d2",
+        "sku_id": 32130135,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "9f251e4c7322d9681c3f1eebfcbfecb1",
+        "sku_id": 32163721,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233646"
+      },
+      {
+        "mid": "5fcbe8773dd47a626cf2b68c97410658",
+        "sku_id": 32128363,
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "mid": "5fcbe8773dd47a626cf2b68c97410658",
+        "sku_id": 32128363,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233647"
+      },
+      {
+        "mid": "a5e54ef1d4107c1056d68ec1c3af1741",
+        "sku_id": 32146658,
+        "attribute_type": "1",
+        "attribute_val": "W30"
+      },
+      {
+        "mid": "9f251e4c7322d9681c3f1eebfcbfecb1",
+        "sku_id": 32163721,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "613fb00fed8f03ef2875be9f7c7ed2a3",
+        "sku_id": 32400925,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20235036"
+      },
+      {
+        "mid": "a5e54ef1d4107c1056d68ec1c3af1741",
+        "sku_id": 32146658,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20233639"
+      },
+      {
+        "mid": "a5e54ef1d4107c1056d68ec1c3af1741",
+        "sku_id": 32146658,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      },
+      {
+        "mid": "9f251e4c7322d9681c3f1eebfcbfecb1",
+        "sku_id": 32163721,
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "mid": "613fb00fed8f03ef2875be9f7c7ed2a3",
+        "sku_id": 32400925,
+        "attribute_type": "1",
+        "attribute_val": "C10"
+      },
+      {
+        "mid": "613fb00fed8f03ef2875be9f7c7ed2a3",
+        "sku_id": 32400925,
+        "attribute_type": "9",
+        "attribute_val": "1701792000"
+      },
+      {
+        "mid": "5fcbe8773dd47a626cf2b68c97410658",
+        "sku_id": 32128363,
+        "attribute_type": "9",
+        "attribute_val": "1692028800"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜柔光无瑕粉底霜 C10",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5223,5238,5232",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "本品香精原料含有芳樟醇、苧烯、香叶醇、香茅醇。",
+    "safety_1_num": 4.3,
+    "mid": "613fb00fed8f03ef2875be9f7c7ed2a3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字20235036",
+    "approvaler": "宜昌天美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "防晒类（SPF22,PA+++）",
+    "shelfLife": "3年",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量本品均匀涂抹于面部及颈部。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20231206,
+    "goods_form": ""
+  },
+  "success": true
+}

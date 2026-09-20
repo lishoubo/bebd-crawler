@@ -1,0 +1,180 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,52,130,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Da1vknAkIxAdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMdCxQk%2Fhb4WY8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXYHWsKvMzjiZuyMs4KYSyEYnOse%2FZM3Tb9Z1zl5XqhgNq7Rvegh6ninTiDedA9UoxVDs%2FhPhjsmtOPn4qwa8e5jOwDMfXFgMfhIjP5Uhv22Ue6fejDpLB2RCk0bm4bBWlV9Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1753119822@212b4e8b_0e1a_1982e15927d_dc7d@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/dyOYv3sJ5J9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=71397DAF6B86FD418F2A071C66AD2186"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASAJK1olXwIFUFtdCUsXBl8IGloUWwYCUltUCE8nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBW8IHV4cXQIdDRsBVXtXCwZ8az0WP2R0HBoJCAJXSGd3XyB1UQoyVF5ZDkkRAmwNHGsVXAcDUV9YD0IXM18IHmtGM9GfwofiiJO9t7ucmY-Hx9G_9IrCm3sXA2sOHl0RWwQGZF5bCk4VCm4BEl4UVQcyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBGoAGlIdM1oHFwcAUABfbW8AGV4cWA4HVG5fCUoVAV84KxwWHg9rVAEWaixKfgQMfV9vImdfMD5cXSUVC29fSCFVKn1gFy1YTE0Vfm84G2s"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005172"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022008979"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1671984000"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "¥359",
+    "sda_approval_date": 1687190400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "39a67250b6bcf060115dde6956c0a193",
+        "sku_id": 31401547,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022008979"
+      },
+      {
+        "mid": "39a67250b6bcf060115dde6956c0a193",
+        "sku_id": 31401547,
+        "attribute_type": "9",
+        "attribute_val": "1671984000"
+      },
+      {
+        "mid": "0f1c6847bc31ca514627aea43aa93fe2",
+        "sku_id": 31920561,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023005172"
+      },
+      {
+        "mid": "0f1c6847bc31ca514627aea43aa93fe2",
+        "sku_id": 31920561,
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_d1740eca-6a67-4dae-abe3-2c23348a18ac.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/89f75e70-9b33-5a94-a92b-2e801972db35.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/37ef18d5-6646-5d89-82a0-5e5a29326054.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/009385b0-a204-523d-ba2a-52b7ac98699a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1b6ab39d-b31c-51c4-aad4-61a2c9380bc2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ff1caff-46c6-52e2-9f2b-c901d5364045.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6c6b125b-46aa-59ad-9c92-2ed2a9f5c308.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/984b4479-3429-54f5-bac5-82ced56acbe4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9a3904d6-6f68-5e8a-b915-839d2966a1d1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c6521105-9eb6-571e-aa2a-41e777bcb1a7.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅青春密码密集肌能精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "0f1c6847bc31ca514627aea43aa93fe2",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2023005172",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "第四代黑精华@!@欧莱雅青春密码密集肌能精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20230620,
+    "goods_form": "24"
+  },
+  "success": true
+}

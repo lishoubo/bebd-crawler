@@ -1,0 +1,143 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,130,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D9NSSjqR%2FIkNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTBVlcAv%2BsE%2F1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6fhsahYtAicYJY8iJjEQtDQcYxQyllX%2F6RrPjWNnaKhUmPk%2FKBX8yAsrr1KIUqH3X8bChKbVFVRT3qdB77ShfYVFzQeSXzIFOnHDSM0ug%2F5IPgZP81kFw%2FF9Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1753118866@213dad2d_0e3a_1982e06fba9_e903@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/wjUBdfM4Do9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=4681BCF6FA715DA9785D65A54FBB435B"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/4ad47fed-f636-54be-b505-c03671aa982c.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "化妆水/爽肤水",
+    "price": "",
+    "sda_approval_date": 1703779200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_b6937d6b-8c6f-46fe-91f9-78ec7ce64b33.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/13e45194-981d-52af-803a-b53e90085d93.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/48e5c486-18ec-5bf8-b39c-eabb0e9b976d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/516a315c-37ce-5e81-bdd0-3988411217b2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5a6fe8df-03fa-554d-b21b-f0ca8f625fde.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7045eddf-9988-5ae5-a752-cd275641d979.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/88933b21-885d-559f-81ea-a313cbfe2bb5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9f24b6a5-9e16-5221-86ca-b3e03581399e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/37c6a0c7-9f35-50bb-b1fd-1bae95ba1393.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3c65f8e8-f5fd-5ed4-8aec-8daaba108c5b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ad47fed-f636-54be-b505-c03671aa982c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d91caabd-b3d5-5c60-b008-4f1037720f14.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e148e749-8371-59e6-99a0-b1e7436384e4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f10a0a61-36d4-5afa-988f-c60dabda89d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ff82b20e-84f7-5aee-8c1f-05d056fffb81.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈玻色因晶露",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226,5203",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "2b3d97e9288e17c183e187f01759e2b0",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023011116",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅二代玻色因水@!@欧莱雅复颜玻尿酸水光充盈玻色因晶露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20231229,
+    "goods_form": "24"
+  },
+  "success": true
+}

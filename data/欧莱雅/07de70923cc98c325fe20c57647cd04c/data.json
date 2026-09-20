@@ -1,0 +1,161 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,129,51,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022007015"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003290"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1665158400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1665158400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "917322c5f1b47ecffe3a96fa6718b7c6",
+        "sku_id": 825250,
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      },
+      {
+        "mid": "917322c5f1b47ecffe3a96fa6718b7c6",
+        "sku_id": 825250,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003290"
+      },
+      {
+        "mid": "07de70923cc98c325fe20c57647cd04c",
+        "sku_id": 31170117,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022007015"
+      },
+      {
+        "mid": "07de70923cc98c325fe20c57647cd04c",
+        "sku_id": 31170117,
+        "attribute_type": "9",
+        "attribute_val": "1665158400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_74353fca-a48f-43e0-be06-9d4ad2e05b51.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/6909c016-c710-5243-a031-4a4a9246718e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8b923e74-12ae-5a81-81f5-46898d2e84b9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/abbca027-37ce-5e7d-b608-3906bb8f658b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d814e3ac-bbf9-5156-ade1-721f97479e96.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91dc4655-f50b-53b6-9984-8c97b1c05b80.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fe1bf7e3-7518-56b1-ba46-a6c2c8353cfe.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士锐能抗皱紧致多效霜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225,5308,5207",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "07de70923cc98c325fe20c57647cd04c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022007015",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士锐能抗皱紧致多效霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20221008,
+    "goods_form": "23"
+  },
+  "success": true
+}

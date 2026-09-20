@@ -1,0 +1,129 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,130,129,48,43,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2FMUTMy4VLb1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQUXn9xRNYrl1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp8f3OfDthTZ%2BwE1AjuXMY%2B4UF8hDN0qT%2Fi5YpfZ2suLhYLN9v4rFJCckfIItRYAva3foz%2Fs8Lkl3XQWJ36AIzsR7lW%2BIkUMB95fT7ehuFFOjv7nyHmkoZi7lOsJAc6iuLdORAcogJuP3cCmJ5NdGczuB0H%2BweV5wTXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1728589006@213f315e_1236_19277ef07af_aee4@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/9J5okioqOw5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=649080C11989F5FFE74E31DF194B45A2"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAToJK1olWAcAUFxaCkMXB18IGloUWQYCXFtUAEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWB28IE14cVQ8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlLBwBwTh4haywQWmsMZQ9hP3hmBz5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4dXAYKU1hZCXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwTXQZRA1czVBVNVCxJQFN7WQcGVVpdCkgnAW4JGVklbTZwMR0GdE5hZzF4RFlCJHtdJgIhDg5DWBRMdVl8L04AB1kYcBVLdS5IGDJRAzYCZF5aDk8WMw"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1672156800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_6af7cc4c-66e0-498d-8596-822c12942e93.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/404b3df2-922c-5733-8c1d-9c2ae8fa84c9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/631f3da9-a8eb-5efa-8ee1-7326f5f0c47b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/903f2f1a-5ba3-52c6-8b05-92a243f4d2a0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a23228c8-85bb-5ab3-be37-d65c376e3992.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a34466e3-7e20-592f-8f29-b4e43a9729c0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ab49a877-cf2b-511c-a311-a078947ac71d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b181c90a-3307-5ab7-b0dd-500bfbd27d0a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e169a9e4-d24a-5d9c-af11-6a8f094a17e2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f129c596-3c8b-58df-92c7-bbf02049a16c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4bdaa59d-169b-5670-bbd5-c6bfa2a22e29.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4e403376-37ec-5195-a6cf-2d7378cbd69e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/649b69cd-0827-500f-a525-0eaac06e6dcb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d423b4c1-d8df-52a2-b75e-79f238403f8b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d5d7e8ca-af68-5858-aa1d-cc6932a3ac6f.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明带珠光粘稠液体\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅发芯强化洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/b181c90a-3307-5ab7-b0dd-500bfbd27d0a.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有: 苧烯、苯甲醇、香茅醇、水杨酸苄酯、己基肉桂醛、芳樟醇。本品含水杨酸，三岁以下儿童勿用。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "ff3ee19c0cd3ff62f91106d72f065b39",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022011021",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅发芯绷带@!@巴黎欧莱雅发芯强化洗发露",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "湿发后取适量涂抹于秀发，轻轻按摩至产生泡沫，最后用清水洗净。若不慎入眼，请立即用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20221228,
+    "goods_form": "24"
+  },
+  "success": true
+}

@@ -1,0 +1,182 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2F1sMFxafiZhw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeRIk055D5Re79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXelxmCzU3wg5%2Fef95zZXeE7WEXqtk6Zj4S2VpwJiXprqJtcdYb8WHceNsNc874c8HEyHwsIWHLn9U1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRRugKdDk7cbPu4XbTMFESM4YHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753122229@210474bb_0e65_1982e3a4ea9_6b9b@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/d8n6fCrdRf7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6F5AB9A474D803BDF39B6AA5711DECAE"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/d552f820-406f-5a8a-bfb2-0a8075d4b8a9.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021500085"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007537"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1627228800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      }
+    ],
+    "category3Name": "眼部护理",
+    "price": "¥419",
+    "sda_approval_date": 1627228800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "2895da1495317bf868f64149c72a2c9b",
+        "sku_id": 2861805,
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      },
+      {
+        "mid": "f02ed3b515073b0444b2771715aeeb41",
+        "sku_id": 30213276,
+        "attribute_type": "9",
+        "attribute_val": "1627228800"
+      },
+      {
+        "mid": "2895da1495317bf868f64149c72a2c9b",
+        "sku_id": 2861805,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007537"
+      },
+      {
+        "mid": "f02ed3b515073b0444b2771715aeeb41",
+        "sku_id": 30213276,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021500085"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_e27bf8ea-a1d2-4cf5-98da-5b04bc98ea6f.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/63ee3ae5-701c-56e1-b9e0-73618dbb810e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/18f3ae60-61ae-5717-82b6-51865e66a8c1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/039232bc-0f0a-5713-8a40-a910fa3930fa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7e4157f5-dc83-5c3c-9f7b-c238aa0853f9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ddc1e060-7483-529d-8891-4e8dd326615a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/178649ed-776b-5486-b5ec-15703466957b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0718bd7e-5ab5-5429-9cc3-f78402aa07fd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/09ef7804-d7e2-5f92-b162-971e88e201d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1e11e248-6950-54e1-b8f4-8460a9027640.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3f080a6c-9794-5976-ba0e-756f50dc713f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d552f820-406f-5a8a-bfb2-0a8075d4b8a9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dfebc75b-406f-5fa3-97c6-0b26e0645d07.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养滋润眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/7e4157f5-dc83-5c3c-9f7b-c238aa0853f9.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.9,
+    "mid": "f02ed3b515073b0444b2771715aeeb41",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "20ml",
+    "sda_approval_no": "苏G妆网备字2021500085",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜花蜜奢养滋润眼霜@!@欧莱雅小蜜罐眼霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "科丝美诗（中国）化妆品有限公司（曾用名：科丝美诗（上海）化妆品有限公司、高丝美诗（上海）化妆品有限公司）",
+        "mid": "5fe1bb7a82f88aa001a3fc60b1be0bcf"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20210726,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,130 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,52,130,129,53,126,48",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D4DS6CSBUDaZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1C3cTx4xoHMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb8GsLjgSvflIauHNubEzfSmlQB%2BdOAdYbuj4JsdkZDDj8LkUQy654JCtawm0thM4Be9yU8YmapsfjTw%2FDq%2BZoW9LNaLx3hUIFctuaL4rGl7SOlorJ6IsSPpYDJm4lWUQ%2BCDKgvj%2BsJ%2BdF9Pt6G4UU6OTV9YmpsDKr30q1vagq3%2F44YHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753128088@0b513e25_0e05_1982e93b31b_d5be@01"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATUJK1olWAcHU1pYCkMWAV8IGloUXwILVl5aAU0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAWsBGVsSVAAdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwwLAk0EDSEBbSlxWB1pbghDCVxXAi5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0zVQoL1ceHz9C3QdG9zYrVhnsXA2sOHl0RWwQGZF5bDk0SC24BH10XXwcyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkoQUzsMG1wSM1pcDghZT0JJbWsJGFsQXg4HZFxcCUkVM184elp1NW1GBiVcWi0XcxxraAB0BXMHMRhfcSUVWDUAGxgRHmcDIwcUARhQahk4G2sVWgAGVW4"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "¥350",
+    "sda_approval_date": 1655222400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "头皮护理",
+        "id": 6714
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_364c80bd-b608-436a-9923-7914c7514707.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1d68f93c-7d83-5c23-9e6b-1068bf84d921.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2952af42-0eac-5513-99ff-a8c213c31764.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8cdb4aeb-cf28-5c38-8614-bd563bedb805.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "L'OREAL PROFESSIONNEL PARIS Scalp Advanced soothing SHAMPOO",
+    "name": "巴黎欧莱雅沙龙专属头皮专研舒缓洗发水",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "6714",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "b71acf4320ffc604c0ef54a9675fd882",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "500ml",
+    "sda_approval_no": "国妆网备进字（沪）2022003036",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅沙龙专属头皮专研舒缓洗发水@!@欧莱雅PRO超蓬云朵瓶洗发水@!@L'OREAL PROFESSIONNEL PARIS Scalp Advanced soothing SHAMPOO",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 66,
+    "registered_day": 20220615,
+    "goods_form": "24"
+  },
+  "success": true
+}

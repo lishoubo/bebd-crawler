@@ -1,0 +1,128 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,59,43,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DM0s9QOimY2dw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTUFFvL2Pe0d5x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9ElLLaaEBpspBWx5D5AmomzRD18rVfQC7Qi04ZWz7rmS2%2Fdw3%2FHzs4pfLprHG9mq7Fy6CegeDD2lJT3DID4Wnko5KLCCbQpVO4lD5PObDehYSB%2FA6kVedInkThY6Ekzd9ffOrKRNAU4m5KHOQOD12O%2B8hOPhgbolqRplNsMBB6D1NTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1719688735@21365ea6_1383_190656fabe1_9216@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/WIqXwkIKVc6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=C22025D1829E209C1B5A26D951970497"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATUJK1olWAcHU1pfCEsTBV8IGloUXQMGUl9fCEknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWA2oMHVoXXQQdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AwEIKyB9BXRdAisrayxPBBt_YwBjOWFXBhhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0zVQoL1ceHz9C3QdG9zYrVhnsXA2sOHl0RWwQGZF5bDk0SCmcAG14UVAQyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkoQBW0KHVISM1pcDgkAVxxDbWsJGFkWXAYFZFxcCUkVM184RytlW352MgUffhtCAxJXZxpRHEBBXCBVViUVRDxtTiBPXUVAP1sfUgNfYgo4G2sVWgAGVW4"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥300",
+    "sda_approval_date": 1626278400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_346a5b8d-fd0e-4106-8539-5ff1aae9b151.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/af59bfea-cf63-5926-9bf1-dd2d9c9f68f7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c83fb24e-77b6-545f-b4eb-22d1265c1bd5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/08b904cc-6751-5c29-94d3-c627390ae64c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/14455c20-e7e6-529d-85d1-ed682169c3e2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2d0bb566-72d5-55cb-bc3b-e4425d36e062.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/33764a0a-f6c6-5996-93a5-f2e43854349f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/348a2e23-40b3-52c8-9cad-18e5d8974e23.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/701a981a-4ab7-5b8e-a60f-c4ea9fb5babd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/88171cca-6d05-5ab0-b6ff-cde1aca708b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/da48eb86-a9e8-58cc-bb65-ef6b66482862.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/157f3923-a941-5bb8-8d3a-b4b4356b6123.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6aac9892-2526-5e86-894d-7ed36824da58.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b6ba3c7f-b5c2-5aa7-b728-25ad2761bcbb.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "SERIE EXPERT METAL DX PROFESSIONAL MASK",
+    "name": "沙龙洗护系列芯韧修护发膜",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "1dc45de1515875b7fd6fadd73634fd46",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "250ml",
+    "sda_approval_no": "国妆网备进字（沪）2021500309",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅PRO瞬顺发膜@!@沙龙洗护系列芯韧修护发膜@!@SERIE EXPERT METAL DX PROFESSIONAL MASK",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "发色护理",
+        "id": "59"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 67,
+    "registered_day": 20210715,
+    "goods_form": "23"
+  },
+  "success": true
+}

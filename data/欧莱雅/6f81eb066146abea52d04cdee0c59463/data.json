@@ -1,0 +1,262 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,128,46,130,129,53,48,58",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DGmZ5MgsTzc5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMYNDwtbGBRYsMMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9zRD18rVfQC7Qi04ZWz7rmS2%2Fdw3%2FHzs4iqMo259EjIwzMRb1%2B0YvoPXNSkCr54JcTDnJnwUhhfL%2FfUpGbtId8XmP2YTEUyRgnkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OCWUUeYn5SWqw8P0maETnOVNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1721063238@2133c759_13a6_190b75ced39_86e0@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/5471cdMeZrA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=DF2589B780B6ACD6BA17E1BEC8FE539D"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATAJK1olWAcAUFtcCEgfBl8LG14RXA4KZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLXgYHUF9VAFRORjNVFR9KBVhdKAoIUBtyUzkEGDUUMwYyXTdUS0xfXBlrQj1DXgJXIQVUczF1VWMEK1sVWQAAUl9eDUwnA24JGl4UWAELVG5tCE4nUAHfhs3M4oba_uqKje3AuPrfpvvBwpUyVF5ZDk4RB2kKH2sVWwAEUVdeCkoSAmYMK1sdWTbU2-GIgcfCjfDRi-ZGCUFcCW5tOEgnM18IK1glA2gDU1heXUhDCwFURQFGXl1aDzBZCUoSA2gIEmsXXAcAVm5tOEhgayteUjBzIgVyMQYDaT5pYWtuRhN3KVpsViUnai5Jex1TZAlHJnRZDh0cOEsnA2gOH1ol"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003912"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003911"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001929"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001910"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015000926"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000305"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1686844800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1686240000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1422892800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1686844800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "去屑",
+        "id": 5266
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "3239183c38fab8e70e6cf8b9902688bb",
+        "sku_id": 1153246,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "3e2682511c9cd53219b5b060c6c45a76",
+        "sku_id": 31841203,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003912"
+      },
+      {
+        "mid": "3e2682511c9cd53219b5b060c6c45a76",
+        "sku_id": 31841203,
+        "attribute_type": "9",
+        "attribute_val": "1686240000"
+      },
+      {
+        "mid": "6f81eb066146abea52d04cdee0c59463",
+        "sku_id": 31970931,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003911"
+      },
+      {
+        "mid": "1bf00b8cff253fd2be4ada614c19d511",
+        "sku_id": 243601,
+        "attribute_type": "9",
+        "attribute_val": "1422892800"
+      },
+      {
+        "mid": "5c869e14e19974585d34f128925cb3b8",
+        "sku_id": 1085386,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "5c869e14e19974585d34f128925cb3b8",
+        "sku_id": 1085386,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001929"
+      },
+      {
+        "mid": "d1edde64b225a54a7e195b116532c6ac",
+        "sku_id": 149475,
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      },
+      {
+        "mid": "6f81eb066146abea52d04cdee0c59463",
+        "sku_id": 31970931,
+        "attribute_type": "9",
+        "attribute_val": "1686844800"
+      },
+      {
+        "mid": "1bf00b8cff253fd2be4ada614c19d511",
+        "sku_id": 243601,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015000926"
+      },
+      {
+        "mid": "3239183c38fab8e70e6cf8b9902688bb",
+        "sku_id": 1153246,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001910"
+      },
+      {
+        "mid": "d1edde64b225a54a7e195b116532c6ac",
+        "sku_id": 149475,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000305"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_4a0f03b5-fc49-40f6-a2ef-4b08b23f5957.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/30c91477-33c0-5190-a218-8f150bf00fb7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/88e2b81f-ce1f-5126-8cd1-95441fec14d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8cfdd806-4e28-581f-b147-044986305205.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8ef67616-82d4-5e3b-a500-b6e8de394094.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/db262e51-d64d-5f66-83d6-7e5c5fbd2f73.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e047ebf1-8042-533a-86bb-03de2f790610.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅透明质酸水润去屑洗发露（倍爽）",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5266,5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "6f81eb066146abea52d04cdee0c59463",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023003911",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅透明质酸水润去屑洗发露（倍爽）",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20230616,
+    "goods_form": "24"
+  },
+  "success": true
+}

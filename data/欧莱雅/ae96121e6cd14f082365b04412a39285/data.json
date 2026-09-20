@@ -1,0 +1,141 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,130,129,51,48,126,54,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIK%2FJ41cRyQZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXeiTSYZJa5HJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXRO6mUxkE5CeG7We1R95oWuzxXPFS9pNbUGEWSheVi8hreSG%2Fj%2F5mIjYhZ4Co04hvuAyOchPKK%2FeU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvR8we2QE8yqP%2FHOrHBPGFnNIYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753125960@212b4e8b_0e1a_1982e733bf6_94ff@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/skfmXhFQvZ7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6532B97BF96D9B786C7ECB8542A916DD"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAREJK1olXDYCVV9cDUIQCmYJE10lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWA8FXVdcAE0IWipURmtrIGNQAQdUYytsZQ9ffiwTGxxSABwbBEcnA28MHVkTXAUHU25dCUoWBm4NHFIVbTYCUW4LZksWAm4NGl8UWAYyVF5ZDk4RB2kKH2sVWwIAVF1ZAEwXAmsBK1sdWTbU2-GIgcfCjfDRi-ZGCUFcCW5tOEgnM18IK1glA2gDB1hfCE4TVAFUTg5MFFxKDzBZAEgQAmoIE2sXXAcAVm5tODhDQGZhGwReP2F5UBYjYQ90VQR_GF10A2gAXF4KWzFXdBRqWCgQPFICL15tCHsXBGkMGms"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/ec5f2217-2354-511d-a3f7-2129895ed269.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "乳液",
+    "price": "¥270",
+    "sda_approval_date": 1664380800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_e96ff7c5-ef0c-4fbc-9b19-48320f5f1a1b.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/70215f98-dc32-506c-8cdf-4ea96ca36aae.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9068df7f-b2e3-52e7-9cf3-18292a73eb71.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5ccc3165-07d2-5940-a548-4efd5e19270e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b35586c7-bd60-5163-a5f5-7ea479b86236.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/db5344ae-8f7f-5567-bc76-a50863613d6c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ecc3ff4b-a57c-5502-b5aa-c83f25670f85.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/05989e4a-d895-5139-841d-a10a96416b35.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ad2c1e8a-2f2a-5cc1-a319-8ead234f99c6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ec5f2217-2354-511d-a3f7-2129895ed269.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "全身皮肤",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养精华润体乳",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/db5344ae-8f7f-5567-bc76-a50863613d6c.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "19",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苧烯、芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "ae96121e6cd14f082365b04412a39285",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "250ml",
+    "sda_approval_no": "苏G妆网备字2022005041",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜花蜜奢养精华润体乳@!@欧莱雅金致小蜜罐身体乳",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 525,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通乳液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "沐浴后，挤出适量置于掌心，均匀涂抹于身体肌肤，可夜间及日间需要时使用。亦可用于脸部，需避开眼周。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20220929,
+    "goods_form": "23"
+  },
+  "success": true
+}

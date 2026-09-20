@@ -1,0 +1,147 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160955"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1586188800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1463760000"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1586188800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "丰盈",
+        "id": 5260
+      },
+      {
+        "name": "育发",
+        "id": 5263
+      },
+      {
+        "name": "防脱发",
+        "id": 5265
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "93ea9e8d3d8068855c4a3fd24a4d2497",
+        "sku_id": 3894193,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160955"
+      },
+      {
+        "mid": "b56f1a7b5c6df9774cb416d872214ece",
+        "sku_id": 573421,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160955"
+      },
+      {
+        "mid": "93ea9e8d3d8068855c4a3fd24a4d2497",
+        "sku_id": 3894193,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "b56f1a7b5c6df9774cb416d872214ece",
+        "sku_id": 573421,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "b56f1a7b5c6df9774cb416d872214ece",
+        "sku_id": 573421,
+        "attribute_type": "9",
+        "attribute_val": "1463760000"
+      },
+      {
+        "mid": "93ea9e8d3d8068855c4a3fd24a4d2497",
+        "sku_id": 3894193,
+        "attribute_type": "9",
+        "attribute_val": "1586188800"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_2490e8ac-e595-4d05-b3ea-c24d9295cffd.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "芯基源",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明液状\"}, {\"name\": \"气味\", \"condition\": \"花香味\"}, {\"name\": \"其他\", \"condition\": \"无\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "芯基源丰盈防脱精华液",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "89cb5b3e0d967de02a28a7918da4b072",
+    "claim_ids": "5263,5265,5260",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "仅限外部使用。请勿吞咽。请勿在敏感/发炎/受损的头皮上使用，避免接触眼睛。如不慎入眼，请立即用大量水冲洗。仅由专业美发师推荐使用。",
+    "safety_1_num": 3.9,
+    "mid": "93ea9e8d3d8068855c4a3fd24a4d2497",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "",
+    "sda_approval_no": "国妆特字G20160955",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅pro防脱黑宝瓶@!@芯基源丰盈防脱精华液",
+    "functionType": "育发类",
+    "shelfLife": "3年",
+    "category4_id": 388,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "护发精华",
+    "usageMethod": "取6ml该产品，每天一次涂抹在头皮上，均匀按摩，直至充分吸收，请勿冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 0,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20200407,
+    "goods_form": ""
+  },
+  "success": true
+}

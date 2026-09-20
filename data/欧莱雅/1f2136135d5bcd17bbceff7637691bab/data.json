@@ -1,0 +1,420 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,130,47,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olWAcAXVZUCUsSBF8IGloUXgIBXVhdCEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGsLEl0VXQ8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwB1B2VaMw0KakNpYTxbbjIRJ3pAVwhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiYqagMnq3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4cWwEGU1xUCXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwTXAcGBgozVBVNV2cATlJ7WQcFUF1bCksnAW4JGVklbTZRLygiSC5AAAtPTgtUFHRkI1Y4CxloAGYOdVlIFnRSAjgeSi9udwtRXFlgLzYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/354a39e5-3695-5071-9e0c-98b92fcf6c2a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "W30"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C30"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C10"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001420"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001419"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001418"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001417"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001416"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021500744"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000744"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000743"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000742"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000745"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1633708800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1632585600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1618416000"
+      }
+    ],
+    "category3Name": "底妆",
+    "price": "¥329",
+    "sda_approval_date": 1668096000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "光感",
+        "id": 5232
+      },
+      {
+        "name": "遮瑕",
+        "id": 5238
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "51d3dc1b59791b88cf10c7437ad7aa62",
+        "sku_id": 31266923,
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "mid": "ae06ba8d28dc2739ba974af3000a62d3",
+        "sku_id": 4383365,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000745"
+      },
+      {
+        "mid": "66deec6e0003a1e1571a73a63e63c585",
+        "sku_id": 31269585,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001420"
+      },
+      {
+        "mid": "66deec6e0003a1e1571a73a63e63c585",
+        "sku_id": 31269585,
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "mid": "ff0a067b454a1bbccfe85f7a2d22a872",
+        "sku_id": 4384452,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000742"
+      },
+      {
+        "mid": "40d1e397d4c55c9303ebdfa58cffbc56",
+        "sku_id": 30468335,
+        "attribute_type": "1",
+        "attribute_val": "C30"
+      },
+      {
+        "mid": "40d1e397d4c55c9303ebdfa58cffbc56",
+        "sku_id": 30468335,
+        "attribute_type": "9",
+        "attribute_val": "1633708800"
+      },
+      {
+        "mid": "86f8383cb86765d1225af7eb0863ba31",
+        "sku_id": 4384453,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000744"
+      },
+      {
+        "mid": "b14763e4e4f913d4ae679fa88abb6529",
+        "sku_id": 31267714,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001419"
+      },
+      {
+        "mid": "1f2136135d5bcd17bbceff7637691bab",
+        "sku_id": 31269584,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001418"
+      },
+      {
+        "mid": "7903bb2f0883eae6cbb4a2c1bfdc9994",
+        "sku_id": 31267713,
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "mid": "b4c584ab328a0bda04a60736cb26bbb3",
+        "sku_id": 30372630,
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "mid": "a3c5848048ddcc6295b136991a45a83c",
+        "sku_id": 4383364,
+        "attribute_type": "1",
+        "attribute_val": "C20"
+      },
+      {
+        "mid": "a3c5848048ddcc6295b136991a45a83c",
+        "sku_id": 4383364,
+        "attribute_type": "9",
+        "attribute_val": "1618416000"
+      },
+      {
+        "mid": "66deec6e0003a1e1571a73a63e63c585",
+        "sku_id": 31269585,
+        "attribute_type": "1",
+        "attribute_val": "W30"
+      },
+      {
+        "mid": "ff0a067b454a1bbccfe85f7a2d22a872",
+        "sku_id": 4384452,
+        "attribute_type": "1",
+        "attribute_val": "C10"
+      },
+      {
+        "mid": "ff0a067b454a1bbccfe85f7a2d22a872",
+        "sku_id": 4384452,
+        "attribute_type": "9",
+        "attribute_val": "1618416000"
+      },
+      {
+        "mid": "ae06ba8d28dc2739ba974af3000a62d3",
+        "sku_id": 4383365,
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "mid": "b14763e4e4f913d4ae679fa88abb6529",
+        "sku_id": 31267714,
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "mid": "b14763e4e4f913d4ae679fa88abb6529",
+        "sku_id": 31267714,
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "mid": "1f2136135d5bcd17bbceff7637691bab",
+        "sku_id": 31269584,
+        "attribute_type": "1",
+        "attribute_val": "W10"
+      },
+      {
+        "mid": "b4c584ab328a0bda04a60736cb26bbb3",
+        "sku_id": 30372630,
+        "attribute_type": "9",
+        "attribute_val": "1632585600"
+      },
+      {
+        "mid": "a3c5848048ddcc6295b136991a45a83c",
+        "sku_id": 4383364,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000743"
+      },
+      {
+        "mid": "ae06ba8d28dc2739ba974af3000a62d3",
+        "sku_id": 4383365,
+        "attribute_type": "9",
+        "attribute_val": "1618416000"
+      },
+      {
+        "mid": "51d3dc1b59791b88cf10c7437ad7aa62",
+        "sku_id": 31266923,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001417"
+      },
+      {
+        "mid": "51d3dc1b59791b88cf10c7437ad7aa62",
+        "sku_id": 31266923,
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "mid": "1f2136135d5bcd17bbceff7637691bab",
+        "sku_id": 31269584,
+        "attribute_type": "9",
+        "attribute_val": "1668096000"
+      },
+      {
+        "mid": "7903bb2f0883eae6cbb4a2c1bfdc9994",
+        "sku_id": 31267713,
+        "attribute_type": "1",
+        "attribute_val": "C10"
+      },
+      {
+        "mid": "7903bb2f0883eae6cbb4a2c1bfdc9994",
+        "sku_id": 31267713,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001416"
+      },
+      {
+        "mid": "40d1e397d4c55c9303ebdfa58cffbc56",
+        "sku_id": 30468335,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021500744"
+      },
+      {
+        "mid": "86f8383cb86765d1225af7eb0863ba31",
+        "sku_id": 4384453,
+        "attribute_type": "1",
+        "attribute_val": "W20"
+      },
+      {
+        "mid": "86f8383cb86765d1225af7eb0863ba31",
+        "sku_id": 4384453,
+        "attribute_type": "9",
+        "attribute_val": "1618416000"
+      },
+      {
+        "mid": "b4c584ab328a0bda04a60736cb26bbb3",
+        "sku_id": 30372630,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000745"
+      }
+    ],
+    "category2_id": 9,
+    "image": "https://img.bevol.com/Goods/source/0_969d4e74-32dc-4692-b260-8e1472b49870.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/586634dd-7aa1-5676-9c7f-570f98b85f34.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7d2432a1-a70e-51f9-b86f-7c2c58e15291.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8b09d6b3-02c6-5b69-9b38-9bf6c8172c7b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a739820e-8adc-5a6a-b2a2-ed791d7470cd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/efb2b07b-7536-5e99-ac33-2a842c05edfd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1d26f1a9-5395-59ad-ad25-18182e332a4d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/213bb3c9-edb3-5efe-a941-f16724c5623b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/354a39e5-3695-5071-9e0c-98b92fcf6c2a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c9a06b73-ff41-52fe-b93e-3b27a8565d6b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d80d8e76-dc23-5e82-87e6-8f24bb95f537.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜柔光无瑕精华粉底液（新版）W10",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/a739820e-8adc-5a6a-b2a2-ed791d7470cd.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5238,5232",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.4,
+    "mid": "1f2136135d5bcd17bbceff7637691bab",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "鄂G妆网备字2022001418",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅小金牌@!@欧莱雅金致臻颜柔光无瑕精华粉底液（新版）W10",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 206,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "粉底液/粉底霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 43,
+    "registered_day": 20221111,
+    "goods_form": "23"
+  },
+  "success": true
+}

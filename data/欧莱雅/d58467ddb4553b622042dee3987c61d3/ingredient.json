@@ -1,0 +1,203 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "ingredientTableName": [
+      {
+        "tableIndex": 1,
+        "tableName": "配方1",
+        "ingredients": [],
+        "type": 1,
+        "esId": "32465661_1_1"
+      },
+      {
+        "tableIndex": 2,
+        "tableName": "配方2",
+        "ingredients": [],
+        "type": 1,
+        "esId": "32465661_2_1"
+      },
+      {
+        "tableIndex": 1,
+        "tableName": "新成分表1",
+        "ingredients": [],
+        "type": 2,
+        "esId": "32465661_1_2"
+      },
+      {
+        "tableIndex": 2,
+        "tableName": "新成分表2",
+        "ingredients": [],
+        "type": 2,
+        "esId": "32465661_2_2"
+      }
+    ],
+    "total": 4,
+    "ingredientTable": [
+      {
+        "mid": "6025b728341c5f74e2c1891d1754b582",
+        "name": "抗坏血酸(维生素C)",
+        "nameCn": "抗坏血酸(维生素C)",
+        "nameEn": "ASCORBIC ACID",
+        "aliasOther": "抗坏血酸(维生素C)@!@ASCORBIC ACID@!@维生素C@!@L-Ascorbic Acid@!@L-抗坏血酸@!@抗坏血酸@!@VC@!@VITAMIN C@!@L-2,3,4,5,6-五羟基-2-己烯酸-4-内酯@!@维他命C",
+        "pid": 4646,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "13"
+        ],
+        "effectIdList": [
+          "74",
+          "80",
+          "24"
+        ],
+        "active": "1",
+        "used": [
+          {
+            "id": 13,
+            "name": "口腔护理剂",
+            "nameCh": "口腔护理剂",
+            "nameEn": "Oral Care"
+          }
+        ],
+        "effect": [
+          {
+            "id": 24,
+            "name": "抗氧化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗氧化",
+            "nameEn": "抗氧化"
+          },
+          {
+            "id": 74,
+            "name": "抗衰",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗衰",
+            "nameEn": "抗衰"
+          },
+          {
+            "id": 80,
+            "name": "抗糖化",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "抗糖化",
+            "nameEn": "抗糖化"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "96bca1682902739ebf290fe699754c0b",
+        "name": "蔗糖",
+        "nameCn": "蔗糖",
+        "nameEn": "SUCROSE",
+        "aliasOther": "蔗糖@!@SUCROSE@!@β-D-呋喃果糖基-α-D-吡喃葡萄苷@!@α-D-葡萄吡喃苷基-β-D-呋喃果糖苷",
+        "pid": 235,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "1",
+        "safetyNum": 1,
+        "safetyLevel": 1,
+        "usedIdList": [
+          "5",
+          "50"
+        ],
+        "effectIdList": [
+          "5"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 5,
+            "name": "保湿剂",
+            "nameCh": "保湿剂",
+            "nameEn": "Humectant"
+          },
+          {
+            "id": 50,
+            "name": "皮肤调理剂",
+            "nameCh": "皮肤调理剂",
+            "nameEn": "Skin Conditioning Agent"
+          }
+        ],
+        "effect": [
+          {
+            "id": 5,
+            "name": "保湿",
+            "flag": 0,
+            "pt": 20260917,
+            "nameCh": "保湿",
+            "nameEn": "Moisturize"
+          }
+        ],
+        "avoid": []
+      },
+      {
+        "mid": "f46714b50537c93b92fb42ea8696ffe1",
+        "name": "CI 15985",
+        "nameCn": "CI 15985",
+        "nameEn": "CI 15985; KI5",
+        "aliasOther": "CI 15985@!@KI5@!@食品黄 3@!@FOOD YELLOW 3",
+        "pid": 189,
+        "dataType": 2,
+        "flag": 0,
+        "pt": 20260917,
+        "safety": "3-7",
+        "safetyNum": 3,
+        "safetyLevel": 2,
+        "usedIdList": [
+          "52"
+        ],
+        "active": "0",
+        "used": [
+          {
+            "id": 52,
+            "name": "着色剂",
+            "nameCh": "着色剂",
+            "nameEn": "Colorant"
+          }
+        ],
+        "effect": [],
+        "avoid": [
+          {
+            "id": 12,
+            "name": "色素",
+            "nameCh": "色素",
+            "nameEn": "Pigment"
+          }
+        ]
+      }
+    ],
+    "ingredientTableId": "1",
+    "ingredientTotal": 3,
+    "ingredientNum": {
+      "risk_ingredient_num": 1,
+      "safety_level_2_num": 1,
+      "safety_level_1_num": 2,
+      "function_ingredient_num": 2,
+      "function_ingredient_num_v310": 2,
+      "ingredient_num": 3,
+      "safety_level_3_num": 0,
+      "safety_level_4_num": 0
+    },
+    "microIngredientList": [],
+    "safetyDistribute": [
+      {
+        "yAxis": 1,
+        "xAxis": "3-7"
+      },
+      {
+        "yAxis": 2,
+        "xAxis": "1"
+      }
+    ]
+  },
+  "success": true
+}

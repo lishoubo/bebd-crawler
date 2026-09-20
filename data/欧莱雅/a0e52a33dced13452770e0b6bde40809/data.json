@@ -1,0 +1,151 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,128,130,129,53,54,58",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2B88WpRGCCwVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSNxxUgPHjKT1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9zRD18rVfQC6EuM7wkVK6rjgq8YLfD7k8EDFatB9dNE6N5xjFsfAsDYhlS3H3rrUQ7D%2Fa5OVB3GYOrHbaVkD1NeLqyS6ufq7EU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRicplH1kYGKwmj2MliXLO2YYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753125986@21662101_0e4d_1982e73a13f_72b6@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/XvJrTePRF88?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=1A4F37C46DA98D045E3DA0E2E7EA312B"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASUJK1olXQ4CUl1UCkwUAF8IGloUVA8HU11cC0MnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWCmYNHFgUXg4dDRsBVXtjWT1vf119LWZ5HAABcwJreTZebRxDUQoyVF5ZDkkRAmwNHGsVXAcDUV9YD0IXM18IHmtGM9GfwofiiJO9t7iNvYyuyNG_9IrCm3sXA2sOHl0RWwQGZF5bDEkXAGsAEl0WXAUyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBWwBHlJGM1pXAQcVDE5KbWsAH14QWQUAZFxcCUkVM184fAhWAloBFBktYzVMQztfGSBPHwZhJy0aZklDQBtTHDxUB3YCKxgnW0xJVF8IK1sSWwIDZA"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/48a85030-5c99-5766-827c-fab885851eb5.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "¥129",
+    "sda_approval_date": 1650470400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "头皮护理",
+        "id": 6714
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_31f55b80-ac30-43fe-895b-e03363694b03.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/21c6c4da-3954-507c-a971-982935270ecc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6915f5d0-5c60-58b3-bc25-3cb417386f19.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8e90ec70-cb1a-5f04-8ffd-1ddad35a150b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8eae18a5-b006-5146-8589-59dc0010d380.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d0785a15-147e-5982-ac89-3ea5550ca1d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d92697cd-0b91-5a85-a449-722f73dfa5d2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/48a85030-5c99-5766-827c-fab885851eb5.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅头皮控油净化洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/d0785a15-147e-5982-ac89-3ea5550ca1d4.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "6714,5205",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "a0e52a33dced13452770e0b6bde40809",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "300ml",
+    "sda_approval_no": "苏G妆网备字2022001364",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅头皮控油净化洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "铜陵洁雅生物科技股份有限公司（曾用名：铜陵市洁雅航空用品有限责任公司）",
+        "mid": "1b30357c18561dcc230d073794ef31a9"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20220421,
+    "goods_form": "24"
+  },
+  "success": true
+}

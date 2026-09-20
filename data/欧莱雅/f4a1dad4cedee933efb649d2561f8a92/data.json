@@ -1,0 +1,162 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,129,48,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DdQIy6T88Ipxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSmEqiL4Tx1KJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp93FiJnvzKy%2BTqW1jB6PSEGzRD18rVfQC7Qi04ZWz7rmS2%2Fdw3%2FHzs4uHM6Ob6mPUAx6GZ1ppi20CFG%2FcBre3mFsQyhCFStPt3jzczMuILqSmOY9cPY6s%2BBwzzMEQiiMyvduKBkawqSG2jaw7jsqQtsbwnuLhs45bRfT7ehuFFOjnEqY%2Bakgpmw&union_lens=lensId:TAPI@1753123090@213f3154_0e06_1982e477011_1ae2@01"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/1ef0c932-e64c-5701-9072-071155d98d94.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020006215"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019010464"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1598544000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1573747200"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "¥109",
+    "sda_approval_date": 1598544000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "421ba0d5130dfa9f41f0fa7ec55aa91a",
+        "sku_id": 2823320,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019010464"
+      },
+      {
+        "mid": "421ba0d5130dfa9f41f0fa7ec55aa91a",
+        "sku_id": 2823320,
+        "attribute_type": "9",
+        "attribute_val": "1573747200"
+      },
+      {
+        "mid": "f4a1dad4cedee933efb649d2561f8a92",
+        "sku_id": 3947767,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020006215"
+      },
+      {
+        "mid": "f4a1dad4cedee933efb649d2561f8a92",
+        "sku_id": 3947767,
+        "attribute_type": "9",
+        "attribute_val": "1598544000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_8278112b-f21a-4404-8bd6-c805dabab5aa.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/11dfe45c-0574-5f11-954b-aa15f455052c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/24d20bfb-240e-5d9c-9638-0292319f142b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/89cf2420-0065-53f8-88c6-58455611d27d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c099d37c-5f7b-5ee9-85c7-05d7e845677d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/caac7b37-cf2f-56cd-8fa2-e765607009f5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f64d5ce2-58a1-57f2-9c34-14c1ad3f8485.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/105a57d0-e07d-5279-a203-63307258baca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1b9efabd-e26a-5bb0-8da8-bbd5ddeaa86a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1ef0c932-e64c-5701-9072-071155d98d94.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5c024113-b5d4-5f11-ae1f-0f7857923f92.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5c9e8633-a2eb-5dae-9421-dd2aaf166e8c.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士水能保湿增强爽肤水",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/24d20bfb-240e-5d9c-9638-0292319f142b.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "f4a1dad4cedee933efb649d2561f8a92",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "130ml",
+    "sda_approval_no": "苏G妆网备字2020006215",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士水能保湿增强爽肤水",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20200828,
+    "goods_form": "24"
+  },
+  "success": true
+}

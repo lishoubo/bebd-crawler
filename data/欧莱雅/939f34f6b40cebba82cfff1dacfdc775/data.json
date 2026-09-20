@@ -1,0 +1,117 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/800634dc-a66f-5a4f-88b9-a8a54d980d43.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002986"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2021001569"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1615737600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1615737600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "939f34f6b40cebba82cfff1dacfdc775",
+        "sku_id": 4341457,
+        "attribute_type": "9",
+        "attribute_val": "1615737600"
+      },
+      {
+        "mid": "939f34f6b40cebba82cfff1dacfdc775",
+        "sku_id": 4341457,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2021001569"
+      },
+      {
+        "mid": "47efe20735c7bf5d6114fad21ee9a9a0",
+        "sku_id": 125459,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002986"
+      },
+      {
+        "mid": "47efe20735c7bf5d6114fad21ee9a9a0",
+        "sku_id": 125459,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_44d32551-a588-4646-a411-3121c79d58f2.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/881eeabc-ecf9-53c6-b88c-ab3fe6d1a648.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/800634dc-a66f-5a4f-88b9-a8a54d980d43.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "中国（上海）自由贸易试验区富特西一路473号二层B17室",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"颜色\", \"condition\": \"淡藕红色\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "上海欧莱雅国际贸易有限公司",
+    "piece_price": "",
+    "titleEn": "L’OREAL AGE PERFECT NIGHT COLLAGEN EXPERT RETIGHTENING CARE",
+    "name": "欧莱雅金致臻颜奢养紧妍晚霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/881eeabc-ecf9-53c6-b88c-ab3fe6d1a648.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本品香精含有α-异甲基紫罗兰酮、苯甲醇、苯甲酸苄酯、香茅醇、香豆素、香叶醇、苧烯、芳樟醇； 苯甲醇在本品中的使用目的为香精中的芳香成分。",
+    "safety_1_num": 4.1,
+    "mid": "939f34f6b40cebba82cfff1dacfdc775",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 2,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2021001569",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 141,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "晚霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "夜间护肤时，取适量涂抹于清洁后的面部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "上海欧莱雅国际贸易有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "中国（上海）自由贸易试验区富特西一路473号二层B17室",
+    "category3_id": 28,
+    "registered_day": 20210315,
+    "goods_form": ""
+  },
+  "success": true
+}

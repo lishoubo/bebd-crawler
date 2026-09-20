@@ -1,0 +1,130 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,128,130,129,51,126,48,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/75cb8ff9-f59a-56b1-bcaa-46611d0ec8fb.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "",
+    "sda_approval_date": 1757347200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_e4b40a2c-a13d-47f6-a563-a321f59333b6.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/05dc5bc8-464d-540a-bf68-67655c2e5711.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bc76253f-f11f-58c6-82b5-e3f4d8890372.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6dd6fb91-970f-575e-8877-b4b350968bbb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/014cd14f-ae17-5ac2-99d2-0d2af473e9d0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c77a4c4-e11d-503b-9fea-0e2c4d344a96.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3e3ce65a-42bb-58e0-9c69-accabfa66ced.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/75cb8ff9-f59a-56b1-bcaa-46611d0ec8fb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a68a4db0-d715-597b-b504-55798f27c1a1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f944104d-6f86-5049-a4a4-853987c47331.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈水光肌精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "9ba6a1fbd60cef717fabda7c1782c106",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025005917",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜玻尿酸水光充盈水光肌精华液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20250909,
+    "goods_form": "24"
+  },
+  "success": true
+}

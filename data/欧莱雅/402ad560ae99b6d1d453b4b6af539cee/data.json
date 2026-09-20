@@ -1,0 +1,159 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/5f023b18-c87f-535f-ac78-49669cdf9374.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020002903"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002125"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001674"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1589472000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "¥109",
+    "sda_approval_date": 1589472000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "59491466e0cd90d85a94335f474ebd29",
+        "sku_id": 1181936,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "402ad560ae99b6d1d453b4b6af539cee",
+        "sku_id": 3749522,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020002903"
+      },
+      {
+        "mid": "402ad560ae99b6d1d453b4b6af539cee",
+        "sku_id": 3749522,
+        "attribute_type": "9",
+        "attribute_val": "1589472000"
+      },
+      {
+        "mid": "d43177161d26993568f1100b52b9c3f6",
+        "sku_id": 2422460,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001674"
+      },
+      {
+        "mid": "59491466e0cd90d85a94335f474ebd29",
+        "sku_id": 1181936,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018002125"
+      },
+      {
+        "mid": "d43177161d26993568f1100b52b9c3f6",
+        "sku_id": 2422460,
+        "attribute_type": "9",
+        "attribute_val": "1522684800"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_0be4e74f-e801-4636-a146-84d613ebb338.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/17b023b0-bb27-5eb5-897f-5c1a306e7494.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3b68ee5a-56ed-59c7-9a7b-920fa2e62ff1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a410a3e-1d3a-583e-890d-a7abd0d61686.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/422cc28e-9ff9-5509-b56a-73182ab3038a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4ed08a60-4a18-573e-8b2f-5021e8f03a30.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9245f007-8b4e-5112-aa59-7dce441ebbe4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d4d353e9-959f-5b1d-9e62-bf19544badbc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/037eda40-2caf-558a-a61d-a8a9d74481dd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/048488ad-950a-5d63-ad56-781e9a10b01c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/26b03485-8cdc-5618-a5fe-62bcf165d006.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5f023b18-c87f-535f-ac78-49669cdf9374.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9582d189-4264-54d7-aeaf-94c94d5d4b40.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕精油润发乳(奇焕持卷)",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/4ed08a60-4a18-573e-8b2f-5021e8f03a30.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.2,
+    "mid": "402ad560ae99b6d1d453b4b6af539cee",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2020002903",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "护发",
+        "id": "56"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20200515,
+    "goods_form": "23"
+  },
+  "success": true
+}

@@ -1,0 +1,271 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.20"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "5.60"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "6.66"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "7.44"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150122"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150197"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150120"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150121"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1682438400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1565539200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1421942400"
+      }
+    ],
+    "category3Name": "染发/焗油",
+    "price": "¥95",
+    "sda_approval_date": 1565539200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "染发",
+        "id": 5255
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c2dce8ce0116a2972227dc98b24bd974",
+        "sku_id": 456250,
+        "attribute_type": "9",
+        "attribute_val": "1421942400"
+      },
+      {
+        "mid": "7eadea5a623668c544b93bd2302284bc",
+        "sku_id": 2628245,
+        "attribute_type": "1",
+        "attribute_val": "7.44"
+      },
+      {
+        "mid": "7eadea5a623668c544b93bd2302284bc",
+        "sku_id": 2628245,
+        "attribute_type": "9",
+        "attribute_val": "1421942400"
+      },
+      {
+        "mid": "cf7ebc767d470b7d6d59dbca910f9595",
+        "sku_id": 32537383,
+        "attribute_type": "9",
+        "attribute_val": "1682438400"
+      },
+      {
+        "mid": "155d4602701d3cfae3cb3b8d573934df",
+        "sku_id": 2628242,
+        "attribute_type": "1",
+        "attribute_val": "6.66"
+      },
+      {
+        "mid": "155d4602701d3cfae3cb3b8d573934df",
+        "sku_id": 2628242,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150121"
+      },
+      {
+        "mid": "4929316baa1edf2b29666bf098505608",
+        "sku_id": 455189,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150197"
+      },
+      {
+        "mid": "4929316baa1edf2b29666bf098505608",
+        "sku_id": 455189,
+        "attribute_type": "9",
+        "attribute_val": "1421942400"
+      },
+      {
+        "mid": "f6e5b20810818b94da8f1713a4669e2a",
+        "sku_id": 455191,
+        "attribute_type": "9",
+        "attribute_val": "1421942400"
+      },
+      {
+        "mid": "ab4415b36cb96bec43932560a1a66e4d",
+        "sku_id": 2551475,
+        "attribute_type": "1",
+        "attribute_val": "5.20"
+      },
+      {
+        "mid": "05023e759f1f53abe4596e73b60ea823",
+        "sku_id": 2551500,
+        "attribute_type": "1",
+        "attribute_val": "5.60"
+      },
+      {
+        "mid": "05023e759f1f53abe4596e73b60ea823",
+        "sku_id": 2551500,
+        "attribute_type": "9",
+        "attribute_val": "1565539200"
+      },
+      {
+        "mid": "c2dce8ce0116a2972227dc98b24bd974",
+        "sku_id": 456250,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150120"
+      },
+      {
+        "mid": "cf7ebc767d470b7d6d59dbca910f9595",
+        "sku_id": 32537383,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150121"
+      },
+      {
+        "mid": "f6e5b20810818b94da8f1713a4669e2a",
+        "sku_id": 455191,
+        "attribute_type": "1",
+        "attribute_val": "6.66"
+      },
+      {
+        "mid": "f6e5b20810818b94da8f1713a4669e2a",
+        "sku_id": 455191,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150121"
+      },
+      {
+        "mid": "ab4415b36cb96bec43932560a1a66e4d",
+        "sku_id": 2551475,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150120"
+      },
+      {
+        "mid": "ab4415b36cb96bec43932560a1a66e4d",
+        "sku_id": 2551475,
+        "attribute_type": "9",
+        "attribute_val": "1565539200"
+      },
+      {
+        "mid": "155d4602701d3cfae3cb3b8d573934df",
+        "sku_id": 2628242,
+        "attribute_type": "9",
+        "attribute_val": "1565539200"
+      },
+      {
+        "mid": "05023e759f1f53abe4596e73b60ea823",
+        "sku_id": 2551500,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150197"
+      },
+      {
+        "mid": "4929316baa1edf2b29666bf098505608",
+        "sku_id": 455189,
+        "attribute_type": "1",
+        "attribute_val": "5.60"
+      },
+      {
+        "mid": "c2dce8ce0116a2972227dc98b24bd974",
+        "sku_id": 456250,
+        "attribute_type": "1",
+        "attribute_val": "5.20"
+      },
+      {
+        "mid": "7eadea5a623668c544b93bd2302284bc",
+        "sku_id": 2628245,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20150122"
+      },
+      {
+        "mid": "cf7ebc767d470b7d6d59dbca910f9595",
+        "sku_id": 32537383,
+        "attribute_type": "1",
+        "attribute_val": "6.66"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_058b3758-3950-4671-9eab-d288eda400ef.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"染发膏\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"膏状\"}, {\"name\": \"气味\", \"condition\": \"轻微氨气味（原料特征气味）\"}]}, {\"table_name\": \"双氧油6%\", \"table_index\": \"2\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"无香味（原料特征气味-淡过氧化氢味）\"}]}, {\"table_name\": \"双氧油9%\", \"table_index\": \"3\", \"result\": [{\"name\": \"颜色\", \"condition\": \"白色\"}, {\"name\": \"性状\", \"condition\": \"乳状\"}, {\"name\": \"气味\", \"condition\": \"无香味（原料特征气味-淡过氧化氢味）\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅沙龙专属伊诺雅染发膏 5.60",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5255",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "染发膏含有苯二胺类；双氧油含有过氧化氢；染发剂可能引起严重过敏反应；使用前请阅读说明书，并按照其要求使用；本产品不适合16 岁以下消费者使用；不可用于染眉毛和眼睫毛，或除染发外的其他用途。避免接触眼睛，如果不慎入眼，应立即用清水冲洗；应戴合适手套；在下述情况下，请不要染发: 面部有皮疹或头皮有过敏、炎症或破损；以前染发时曾有不良反应的经历。仅供专业使用。",
+    "safety_1_num": 3.6,
+    "mid": "05023e759f1f53abe4596e73b60ea823",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "60g",
+    "sda_approval_no": "国妆特字G20150197",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "染发类",
+    "shelfLife": "",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1.戴上一次性手套。 2.将60克染发膏与60克双氧油6%或9%混合均匀。 3.将染发膏涂抹在头发上，使其在头发上停留35分钟。 4.用水彻底冲洗干净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 71,
+    "registered_day": 20190812,
+    "goods_form": ""
+  },
+  "success": true
+}

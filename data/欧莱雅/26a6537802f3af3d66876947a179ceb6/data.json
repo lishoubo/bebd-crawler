@@ -1,0 +1,110 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,40,46,130,129",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1744041600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防脱发",
+        "id": 5265
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_698c52a4-a8ef-4263-a865-2397ba564974.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体,喷雾剂",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅强韧防脱精华液",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5265",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "防脱喷雾安全警示语: 注意：本品香精原料含有: 芳樟醇、水杨酸苄酯、香茅醇、苯甲醇。 注意：存放干燥通风环境中，避免阳光直晒。避免入眼。如不慎入眼，立即用水冲洗。避免吸入。 防脱安瓶安全警示语: 注意：本品香精原料含有: 芳樟醇、水杨酸苄酯、香茅醇、苯甲醇。 注意事项：存放干燥通风环境中，避免阳光直晒。如不慎入眼，立即用水冲洗。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "26a6537802f3af3d66876947a179ceb6",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字20253119",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅强韧防脱精华液",
+    "functionType": "防脱类",
+    "shelfLife": "3年",
+    "category4_id": 388,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "护发精华",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "防脱喷雾每次均匀喷涂6ml**于头皮上，用指腹轻轻按摩5 分钟直至吸收，无需冲洗。建 议每天使用。 **6ml=48 泵 防脱安瓶换上塑料喷嘴，将安瓶精华液均匀涂抹于头皮，干发或洗后的湿发均可。轻轻用手或 头皮按摩器按摩。不必冲洗，如常造型。如不慎入眼，立即用水冲洗。为达到理想效果，建议每天使用1 支，实际效果因人而异。 1 洗发后或干发使用 2 将头发分成数区 3 套上塑料喷嘴 4 精准均匀涂放到头皮上 5 轻轻用手按摩头皮 6 每天一瓶，连续使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "存放干燥通风环境中，避免阳光直晒。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "防脱发",
+        "id": "40"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20250408,
+    "goods_form": "30,24"
+  },
+  "success": true
+}

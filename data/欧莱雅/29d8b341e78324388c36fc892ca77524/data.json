@@ -1,0 +1,116 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,52,130,129,51,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/9071a5ef-86dc-5bf1-b20a-388efe6dc889.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "眼部护理",
+    "price": "",
+    "sda_approval_date": 1665936000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_c35d2377-e0b2-4fd9-84dc-ace589b65ed6.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/dc4d0528-6a9e-5c7e-a800-d93ff3ae8bc8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2356a303-18e6-55bf-a718-4e5dd316ca85.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/acbdd5dc-e4d9-5acb-b065-68bece3a8248.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b2fd29d6-d50d-50bd-96ef-e70b70982e34.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7548f5ce-f9c0-50c1-ae42-80a4479e6e11.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9071a5ef-86dc-5bf1-b20a-388efe6dc889.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bd9aa34a-33db-50e1-8e28-a2d556277624.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e7463d45-927d-576c-b66e-4b1d9dd1c6cd.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "眼部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜松露奢养肌活修护眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/2356a303-18e6-55bf-a718-4e5dd316ca85.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "16",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "29d8b341e78324388c36fc892ca77524",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022004833",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜松露奢养肌活修护眼霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20221017,
+    "goods_form": "23"
+  },
+  "success": true
+}

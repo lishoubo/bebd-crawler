@@ -1,0 +1,212 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,47,129,53,126",
+    "CPS": [
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olWAcAXVZUCUsSBF8IGloUWAMKUlpcDE4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBmoAHV8UWQMdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzBrVX9BClgHbUtfdzBfWQ9OGHQFPT5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiYqagMnq3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4dXQYHVV5cCHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwTXAEHUQ0zVBVNVTxBTA17WQcGUl9ZC0snAW4JGVklbTZ-BgMiDk51aDBgWx9wAn1-AQBaaghgQzxjdVldGU9GNAZdcRR3ZxNcXiBxFDYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/4bd7600a-dfb0-52ca-beb9-9615f1c1efc2.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "300"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "320"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2024000366"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022002154"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022002152"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1712073600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1671379200"
+      }
+    ],
+    "category3Name": "定妆",
+    "price": "",
+    "sda_approval_date": 1671379200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "遮瑕",
+        "id": 5238
+      },
+      {
+        "name": "持久",
+        "id": 5243
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "0b2348ed7b76f1b819d1a913333fc9e0",
+        "sku_id": 31384415,
+        "attribute_type": "1",
+        "attribute_val": "200"
+      },
+      {
+        "mid": "0b2348ed7b76f1b819d1a913333fc9e0",
+        "sku_id": 31384415,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022002152"
+      },
+      {
+        "mid": "acb790f866f226a696a248105056fdae",
+        "sku_id": 32653708,
+        "attribute_type": "1",
+        "attribute_val": "300"
+      },
+      {
+        "mid": "acb790f866f226a696a248105056fdae",
+        "sku_id": 32653708,
+        "attribute_type": "9",
+        "attribute_val": "1712073600"
+      },
+      {
+        "mid": "3fd92f0e031d36c5845d6f67138854eb",
+        "sku_id": 31384419,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022002154"
+      },
+      {
+        "mid": "0b2348ed7b76f1b819d1a913333fc9e0",
+        "sku_id": 31384415,
+        "attribute_type": "9",
+        "attribute_val": "1671379200"
+      },
+      {
+        "mid": "acb790f866f226a696a248105056fdae",
+        "sku_id": 32653708,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2024000366"
+      },
+      {
+        "mid": "3fd92f0e031d36c5845d6f67138854eb",
+        "sku_id": 31384419,
+        "attribute_type": "1",
+        "attribute_val": "320"
+      },
+      {
+        "mid": "3fd92f0e031d36c5845d6f67138854eb",
+        "sku_id": 31384419,
+        "attribute_type": "9",
+        "attribute_val": "1671379200"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/3c9c9637-00fc-5f6d-9d77-08ae2ec4f43c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/72905db0-3e07-556c-b2d3-1a15656f731a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4bd7600a-dfb0-52ca-beb9-9615f1c1efc2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/caa2386e-4ff6-5723-ae18-4b529174de9b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "块状",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩无瑕持妆粉饼 200",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/3c9c9637-00fc-5f6d-9d77-08ae2ec4f43c.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5238,5243",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.9,
+    "mid": "0b2348ed7b76f1b819d1a913333fc9e0",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2022002152",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 208,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "莹特丽化妆品（苏州）有限公司",
+        "mid": "b25155410234b3533a74b06b221220e6"
+      }
+    ],
+    "category4Name": "粉饼",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 395,
+    "registered_day": 20221219,
+    "goods_form": "27"
+  },
+  "success": true
+}

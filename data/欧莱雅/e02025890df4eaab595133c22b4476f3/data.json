@@ -1,0 +1,98 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DZkDR9Mpb%2B3Vw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMV%2F6ax0jWpJB1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6L%2BbqTqxuD1if%2F1BY807cDUigF0Bs7oSq6gb1lhmjx%2BW5jhxyn76nBjQEOI94CD85wzzMEQiiMytVkSKsL%2FKbNYWLhXkoGmYyeeaJ37%2FaHly1urDsshRhMRuQnlDE9LYKvRn9s5lIr3k%3D&union_lens=lensId:TAPI@1753117446@213f6533_0e36_1982df14f72_0dfb@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/G4Ayd4wKsx9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=66769A5617CD36D10F80C74199B7B4AA"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/2c8da5dd-67d5-51b2-b88a-ef893031c6cc.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "眼部护理",
+    "price": "¥249",
+    "sda_approval_date": 1582214400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗皱",
+        "id": 5225
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/91_3b9d3432-7606-4f43-8e18-bc7ab381ff34.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/27237f5d-d43c-538b-ab03-1cfe1b7a08e0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c5174b0a-7b25-57f8-8c01-cc800da98bc1.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c8da5dd-67d5-51b2-b88a-ef893031c6cc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e412aec8-9634-57f9-8cd8-38a1d60657ab.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"霜状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜视黄醇精粹抗皱眼霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/c5174b0a-7b25-57f8-8c01-cc800da98bc1.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5225",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "无",
+    "safety_1_num": 4.0,
+    "mid": "e02025890df4eaab595133c22b4476f3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "15ml",
+    "sda_approval_no": "苏G妆网备字2020000805",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 182,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "眼霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天早晚使用在清洁后的眼周肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 38,
+    "registered_day": 20200221,
+    "goods_form": ""
+  },
+  "success": true
+}

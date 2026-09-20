@@ -1,0 +1,218 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,129,51,48,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DKaRM%2FAkVunxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfoD9X7rg9Jft4hWD5k2kjOw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXUxHqAU9%2BnBxuzfLQ%2BVNIeNVCp%2B9d3LqD7%2F%2BhngucFgXvREMo%2BQ%2FcEvJqiWeZtMEaNBliLONbjhAU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvR0RDJ21PiYttKW3%2Fn%2Fe%2B%2F0oYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753120663@2133e4e7_0d9d_1982e2268ff_e145@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/QSxa1mKGsz9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=021B124122CAA9D2ACAC12DAC861B892"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASQJK1olXQ4BVVpZCUsfB18IGloVXA8CVF5fC0onRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAmYIG1sXXgcdDRsBVXtEUy4IHQdeQ2R1LiY7UTd1dgtjGh91UQoyVF5ZDkkRAmwNHGsVXAcDUV9YD0IXM18IHmtGM9GfwofiiJO9t7ucmY-Hx9G_9IrCm3sXA2sOHl0RWwQGZF5bDEkXAG4AGVMSXAQyVFZZOJ2YvLqBl46bwt-S6Q0JTxVKM184GGslbQYyV24DZkpEBW0JSA9GM1pXAQoUQB5PbWsAG1oRWgUGZFxcCUkVM184aCRWNll9NV46cA13VBJtayUQVQRmESldZklidD9KUglBVGFYNz0VcytBU18IK1sXXQEy"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/cacea72a-0e41-5476-8946-0d21402f3a8e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "轻盈版"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020009291"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007561"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007560"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1607011200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "¥350",
+    "sda_approval_date": 1607011200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c3428361887c395a9f04c14672350a91",
+        "sku_id": 2818899,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007561"
+      },
+      {
+        "mid": "c3428361887c395a9f04c14672350a91",
+        "sku_id": 2818899,
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      },
+      {
+        "mid": "f1452f4ab3f0415d1cfb841b7d4f1048",
+        "sku_id": 4221442,
+        "attribute_type": "2",
+        "attribute_val": "轻盈版"
+      },
+      {
+        "mid": "f1452f4ab3f0415d1cfb841b7d4f1048",
+        "sku_id": 4221442,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020009291"
+      },
+      {
+        "mid": "f1452f4ab3f0415d1cfb841b7d4f1048",
+        "sku_id": 4221442,
+        "attribute_type": "9",
+        "attribute_val": "1607011200"
+      },
+      {
+        "mid": "8975e1a0974973a9cd6b3be6b5bb839e",
+        "sku_id": 2861802,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "8975e1a0974973a9cd6b3be6b5bb839e",
+        "sku_id": 2861802,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019007560"
+      },
+      {
+        "mid": "8975e1a0974973a9cd6b3be6b5bb839e",
+        "sku_id": 2861802,
+        "attribute_type": "9",
+        "attribute_val": "1567094400"
+      },
+      {
+        "mid": "c3428361887c395a9f04c14672350a91",
+        "sku_id": 2818899,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_36af1103-8cd2-4945-8e61-014412a74bc3.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/968a9957-709c-554d-a227-73eb97371d3f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/426852e4-4e35-5061-a953-32ac1f36fdfd.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"乳霜状\"}, {\"name\": \"颜色\", \"condition\": \"浅黄色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜花蜜奢养轻盈面霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/9a43db4d-d7cd-514c-8b54-96587f1360e5.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苧烯，香叶醇，芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "f1452f4ab3f0415d1cfb841b7d4f1048",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "50ml",
+    "sda_approval_no": "苏G妆网备字2020009291",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "小蜜罐轻盈版@!@欧莱雅金致臻颜花蜜奢养轻盈面霜",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "每天使用在清洁后的面部及颈部肌肤。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20201204,
+    "goods_form": "23"
+  },
+  "success": true
+}

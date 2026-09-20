@@ -1,0 +1,147 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,52,130,129,53,48,58",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3D9kDB33CnUAJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMWCKut8Btdgllovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bJwb1FT%2B6N98T3pkENOWrMwYd%2BXOL%2Fgit2bO2%2Frm27DX%2BeFLHa%2FKOZHt%2FKhn8rE7vWBUcQaeLEAgoBmoF9%2BUWJ04%2BfirBrx7mM7AMx9cWAx%2Bg5X%2B71wvtmCl0PTqglxsNQ7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753117957@0b5dcb60_17b1_1982df91cc7_5152@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/UuturEYVxOA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=944302DB13BE95E1F579A6A117C08529"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASIJK1olWAQDVVhbAUsXBl8NH1IcXAcHZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLWAILXV9cDVRORjNVKwJxNQNZBxgLaD9DCyt4fTBXOF4FHAhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kBE1wSWgQHVV5VAXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwRWQMGBwszVA8TRmpJUhB7WgcKV1xaCE4nAW4JGVklbTZ5UhwYTABQfS19ZyBnAkUDUBcWVjUfUDJ_cwZ1PWgAAgcjWhRQARJ1eTldHm1dKgRtCHsXBGkMGmsUbQ"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "¥46",
+    "sda_approval_date": 1481731200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "去屑",
+        "id": 5266
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_36125567-e8e0-46f9-a24e-617c0479aa51.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/74c652e5-2c65-505a-8b6b-ed17f305ef19.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c1338cac-37cb-5023-b5d6-d2845a034f6b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e7bae517-678d-531a-8eea-5400a1456056.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8384db0c-c86b-56d8-881c-57f846cf8e4d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f5741bd-6dbe-5f91-a0b5-77cfa02d55c9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/372ce6a7-a359-5aea-965a-9f049281c105.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅茶树植萃去屑净油洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5206,5205,5266",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 3.8,
+    "mid": "5a3f9b20f3227b7f46b5259f682a2b8c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "400ml",
+    "sda_approval_no": "苏G妆网备字2016004028",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅茶树植萃去屑净油洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "去屑",
+        "id": "58"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20161215,
+    "goods_form": "24"
+  },
+  "success": true
+}

@@ -1,0 +1,154 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,129,51",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/41a80ed7-1e41-538b-9968-abf64a79e4d6.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "典藏版"
+      },
+      {
+        "attribute_type": "2",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2022007480"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20178752"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1670428800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1504022400"
+      }
+    ],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1670428800,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "64cde53d2187ab61f63f644c9b2c4976",
+        "sku_id": 1258136,
+        "attribute_type": "2",
+        "attribute_val": "典藏版"
+      },
+      {
+        "mid": "38fd5c827912b435fed3cfe88b09b714",
+        "sku_id": 31358760,
+        "attribute_type": "8",
+        "attribute_val": "国妆网备进字（沪）2022007480"
+      },
+      {
+        "mid": "38fd5c827912b435fed3cfe88b09b714",
+        "sku_id": 31358760,
+        "attribute_type": "9",
+        "attribute_val": "1670428800"
+      },
+      {
+        "mid": "64cde53d2187ab61f63f644c9b2c4976",
+        "sku_id": 1258136,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20178752"
+      },
+      {
+        "mid": "64cde53d2187ab61f63f644c9b2c4976",
+        "sku_id": 1258136,
+        "attribute_type": "9",
+        "attribute_val": "1504022400"
+      },
+      {
+        "mid": "38fd5c827912b435fed3cfe88b09b714",
+        "sku_id": 31358760,
+        "attribute_type": "2",
+        "attribute_val": "-"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_cc9fcb30-d61f-4193-9736-270286be5788.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/8aebcb72-bff2-5b01-b723-9a3e343dc725.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/11e55b27-753a-563b-9bf7-cf83fa97b4f8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cfb65b49-5e21-58d4-90f3-b91309631b7e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/41a80ed7-1e41-538b-9968-abf64a79e4d6.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "LOREAL AGE PERFECT COLLAGEN EXPERT FIRMING NIGHT CARE",
+    "name": "欧莱雅金致臻颜晚霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/8aebcb72-bff2-5b01-b723-9a3e343dc725.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.1,
+    "mid": "38fd5c827912b435fed3cfe88b09b714",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2022007480",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜晚霜@!@LOREAL AGE PERFECT COLLAGEN EXPERT FIRMING NIGHT CARE",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 141,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "晚霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 28,
+    "registered_day": 20221208,
+    "goods_form": "23"
+  },
+  "success": true
+}

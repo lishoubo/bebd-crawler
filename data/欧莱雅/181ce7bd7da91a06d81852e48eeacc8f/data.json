@@ -1,0 +1,131 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DUDL6mWc8IWJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXCEoZBa1bf25x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2Bsxa4tmNl%2FoF89e%2BGOY3UMIU%2FGyWcZ3LcAQCAQkuDv7MyjtYEEjn84Fqtp3X%2FBQoW%2BcO8FzclfM9xSKwR%2FoU4NUOz%2BE%2BGOya04%2BfirBrx7mHomfA0LDk9mX6Vg7lUfg38bkJ5QxPS2Cr0Z%2FbOZSK95&union_lens=lensId:TAPI@1743191475@21667e2f_122a_195de4f05bd_3b5f@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160515"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1577030400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1456416000"
+      }
+    ],
+    "category3Name": "头皮护理精华/护理剂/喷雾",
+    "price": "¥198",
+    "sda_approval_date": 1456416000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "丰盈",
+        "id": 5260
+      },
+      {
+        "name": "育发",
+        "id": 5263
+      },
+      {
+        "name": "防脱发",
+        "id": 5265
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "181ce7bd7da91a06d81852e48eeacc8f",
+        "sku_id": 513601,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160515"
+      },
+      {
+        "mid": "181ce7bd7da91a06d81852e48eeacc8f",
+        "sku_id": 513601,
+        "attribute_type": "9",
+        "attribute_val": "1456416000"
+      },
+      {
+        "mid": "8e8b6923839447002bde65acb6c82c96",
+        "sku_id": 3893939,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20160515"
+      },
+      {
+        "mid": "8e8b6923839447002bde65acb6c82c96",
+        "sku_id": 3893939,
+        "attribute_type": "9",
+        "attribute_val": "1577030400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_6c2284e9-93ab-406d-906e-da1a797f7915.png?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "芯基源",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"棕色\"}, {\"name\": \"性状\", \"condition\": \"液状\"}, {\"name\": \"气味\", \"condition\": \"花香味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "芯基源丰盈育发精华液",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "89cb5b3e0d967de02a28a7918da4b072",
+    "claim_ids": "5263,5260,5265",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "无",
+    "safety_1_num": 3.1,
+    "mid": "181ce7bd7da91a06d81852e48eeacc8f",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "90ml",
+    "sda_approval_no": "国妆特字G20160515",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "lorealpro欧莱雅沙龙防脱黑宝瓶",
+    "functionType": "育发类",
+    "shelfLife": "3年",
+    "category4_id": 389,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "生发育发",
+    "usageMethod": "取6ml该产品，每天一次涂抹在头皮上，均匀按摩，直至充分吸收，请勿冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 0,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 68,
+    "registered_day": 20160226,
+    "goods_form": ""
+  },
+  "success": true
+}

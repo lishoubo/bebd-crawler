@@ -1,0 +1,278 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,48,57,36",
+    "CPS": [
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/BTHE3NcKpr5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=8876AA5F5B8D497579A7FAAEBF3F16F2"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.56号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.52号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "3号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "3.45号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "1号"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "4.56"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232726"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232722"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232714"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230052"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230050"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230035"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1673884800"
+      }
+    ],
+    "category3Name": "染发/焗油",
+    "price": "¥129",
+    "sda_approval_date": 1687190400,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "染发",
+        "id": 5255
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "ba394faa15d4eec152a7cf2b41f45cb2",
+        "sku_id": 31441368,
+        "attribute_type": "1",
+        "attribute_val": "3号"
+      },
+      {
+        "mid": "0ab16e4d4d7155e4b69287263a30f0c4",
+        "sku_id": 31978563,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232722"
+      },
+      {
+        "mid": "3deb1540ec0c21e9b0e481cf53ca6572",
+        "sku_id": 31441265,
+        "attribute_type": "9",
+        "attribute_val": "1673884800"
+      },
+      {
+        "mid": "b9150f91d8651e8fff976387b5f54e7e",
+        "sku_id": 32037988,
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      },
+      {
+        "mid": "9459284689fe0dbe532c66993bf58189",
+        "sku_id": 31978136,
+        "attribute_type": "1",
+        "attribute_val": "1号"
+      },
+      {
+        "mid": "9459284689fe0dbe532c66993bf58189",
+        "sku_id": 31978136,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232714"
+      },
+      {
+        "mid": "3deb1540ec0c21e9b0e481cf53ca6572",
+        "sku_id": 31441265,
+        "attribute_type": "1",
+        "attribute_val": "4.56"
+      },
+      {
+        "mid": "3deb1540ec0c21e9b0e481cf53ca6572",
+        "sku_id": 31441265,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230050"
+      },
+      {
+        "mid": "9e7f56358e9b8209e742f6997e2e6958",
+        "sku_id": 31447249,
+        "attribute_type": "1",
+        "attribute_val": "4.52号"
+      },
+      {
+        "mid": "9e7f56358e9b8209e742f6997e2e6958",
+        "sku_id": 31447249,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230052"
+      },
+      {
+        "mid": "9e7f56358e9b8209e742f6997e2e6958",
+        "sku_id": 31447249,
+        "attribute_type": "9",
+        "attribute_val": "1673884800"
+      },
+      {
+        "mid": "ba394faa15d4eec152a7cf2b41f45cb2",
+        "sku_id": 31441368,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20230035"
+      },
+      {
+        "mid": "ba394faa15d4eec152a7cf2b41f45cb2",
+        "sku_id": 31441368,
+        "attribute_type": "9",
+        "attribute_val": "1673884800"
+      },
+      {
+        "mid": "9459284689fe0dbe532c66993bf58189",
+        "sku_id": 31978136,
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      },
+      {
+        "mid": "0ab16e4d4d7155e4b69287263a30f0c4",
+        "sku_id": 31978563,
+        "attribute_type": "1",
+        "attribute_val": "4.56号"
+      },
+      {
+        "mid": "0ab16e4d4d7155e4b69287263a30f0c4",
+        "sku_id": 31978563,
+        "attribute_type": "9",
+        "attribute_val": "1687190400"
+      },
+      {
+        "mid": "b9150f91d8651e8fff976387b5f54e7e",
+        "sku_id": 32037988,
+        "attribute_type": "1",
+        "attribute_val": "3.45号"
+      },
+      {
+        "mid": "b9150f91d8651e8fff976387b5f54e7e",
+        "sku_id": 32037988,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字20232726"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_143e0479-1ff0-41be-a1ef-ec831939ee7c.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳,凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅臻萃轻松染发乳 4.56号",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5255",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "安全须知 !染发剂可能引起严重过敏反应。 请仔细阅读安全须知并遵循产品说明使用。 产品不适合 16 岁以下的消费者使用。 !若曾使用黑色海灵草染剂刺青，可能会增加过敏现象发生的几率。 若有下列情况，请勿使用：  面部有皮疹或者头皮有过敏、炎症或破损。  曾对染发剂有过不良反应的经历。  曾对海灵草染剂刺青有过敏反应。 !忽视过敏可能会危及生命。即使曾经使用过染发产品，也请务必在每次使用本产品前 48 小时进行皮肤过 敏性测试。 特别注意事项 若使用中头皮产生强烈刺痛，红肿，灼伤感或呼吸困难，请立即停止使用，温水冲净，并带上产品包装盒 说明书就医，且在下次染发前先咨询医生。 使用产品后请将产品包装盒和说明书保留几天，若出现瘙痒，红点或水泡，或眼睛皮肤肿胀，建议带上 产品包装盒说明书向医生咨询。 本产品为传统氧化型染发乳，我们建议每 1 到 3 个月染发一次，两次染发间隔不少于 1 个月。 ·显色敷用啫喱含过氧化氢、水杨酸，三岁以下儿童勿用。 ·染发乳含苯二胺类、间苯二酚、巯基乙酸盐、水杨酸，三岁以下儿童勿用。 ·请在每次染发前佩戴盒内附有的专用手套。 ·请避免触及眼睛及面部皮肤，不可用于染眼睫毛，眉毛，胡子或其他用途。 ·如不慎入眼，请立即用水冲洗，如佩戴隐形眼镜，应先取下眼镜。 ·染发后请将头发彻底冲洗。 ·请于漂浅、拉直或卷烫头发至少 15 天后再使用本产品。 ·若您的头发已染海灵草色素或金属性染发剂，请勿使用本产品。 ·请避免儿童接触及使用本产品。 ·使用前请阅读说明书，并按照其要求使用。 注意：请遵守安全须知。 建议您在染发前 48 小时进行皮肤过敏性测试。染前 48 小时请进行皮肤过敏性测试 ！染发前请注意 安全须知 请于使用前详细阅读 即使您以前使用过本系列或其他品牌的产品，仍有发生产品过敏反应的可能，因此请务必在每次使用本产 品 48 小时前，进行皮肤过敏性测试。 注意：染发剂可能引起严重过敏反应，为降低发生过敏现象的几率，请务必遵循以下注意事项：  若有下列情况，请勿使用： -脸上有皮疹或者头皮过敏，发炎或破损 -即使是在很久以前，曾使用黑色海灵草染剂刺青的话，可能会增加过敏现象发生的几率。 如何进行皮肤过敏性测试： 取下耳环，用酒精清洁耳后两平方厘米的肌肤，按一下泵头，将按压出的产品混合均匀后用棉花棒蘸取少 量涂于耳后 1~2 平方厘米的肌肤（一枚硬币大小），等其干后再重复涂抹 2~3 次，并等待染发乳干燥。 染发乳使用完毕后请小心将瓶塞塞回保存至 48 小时后使用。等待 48 小时不要将其洗去，同时不要遮盖 或碰触涂过染发乳的地方。在此期间，如有任何发红，发痒或肿胀等不适症状，请勿使用本产品。 .本产品含有的成分可能会导致严重的眼刺激性并可能造成永久性眼部损伤。如不慎入眼睛，请立即用水 冲洗，如佩戴隐形眼镜，应先取下眼镜，再用清水彻底冲净。 .如有任何个人体质过敏性问题，请向医生咨询。 .避免吸入或吞咽本产品。 .不要将本产品与其他任何产品混合使用。",
+    "usageMode": "淋洗",
+    "safety_1_num": 3.5,
+    "mid": "0ab16e4d4d7155e4b69287263a30f0c4",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "200g",
+    "sda_approval_no": "国妆特字20232722",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅臻萃轻松染发乳 4.56号",
+    "functionType": "染发类",
+    "shelfLife": "3年",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      }
+    ],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "书 轻松染发体验 1 无需调配，一按即染 按 轻松一泵，无需调配，混合双剂 抹 均匀涂抹于擦干的湿发上 冲 停留 15 分钟后，冲洗，染后发色自然优雅 1.染发前 1. 每次染发前 48 小时进行皮肤过敏性测试： 2 每次染发前请先戴好手套。 2.染发中 染发步骤 1 清水冲洗头发，充分润湿后沥干。2 取下瓶塞，产品垂直桌面站立，手掌按压泵头。每次按 压到底，确保两剂产品同时泵出。*图中显示为 1 次按压到底的量（约 4 克） 3 按压 1-2 次后，将产品于手掌中混合，涂抹在头发上反复揉搓。 4 重复 2、3 步骤直至达到建议用量。确保产品沾到每一根发丝，尤其是发根及两鬓。停留 15 分钟。 15min 建议用量 短发共按压到底 9 次（约 40 克） 中发（及耳）共按压到底 14 次（约 60 克） 长发（及肩） 共按压到底 18 次（约 80 克） 提示：由于个人头发长度不同，用量及次数仅供参考。为保证染发效果，请足量使用。 3. 染发后 1 用清水彻底冲洗干净后，使用护发素，清水冲洗、吹干即可。 温馨提示： 1.涂抹使用过程中，若有泡沫不慎沾染到皮肤（额头、脸颊、脖子等），建议及时擦拭去除。 2.揉搓过程中如泡沫不够丰富，可沾取少许清水再次揉搓。 3.染发结束后，建议及时擦拭清理瓶身以及取液孔，并将瓶塞装回，以便下次使用更洁净。 4.本产品为氧化型染发乳，我们建议每 1 到 3 个月染发一次，两次染发间隔不少于 1 个月。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "染发",
+        "id": "36"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 71,
+    "registered_day": 20230620,
+    "goods_form": "25,23"
+  },
+  "success": true
+}

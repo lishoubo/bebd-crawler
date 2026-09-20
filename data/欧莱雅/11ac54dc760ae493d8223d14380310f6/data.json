@@ -1,0 +1,269 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "0",
+    "CPS": [],
+    "usage_mode": "0",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "浅棕"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "02浅棕"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "01深棕"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "深棕"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001109"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000990"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000989"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000999"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000966"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000717"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1497888000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1493740800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1493136000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1430064000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1419868800"
+      }
+    ],
+    "category3Name": "眉妆",
+    "price": "¥100",
+    "sda_approval_date": 1493136000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "a0c1c3f390d6fafb18ec86c85faf3b71",
+        "sku_id": 233214,
+        "attribute_type": "9",
+        "attribute_val": "1430064000"
+      },
+      {
+        "mid": "10471ff24fed168c200b9f4c97b87e46",
+        "sku_id": 31306134,
+        "attribute_type": "9",
+        "attribute_val": "1493740800"
+      },
+      {
+        "mid": "c053c3393b061739032f13169371aae2",
+        "sku_id": 2132761,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000966"
+      },
+      {
+        "mid": "3b3a25d8da9833bb1ad1b9a6dd1b4f6a",
+        "sku_id": 813545,
+        "attribute_type": "9",
+        "attribute_val": "1497888000"
+      },
+      {
+        "mid": "11ac54dc760ae493d8223d14380310f6",
+        "sku_id": 784027,
+        "attribute_type": "1",
+        "attribute_val": "深棕"
+      },
+      {
+        "mid": "11ac54dc760ae493d8223d14380310f6",
+        "sku_id": 784027,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000717"
+      },
+      {
+        "mid": "11ac54dc760ae493d8223d14380310f6",
+        "sku_id": 784027,
+        "attribute_type": "9",
+        "attribute_val": "1493136000"
+      },
+      {
+        "mid": "10471ff24fed168c200b9f4c97b87e46",
+        "sku_id": 31306134,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000717"
+      },
+      {
+        "mid": "a6534fa26ff2a47daa29182da21a9245",
+        "sku_id": 2136906,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000999"
+      },
+      {
+        "mid": "a6534fa26ff2a47daa29182da21a9245",
+        "sku_id": 2136906,
+        "attribute_type": "9",
+        "attribute_val": "1419868800"
+      },
+      {
+        "mid": "c053c3393b061739032f13169371aae2",
+        "sku_id": 2132761,
+        "attribute_type": "1",
+        "attribute_val": "深棕"
+      },
+      {
+        "mid": "c053c3393b061739032f13169371aae2",
+        "sku_id": 2132761,
+        "attribute_type": "9",
+        "attribute_val": "1419868800"
+      },
+      {
+        "mid": "a0c1c3f390d6fafb18ec86c85faf3b71",
+        "sku_id": 233214,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000990"
+      },
+      {
+        "mid": "3b3a25d8da9833bb1ad1b9a6dd1b4f6a",
+        "sku_id": 813545,
+        "attribute_type": "1",
+        "attribute_val": "01深棕"
+      },
+      {
+        "mid": "a366147c87f8ede1308b7635a764ae7e",
+        "sku_id": 233213,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015000989"
+      },
+      {
+        "mid": "a366147c87f8ede1308b7635a764ae7e",
+        "sku_id": 233213,
+        "attribute_type": "9",
+        "attribute_val": "1430064000"
+      },
+      {
+        "mid": "10471ff24fed168c200b9f4c97b87e46",
+        "sku_id": 31306134,
+        "attribute_type": "1",
+        "attribute_val": "深棕"
+      },
+      {
+        "mid": "a6534fa26ff2a47daa29182da21a9245",
+        "sku_id": 2136906,
+        "attribute_type": "1",
+        "attribute_val": "浅棕"
+      },
+      {
+        "mid": "3b3a25d8da9833bb1ad1b9a6dd1b4f6a",
+        "sku_id": 813545,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001109"
+      },
+      {
+        "mid": "a0c1c3f390d6fafb18ec86c85faf3b71",
+        "sku_id": 233214,
+        "attribute_type": "1",
+        "attribute_val": "01深棕"
+      },
+      {
+        "mid": "a366147c87f8ede1308b7635a764ae7e",
+        "sku_id": 233213,
+        "attribute_type": "1",
+        "attribute_val": "02浅棕"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅造型眉笔 深棕",
+    "category2Name": "彩妆/香水",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "0",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "safety_1_num": 4.2,
+    "mid": "11ac54dc760ae493d8223d14380310f6",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "1.19g",
+    "sda_approval_no": "鄂G妆网备字2017000717",
+    "approvaler": "",
+    "applicable_people": "0",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 222,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "天津施文化妆品有限公司",
+        "mid": "6043c14f4685e9f21d048c5731220995"
+      }
+    ],
+    "category4Name": "眉笔",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 46,
+    "registered_day": 20170426,
+    "goods_form": "0"
+  },
+  "success": true
+}

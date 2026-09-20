@@ -1,0 +1,104 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/3b629009-bf83-571b-b21a-11498043372a.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥136.5",
+    "sda_approval_date": 1591718400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_13a98d10-2ea0-403a-aa12-735db9493270.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2ac31be5-5172-528e-b151-9b25ef99f296.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2b21824e-f479-52b4-be5a-4d9862dead86.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/59f78920-d306-5de1-9222-b54d0105d989.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6f848dba-0f53-5ada-ac63-008c6dfcf05f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b661807c-19ed-5e94-9fc0-b8b73177d9f4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/12e1dbe4-bcc8-5a11-8147-9003307a6b8e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5793d77c-8623-56bc-a214-9b713245fcdb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ae58d26e-9064-539e-954b-7e249e85299b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"半透明乳状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅玻尿酸水光安瓶发膜",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/6f848dba-0f53-5ada-ac63-008c6dfcf05f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本品含水杨酸，三岁以下儿童勿用。本品香精原料含有己基肉桂醛、水杨酸苄酯、芳樟醇、苯甲醇。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "d886e81e85f964ce8d10408b15103468",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "98ml",
+    "sda_approval_no": "苏G妆网备字2020003699",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "洗发后取适量涂抹，从发根直至发尾，稍加按摩至渗入后用清水洗净。若不慎入眼，请立即用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20200610,
+    "goods_form": "23"
+  },
+  "success": true
+}

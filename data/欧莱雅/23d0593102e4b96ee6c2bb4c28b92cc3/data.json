@@ -1,0 +1,143 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,130,129,51,42,48,126,43,50",
+    "CPS": [
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/zUi4ONNoWm6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=8324C49DFD86B855144CC5ACD801BA6B"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/d0062753-4017-5fb0-96b1-b7ac5c38a179.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面霜",
+    "price": "",
+    "sda_approval_date": 1730131200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/09d2352f-5577-50eb-b13e-d9b9ac2e2d9a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0c5df9a9-518d-5f83-a1b2-d51486cede3a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/37b2cf07-beb7-54b1-9620-57878d43c31a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/463f242d-f871-5395-ad48-7331d08f143c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4aaf57ef-e280-527c-900a-c661d0523bea.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6184b286-c45b-5759-8466-8ea63f348bf3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/73566d86-738a-5c3a-9f74-0ec1264a50d2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/762c3cbd-1e17-5b7d-a7de-97ddcd4040e9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8b4edcbd-1158-5322-a94e-fda70420ce35.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a6dbefc4-3a8a-59ba-8ffd-6e21903d6e8d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/aa678100-2380-5549-94a6-5443d42e7ad4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/71a663bb-33fe-5773-be81-a3acabf81035.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7f7d21df-f072-527f-a9fb-585b5485e136.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8af03865-a012-52cd-a569-fc2b9c587e8a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c35c43b2-87c4-5be1-99ea-4e07a5829600.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cb178312-0ac7-561b-8d6f-178a9e6a307b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cb7fc45a-65bc-51e3-bebd-dd4bf71d4283.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d0062753-4017-5fb0-96b1-b7ac5c38a179.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜新花蜜胶原面霜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/6184b286-c45b-5759-8466-8ea63f348bf3.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.0,
+    "mid": "23d0593102e4b96ee6c2bb4c28b92cc3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024006318",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜新花蜜胶原面霜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 142,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      },
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "普通面霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 28,
+    "registered_day": 20241029,
+    "goods_form": "23"
+  },
+  "success": true
+}

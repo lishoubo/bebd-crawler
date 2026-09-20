@@ -1,0 +1,125 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dg4g544U%2Fujdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVYuRpJk38EL8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2B3zvY9TnVT26viZrtIdWk9zRD18rVfQC6EuM7wkVK6rr2LhvZMsDVB01VQUfI1to7z5kAsx5FpJnp2YrqsKs9hsRjpS%2F2zT4LN7XADH8k%2F9SBnK30G%2FK%2BiU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvR4TIcdHQXr2oGgmfIrFAc5huQnlDE9LYKvRn9s5lIr3k%3D&union_lens=lensId:TAPI@1753127032@21666de3_1858_1982e839765_8c2a@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/8kFZdLGpnZ7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6B469BFEBE14B8872C91F8925F42074E"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAToJK1olWAcAUFxaCkMXB18IGloUXwILVVdaCEgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAWsBGlISXQUdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKyRvHk55Vi4mbSwNdBFOSyByAFVXVD5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4dXAcHU1tUCXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwRX1IEXQwzVBVNVDFRQRN7XQAKXV5dDUwnAW4JGVklbTZ8UzpZAAhIfxJzUAl1FE54CyhVbRwReRMNdVlDBHhQCxlfdTZ1cRsITDwRBzYCZF5aDk8WMw"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/0bf18656-707a-50a5-8c7d-4461ad7e089e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥79",
+    "sda_approval_date": 1640016000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_a98b4794-672d-46c3-8771-44e0458c067d.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/75c0e849-02bb-5f63-ab06-48301e8ec552.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/54ef1337-a221-52a7-8add-6bed9c162ef4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/894e90a6-130b-5007-8f55-57a14a259813.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f0a08014-38c9-5153-b704-e97db02701cd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0bf18656-707a-50a5-8c7d-4461ad7e089e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c94cd7ea-1972-57fb-9621-12a686a659a3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2822a094-1f13-5507-82f6-b255470268d6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5f04ea84-0f2c-5312-94d5-49d740fab6ba.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d7d4025d-2490-55a9-88b0-a747c1398b14.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕润发精油 夏日青柠香",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/54ef1337-a221-52a7-8add-6bed9c162ef4.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.6,
+    "mid": "16970d2525ea5f393a66408d0fd093d3",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "100ml",
+    "sda_approval_no": "苏G妆网备字2021504107",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅奇焕润发精油 夏日青柠香@!@巴黎欧莱雅莫吉托",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 313,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发精油",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20211221,
+    "goods_form": "24"
+  },
+  "success": true
+}

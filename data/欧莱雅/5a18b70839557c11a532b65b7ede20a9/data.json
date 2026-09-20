@@ -1,0 +1,204 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOyjUwmPM9ztw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMREG1UhKgDzkRitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2FMZwZ%2FnGlx%2B%2FHqQT9qmXdLzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOU%2Bm9r2DYIxVMlIqJAw%2BW1BT8UG0q9AP8HQwOwVxqu7E06nM78OL9cSMEnMERQrH0G5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQBaA7nyygFqA2jTdzpv3rgg7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753117591@2132fb04_0db1_1982df38803_d9eb@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/HmgA4i8NnB7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=65C308092C060687EF62B74A7509BEED"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olXQ8GUl1fCUMWAl8MH1wcXQ8FUF1VDHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpZD0IXCmgMGFMRQl9HCANTTBRPXTB0Tw5NDWNSAlJeZkp5A19YHzlcOARDFDtVDwhOeSdOeTBhO35iWFJtCEsTBW0OGlgQWjYCVV9cDUoSBGYIK2sVWDZDOl5cCEMSCmgNK1sVWQAHUlpbCk8nA2kBHlMVXgEHVV1dDnsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlwTXlQHXFczVAhcBClfQVx7WQYHXFZcCkInAW4JGVklbTZCBxkBQRdAVR9XWghsGlwCPCJVTQBiBxFyWg1XWGgAKj8nDytPWStoTAxoI1lUEwptCHsXAW8PKw"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023002975"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003119"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003287"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002110"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20188664"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1687881600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1531065600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      }
+    ],
+    "category3Name": "洁面",
+    "price": "¥39",
+    "sda_approval_date": 1531065600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "控油",
+        "id": 5205
+      },
+      {
+        "name": "祛痘",
+        "id": 5215
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "5a18b70839557c11a532b65b7ede20a9",
+        "sku_id": 1252945,
+        "attribute_type": "9",
+        "attribute_val": "1531065600"
+      },
+      {
+        "mid": "207e929ea9120f551dc8a74368149086",
+        "sku_id": 1195416,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003119"
+      },
+      {
+        "mid": "207e929ea9120f551dc8a74368149086",
+        "sku_id": 1195416,
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "mid": "c617db0b135b2d6bccf52ecbdaac1bf0",
+        "sku_id": 208909,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002110"
+      },
+      {
+        "mid": "5a18b70839557c11a532b65b7ede20a9",
+        "sku_id": 1252945,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20188664"
+      },
+      {
+        "mid": "245150475d5ac85bd0ff3ab662c1cf8a",
+        "sku_id": 31926122,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023002975"
+      },
+      {
+        "mid": "245150475d5ac85bd0ff3ab662c1cf8a",
+        "sku_id": 31926122,
+        "attribute_type": "9",
+        "attribute_val": "1687881600"
+      },
+      {
+        "mid": "4fe3628c6a01ad3741b4a153605a4d2e",
+        "sku_id": 824907,
+        "attribute_type": "9",
+        "attribute_val": "1499097600"
+      },
+      {
+        "mid": "c617db0b135b2d6bccf52ecbdaac1bf0",
+        "sku_id": 208909,
+        "attribute_type": "9",
+        "attribute_val": "1417708800"
+      },
+      {
+        "mid": "4fe3628c6a01ad3741b4a153605a4d2e",
+        "sku_id": 824907,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017003287"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/60a8d7db-37f0-4c2a-becf-be067a745c7a.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"豆红色\"}, {\"name\": \"性状\", \"condition\": \"膏体\"}, {\"name\": \"气味\", \"condition\": \"草香\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL MEN EXPERT PURE & MATTE VOLCANO FOAM",
+    "name": "欧莱雅男士火山岩控油清痘洁面膏",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5215,5205,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "使用时避开眼部，如不慎入眼请立即用清水冲洗。本品含水杨酸，三岁以下儿童勿用。",
+    "safety_1_num": 3.7,
+    "mid": "5a18b70839557c11a532b65b7ede20a9",
+    "description": "痘痘顽固难除，怎么也摆脱不了？沉积在毛孔中的过剩油脂、污垢都可能导致痘痘的产生。来自火山岩矿物的天然净化能量，从毛孔根源帮助全面解决痘痘问题！独特红泥质地，起泡后即变为丰富白色泡沫；蕴含珍珠岩和高岭土等火山岩矿物精华，全面对抗痘痘：摆脱痘痘困扰，皮肤净爽健康帮助摆脱各种痘痘困扰，皮肤净爽平滑、不泛油光。温和不刺激，皮肤感觉舒适不紧绷，重现健康神采。 ",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "100ml",
+    "sda_approval_no": "国妆备进字J20188664",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "L‘OREAL MEN EXPERT PURE & MATTE VOLCANO FOAM@!@欧莱雅男士火山岩控油清痘洁面膏",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 102,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洁面膏/霜/泥",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量的产品于掌心，加水揉搓起泡。涂抹在湿润的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水洗净。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 18,
+    "registered_day": 20180709,
+    "goods_form": ""
+  },
+  "success": true
+}

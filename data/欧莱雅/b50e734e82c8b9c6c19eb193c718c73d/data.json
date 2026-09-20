@@ -1,0 +1,178 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,129,51,126,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DaYBCluLQhOpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMav7x7OJ7TlzJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXb2xSN3tXcP%2Bl3mUEu3yk7KAcfIhfZ777HBlbiMtQWesreSG%2Fj%2F5mIgUW6qjZ1hqQhPUWglpsNaCU1NVKZy3ECfZGL0GbiMMd6BniEC%2BBYvRy%2F58TudG6CX3NmgMMK7BUoYHG1HHE37fttvJ9Z4G1Zg%3D&union_lens=lensId:TAPI@1753119870@212bbe4e_0e28_1982e164f4f_b877@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/0cI6JG5cV5A?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=6A62575DF98376933978EC1D248BF9F8"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/af420417-7392-5d00-978b-487bd29dceb8.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020007727"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006589"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1603209600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1536076800"
+      }
+    ],
+    "category3Name": "面膜",
+    "price": "¥409",
+    "sda_approval_date": 1536076800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗皱",
+        "id": 5225
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "b50e734e82c8b9c6c19eb193c718c73d",
+        "sku_id": 2324136,
+        "attribute_type": "9",
+        "attribute_val": "1536076800"
+      },
+      {
+        "mid": "b50e734e82c8b9c6c19eb193c718c73d",
+        "sku_id": 2324136,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006589"
+      },
+      {
+        "mid": "26280e0183592e3ee9888ff9e2ea739f",
+        "sku_id": 4149716,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020007727"
+      },
+      {
+        "mid": "26280e0183592e3ee9888ff9e2ea739f",
+        "sku_id": 4149716,
+        "attribute_type": "9",
+        "attribute_val": "1603209600"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_347414a7-3bef-46bf-a273-9cb331eeecf1.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/d29d7117-05df-5162-a6cb-feb377290d82.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/22f1aa68-c297-5b1b-a01c-6edd179f7e94.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b39cc203-935e-5851-a399-7e125d7a5966.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b718588c-baa5-5f21-b2e0-218bf48472f8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bb76b401-8937-5de2-8a2c-583163020eb3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fe5d09eb-4f90-5ba0-b0bf-b236ca2676f6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bf8f20fd-0f95-5de2-864c-97b737f1b50d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/00250541-acc9-5023-9906-4c33703dcd1b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0132a13e-2b95-5834-a710-c0f7c2a43dca.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8cdcba59-b76f-58a5-953a-e1a179648e59.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/af420417-7392-5d00-978b-487bd29dceb8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e14d4c3e-fdb2-5eb2-a9a3-663a413a3c0b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"料体颜色\", \"condition\": \"无色\"}, {\"name\": \"膜材颜色\", \"condition\": \"白色\"}, {\"name\": \"料体性状\", \"condition\": \"透明液体\"}, {\"name\": \"膜材性状\", \"condition\": \"无纺布\"}, {\"name\": \"料体气味\", \"condition\": \"有香味\"}, {\"name\": \"膜材气味\", \"condition\": \"无异常气味\"}]}]",
+    "goodsForm": "液体,贴、膜、含基材",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "L'Oréal Revitalift Filler [HA] Fresh Mix Ampoule Replumping Mask",
+    "name": "欧莱雅复颜玻尿酸水光充盈导入安瓶鲜注精华面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/fe5d09eb-4f90-5ba0-b0bf-b236ca2676f6.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5226,5225,5201",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "无",
+    "usageMode": "驻留",
+    "safety_1_num": 4.9,
+    "mid": "b50e734e82c8b9c6c19eb193c718c73d",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "33g*15pcs",
+    "sda_approval_no": "苏G妆网备字2018006589",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜玻尿酸水光充盈导入安瓶鲜注精华面膜@!@L'Oréal Revitalift Filler [HA] Fresh Mix Ampoule Replumping Mask@!@欧莱雅安瓶面膜",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "1. 将内袋右侧沿虚线向中间折 2. 将内袋左侧向中间折 3. 按压精华液部分使其注入膜布 4. 充分揉捏使精华液被膜布均匀吸收 5. 取出面膜，轻敷于面部, 15分钟后取下，轻柔按摩促进成分吸收",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20180905,
+    "goods_form": "32,24"
+  },
+  "success": true
+}

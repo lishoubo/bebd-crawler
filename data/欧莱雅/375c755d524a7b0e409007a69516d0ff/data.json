@@ -1,0 +1,126 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥109",
+    "sda_approval_date": 1612713600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "柔顺",
+        "id": 5258
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_17e2dcc0-310a-4004-86d7-86f9b16dbc0a.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1de63ae1-6b04-51cc-894f-40e0e3ad0c21.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/41bfdf27-77e0-520e-8d02-60d68643ea7d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7c15fa6a-22dc-532f-9bd9-1c90ecf167cf.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8d3e26d5-e00b-57cb-b743-4d74ebcd2351.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0ad86fc8-1e50-5d80-b8aa-b041df719f63.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/91106c75-1a22-56d2-a04b-5765dc8cf930.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9331874e-e1b7-5c89-ad31-5ec10e08bfe6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/98342cbb-9795-56d2-8421-64ea0be812c2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ade94474-b452-5fb7-9717-a3f80f296bdc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ca198a3d-3a7f-5244-b43d-96578ab2de1d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e28ba6d5-331c-5978-bc5b-840838e36641.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7b0703e2-bd6b-5be0-b7c8-a87d68cc8140.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅强韧柔顺润发乳",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "5258",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "375c755d524a7b0e409007a69516d0ff",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "440ml",
+    "sda_approval_no": "苏G妆网备字2021001017",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅强韧柔顺润发乳@!@巴黎欧莱雅生姜护发素",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20210208,
+    "goods_form": "23"
+  },
+  "success": true
+}

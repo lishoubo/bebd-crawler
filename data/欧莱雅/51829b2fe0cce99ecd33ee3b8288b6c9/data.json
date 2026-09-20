@@ -1,0 +1,196 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,43,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDIoWOBhH9K5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUo1IbpkkjqWJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bJwb1FT%2B6N98kd5lsXIFcArdO5%2FpGzzKQDDVzMwcBDQournC4vwG2S7LbmhG9DYWS81aGARRzPgvniWZuItd%2Fr84%2BfirBrx7mM7AMx9cWAx%2B44EhrFZRwX1tAV2xleomug7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753119550@213107ab_17b8_1982e116d42_07e2@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/Vbwe1R4Z2i6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=FA6565AB0762A5B242E4D6DBA6597578"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARkJK1olXQ4CUl1UCkwUAF8OHFgQVAMyEAEFVhQnWipNWhkeQxhaEQoBFxBCHD1WR0UTWgUHXVtCUQ5LXl8OHiJRInFwFjwGVDUJBRdOYVJnIXtUWFJtCEsTBW0OGlgQWjYCVV9cDUoSBGYIK2sVWDZROonAnpKog7eir4yQ-9G5wYngqJ-IkF8IG18TWAAGUlxZOEsRB20IG1MRWQYAV1ltCEMTM7mHpI6c0dOMy4fNtRhDRDFVK2slXjYyZF5tC3tJbW5bElxBXwZQOgIIXR8SBWhadV8cWw8HVlhaOEkWAm0KK2slKGJcLRgrezkUBzxbHgRsAVxbVVYqCRgXbW17ZFpSIk5KDF1UAT5qYRFabGsVbQYFUlpcOA"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/c5b7a2e1-14a8-5a18-aaa8-f8565e015902.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503695"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001914"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002830"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002978"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1630944000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1472832000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥36",
+    "sda_approval_date": 1630944000,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "f456c0bd19f401cb18a180e6ad873a53",
+        "sku_id": 628776,
+        "attribute_type": "9",
+        "attribute_val": "1472832000"
+      },
+      {
+        "mid": "e20377a819470e1f0f6c71e0a8fbf797",
+        "sku_id": 1195398,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001914"
+      },
+      {
+        "mid": "e20377a819470e1f0f6c71e0a8fbf797",
+        "sku_id": 1195398,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "51829b2fe0cce99ecd33ee3b8288b6c9",
+        "sku_id": 30249335,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021503695"
+      },
+      {
+        "mid": "f456c0bd19f401cb18a180e6ad873a53",
+        "sku_id": 628776,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016002830"
+      },
+      {
+        "mid": "a20a7e38a616e67e55a15a15448cd490",
+        "sku_id": 125446,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014002978"
+      },
+      {
+        "mid": "51829b2fe0cce99ecd33ee3b8288b6c9",
+        "sku_id": 30249335,
+        "attribute_type": "9",
+        "attribute_val": "1630944000"
+      },
+      {
+        "mid": "a20a7e38a616e67e55a15a15448cd490",
+        "sku_id": 125446,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_2cb57393-ecf4-4909-bc40-ddc5793b779e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/31fbbb48-adbb-5e42-997c-1a7f3c9e9339.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c5b7a2e1-14a8-5a18-aaa8-f8565e015902.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅多效修复洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/31fbbb48-adbb-5e42-997c-1a7f3c9e9339.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "51829b2fe0cce99ecd33ee3b8288b6c9",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "400ml",
+    "sda_approval_no": "苏G妆网备字2021503695",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅多效修复洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20210907,
+    "goods_form": "24"
+  },
+  "success": true
+}

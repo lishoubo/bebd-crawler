@@ -1,0 +1,372 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DfFM68eC7Tl9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeOd047yH56G79%2FTFaMDK6Sw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp%2BBruWVnJCRJx%2FaExfPEfYuzRD18rVfQC6EuM7wkVK6rvRJvroK0Wa%2Fy3nOM7IEV%2BBLiMIoBim5K%2F0JkgwnIp5vlvwZXECOTaxM2NegduEo7lbI%2BnSrHS2NG5CeUMT0tgovynyZqoK2AH1rFI2aA%2BUQM9bz8nNLdLXR5jhvRbGyxQ7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753118969@212b4e8b_0e1a_1982e08902e_8447@01"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF45"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161237"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161230"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20100416"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20140610"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1650384000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1594051200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1593446400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1474387200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1406822400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1395072000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1265817600"
+      }
+    ],
+    "category3Name": "防晒",
+    "price": "¥560",
+    "sda_approval_date": 1650384000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "防晒",
+        "id": 5223
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "3d2789f920bf0bf3ebe96de9a08cbe9c",
+        "sku_id": 2632236,
+        "attribute_type": "9",
+        "attribute_val": "1265817600"
+      },
+      {
+        "mid": "6a61e83a0b0ce6fa62efcc6f8cb3dbbf",
+        "sku_id": 4158249,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "6a61e83a0b0ce6fa62efcc6f8cb3dbbf",
+        "sku_id": 4158249,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161237"
+      },
+      {
+        "mid": "c7453b32e3338e704a62e000c1d97cf1",
+        "sku_id": 31234228,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "c7453b32e3338e704a62e000c1d97cf1",
+        "sku_id": 31234228,
+        "attribute_type": "9",
+        "attribute_val": "1650384000"
+      },
+      {
+        "mid": "ec610f2a623275de6795c1731a77cc8f",
+        "sku_id": 578629,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "ec610f2a623275de6795c1731a77cc8f",
+        "sku_id": 578629,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161237"
+      },
+      {
+        "mid": "246f9637899b9521da90d545e3867b93",
+        "sku_id": 4104877,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "246f9637899b9521da90d545e3867b93",
+        "sku_id": 4104877,
+        "attribute_type": "9",
+        "attribute_val": "1593446400"
+      },
+      {
+        "mid": "205bc29a55cc2d8e690bf745bee23c2a",
+        "sku_id": 276424,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20100416"
+      },
+      {
+        "mid": "be940830826b1ddf39a970b74ee7cecc",
+        "sku_id": 352215,
+        "attribute_type": "9",
+        "attribute_val": "1406822400"
+      },
+      {
+        "mid": "74390c4610954287b15e355218d1d920",
+        "sku_id": 2557502,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "be940830826b1ddf39a970b74ee7cecc",
+        "sku_id": 352215,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "c7453b32e3338e704a62e000c1d97cf1",
+        "sku_id": 31234228,
+        "attribute_type": "6",
+        "attribute_val": "-"
+      },
+      {
+        "mid": "74390c4610954287b15e355218d1d920",
+        "sku_id": 2557502,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20140610"
+      },
+      {
+        "mid": "246f9637899b9521da90d545e3867b93",
+        "sku_id": 4104877,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      },
+      {
+        "mid": "246f9637899b9521da90d545e3867b93",
+        "sku_id": 4104877,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161230"
+      },
+      {
+        "mid": "6a61e83a0b0ce6fa62efcc6f8cb3dbbf",
+        "sku_id": 4158249,
+        "attribute_type": "6",
+        "attribute_val": "SPF45"
+      },
+      {
+        "mid": "6a61e83a0b0ce6fa62efcc6f8cb3dbbf",
+        "sku_id": 4158249,
+        "attribute_type": "9",
+        "attribute_val": "1594051200"
+      },
+      {
+        "mid": "205bc29a55cc2d8e690bf745bee23c2a",
+        "sku_id": 276424,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "205bc29a55cc2d8e690bf745bee23c2a",
+        "sku_id": 276424,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "be940830826b1ddf39a970b74ee7cecc",
+        "sku_id": 352215,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20140610"
+      },
+      {
+        "mid": "cd833d08f83bcbb2738f7fb4c9c4b3c3",
+        "sku_id": 588103,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "cd833d08f83bcbb2738f7fb4c9c4b3c3",
+        "sku_id": 588103,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20161230"
+      },
+      {
+        "mid": "cd833d08f83bcbb2738f7fb4c9c4b3c3",
+        "sku_id": 588103,
+        "attribute_type": "9",
+        "attribute_val": "1474387200"
+      },
+      {
+        "mid": "74390c4610954287b15e355218d1d920",
+        "sku_id": 2557502,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "74390c4610954287b15e355218d1d920",
+        "sku_id": 2557502,
+        "attribute_type": "9",
+        "attribute_val": "1527696000"
+      },
+      {
+        "mid": "ec610f2a623275de6795c1731a77cc8f",
+        "sku_id": 578629,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "ec610f2a623275de6795c1731a77cc8f",
+        "sku_id": 578629,
+        "attribute_type": "9",
+        "attribute_val": "1474387200"
+      },
+      {
+        "mid": "3d2789f920bf0bf3ebe96de9a08cbe9c",
+        "sku_id": 2632236,
+        "attribute_type": "6",
+        "attribute_val": "SPF30+"
+      },
+      {
+        "mid": "3d2789f920bf0bf3ebe96de9a08cbe9c",
+        "sku_id": 2632236,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "3d2789f920bf0bf3ebe96de9a08cbe9c",
+        "sku_id": 2632236,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20100416"
+      },
+      {
+        "mid": "c7453b32e3338e704a62e000c1d97cf1",
+        "sku_id": 31234228,
+        "attribute_type": "8",
+        "attribute_val": "国妆特进字J20140610"
+      },
+      {
+        "mid": "205bc29a55cc2d8e690bf745bee23c2a",
+        "sku_id": 276424,
+        "attribute_type": "9",
+        "attribute_val": "1395072000"
+      },
+      {
+        "mid": "be940830826b1ddf39a970b74ee7cecc",
+        "sku_id": 352215,
+        "attribute_type": "7",
+        "attribute_val": "PA+++"
+      },
+      {
+        "mid": "cd833d08f83bcbb2738f7fb4c9c4b3c3",
+        "sku_id": 588103,
+        "attribute_type": "6",
+        "attribute_val": "SPF40"
+      }
+    ],
+    "category2_id": 2000,
+    "image": "https://img.bevol.com/Goods/source/0_79c513aa-2ec0-4811-a45e-54f520511276.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "阿玛尼",
+    "targetInfo": "",
+    "spa": "PA+++",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "GIORGIO ARMANI UV MASTER PRIMER SPF45 PA+++ MAUVE",
+    "name": "阿玛尼晶柔光韵防晒凝乳 SPF45 PA+++ (紫)",
+    "category2Name": "防晒",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "c241021ec91be51e080f1bfe17ac3afc",
+    "claim_ids": "5223",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "safety_1_num": 3.6,
+    "mid": "c7453b32e3338e704a62e000c1d97cf1",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "30ml",
+    "sda_approval_no": "国妆特进字J20140610",
+    "approvaler": "乔治阿玛尼",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "GIORGIO ARMANI UV MASTER PRIMER SPF30 PA+++ MAUVE@!@阿玛尼晶柔光韵防晒凝乳 SPF45 PA+++ (紫)@!@GIORGIO ARMANI UV MASTER PRIMER SPF30 PA+++ MAUVE，原生产企业为欧莱雅日本（NLO K",
+    "functionType": "防晒类（SPF45,PA+++）",
+    "shelfLife": "",
+    "category4_id": 188,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "防晒乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 2001,
+    "registered_day": 20220420,
+    "goods_form": ""
+  },
+  "success": true
+}

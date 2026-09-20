@@ -1,0 +1,94 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DY%2BI6vnNABOxw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TXLWlSKdGSYDiUKr9QiN9K1lovu%2FCElQOuw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DrXn%2F66GKkZXYeUlHhlqEtp4s8OwAeij9DX8WJB%2Bf%2ByTPyXpp50J7mFpkhW5PYUwVI6hlXrSV0M3JW0TM%2BhkygGGY0CnydlEH9NzuMLUNyvdFx%2BbfvFvg8ltIL1TurTwKffJXync7Zff19Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1684872377@21311017_0c96_1884a383449_566e@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/3ihRbE3Uuj6?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=E9ABE5D6A1AC5BAFD032940BD348EBD4"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [],
+    "category3Name": "面膜",
+    "price": "¥414",
+    "sda_approval_date": 1608739200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_327ede7a-6cf2-467d-a383-a9049a6658df.png?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅臻白晶透淡斑沁白精华面膜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "6711",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "safety_1_num": 4.7,
+    "mid": "5a59eb228aeea5ee6cdd15466fa78b6f",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "15pcs",
+    "sda_approval_no": "国妆特字G20203286",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅小白方面膜@!@欧莱雅臻白晶透淡斑沁白精华面膜",
+    "functionType": "祛斑美白类",
+    "shelfLife": "",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20201224,
+    "goods_form": ""
+  },
+  "success": true
+}

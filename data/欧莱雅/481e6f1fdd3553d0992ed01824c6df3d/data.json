@@ -1,0 +1,120 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,128,130,129,48,59",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洗发",
+    "price": "",
+    "sda_approval_date": 1745683200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_58360805-c602-488e-ae7a-c11a6e31023f.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/2113dd29-4b10-5253-ac9c-45a425cba891.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/459e95ec-d3b8-5a5e-afee-e2c8c5372892.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9663466f-0229-5e21-9df1-07e9aa98b437.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/9856824a-be94-5aa4-9b36-94ee6f307eee.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a8bfa895-4730-599c-9f46-e6e53d4e71aa.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dbea3c66-b0cd-5bcf-b312-1658472b1fe7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0e29b51d-08d3-5bbb-9c9a-4bb9d0031960.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3faa6e50-baf8-5dd4-9809-ef6dd973f8b0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/826660a3-60db-5598-84d0-2fb2bdc4e4fe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bf246b3c-8530-5078-99f1-f1a0b60a6954.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e2f4cf7b-0bf6-572e-8030-bfcd9a366d80.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f8c399ff-7a8f-5651-be93-0b2ab29b363e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅酸护柔亮洗发露",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.0,
+    "mid": "481e6f1fdd3553d0992ed01824c6df3d",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025002224",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅酸护柔亮洗发露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "发色护理",
+        "id": "59"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 66,
+    "registered_day": 20250427,
+    "goods_form": "24"
+  },
+  "success": true
+}

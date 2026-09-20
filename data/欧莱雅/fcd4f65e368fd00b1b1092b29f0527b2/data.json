@@ -1,0 +1,165 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dl8rkmr3pJapw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU7lzU1PsYlnJ1gyddu7kN%2Bw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6%2BhXVn1QcQqeirlKvhKW0XBxt3PT%2F8QxXkxJCcR98S4%2Bp5%2BnsKtz%2FLIbLrx0brGVm8bChKbVFVRT3qdB77ShfYVFzQeSXzIFO1QwM3jyf8ENjFecv7ublyF9Pt6G4UU6OcSpj5qSCmbA%3D&union_lens=lensId:TAPI@1753117990@21279cf8_2804_1982df9a039_73f2@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/tVVO4vh1nM9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=B476373CAE1D2DFAB1FE047CE76A9DD0"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "https://img.bevol.com/goods_pack/2c74d0d9-9a57-5295-82b9-141ccafa3e4e.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 2,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021505958"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004257"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003914"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1636041600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1445788800"
+      }
+    ],
+    "category3Name": "乳液",
+    "price": "¥260",
+    "sda_approval_date": 1445788800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "紧致",
+        "id": 5207
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "1967992a4ecaae6d8a98290e4422e931",
+        "sku_id": 2178135,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017004257"
+      },
+      {
+        "mid": "1967992a4ecaae6d8a98290e4422e931",
+        "sku_id": 2178135,
+        "attribute_type": "9",
+        "attribute_val": "1502035200"
+      },
+      {
+        "mid": "fcd4f65e368fd00b1b1092b29f0527b2",
+        "sku_id": 444971,
+        "attribute_type": "9",
+        "attribute_val": "1445788800"
+      },
+      {
+        "mid": "2c8d0dc526dcb1cda45d38ec99310e70",
+        "sku_id": 30366336,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2021505958"
+      },
+      {
+        "mid": "2c8d0dc526dcb1cda45d38ec99310e70",
+        "sku_id": 30366336,
+        "attribute_type": "9",
+        "attribute_val": "1636041600"
+      },
+      {
+        "mid": "fcd4f65e368fd00b1b1092b29f0527b2",
+        "sku_id": 444971,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2015003914"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/cut_57ad2dbd4c4af.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/756fc368-e37e-58bb-80ed-f02a33da0845.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2c74d0d9-9a57-5295-82b9-141ccafa3e4e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈导入乳液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/756fc368-e37e-58bb-80ed-f02a33da0845.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5207,5226,5203",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "safety_1_num": 3.7,
+    "mid": "fcd4f65e368fd00b1b1092b29f0527b2",
+    "description": "随着时光的流逝，肌肤衰老不仅体现在水分流失，干纹细纹的出现，更体现在肌肤的松弛下垂，弹润饱满不再。欧莱雅历经多年科学研究，创研推出第一支复颜玻尿酸水光充盈导入乳液，高浓度玻尿融入清润乳液质地，深透吸收，导入水光充盈活力。搭配植物焕颜活肤科技，植物提取的活性成分溶于抗皱充盈配方中，帮助肌肤抗皱紧致。肌肤皱纹仿佛得到填充和平抚，无痕水光肌膨润绽现。成分：高浓度玻尿酸和植物焕颜活肤科技。效果：创研清润乳液质地，如液体慕斯一般，细腻不粘腻，水润好吸收。气若香兰，像香氛般舒润肌肤。",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 2,
+    "net_content": "110ml",
+    "sda_approval_no": "苏G妆网备字2015003914",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 525,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "普通乳液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 29,
+    "registered_day": 20151026,
+    "goods_form": ""
+  },
+  "success": true
+}

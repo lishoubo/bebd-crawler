@@ -1,0 +1,114 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,129,48,43",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "化妆水/爽肤水",
+    "price": "",
+    "sda_approval_date": 1762876800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/058757f8-ce63-55a8-8da1-f275c3b36566.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2f78ed81-056d-559f-b2ce-e0ea99f6b38a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/61a265e5-1a0f-594d-a401-861815931cc8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/76ac68f8-263a-5335-a8b7-0f153d2e799d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c6a3e18e-51f0-5255-a267-e580438ca6b6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d12bf41f-6022-5a39-807b-ff0ff4274865.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d8fb1d4b-5989-56e1-85d6-43f0b1781f91.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f12e7db2-dc79-5527-a61f-b9485029948e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0a266560-7ec9-544d-8c1c-d4374bbf3ba7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/169a460c-5ca4-5ffb-8e6d-7e4ff872c807.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/32e69594-2f11-5f90-b9f1-8282ad4dc108.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56361cdc-929f-5c4e-ac0c-93a1605a6f98.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8168cee6-8622-5711-b04d-4a567d79830f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/95ae9f7f-1760-5500-b905-59368e25e2d4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c1fecc5c-ea6f-5e15-84ef-30ef6de88253.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/dd92234e-c4d4-54a2-94b0-a5ae42ead3ff.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士水能保湿增强爽肤水",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5308",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "78b209cfac090451b49744a2b6574327",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025008850",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20251112,
+    "goods_form": "24"
+  },
+  "success": true
+}

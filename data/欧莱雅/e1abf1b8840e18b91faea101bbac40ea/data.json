@@ -1,0 +1,190 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,130,129,43",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DOGELHnV2StZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMYF3ZYZVsL25RitN3%2FurF3yw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6tCi1J8cz0%2Fs0sSmY%2FUe2p2BJ91GQ1ITcJ6mogfqa7nTLqFR2uGEcE%2FIrko%2B%2Bec6p8bChKbVFVRT3qdB77ShfYV6KG8uwF68xPUoq6VQysJzWz5Xcle7BXnGtiTZKNIGDIYULNg46oBA%3D&union_lens=lensId:TAPI@1753117971@2121bc3b_1d09_1982df9552e_2afb@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/y4Zm3dl1fU9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=096F3C1E05E77C0694D8312406DE5541"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/7899f6d4-ff08-516c-b0da-3a8eefa9205b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023014057"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020005620"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000775"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1703088000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1596729600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1410710400"
+      }
+    ],
+    "category3Name": "化妆水/爽肤水",
+    "price": "",
+    "sda_approval_date": 1703088000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "补水",
+        "id": 5201
+      },
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      },
+      {
+        "name": "冰爽",
+        "id": 5336
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "e1abf1b8840e18b91faea101bbac40ea",
+        "sku_id": 32415699,
+        "attribute_type": "9",
+        "attribute_val": "1703088000"
+      },
+      {
+        "mid": "e1abf1b8840e18b91faea101bbac40ea",
+        "sku_id": 32415699,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023014057"
+      },
+      {
+        "mid": "46e36c2094820978bace0e1c8492a6da",
+        "sku_id": 3884693,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2020005620"
+      },
+      {
+        "mid": "64989c5f7e99a8085b61aeda9a7b08c0",
+        "sku_id": 223693,
+        "attribute_type": "9",
+        "attribute_val": "1410710400"
+      },
+      {
+        "mid": "46e36c2094820978bace0e1c8492a6da",
+        "sku_id": 3884693,
+        "attribute_type": "9",
+        "attribute_val": "1596729600"
+      },
+      {
+        "mid": "64989c5f7e99a8085b61aeda9a7b08c0",
+        "sku_id": 223693,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000775"
+      }
+    ],
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/3f3d4683-45ad-5923-a3d8-162af579c1ad.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/12720103-4e5e-53e9-99c6-af7e061248e0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/51ff3b97-4e2d-520e-b86a-7ebe62a14061.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/759f5e00-2527-5571-9b61-9abbb99d0b6d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a9fb6cbb-5365-5d54-a53e-3b61c5cc7bac.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b13bc565-eb1f-5e06-9b34-9886e8e9ffe0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c57c3d8d-39ee-5294-a8ba-68aef491aa4b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e32d4006-413a-5753-a4a1-4f46296bc880.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f0325055-e22e-5483-a26d-c946f9952286.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fee3a197-d089-52a3-9d3d-1876ad18dab6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/264149fd-c3ec-5aad-b310-870a573934cb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/618f83b4-4a27-59f1-9e22-acce6ae38d92.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/07b47c76-702d-5ac9-89d0-a00aba5190fc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3c659416-71ce-5c57-9bc0-43fdd9ff3f97.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6092c548-8fd7-5339-b348-b6a0d4bed13b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7899f6d4-ff08-516c-b0da-3a8eefa9205b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7fe8ddea-ee3e-5e7e-88e5-6d5bbe5fd5ac.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b330d53b-ee37-5849-990f-998c4d5aae86.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b8430ba3-169e-5291-b391-56729618e9ed.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ca2c6211-6345-5749-ab14-727d86dd269a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士水能保湿酷爽水凝露",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/b13bc565-eb1f-5e06-9b34-9886e8e9ffe0.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5308,5201,5336",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.1,
+    "mid": "e1abf1b8840e18b91faea101bbac40ea",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023014057",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士水能保湿酷爽水凝露",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 139,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护肤水/爽肤水",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 23,
+    "registered_day": 20231221,
+    "goods_form": "25"
+  },
+  "success": true
+}

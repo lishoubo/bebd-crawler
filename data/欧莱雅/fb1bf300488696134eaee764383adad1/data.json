@@ -1,0 +1,194 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DWx79s1nO58Fw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZ8PlkM1ilE95x%2BIUlGKNpWw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6fTUvkTh4uiECf%2BLmZOGAMjgbnmM3bI4xsTESmMa88CwUX3hHubtptEONdbB2Ebp5nkThY6Ekzd9ffOrKRNAU4m5KHOQOD12OFbqFb8gL1GDhb9TtZnpMXlNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753117525@212b46e6_1885_1982df284c6_9e78@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/PjJxSsvRXM8?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=9304A20149B47E03056C5A1D5D689FCD"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASAJK1olWAUKVV5cCU0RC18LElsdXgYDZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLXg8CXF1dCVRORjNVKwVPIFJUMRg-ay5hAzdeSTAcAX5QXAhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kBE1wSWAIKVF1VCHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlxFCQICUwszVA8TQW0BQgl7WgALU1dcCnsVAm4KGWslbUNWCysfUwBOdTcAQjxLGH9QFSwafzVrWW1KXCF1MwRxK18adwNfW2wBEi5oHkR7I25dOEsVA2g4Gms"
+      }
+    ],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003901"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000549"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201812991"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1537977600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      }
+    ],
+    "category3Name": "卸妆",
+    "price": "¥258",
+    "sda_approval_date": 1537977600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      },
+      {
+        "name": "清洁",
+        "id": 5206
+      },
+      {
+        "name": "收敛毛孔",
+        "id": 5213
+      },
+      {
+        "name": "卸妆",
+        "id": 5214
+      },
+      {
+        "name": "去角质",
+        "id": 5221
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "9",
+        "attribute_val": "1458489600"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018003901"
+      },
+      {
+        "mid": "b3a234a2aaedc442e33deed566cfa8a4",
+        "sku_id": 1153210,
+        "attribute_type": "9",
+        "attribute_val": "1530720000"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J201812991"
+      },
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "9a77b9ba6fdbc87cc91ba01e1fbd8a2d",
+        "sku_id": 508576,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016000549"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "2",
+        "attribute_val": "倍润型"
+      },
+      {
+        "mid": "fb1bf300488696134eaee764383adad1",
+        "sku_id": 2539096,
+        "attribute_type": "9",
+        "attribute_val": "1537977600"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_79121c88-f75e-4624-a0a3-a8dae46cefd3.png?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色\"}, {\"name\": \"性状\", \"condition\": \"透明液体\"}, {\"name\": \"气味\", \"condition\": \"无气味\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "L‘OREAL MICELLAR WATER NORMAL TO DRY SKIN",
+    "name": "欧莱雅三合一卸妆洁颜水（倍润型）",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204,5214,5221,5213,5206",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "无。",
+    "safety_1_num": 4.8,
+    "mid": "fb1bf300488696134eaee764383adad1",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "800ml",
+    "sda_approval_no": "国妆备进字J201812991",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "L‘OREAL MICELLAR WATER NORMAL TO DRY SKIN@!@l‘oreal micellar water normal to dry skin@!@欧莱雅三合一卸妆洁颜水（倍润型）",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 113,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "卸妆水/液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "本品适合中性及干性肌肤。取适量产品浸润化妆棉，用化妆棉擦拭脸以及眼唇彩妆。无需后续冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温。",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20180927,
+    "goods_form": ""
+  },
+  "success": true
+}

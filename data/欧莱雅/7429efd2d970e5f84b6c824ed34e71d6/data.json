@@ -1,0 +1,142 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,128,52,46,45,130,129,53,48,54,126,43",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/de98ec10-2811-55f0-830b-ec9e809477d1.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "洁面",
+    "price": "",
+    "sda_approval_date": 1695657600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "男士",
+        "id": 5308
+      },
+      {
+        "name": "干性",
+        "id": 5312
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/2354db84-f048-5ce6-a211-5bed4e16be5b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3542c92f-8014-5b43-be5b-3a685ceabd3b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0ed11723-943c-5837-a4a3-07badd13657f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a029baa-6c1b-5fd3-ad37-78cad389a334.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a5162204-bb9e-5126-8995-935e134bfdae.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bc60cf77-2730-590f-a591-033f951b5cb2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ad7bb6d1-98e2-5334-a36a-64d7a4655190.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1f9a9aea-06ab-5367-a95f-765452554721.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/22ce9bfb-c3a5-5280-9c40-c046c18f4f95.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6d1d746d-0b5c-576a-950a-99de3c35ddf0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e9d8d4ce-2861-5d10-beca-3da39b4e7588.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "凝胶",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士氨基净澈洁面啫喱干性皮肤型",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/0ed11723-943c-5837-a4a3-07badd13657f.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5312",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.6,
+    "mid": "7429efd2d970e5f84b6c824ed34e71d6",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023009583",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 100,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "洁面啫喱/凝胶",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 18,
+    "registered_day": 20230926,
+    "goods_form": "25"
+  },
+  "success": true
+}

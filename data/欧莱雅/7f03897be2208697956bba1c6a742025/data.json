@@ -1,0 +1,2969 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,47,129",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/25c4b3ca-632c-55e5-9c8d-cf5f01b2ce7c.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "1",
+        "attribute_val": "RB602"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R601"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R520"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R511"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P603"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P420"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P411"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P403"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P201"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "M601"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "G101"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "F401"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "CR410"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C402"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "BP402"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "B410"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "B404"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "B403"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "B402"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "B102"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "666缎光"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "666哑光"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "RC301"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R401"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P511"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "P404"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "M406"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "M402"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "M401"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C401"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "BP301"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "RB402"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "RB301"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R513"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "R301"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "C411"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "01"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "02"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "03"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "04"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "05"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "101"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "137"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "156"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "158"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "160"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "161"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "164"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "178"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "213"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "215"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "217"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "220"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "233"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "238"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "239"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "246"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "294"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "302"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "312"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "315"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "317"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "319"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "396"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "601"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "602"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "603"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "604"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "606"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "608"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "609"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "611"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "615"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "618"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "619"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "620"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "622"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "623"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "624"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "628"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "634"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "635"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "648"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "649"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "651"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "666"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "701"
+      },
+      {
+        "attribute_type": "1",
+        "attribute_val": "702"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001838"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001837"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001836"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000598"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002481"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001832"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001556"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001555"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001554"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001553"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001552"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001551"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001550"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001549"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001548"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001547"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001546"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001545"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000277"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000276"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000275"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000274"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000273"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000272"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000271"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000270"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000267"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000266"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000265"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000264"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000263"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000262"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000261"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000260"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000259"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000258"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000257"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002099"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002098"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002097"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002096"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002095"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000676"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000673"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000671"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000669"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000668"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000667"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018003311"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018003310"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000848"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000847"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000846"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000845"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000844"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000843"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000842"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000841"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000840"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000839"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002251"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002250"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002249"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001985"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001984"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000519"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000518"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000517"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000516"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000515"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000514"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000513"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000512"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000511"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000510"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001775"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001774"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001773"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001772"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001771"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001770"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001769"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001768"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001767"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001766"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001765"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001764"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000086"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000085"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000084"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000083"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001365"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001360"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001359"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001358"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000889"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000888"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000887"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000886"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000885"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000884"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000883"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000882"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000876"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000875"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000874"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000873"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000872"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000871"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000870"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000869"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1670256000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1617292800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1606320000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1599148800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1541347200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1510761600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1507737600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1453651200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1433779200"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      }
+    ],
+    "category3Name": "唇部护理",
+    "price": "",
+    "sda_approval_date": 1581523200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "2d6c1eda852551b71604306bb1a79cae",
+        "sku_id": 695930,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001772"
+      },
+      {
+        "mid": "4b792094a248a546a0275a60a356389a",
+        "sku_id": 764292,
+        "attribute_type": "1",
+        "attribute_val": "604"
+      },
+      {
+        "mid": "c1613d1d9b5bdd4ee77e246c78de03a4",
+        "sku_id": 1058804,
+        "attribute_type": "1",
+        "attribute_val": "618"
+      },
+      {
+        "mid": "c1613d1d9b5bdd4ee77e246c78de03a4",
+        "sku_id": 1058804,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002250"
+      },
+      {
+        "mid": "38b9f40fa1fb879d0d5356e0104861d4",
+        "sku_id": 1027135,
+        "attribute_type": "1",
+        "attribute_val": "M406"
+      },
+      {
+        "mid": "38b9f40fa1fb879d0d5356e0104861d4",
+        "sku_id": 1027135,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001985"
+      },
+      {
+        "mid": "da690ccd7b12be659af7be27447aa09a",
+        "sku_id": 124869,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "a920bdd049ed5eaba792dd8eacfd31ab",
+        "sku_id": 125368,
+        "attribute_type": "1",
+        "attribute_val": "M401"
+      },
+      {
+        "mid": "a920bdd049ed5eaba792dd8eacfd31ab",
+        "sku_id": 125368,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000876"
+      },
+      {
+        "mid": "b0c8544a1c1bc40d0d28c841ea677b50",
+        "sku_id": 126119,
+        "attribute_type": "1",
+        "attribute_val": "M406"
+      },
+      {
+        "mid": "252746b829086c7fb9ad22b675508d9d",
+        "sku_id": 2835397,
+        "attribute_type": "1",
+        "attribute_val": "04"
+      },
+      {
+        "mid": "252746b829086c7fb9ad22b675508d9d",
+        "sku_id": 2835397,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002096"
+      },
+      {
+        "mid": "33dee07ff15fa7399f03ef391bb6ec24",
+        "sku_id": 3191379,
+        "attribute_type": "1",
+        "attribute_val": "120"
+      },
+      {
+        "mid": "61b0ed149e07245933191ae8c8d71478",
+        "sku_id": 3256901,
+        "attribute_type": "1",
+        "attribute_val": "RB301"
+      },
+      {
+        "mid": "e585ccc4ea9b00a4742a29d5179818c4",
+        "sku_id": 3242024,
+        "attribute_type": "1",
+        "attribute_val": "R601"
+      },
+      {
+        "mid": "e585ccc4ea9b00a4742a29d5179818c4",
+        "sku_id": 3242024,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000257"
+      },
+      {
+        "mid": "bad564d03aa4ad6bf4f75775eee88030",
+        "sku_id": 763427,
+        "attribute_type": "1",
+        "attribute_val": "609"
+      },
+      {
+        "mid": "bad564d03aa4ad6bf4f75775eee88030",
+        "sku_id": 763427,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000516"
+      },
+      {
+        "mid": "bad564d03aa4ad6bf4f75775eee88030",
+        "sku_id": 763427,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "ac39c897ff48e836538b08580df8094b",
+        "sku_id": 695925,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "83677b71cef41b4672516ea2b817536a",
+        "sku_id": 3215849,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000273"
+      },
+      {
+        "mid": "e3987a869c07a305619e11ca967c6d76",
+        "sku_id": 3888473,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001550"
+      },
+      {
+        "mid": "e3987a869c07a305619e11ca967c6d76",
+        "sku_id": 3888473,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "0181df1adb8988b3146712a961ac49fa",
+        "sku_id": 765089,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "3f24e2e7c265b1813b6262ac5e49de03",
+        "sku_id": 2341069,
+        "attribute_type": "1",
+        "attribute_val": "634"
+      },
+      {
+        "mid": "677aa355a5627dcb6bc88985f16487d8",
+        "sku_id": 182790,
+        "attribute_type": "1",
+        "attribute_val": "702"
+      },
+      {
+        "mid": "e63608e47e8c0c4bfaaf2bc20d69cde0",
+        "sku_id": 3256899,
+        "attribute_type": "1",
+        "attribute_val": "602"
+      },
+      {
+        "mid": "e63608e47e8c0c4bfaaf2bc20d69cde0",
+        "sku_id": 3256899,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "e4ed7fb081a13167f6ddeb41528217bc",
+        "sku_id": 126232,
+        "attribute_type": "1",
+        "attribute_val": "R301"
+      },
+      {
+        "mid": "f3c523f88cded20e74ddb3f174ebb5f7",
+        "sku_id": 764288,
+        "attribute_type": "1",
+        "attribute_val": "603"
+      },
+      {
+        "mid": "f3c523f88cded20e74ddb3f174ebb5f7",
+        "sku_id": 764288,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "cf99bfda3b9a113081b6accf469b0682",
+        "sku_id": 182791,
+        "attribute_type": "9",
+        "attribute_val": "1433779200"
+      },
+      {
+        "mid": "fa6421438f1be0e454abcc9ae0a75f6f",
+        "sku_id": 3888471,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "71db979e208aba52f8c6de0723edb02f",
+        "sku_id": 125488,
+        "attribute_type": "1",
+        "attribute_val": "B402"
+      },
+      {
+        "mid": "71db979e208aba52f8c6de0723edb02f",
+        "sku_id": 125488,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "965a7531abcd7ca7d825007b4c00a32f",
+        "sku_id": 509882,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000083"
+      },
+      {
+        "mid": "4a24e7aff45809ef1b7a9efcff1b97f7",
+        "sku_id": 1153242,
+        "attribute_type": "1",
+        "attribute_val": "M402"
+      },
+      {
+        "mid": "9d7fa402a312386dfbdaac9d4a3bee3c",
+        "sku_id": 31343811,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001837"
+      },
+      {
+        "mid": "9d7fa402a312386dfbdaac9d4a3bee3c",
+        "sku_id": 31343811,
+        "attribute_type": "9",
+        "attribute_val": "1670256000"
+      },
+      {
+        "mid": "a74d35b4faf39c2dbd7da6a2e905900f",
+        "sku_id": 1085374,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "da23aeb15c393733a5a02c2484a2546a",
+        "sku_id": 3185538,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000264"
+      },
+      {
+        "mid": "da23aeb15c393733a5a02c2484a2546a",
+        "sku_id": 3185538,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "db1a355f639c7f4902098c059870704d",
+        "sku_id": 4061186,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "3f8e66a4197e2e1a675f759a1634e1ca",
+        "sku_id": 3888477,
+        "attribute_type": "1",
+        "attribute_val": "233"
+      },
+      {
+        "mid": "2f75e9839f09eccac61053de2d31e47f",
+        "sku_id": 2341073,
+        "attribute_type": "1",
+        "attribute_val": "651"
+      },
+      {
+        "mid": "2f75e9839f09eccac61053de2d31e47f",
+        "sku_id": 2341073,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000667"
+      },
+      {
+        "mid": "d94719231476e1bd51380d271c35ea9a",
+        "sku_id": 3219394,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "08d39643ce01661d28c42e5a301f2232",
+        "sku_id": 695927,
+        "attribute_type": "1",
+        "attribute_val": "P420"
+      },
+      {
+        "mid": "5c7c16ba975575a13e85a089a9c97bd3",
+        "sku_id": 124915,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "e5a8ab1a3c5f3422c3d2219e2924153c",
+        "sku_id": 1058805,
+        "attribute_type": "1",
+        "attribute_val": "623"
+      },
+      {
+        "mid": "934feef4d41007dd3ba264b6cb25f05b",
+        "sku_id": 1085375,
+        "attribute_type": "1",
+        "attribute_val": "P404"
+      },
+      {
+        "mid": "4f4fd5e4d2b7361557faeaf250110455",
+        "sku_id": 764291,
+        "attribute_type": "1",
+        "attribute_val": "606"
+      },
+      {
+        "mid": "4f4fd5e4d2b7361557faeaf250110455",
+        "sku_id": 764291,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000514"
+      },
+      {
+        "mid": "6c9dfe8e3a19674b9e029c9f1479f805",
+        "sku_id": 3888469,
+        "attribute_type": "1",
+        "attribute_val": "312"
+      },
+      {
+        "mid": "6c9dfe8e3a19674b9e029c9f1479f805",
+        "sku_id": 3888469,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001545"
+      },
+      {
+        "mid": "6c9dfe8e3a19674b9e029c9f1479f805",
+        "sku_id": 3888469,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "31c948d8ad0cde4c67d76f96de9319c5",
+        "sku_id": 125364,
+        "attribute_type": "1",
+        "attribute_val": "BP301"
+      },
+      {
+        "mid": "31c948d8ad0cde4c67d76f96de9319c5",
+        "sku_id": 125364,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "4c04ab1b844f1a51e22870a6a92e89c7",
+        "sku_id": 2341068,
+        "attribute_type": "1",
+        "attribute_val": "624"
+      },
+      {
+        "mid": "9ff422a5d12397c09757984224820625",
+        "sku_id": 2341070,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000673"
+      },
+      {
+        "mid": "58a168a2533377ed93d1dcfff70360cd",
+        "sku_id": 125366,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000874"
+      },
+      {
+        "mid": "813d5467451fcb6d87f61457eb3367d1",
+        "sku_id": 1195435,
+        "attribute_type": "1",
+        "attribute_val": "R513"
+      },
+      {
+        "mid": "813d5467451fcb6d87f61457eb3367d1",
+        "sku_id": 1195435,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000841"
+      },
+      {
+        "mid": "f8c1b740c98b7f159f3a06bb9d395e68",
+        "sku_id": 1195436,
+        "attribute_type": "1",
+        "attribute_val": "RB402"
+      },
+      {
+        "mid": "3335b2e974079f2d169c24f33a022923",
+        "sku_id": 2835400,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002099"
+      },
+      {
+        "mid": "3335b2e974079f2d169c24f33a022923",
+        "sku_id": 2835400,
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "mid": "939b344419a5e07650404d00b2135789",
+        "sku_id": 3888476,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "b0d51b30d5450eb5d647c33ac0a257c1",
+        "sku_id": 124870,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000884"
+      },
+      {
+        "mid": "35c244c7f06c4ea77174bbcc3c7aab73",
+        "sku_id": 509883,
+        "attribute_type": "1",
+        "attribute_val": "P403"
+      },
+      {
+        "mid": "35c244c7f06c4ea77174bbcc3c7aab73",
+        "sku_id": 509883,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000084"
+      },
+      {
+        "mid": "afed0d31a96335989582e3f41b2e53e3",
+        "sku_id": 2341071,
+        "attribute_type": "1",
+        "attribute_val": "648"
+      },
+      {
+        "mid": "afed0d31a96335989582e3f41b2e53e3",
+        "sku_id": 2341071,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000668"
+      },
+      {
+        "mid": "afed0d31a96335989582e3f41b2e53e3",
+        "sku_id": 2341071,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "aa548adca80ce43aa8193243e3907c52",
+        "sku_id": 3185537,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000263"
+      },
+      {
+        "mid": "0876c85a23fbf74891d75dbc2c345e59",
+        "sku_id": 3888479,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001556"
+      },
+      {
+        "mid": "0acb5e2ed2ea62d147ac60b1d8acd64f",
+        "sku_id": 765090,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000515"
+      },
+      {
+        "mid": "166b73cc8d92d5f4077093b6563fa51b",
+        "sku_id": 1085377,
+        "attribute_type": "1",
+        "attribute_val": "R301"
+      },
+      {
+        "mid": "166b73cc8d92d5f4077093b6563fa51b",
+        "sku_id": 1085377,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000842"
+      },
+      {
+        "mid": "166b73cc8d92d5f4077093b6563fa51b",
+        "sku_id": 1085377,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "cc81ad1a890e84ff8cd147723c913b9f",
+        "sku_id": 2835398,
+        "attribute_type": "1",
+        "attribute_val": "03"
+      },
+      {
+        "mid": "43262cd248c717a025fc9c5102ea4ea9",
+        "sku_id": 3888478,
+        "attribute_type": "1",
+        "attribute_val": "315"
+      },
+      {
+        "mid": "3ddb9e805e77ac9381b0187dfd2f0058",
+        "sku_id": 2835399,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002098"
+      },
+      {
+        "mid": "3ddb9e805e77ac9381b0187dfd2f0058",
+        "sku_id": 2835399,
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "mid": "5f0d8946d698a541deae61ac1fce017a",
+        "sku_id": 125367,
+        "attribute_type": "1",
+        "attribute_val": "M402"
+      },
+      {
+        "mid": "f921f940b4f2df3b4ad5025ac5ffcdda",
+        "sku_id": 3242025,
+        "attribute_type": "1",
+        "attribute_val": "156"
+      },
+      {
+        "mid": "1990d1524c44c9b35623053afdce2d2b",
+        "sku_id": 125365,
+        "attribute_type": "1",
+        "attribute_val": "B403"
+      },
+      {
+        "mid": "1990d1524c44c9b35623053afdce2d2b",
+        "sku_id": 125365,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000873"
+      },
+      {
+        "mid": "957879ed76c646f73835b4eb66809738",
+        "sku_id": 764290,
+        "attribute_type": "1",
+        "attribute_val": "601"
+      },
+      {
+        "mid": "957879ed76c646f73835b4eb66809738",
+        "sku_id": 764290,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "e82991fe7a729dbc23d58a895f9ba92c",
+        "sku_id": 695932,
+        "attribute_type": "1",
+        "attribute_val": "CR410"
+      },
+      {
+        "mid": "bffc644bb363309fa6a02957b36eed48",
+        "sku_id": 764289,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "35c9508aeeeccf6b08c45a610a2055dd",
+        "sku_id": 2341072,
+        "attribute_type": "1",
+        "attribute_val": "649"
+      },
+      {
+        "mid": "35c9508aeeeccf6b08c45a610a2055dd",
+        "sku_id": 2341072,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "4c3d1552e94dc016c8e8f12953e97cfd",
+        "sku_id": 3215847,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000271"
+      },
+      {
+        "mid": "d295ef090a8f013063a00901ec13bd81",
+        "sku_id": 1195433,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "c594903cb86f331d6c1a3b666f3fdae3",
+        "sku_id": 125363,
+        "attribute_type": "1",
+        "attribute_val": "RB301"
+      },
+      {
+        "mid": "c594903cb86f331d6c1a3b666f3fdae3",
+        "sku_id": 125363,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000871"
+      },
+      {
+        "mid": "c594903cb86f331d6c1a3b666f3fdae3",
+        "sku_id": 125363,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "1d7851d97bcca3304eb826c25cb3de7d",
+        "sku_id": 3215850,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000276"
+      },
+      {
+        "mid": "16a228aa9176f75af3f71e97882b21d3",
+        "sku_id": 3159189,
+        "attribute_type": "1",
+        "attribute_val": "G101"
+      },
+      {
+        "mid": "441c0cbadbfe28d2c032dc0dadb04054",
+        "sku_id": 695933,
+        "attribute_type": "1",
+        "attribute_val": "C402"
+      },
+      {
+        "mid": "503f9a62c642c11dbae89067d2ee6217",
+        "sku_id": 763420,
+        "attribute_type": "1",
+        "attribute_val": "619"
+      },
+      {
+        "mid": "f4005ac78f59c1cb8e7d97c9b93b5dd3",
+        "sku_id": 3215846,
+        "attribute_type": "1",
+        "attribute_val": "137"
+      },
+      {
+        "mid": "a784477b4b9de1c0f23e67d3ca955c24",
+        "sku_id": 182792,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001360"
+      },
+      {
+        "mid": "a784477b4b9de1c0f23e67d3ca955c24",
+        "sku_id": 182792,
+        "attribute_type": "9",
+        "attribute_val": "1433779200"
+      },
+      {
+        "mid": "25c176d3f53799200234bbda71a6ea49",
+        "sku_id": 3242026,
+        "attribute_type": "1",
+        "attribute_val": "158"
+      },
+      {
+        "mid": "b0d82b4104eafe09ba079a379d4a718f",
+        "sku_id": 182746,
+        "attribute_type": "1",
+        "attribute_val": "101"
+      },
+      {
+        "mid": "da690ccd7b12be659af7be27447aa09a",
+        "sku_id": 124869,
+        "attribute_type": "1",
+        "attribute_val": "RB402"
+      },
+      {
+        "mid": "fd813ae8426ce2e93691555c2de91107",
+        "sku_id": 2448507,
+        "attribute_type": "9",
+        "attribute_val": "1541347200"
+      },
+      {
+        "mid": "252746b829086c7fb9ad22b675508d9d",
+        "sku_id": 2835397,
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "mid": "33dee07ff15fa7399f03ef391bb6ec24",
+        "sku_id": 3191379,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "ed8b8139118c110a902d82357616d2ef",
+        "sku_id": 3256900,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000266"
+      },
+      {
+        "mid": "61b0ed149e07245933191ae8c8d71478",
+        "sku_id": 3256901,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "ac39c897ff48e836538b08580df8094b",
+        "sku_id": 695925,
+        "attribute_type": "1",
+        "attribute_val": "RB602"
+      },
+      {
+        "mid": "ac39c897ff48e836538b08580df8094b",
+        "sku_id": 695925,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001774"
+      },
+      {
+        "mid": "28e7153a1d81b8708100e9ec4b1970eb",
+        "sku_id": 2835396,
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "mid": "21b2ee791a83f5701944e09991acec64",
+        "sku_id": 1085376,
+        "attribute_type": "1",
+        "attribute_val": "P511"
+      },
+      {
+        "mid": "21b2ee791a83f5701944e09991acec64",
+        "sku_id": 1085376,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "db1a355f639c7f4902098c059870704d",
+        "sku_id": 4061186,
+        "attribute_type": "1",
+        "attribute_val": "239"
+      },
+      {
+        "mid": "e92a6d3a989de6075405809e07db8799",
+        "sku_id": 124914,
+        "attribute_type": "1",
+        "attribute_val": "C401"
+      },
+      {
+        "mid": "e92a6d3a989de6075405809e07db8799",
+        "sku_id": 124914,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000887"
+      },
+      {
+        "mid": "e92a6d3a989de6075405809e07db8799",
+        "sku_id": 124914,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "279b968fda6e839ffd92d465bc643c99",
+        "sku_id": 3185540,
+        "attribute_type": "1",
+        "attribute_val": "619"
+      },
+      {
+        "mid": "279b968fda6e839ffd92d465bc643c99",
+        "sku_id": 3185540,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000270"
+      },
+      {
+        "mid": "3f8e66a4197e2e1a675f759a1634e1ca",
+        "sku_id": 3888477,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001554"
+      },
+      {
+        "mid": "2f75e9839f09eccac61053de2d31e47f",
+        "sku_id": 2341073,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "d94719231476e1bd51380d271c35ea9a",
+        "sku_id": 3219394,
+        "attribute_type": "1",
+        "attribute_val": "R513"
+      },
+      {
+        "mid": "d94719231476e1bd51380d271c35ea9a",
+        "sku_id": 3219394,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000274"
+      },
+      {
+        "mid": "83677b71cef41b4672516ea2b817536a",
+        "sku_id": 3215849,
+        "attribute_type": "1",
+        "attribute_val": "R301"
+      },
+      {
+        "mid": "e3987a869c07a305619e11ca967c6d76",
+        "sku_id": 3888473,
+        "attribute_type": "1",
+        "attribute_val": "246"
+      },
+      {
+        "mid": "d1a7faf622acdea85076dfbbec931812",
+        "sku_id": 31343888,
+        "attribute_type": "9",
+        "attribute_val": "1670256000"
+      },
+      {
+        "mid": "3f24e2e7c265b1813b6262ac5e49de03",
+        "sku_id": 2341069,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000669"
+      },
+      {
+        "mid": "0d27e697cd42b6393ffb3c8dda6b55ff",
+        "sku_id": 695545,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001764"
+      },
+      {
+        "mid": "0d27e697cd42b6393ffb3c8dda6b55ff",
+        "sku_id": 695545,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "cf99bfda3b9a113081b6accf469b0682",
+        "sku_id": 182791,
+        "attribute_type": "1",
+        "attribute_val": "701"
+      },
+      {
+        "mid": "fa6421438f1be0e454abcc9ae0a75f6f",
+        "sku_id": 3888471,
+        "attribute_type": "1",
+        "attribute_val": "215"
+      },
+      {
+        "mid": "965a7531abcd7ca7d825007b4c00a32f",
+        "sku_id": 509882,
+        "attribute_type": "9",
+        "attribute_val": "1453651200"
+      },
+      {
+        "mid": "9d7fa402a312386dfbdaac9d4a3bee3c",
+        "sku_id": 31343811,
+        "attribute_type": "1",
+        "attribute_val": "615"
+      },
+      {
+        "mid": "6650defb97c785a558d214197583af28",
+        "sku_id": 509884,
+        "attribute_type": "9",
+        "attribute_val": "1453651200"
+      },
+      {
+        "mid": "270bb10e51b1846daa9f87a23ae98138",
+        "sku_id": 31339748,
+        "attribute_type": "1",
+        "attribute_val": "396"
+      },
+      {
+        "mid": "e4ed7fb081a13167f6ddeb41528217bc",
+        "sku_id": 126232,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000869"
+      },
+      {
+        "mid": "a41b80a9739d8ab4b0b78e51219323fb",
+        "sku_id": 3888470,
+        "attribute_type": "1",
+        "attribute_val": "238"
+      },
+      {
+        "mid": "4f4fd5e4d2b7361557faeaf250110455",
+        "sku_id": 764291,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "dd442b786eba4e4ce70f10025e408475",
+        "sku_id": 124871,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000885"
+      },
+      {
+        "mid": "dd442b786eba4e4ce70f10025e408475",
+        "sku_id": 124871,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "d05d3b326467d77976857bd092998283",
+        "sku_id": 509885,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000086"
+      },
+      {
+        "mid": "d05d3b326467d77976857bd092998283",
+        "sku_id": 509885,
+        "attribute_type": "9",
+        "attribute_val": "1453651200"
+      },
+      {
+        "mid": "4c04ab1b844f1a51e22870a6a92e89c7",
+        "sku_id": 2341068,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000671"
+      },
+      {
+        "mid": "4c04ab1b844f1a51e22870a6a92e89c7",
+        "sku_id": 2341068,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "9ff422a5d12397c09757984224820625",
+        "sku_id": 2341070,
+        "attribute_type": "1",
+        "attribute_val": "635"
+      },
+      {
+        "mid": "9ff422a5d12397c09757984224820625",
+        "sku_id": 2341070,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "558747e470b540cf05561d43ebe4a2ec",
+        "sku_id": 696152,
+        "attribute_type": "1",
+        "attribute_val": "R520"
+      },
+      {
+        "mid": "ec15571fa1fb10f4c71d88d4731066fa",
+        "sku_id": 695544,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001765"
+      },
+      {
+        "mid": "ec15571fa1fb10f4c71d88d4731066fa",
+        "sku_id": 695544,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "f8c1b740c98b7f159f3a06bb9d395e68",
+        "sku_id": 1195436,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000839"
+      },
+      {
+        "mid": "3335b2e974079f2d169c24f33a022923",
+        "sku_id": 2835400,
+        "attribute_type": "1",
+        "attribute_val": "01"
+      },
+      {
+        "mid": "35c244c7f06c4ea77174bbcc3c7aab73",
+        "sku_id": 509883,
+        "attribute_type": "9",
+        "attribute_val": "1453651200"
+      },
+      {
+        "mid": "c39c1e85c3a38001ed690176ba4f3aec",
+        "sku_id": 3888472,
+        "attribute_type": "1",
+        "attribute_val": "317"
+      },
+      {
+        "mid": "c39c1e85c3a38001ed690176ba4f3aec",
+        "sku_id": 3888472,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001548"
+      },
+      {
+        "mid": "58a168a2533377ed93d1dcfff70360cd",
+        "sku_id": 125366,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "813d5467451fcb6d87f61457eb3367d1",
+        "sku_id": 1195435,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "f50886f794811ceb5236716c402aa0de",
+        "sku_id": 695928,
+        "attribute_type": "1",
+        "attribute_val": "P411"
+      },
+      {
+        "mid": "f50886f794811ceb5236716c402aa0de",
+        "sku_id": 695928,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001769"
+      },
+      {
+        "mid": "e5a8ab1a3c5f3422c3d2219e2924153c",
+        "sku_id": 1058805,
+        "attribute_type": "9",
+        "attribute_val": "1510761600"
+      },
+      {
+        "mid": "934feef4d41007dd3ba264b6cb25f05b",
+        "sku_id": 1085375,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000844"
+      },
+      {
+        "mid": "934feef4d41007dd3ba264b6cb25f05b",
+        "sku_id": 1085375,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "08d39643ce01661d28c42e5a301f2232",
+        "sku_id": 695927,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001771"
+      },
+      {
+        "mid": "08d39643ce01661d28c42e5a301f2232",
+        "sku_id": 695927,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "5a9098cfeb3284ebc75f8f910b17f4db",
+        "sku_id": 695934,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001766"
+      },
+      {
+        "mid": "7d1fcd329852fcabc5701a3d68d0457d",
+        "sku_id": 3233977,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "188402dd61d24146c25c460ddf894f51",
+        "sku_id": 695924,
+        "attribute_type": "1",
+        "attribute_val": "R401"
+      },
+      {
+        "mid": "188402dd61d24146c25c460ddf894f51",
+        "sku_id": 695924,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "2d6c1eda852551b71604306bb1a79cae",
+        "sku_id": 695930,
+        "attribute_type": "1",
+        "attribute_val": "F401"
+      },
+      {
+        "mid": "4b792094a248a546a0275a60a356389a",
+        "sku_id": 764292,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000513"
+      },
+      {
+        "mid": "4b792094a248a546a0275a60a356389a",
+        "sku_id": 764292,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "aa548adca80ce43aa8193243e3907c52",
+        "sku_id": 3185537,
+        "attribute_type": "1",
+        "attribute_val": "160"
+      },
+      {
+        "mid": "aa548adca80ce43aa8193243e3907c52",
+        "sku_id": 3185537,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "0acb5e2ed2ea62d147ac60b1d8acd64f",
+        "sku_id": 765090,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "b522601c7093f6e75cd7524c6c21d97e",
+        "sku_id": 124872,
+        "attribute_type": "1",
+        "attribute_val": "R513"
+      },
+      {
+        "mid": "b522601c7093f6e75cd7524c6c21d97e",
+        "sku_id": 124872,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "81467d8dd7d88a718c0b10dcf18f4aa8",
+        "sku_id": 1027134,
+        "attribute_type": "1",
+        "attribute_val": "C411"
+      },
+      {
+        "mid": "cc81ad1a890e84ff8cd147723c913b9f",
+        "sku_id": 2835398,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002097"
+      },
+      {
+        "mid": "cc81ad1a890e84ff8cd147723c913b9f",
+        "sku_id": 2835398,
+        "attribute_type": "9",
+        "attribute_val": "1564588800"
+      },
+      {
+        "mid": "43262cd248c717a025fc9c5102ea4ea9",
+        "sku_id": 3888478,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001555"
+      },
+      {
+        "mid": "43262cd248c717a025fc9c5102ea4ea9",
+        "sku_id": 3888478,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "25605737c35c8e901d257ac34fbded3d",
+        "sku_id": 4199107,
+        "attribute_type": "1",
+        "attribute_val": "319"
+      },
+      {
+        "mid": "25605737c35c8e901d257ac34fbded3d",
+        "sku_id": 4199107,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020002481"
+      },
+      {
+        "mid": "5f0d8946d698a541deae61ac1fce017a",
+        "sku_id": 125367,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000875"
+      },
+      {
+        "mid": "f921f940b4f2df3b4ad5025ac5ffcdda",
+        "sku_id": 3242025,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000262"
+      },
+      {
+        "mid": "de56b9175d02807d6782e069eee263c0",
+        "sku_id": 695929,
+        "attribute_type": "1",
+        "attribute_val": "P603"
+      },
+      {
+        "mid": "686d421ad7f591cacc4b9bd384affc63",
+        "sku_id": 1085378,
+        "attribute_type": "1",
+        "attribute_val": "RB301"
+      },
+      {
+        "mid": "e82991fe7a729dbc23d58a895f9ba92c",
+        "sku_id": 695932,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001767"
+      },
+      {
+        "mid": "bffc644bb363309fa6a02957b36eed48",
+        "sku_id": 764289,
+        "attribute_type": "1",
+        "attribute_val": "628"
+      },
+      {
+        "mid": "bffc644bb363309fa6a02957b36eed48",
+        "sku_id": 764289,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000511"
+      },
+      {
+        "mid": "4c3d1552e94dc016c8e8f12953e97cfd",
+        "sku_id": 3215847,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "d295ef090a8f013063a00901ec13bd81",
+        "sku_id": 1195433,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000847"
+      },
+      {
+        "mid": "eea1a7a93b1ab65843e4922fd38eb047",
+        "sku_id": 765898,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "16a228aa9176f75af3f71e97882b21d3",
+        "sku_id": 3159189,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000259"
+      },
+      {
+        "mid": "16a228aa9176f75af3f71e97882b21d3",
+        "sku_id": 3159189,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "6771adf1c44547172e2619dcb978a5b7",
+        "sku_id": 3961630,
+        "attribute_type": "9",
+        "attribute_val": "1599148800"
+      },
+      {
+        "mid": "5bc3e0aa7ea5b80384cc2f131b7f93bb",
+        "sku_id": 2397717,
+        "attribute_type": "1",
+        "attribute_val": "213"
+      },
+      {
+        "mid": "5bc3e0aa7ea5b80384cc2f131b7f93bb",
+        "sku_id": 2397717,
+        "attribute_type": "9",
+        "attribute_val": "1541347200"
+      },
+      {
+        "mid": "f837010c18d3d0278ae98427db4b90b5",
+        "sku_id": 4365483,
+        "attribute_type": "1",
+        "attribute_val": "666缎光"
+      },
+      {
+        "mid": "f837010c18d3d0278ae98427db4b90b5",
+        "sku_id": 4365483,
+        "attribute_type": "9",
+        "attribute_val": "1617292800"
+      },
+      {
+        "mid": "441c0cbadbfe28d2c032dc0dadb04054",
+        "sku_id": 695933,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001768"
+      },
+      {
+        "mid": "441c0cbadbfe28d2c032dc0dadb04054",
+        "sku_id": 695933,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "503f9a62c642c11dbae89067d2ee6217",
+        "sku_id": 763420,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000517"
+      },
+      {
+        "mid": "503f9a62c642c11dbae89067d2ee6217",
+        "sku_id": 763420,
+        "attribute_type": "9",
+        "attribute_val": "1492617600"
+      },
+      {
+        "mid": "7f03897be2208697956bba1c6a742025",
+        "sku_id": 3189050,
+        "attribute_type": "1",
+        "attribute_val": "RC301"
+      },
+      {
+        "mid": "7f03897be2208697956bba1c6a742025",
+        "sku_id": 3189050,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000277"
+      },
+      {
+        "mid": "f4005ac78f59c1cb8e7d97c9b93b5dd3",
+        "sku_id": 3215846,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000261"
+      },
+      {
+        "mid": "df9fb45a3f1fb112b1995de0f0feafef",
+        "sku_id": 124916,
+        "attribute_type": "1",
+        "attribute_val": "R401"
+      },
+      {
+        "mid": "df9fb45a3f1fb112b1995de0f0feafef",
+        "sku_id": 124916,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000889"
+      },
+      {
+        "mid": "df9fb45a3f1fb112b1995de0f0feafef",
+        "sku_id": 124916,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "357abf73df4c1110f9af3e8d2ea9f705",
+        "sku_id": 3215848,
+        "attribute_type": "1",
+        "attribute_val": "C411"
+      },
+      {
+        "mid": "25c176d3f53799200234bbda71a6ea49",
+        "sku_id": 3242026,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000267"
+      },
+      {
+        "mid": "b0d82b4104eafe09ba079a379d4a718f",
+        "sku_id": 182746,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001365"
+      },
+      {
+        "mid": "b0d82b4104eafe09ba079a379d4a718f",
+        "sku_id": 182746,
+        "attribute_type": "9",
+        "attribute_val": "1433779200"
+      },
+      {
+        "mid": "f3c523f88cded20e74ddb3f174ebb5f7",
+        "sku_id": 764288,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000512"
+      },
+      {
+        "mid": "0d27e697cd42b6393ffb3c8dda6b55ff",
+        "sku_id": 695545,
+        "attribute_type": "1",
+        "attribute_val": "B410"
+      },
+      {
+        "mid": "cf99bfda3b9a113081b6accf469b0682",
+        "sku_id": 182791,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001359"
+      },
+      {
+        "mid": "fa6421438f1be0e454abcc9ae0a75f6f",
+        "sku_id": 3888471,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001547"
+      },
+      {
+        "mid": "71db979e208aba52f8c6de0723edb02f",
+        "sku_id": 125488,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000870"
+      },
+      {
+        "mid": "965a7531abcd7ca7d825007b4c00a32f",
+        "sku_id": 509882,
+        "attribute_type": "1",
+        "attribute_val": "P201"
+      },
+      {
+        "mid": "4a24e7aff45809ef1b7a9efcff1b97f7",
+        "sku_id": 1153242,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000845"
+      },
+      {
+        "mid": "4a24e7aff45809ef1b7a9efcff1b97f7",
+        "sku_id": 1153242,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "677aa355a5627dcb6bc88985f16487d8",
+        "sku_id": 182790,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2015001358"
+      },
+      {
+        "mid": "677aa355a5627dcb6bc88985f16487d8",
+        "sku_id": 182790,
+        "attribute_type": "9",
+        "attribute_val": "1433779200"
+      },
+      {
+        "mid": "6650defb97c785a558d214197583af28",
+        "sku_id": 509884,
+        "attribute_type": "1",
+        "attribute_val": "RC301"
+      },
+      {
+        "mid": "6650defb97c785a558d214197583af28",
+        "sku_id": 509884,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016000085"
+      },
+      {
+        "mid": "e63608e47e8c0c4bfaaf2bc20d69cde0",
+        "sku_id": 3256899,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000260"
+      },
+      {
+        "mid": "270bb10e51b1846daa9f87a23ae98138",
+        "sku_id": 31339748,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001836"
+      },
+      {
+        "mid": "270bb10e51b1846daa9f87a23ae98138",
+        "sku_id": 31339748,
+        "attribute_type": "9",
+        "attribute_val": "1670256000"
+      },
+      {
+        "mid": "e4ed7fb081a13167f6ddeb41528217bc",
+        "sku_id": 126232,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "a41b80a9739d8ab4b0b78e51219323fb",
+        "sku_id": 3888470,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001546"
+      },
+      {
+        "mid": "a41b80a9739d8ab4b0b78e51219323fb",
+        "sku_id": 3888470,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "83677b71cef41b4672516ea2b817536a",
+        "sku_id": 3215849,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "5a9098cfeb3284ebc75f8f910b17f4db",
+        "sku_id": 695934,
+        "attribute_type": "1",
+        "attribute_val": "BP402"
+      },
+      {
+        "mid": "5a9098cfeb3284ebc75f8f910b17f4db",
+        "sku_id": 695934,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "925dbe1e69d16711c69c0def83d7fcbb",
+        "sku_id": 1058803,
+        "attribute_type": "1",
+        "attribute_val": "611"
+      },
+      {
+        "mid": "925dbe1e69d16711c69c0def83d7fcbb",
+        "sku_id": 1058803,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002249"
+      },
+      {
+        "mid": "925dbe1e69d16711c69c0def83d7fcbb",
+        "sku_id": 1058803,
+        "attribute_type": "9",
+        "attribute_val": "1510761600"
+      },
+      {
+        "mid": "7d1fcd329852fcabc5701a3d68d0457d",
+        "sku_id": 3233977,
+        "attribute_type": "1",
+        "attribute_val": "M601"
+      },
+      {
+        "mid": "7d1fcd329852fcabc5701a3d68d0457d",
+        "sku_id": 3233977,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000258"
+      },
+      {
+        "mid": "5c7c16ba975575a13e85a089a9c97bd3",
+        "sku_id": 124915,
+        "attribute_type": "1",
+        "attribute_val": "R511"
+      },
+      {
+        "mid": "5c7c16ba975575a13e85a089a9c97bd3",
+        "sku_id": 124915,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000888"
+      },
+      {
+        "mid": "188402dd61d24146c25c460ddf894f51",
+        "sku_id": 695924,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001773"
+      },
+      {
+        "mid": "61c0a11dc84731a97e1f394e490d2d1b",
+        "sku_id": 1195434,
+        "attribute_type": "1",
+        "attribute_val": "M401"
+      },
+      {
+        "mid": "61c0a11dc84731a97e1f394e490d2d1b",
+        "sku_id": 1195434,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000848"
+      },
+      {
+        "mid": "61c0a11dc84731a97e1f394e490d2d1b",
+        "sku_id": 1195434,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "d1a7faf622acdea85076dfbbec931812",
+        "sku_id": 31343888,
+        "attribute_type": "1",
+        "attribute_val": "666"
+      },
+      {
+        "mid": "d1a7faf622acdea85076dfbbec931812",
+        "sku_id": 31343888,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2022001838"
+      },
+      {
+        "mid": "0181df1adb8988b3146712a961ac49fa",
+        "sku_id": 765089,
+        "attribute_type": "1",
+        "attribute_val": "622"
+      },
+      {
+        "mid": "0181df1adb8988b3146712a961ac49fa",
+        "sku_id": 765089,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000519"
+      },
+      {
+        "mid": "3f24e2e7c265b1813b6262ac5e49de03",
+        "sku_id": 2341069,
+        "attribute_type": "9",
+        "attribute_val": "1551715200"
+      },
+      {
+        "mid": "dd442b786eba4e4ce70f10025e408475",
+        "sku_id": 124871,
+        "attribute_type": "1",
+        "attribute_val": "P404"
+      },
+      {
+        "mid": "31c948d8ad0cde4c67d76f96de9319c5",
+        "sku_id": 125364,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000872"
+      },
+      {
+        "mid": "d05d3b326467d77976857bd092998283",
+        "sku_id": 509885,
+        "attribute_type": "1",
+        "attribute_val": "B102"
+      },
+      {
+        "mid": "58a168a2533377ed93d1dcfff70360cd",
+        "sku_id": 125366,
+        "attribute_type": "1",
+        "attribute_val": "C411"
+      },
+      {
+        "mid": "f1ad140795768567597bf9bcbd5c3f13",
+        "sku_id": 3888474,
+        "attribute_type": "1",
+        "attribute_val": "294"
+      },
+      {
+        "mid": "f1ad140795768567597bf9bcbd5c3f13",
+        "sku_id": 3888474,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001551"
+      },
+      {
+        "mid": "f1ad140795768567597bf9bcbd5c3f13",
+        "sku_id": 3888474,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "0876c85a23fbf74891d75dbc2c345e59",
+        "sku_id": 3888479,
+        "attribute_type": "1",
+        "attribute_val": "220"
+      },
+      {
+        "mid": "0876c85a23fbf74891d75dbc2c345e59",
+        "sku_id": 3888479,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "0acb5e2ed2ea62d147ac60b1d8acd64f",
+        "sku_id": 765090,
+        "attribute_type": "1",
+        "attribute_val": "608"
+      },
+      {
+        "mid": "558747e470b540cf05561d43ebe4a2ec",
+        "sku_id": 696152,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001775"
+      },
+      {
+        "mid": "558747e470b540cf05561d43ebe4a2ec",
+        "sku_id": 696152,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "ec15571fa1fb10f4c71d88d4731066fa",
+        "sku_id": 695544,
+        "attribute_type": "1",
+        "attribute_val": "B404"
+      },
+      {
+        "mid": "f8c1b740c98b7f159f3a06bb9d395e68",
+        "sku_id": 1195436,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "939b344419a5e07650404d00b2135789",
+        "sku_id": 3888476,
+        "attribute_type": "1",
+        "attribute_val": "217"
+      },
+      {
+        "mid": "939b344419a5e07650404d00b2135789",
+        "sku_id": 3888476,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001553"
+      },
+      {
+        "mid": "b0d51b30d5450eb5d647c33ac0a257c1",
+        "sku_id": 124870,
+        "attribute_type": "1",
+        "attribute_val": "P511"
+      },
+      {
+        "mid": "b0d51b30d5450eb5d647c33ac0a257c1",
+        "sku_id": 124870,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "c39c1e85c3a38001ed690176ba4f3aec",
+        "sku_id": 3888472,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "f50886f794811ceb5236716c402aa0de",
+        "sku_id": 695928,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "e5a8ab1a3c5f3422c3d2219e2924153c",
+        "sku_id": 1058805,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017002251"
+      },
+      {
+        "mid": "b522601c7093f6e75cd7524c6c21d97e",
+        "sku_id": 124872,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000886"
+      },
+      {
+        "mid": "81467d8dd7d88a718c0b10dcf18f4aa8",
+        "sku_id": 1027134,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017001984"
+      },
+      {
+        "mid": "81467d8dd7d88a718c0b10dcf18f4aa8",
+        "sku_id": 1027134,
+        "attribute_type": "9",
+        "attribute_val": "1507737600"
+      },
+      {
+        "mid": "3ddb9e805e77ac9381b0187dfd2f0058",
+        "sku_id": 2835399,
+        "attribute_type": "1",
+        "attribute_val": "02"
+      },
+      {
+        "mid": "25605737c35c8e901d257ac34fbded3d",
+        "sku_id": 4199107,
+        "attribute_type": "9",
+        "attribute_val": "1606320000"
+      },
+      {
+        "mid": "8d9253375e1517a797a7766f0654bccc",
+        "sku_id": 3888475,
+        "attribute_type": "1",
+        "attribute_val": "302"
+      },
+      {
+        "mid": "8d9253375e1517a797a7766f0654bccc",
+        "sku_id": 3888475,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001552"
+      },
+      {
+        "mid": "8d9253375e1517a797a7766f0654bccc",
+        "sku_id": 3888475,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "2d6c1eda852551b71604306bb1a79cae",
+        "sku_id": 695930,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "c1613d1d9b5bdd4ee77e246c78de03a4",
+        "sku_id": 1058804,
+        "attribute_type": "9",
+        "attribute_val": "1510761600"
+      },
+      {
+        "mid": "38b9f40fa1fb879d0d5356e0104861d4",
+        "sku_id": 1027135,
+        "attribute_type": "9",
+        "attribute_val": "1507737600"
+      },
+      {
+        "mid": "da690ccd7b12be659af7be27447aa09a",
+        "sku_id": 124869,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000882"
+      },
+      {
+        "mid": "fd813ae8426ce2e93691555c2de91107",
+        "sku_id": 2448507,
+        "attribute_type": "1",
+        "attribute_val": "178"
+      },
+      {
+        "mid": "fd813ae8426ce2e93691555c2de91107",
+        "sku_id": 2448507,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018003311"
+      },
+      {
+        "mid": "a920bdd049ed5eaba792dd8eacfd31ab",
+        "sku_id": 125368,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "b0c8544a1c1bc40d0d28c841ea677b50",
+        "sku_id": 126119,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2014000883"
+      },
+      {
+        "mid": "b0c8544a1c1bc40d0d28c841ea677b50",
+        "sku_id": 126119,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "33dee07ff15fa7399f03ef391bb6ec24",
+        "sku_id": 3191379,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000265"
+      },
+      {
+        "mid": "ed8b8139118c110a902d82357616d2ef",
+        "sku_id": 3256900,
+        "attribute_type": "1",
+        "attribute_val": "161"
+      },
+      {
+        "mid": "ed8b8139118c110a902d82357616d2ef",
+        "sku_id": 3256900,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "61b0ed149e07245933191ae8c8d71478",
+        "sku_id": 3256901,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000275"
+      },
+      {
+        "mid": "e585ccc4ea9b00a4742a29d5179818c4",
+        "sku_id": 3242024,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "28e7153a1d81b8708100e9ec4b1970eb",
+        "sku_id": 2835396,
+        "attribute_type": "1",
+        "attribute_val": "05"
+      },
+      {
+        "mid": "28e7153a1d81b8708100e9ec4b1970eb",
+        "sku_id": 2835396,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019002095"
+      },
+      {
+        "mid": "a74d35b4faf39c2dbd7da6a2e905900f",
+        "sku_id": 1085374,
+        "attribute_type": "1",
+        "attribute_val": "BP301"
+      },
+      {
+        "mid": "a74d35b4faf39c2dbd7da6a2e905900f",
+        "sku_id": 1085374,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000846"
+      },
+      {
+        "mid": "21b2ee791a83f5701944e09991acec64",
+        "sku_id": 1085376,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000843"
+      },
+      {
+        "mid": "da23aeb15c393733a5a02c2484a2546a",
+        "sku_id": 3185538,
+        "attribute_type": "1",
+        "attribute_val": "164"
+      },
+      {
+        "mid": "db1a355f639c7f4902098c059870704d",
+        "sku_id": 4061186,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001549"
+      },
+      {
+        "mid": "279b968fda6e839ffd92d465bc643c99",
+        "sku_id": 3185540,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "3f8e66a4197e2e1a675f759a1634e1ca",
+        "sku_id": 3888477,
+        "attribute_type": "9",
+        "attribute_val": "1597161600"
+      },
+      {
+        "mid": "5f0d8946d698a541deae61ac1fce017a",
+        "sku_id": 125367,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "f921f940b4f2df3b4ad5025ac5ffcdda",
+        "sku_id": 3242025,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "1990d1524c44c9b35623053afdce2d2b",
+        "sku_id": 125365,
+        "attribute_type": "9",
+        "attribute_val": "1418918400"
+      },
+      {
+        "mid": "de56b9175d02807d6782e069eee263c0",
+        "sku_id": 695929,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2016001770"
+      },
+      {
+        "mid": "de56b9175d02807d6782e069eee263c0",
+        "sku_id": 695929,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "957879ed76c646f73835b4eb66809738",
+        "sku_id": 764290,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000510"
+      },
+      {
+        "mid": "686d421ad7f591cacc4b9bd384affc63",
+        "sku_id": 1085378,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018000840"
+      },
+      {
+        "mid": "686d421ad7f591cacc4b9bd384affc63",
+        "sku_id": 1085378,
+        "attribute_type": "9",
+        "attribute_val": "1524585600"
+      },
+      {
+        "mid": "e82991fe7a729dbc23d58a895f9ba92c",
+        "sku_id": 695932,
+        "attribute_type": "9",
+        "attribute_val": "1480867200"
+      },
+      {
+        "mid": "35c9508aeeeccf6b08c45a610a2055dd",
+        "sku_id": 2341072,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2019000676"
+      },
+      {
+        "mid": "4c3d1552e94dc016c8e8f12953e97cfd",
+        "sku_id": 3215847,
+        "attribute_type": "1",
+        "attribute_val": "635"
+      },
+      {
+        "mid": "d295ef090a8f013063a00901ec13bd81",
+        "sku_id": 1195433,
+        "attribute_type": "1",
+        "attribute_val": "C401"
+      },
+      {
+        "mid": "1d7851d97bcca3304eb826c25cb3de7d",
+        "sku_id": 3215850,
+        "attribute_type": "1",
+        "attribute_val": "RB402"
+      },
+      {
+        "mid": "1d7851d97bcca3304eb826c25cb3de7d",
+        "sku_id": 3215850,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "eea1a7a93b1ab65843e4922fd38eb047",
+        "sku_id": 765898,
+        "attribute_type": "1",
+        "attribute_val": "620"
+      },
+      {
+        "mid": "eea1a7a93b1ab65843e4922fd38eb047",
+        "sku_id": 765898,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2017000518"
+      },
+      {
+        "mid": "6771adf1c44547172e2619dcb978a5b7",
+        "sku_id": 3961630,
+        "attribute_type": "1",
+        "attribute_val": "666哑光"
+      },
+      {
+        "mid": "6771adf1c44547172e2619dcb978a5b7",
+        "sku_id": 3961630,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020001832"
+      },
+      {
+        "mid": "5bc3e0aa7ea5b80384cc2f131b7f93bb",
+        "sku_id": 2397717,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2018003310"
+      },
+      {
+        "mid": "f837010c18d3d0278ae98427db4b90b5",
+        "sku_id": 4365483,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021000598"
+      },
+      {
+        "mid": "7f03897be2208697956bba1c6a742025",
+        "sku_id": 3189050,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "f4005ac78f59c1cb8e7d97c9b93b5dd3",
+        "sku_id": 3215846,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      },
+      {
+        "mid": "a784477b4b9de1c0f23e67d3ca955c24",
+        "sku_id": 182792,
+        "attribute_type": "1",
+        "attribute_val": "602"
+      },
+      {
+        "mid": "357abf73df4c1110f9af3e8d2ea9f705",
+        "sku_id": 3215848,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000272"
+      },
+      {
+        "mid": "357abf73df4c1110f9af3e8d2ea9f705",
+        "sku_id": 3215848,
+        "attribute_type": "9",
+        "attribute_val": "1581523200"
+      },
+      {
+        "mid": "25c176d3f53799200234bbda71a6ea49",
+        "sku_id": 3242026,
+        "attribute_type": "9",
+        "attribute_val": "1581436800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_c6c36140-088c-4387-9216-5a3b7aaf9261.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/a13ddc6b-57d4-5607-85ef-4e0b04c85617.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/08649b33-1557-531d-93ff-335186083225.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/25c4b3ca-632c-55e5-9c8d-cf5f01b2ce7c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bd100d02-6e49-5380-b693-91526f4c0b37.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "蜡基",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "口唇",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅纷泽滋润唇膏 RC301",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "17",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 3.7,
+    "mid": "7f03897be2208697956bba1c6a742025",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2020000277",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅小妖金口红",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 169,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "护唇/润唇膏",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 37,
+    "registered_day": 20200213,
+    "goods_form": "29"
+  },
+  "success": true
+}

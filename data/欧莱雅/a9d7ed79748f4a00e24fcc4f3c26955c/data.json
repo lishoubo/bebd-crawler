@@ -1,0 +1,178 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,129,51,126,43,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DjPP5gogvatdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQB%2BaATcojcT1aH1Hk3GeOiw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6yqCdtBf5lUcXIphQjpCEaUzIkVX1yqZgo09y5OSEOtP3hytZK5SUZB4oiPjAJcZinkThY6Ekzd9ffOrKRNAU4m5KHOQOD12Oo7XmSKEiWTBrqTB%2F2VkO0lNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753120646@21087005_1843_1982e222400_5d2f@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/bHMs3SpfRy5?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=791B9CF3F3C7E2D787B282C8BFA8F610"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olWAcAU1ZVAEsUC18IGloUXAUCVVpeDE0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAmwIGl8WWQAdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwhXOGMLLx0Fak5hXjJDUAVTAHZ2PD5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4cWAQBUlxfAHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlxFCA4EVwszVBVNUWdORVh7WA4KV11dAE4nAW4JGVklbTZBFi1UABx-Xi5LElhpW3BGI1dcDR9qdjVadVlNA3oBJi40UwpjdjZbbRNRAjYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/ec7ae544-5350-5553-97d9-5019a64ab45b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003578"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006133"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1687708800"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      }
+    ],
+    "category3Name": "面膜",
+    "price": "",
+    "sda_approval_date": 1687708800,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "04d687c152d9df1504e1f6eb04bed5af",
+        "sku_id": 2291049,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018006133"
+      },
+      {
+        "mid": "04d687c152d9df1504e1f6eb04bed5af",
+        "sku_id": 2291049,
+        "attribute_type": "9",
+        "attribute_val": "1535040000"
+      },
+      {
+        "mid": "a9d7ed79748f4a00e24fcc4f3c26955c",
+        "sku_id": 31922351,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023003578"
+      },
+      {
+        "mid": "a9d7ed79748f4a00e24fcc4f3c26955c",
+        "sku_id": 31922351,
+        "attribute_type": "9",
+        "attribute_val": "1687708800"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_0a1da06f-11b9-443f-809f-9898a32495bb.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/4ec73b1f-d40e-54ec-8bad-29c07a46b95b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/51618d9d-de40-54ab-be43-1459d96b7c90.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5f348470-e66d-5a8d-9c38-2f87cf40cd56.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fd910a16-c8a1-5617-9883-edec6796b43d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b1f6dafe-b827-5f77-be50-13fef13ccdfc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/bb9917d0-3883-5e11-b037-dedf1c2f305c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e9c04b5b-1228-5804-9840-92adfcf790dc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ec7ae544-5350-5553-97d9-5019a64ab45b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体,贴、膜、含基材",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜积雪草微精华面膜",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/5f348470-e66d-5a8d-9c38-2f87cf40cd56.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.9,
+    "mid": "a9d7ed79748f4a00e24fcc4f3c26955c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023003578",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜积雪草微精华面膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20230626,
+    "goods_form": "32,24"
+  },
+  "success": true
+}

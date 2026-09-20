@@ -1,0 +1,112 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,44,46,130,129,53,48",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/d9af4c14-5e64-5c83-80fc-5d5726f292eb.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "",
+    "price": "",
+    "sda_approval_date": 1766419200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 0,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/cdace9eb-6d4d-5b67-ac84-826cf7b3dbdd.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0cc4f17f-fb44-5b53-8b12-ca3ba48f9fc3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/306e9651-39ed-5f02-9cdd-2ce943536335.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d9af4c14-5e64-5c83-80fc-5d5726f292eb.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发,头部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅玻尿酸嘭嘭水光洗发露",
+    "category2Name": "",
+    "pm_image": "https://img.bevol.com/goods_pack/cdace9eb-6d4d-5b67-ac84-826cf7b3dbdd.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11,14",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 3.6,
+    "mid": "437c2bbff26157deff1fda9ff556c133",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025008432",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 0,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 0,
+    "registered_day": 20251223,
+    "goods_form": "24"
+  },
+  "success": true
+}

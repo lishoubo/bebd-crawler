@@ -1,0 +1,116 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,48,43,57",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/3cc0b228-189e-5b08-858b-7ec1f74a75b8.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1718726400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_cd645c79-c870-47c9-8ee8-682e32887790.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/d177371d-41ad-5341-bbcb-b830cb45e513.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/091a76e4-96e2-52a6-9957-305766c60cbb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/59a65239-cc1e-5ca7-a45a-3fdc21a39cba.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a95edba5-2677-57e9-827a-06d7567cc557.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f45a240b-f797-5c17-9cd5-7c75a854d8e4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c5c858b9-861a-5cc0-9d40-4091730dfc3a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f1331b96-4475-514f-b116-297d75cf1d87.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/878947b5-c613-5c88-8c11-940a9b669b20.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4c8808b2-3926-583d-bf9a-940423c2f7b4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/71d125c7-5e55-5231-9e3e-27d3b0174466.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3cc0b228-189e-5b08-858b-7ec1f74a75b8.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅发芯强化修护发膜",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/d177371d-41ad-5341-bbcb-b830cb45e513.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.3,
+    "mid": "7c1190df999d013cf27dcaf81b7b824f",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2024003571",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅发芯强化修护发膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20240619,
+    "goods_form": "23"
+  },
+  "success": true
+}

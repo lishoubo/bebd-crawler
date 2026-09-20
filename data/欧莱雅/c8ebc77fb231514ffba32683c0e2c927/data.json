@@ -1,0 +1,145 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "130,47",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019009040"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002062"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1571328000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1495814400"
+      }
+    ],
+    "category3Name": "头发造型",
+    "price": "¥59",
+    "sda_approval_date": 1571328000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "定型",
+        "id": 5251
+      },
+      {
+        "name": "男士",
+        "id": 5308
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "c8ebc77fb231514ffba32683c0e2c927",
+        "sku_id": 2820111,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2019009040"
+      },
+      {
+        "mid": "c8ebc77fb231514ffba32683c0e2c927",
+        "sku_id": 2820111,
+        "attribute_type": "9",
+        "attribute_val": "1571328000"
+      },
+      {
+        "mid": "4cb0cf3b675dabe3efaba28d1e8b6100",
+        "sku_id": 801175,
+        "attribute_type": "9",
+        "attribute_val": "1495814400"
+      },
+      {
+        "mid": "4cb0cf3b675dabe3efaba28d1e8b6100",
+        "sku_id": 801175,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2017002062"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_811e5c0d-d1c5-42d3-8ea7-3faa277c44a0.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/7e71a110-e5d7-560e-8aa0-1dd7109cbca0.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/87b98705-37d2-5a2a-842a-d08f88a836e6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4fe8a81a-3fbe-5c88-868b-0666658416cb.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7ba3f7dc-cb24-5b58-b229-af1ada2fe778.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/985f1d10-ec58-5f54-9b3a-fdd4ca521f46.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3fb3ee33-4347-5193-a10b-55093a2e3d18.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "气雾剂",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士强塑定型三孔喷雾",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5251,5308",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.9,
+    "mid": "c8ebc77fb231514ffba32683c0e2c927",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "200ml",
+    "sda_approval_no": "苏G妆网备字2019009040",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 318,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      }
+    ],
+    "category4Name": "定型水/喷雾",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 70,
+    "registered_day": 20191018,
+    "goods_form": "31"
+  },
+  "success": true
+}

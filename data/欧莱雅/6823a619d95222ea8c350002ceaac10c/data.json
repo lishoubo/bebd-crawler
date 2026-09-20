@@ -1,0 +1,133 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,42,48,43,57",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3DyysnNOO2rxlw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMQDHiy8jqWC7MMgx22UI05aw7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bJwb1FT%2B6N98bfYSxXZ%2BgtdhTUXHb390%2B9LANpBCIjVu4mo0vme7hKwtl4LtzZkWUctC3jC8Fza2niWZuItd%2Fr84%2BfirBrx7mM7AMx9cWAx%2BmUCVmZDcECA9kQM1ckxhMw7HmpdDXzA1yaVr1QgMlnSiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1753124388@21367311_17d6_1982e5b3e8d_9ecc@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/nqmHGgeM8u7?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=E07EE5A3F1229070CE0151C36A267A11"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BASEJK1olXQ8GUl1fCUMWAl8IGloXWwQDVVtfCEsfA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0OGVoUWAQCVFZdFxJSXzI4TQVsAn1cThc9Qz1-fRUWYTgQKFRpAlJROEsXB2kKHVoWWAEyVF9cCU4WBmgBG2slXQMyFTBdCUsfBmYPHmsVXQIEUVhZDkkTM28OEl4dXQ8AU1paAUknA2cMK42a4tOL2IvTl5KHvjxcXAVIbTYyV25tOEsnAF9WdVoSWFJSV1dcZhdUSD9bHwlRMwICUlZbCkgXM20JGlkXbTYyIi4ufhgedQlKQBlWKHVFUiQ-Cj5QAj9MGidICWZsVgYDdEhlcwZTWj58K19wJAYCOEsnA2gOH1ol"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/797b1693-8219-59e7-bfa2-33278b583cf4.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "护发",
+    "price": "¥168",
+    "sda_approval_date": 1619107200,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_b92cd43d-a38b-4925-9ece-414bb23cead5.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/de083f2d-d0e9-5d34-9637-6244b54a18a3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0fafe7ed-a0af-5213-b329-bfcfbbe7db70.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/174c8746-33ad-548a-93fc-9a0bf0fda9ac.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/585ffa9d-ce89-5db4-a904-479d803b1bc9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/741b06a7-de4e-52df-befd-9293a0fead64.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7df9e3ae-a020-56f0-9407-2e219ca6f1ae.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/81cef1b4-f6fd-5ba8-af41-113f874c2a65.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/95061fdb-b7db-598b-b36a-d596b590b5b3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d130a2b1-de72-563c-bcf7-3cc8d00ffe8f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a462ff8a-90d8-51ce-b86e-58ef60a53d9e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2bef77de-86ab-5efc-83f2-650bcdc32fbe.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6704f59f-3d5d-5f52-8025-3084e37d5532.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/672d5aa7-3e28-51d1-8c2d-e58315d67d7d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/797b1693-8219-59e7-bfa2-33278b583cf4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a6c75e62-e226-58e4-9298-5642804556f4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a8c6baab-7fe5-573e-8f02-ee365aa34f5f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b066c878-5e5a-5722-b1fc-5d242ecded8e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e2bb5dd6-27dd-586b-93da-ce135d69b0aa.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅专业美发",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "巴黎欧莱雅奇焕精油滋养发膜",
+    "category2Name": "头发护理",
+    "pm_image": "https://img.bevol.com/goods_pack/95061fdb-b7db-598b-b36a-d596b590b5b3.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "11",
+    "brandMid": "4405094f20386248bf2f521fc91d7992",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.1,
+    "mid": "6823a619d95222ea8c350002ceaac10c",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "250ml*2",
+    "sda_approval_no": "苏G妆网备字2021003330",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "巴黎欧莱雅奇焕精油滋养发膜@!@欧莱雅黄金发膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 312,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "上海西西艾尔启东日用化学品有限公司",
+        "mid": "6e4fda4ad8605f686eca29ff6a515ff6"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "发膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "滋养",
+        "id": "42"
+      },
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "防断发",
+        "id": "57"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20210423,
+    "goods_form": "23"
+  },
+  "success": true
+}

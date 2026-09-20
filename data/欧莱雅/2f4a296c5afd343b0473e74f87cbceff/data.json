@@ -1,0 +1,145 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,47,53",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/b9cee1d6-fae5-5fa5-8b55-bc4d9cf01a9b.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021501339"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000486"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1636560000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1586275200"
+      }
+    ],
+    "category3Name": "隔离",
+    "price": "",
+    "sda_approval_date": 1636560000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "哑光",
+        "id": 5231
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "f521270b4f69a01ba824d9579738bdd3",
+        "sku_id": 3298992,
+        "attribute_type": "9",
+        "attribute_val": "1586275200"
+      },
+      {
+        "mid": "2f4a296c5afd343b0473e74f87cbceff",
+        "sku_id": 30384466,
+        "attribute_type": "9",
+        "attribute_val": "1636560000"
+      },
+      {
+        "mid": "2f4a296c5afd343b0473e74f87cbceff",
+        "sku_id": 30384466,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2021501339"
+      },
+      {
+        "mid": "f521270b4f69a01ba824d9579738bdd3",
+        "sku_id": 3298992,
+        "attribute_type": "8",
+        "attribute_val": "鄂G妆网备字2020000486"
+      }
+    ],
+    "category2_id": 9,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/137500a3-01ca-5afb-b35d-99ba4afa69c7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b9cee1d6-fae5-5fa5-8b55-bc4d9cf01a9b.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅恒放溢彩哑光妆前乳",
+    "category2Name": "彩妆/香水",
+    "pm_image": "https://img.bevol.com/goods_pack/137500a3-01ca-5afb-b35d-99ba4afa69c7.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5231",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.2,
+    "mid": "2f4a296c5afd343b0473e74f87cbceff",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "鄂G妆网备字2021501339",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 195,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "宜昌天美国际化妆品有限公司",
+        "mid": "3d4f32c0f4213ae69bab5ff9359a321c"
+      }
+    ],
+    "category4Name": "妆前乳/霜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "美容修饰",
+        "id": "47"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 42,
+    "registered_day": 20211111,
+    "goods_form": "23"
+  },
+  "success": true
+}

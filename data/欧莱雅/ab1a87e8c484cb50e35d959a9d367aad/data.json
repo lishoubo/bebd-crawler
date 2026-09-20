@@ -1,0 +1,173 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "127,46,52,128,129,51,126,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/e6a6c9fd-8e3b-57c5-9fc3-9d9c5ee506a7.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003004"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004050"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1650297600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "",
+    "sda_approval_date": 1650297600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "b42154db8e96aa0b886b46d91ff14c52",
+        "sku_id": 701663,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2016004050"
+      },
+      {
+        "mid": "ab1a87e8c484cb50e35d959a9d367aad",
+        "sku_id": 30779840,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2022003004"
+      },
+      {
+        "mid": "ab1a87e8c484cb50e35d959a9d367aad",
+        "sku_id": 30779840,
+        "attribute_type": "9",
+        "attribute_val": "1650297600"
+      },
+      {
+        "mid": "b42154db8e96aa0b886b46d91ff14c52",
+        "sku_id": 701663,
+        "attribute_type": "9",
+        "attribute_val": "1481731200"
+      }
+    ],
+    "category2_id": 8,
+    "image": "",
+    "image_pm": "https://img.bevol.com/goods_pack/a4f43a40-aae3-57e7-9845-b696d9447d0d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b9fafaca-f41c-59e1-96be-a26dac5c2e4e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6391954c-857c-5d7f-ad7b-0f27d1e84158.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e6a6c9fd-8e3b-57c5-9fc3-9d9c5ee506a7.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d3ec524f-474f-5458-8d8b-82882ad5601e.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"无色透明\"}, {\"name\": \"性状\", \"condition\": \"粘稠液体\"}, {\"name\": \"气味\", \"condition\": \"有香味\"}]}]",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈导入膨润精华液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/b9fafaca-f41c-59e1-96be-a26dac5c2e4e.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5226,5203",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有苯甲酸苄酯、水杨酸苄酯、苯甲醇、芳樟醇。",
+    "usageMode": "驻留",
+    "safety_1_num": 4.5,
+    "mid": "ab1a87e8c484cb50e35d959a9d367aad",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2022003004",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "铜陵洁雅生物科技股份有限公司（曾用名：铜陵市洁雅航空用品有限责任公司）",
+        "mid": "1b30357c18561dcc230d073794ef31a9"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "洁面后，取适量精华液于指尖，在面部涂抹一层，轻轻拍打面部，帮助吸收。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（宣称无泪配方）",
+        "id": "127"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20220419,
+    "goods_form": "24"
+  },
+  "success": true
+}

@@ -1,0 +1,186 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "56,46,130,129,48",
+    "CPS": [
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/gRZkc8MmnJA?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=1FD5AB4E29489B5659E492C23F662153"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BARsJK1olXQ4CUl1UCkwUAF8KElsSWgUEZBoCUBVIMzZNXhpXVhgcDBsJVFRMVnBaRQcLXw8CU1leDlRORjNVKy9PNE9UAR4Wag1XYjl8SwtRFEcHUz5RBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhioOkg-XI3_a31_CbK1sVWQAHUlpbCk8nA2kMGVsWXwIGVF9aAXsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGggdXQUDBlgzVB5CVTZBTw57WQ4CVVpYAEgnAW4JGVklbTZ_VQgkfRVlU2pKSV9PJ05qFxcoCDlNAxlmGSdVCX9FBiwgDUgUfhptZwlBbQYyVFlbDEon"
+      }
+    ],
+    "usage_mode": "2",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023004867"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001909"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000300"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1688313600"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      }
+    ],
+    "category3Name": "护发",
+    "price": "",
+    "sda_approval_date": 1688313600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "滋润",
+        "id": 5204
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "db352896da9777e163da87e5a8fcbacc",
+        "sku_id": 1195440,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2018001909"
+      },
+      {
+        "mid": "db352896da9777e163da87e5a8fcbacc",
+        "sku_id": 1195440,
+        "attribute_type": "9",
+        "attribute_val": "1523894400"
+      },
+      {
+        "mid": "39ef7a18ded633a9ec956613a4923066",
+        "sku_id": 31919437,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2023004867"
+      },
+      {
+        "mid": "0cba3161ffd2399d152fb8589367961d",
+        "sku_id": 228563,
+        "attribute_type": "8",
+        "attribute_val": "苏G妆网备字2014000300"
+      },
+      {
+        "mid": "39ef7a18ded633a9ec956613a4923066",
+        "sku_id": 31919437,
+        "attribute_type": "9",
+        "attribute_val": "1688313600"
+      },
+      {
+        "mid": "0cba3161ffd2399d152fb8589367961d",
+        "sku_id": 228563,
+        "attribute_type": "9",
+        "attribute_val": "1405958400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_5aa6a5df-8cdb-4099-99f0-ebff35a73b69.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/50106d42-de3e-53aa-902f-b903258a8b3c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/89a7e9cf-cfe6-5f8a-90b3-c6861546301b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/baa48209-5e86-5e76-a877-b9a2e559abde.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ecdffd7e-27f9-5b44-a1ae-cb5eaa1b1440.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/f86a303d-1d45-53f5-be63-6460bf0e019d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a43b7c34-a8fa-55f7-8e64-c450562aa14b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/fe8d6c40-206d-5374-b29b-bb49881b3b06.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1113226f-19f6-55b9-ab45-7036f1d3bcbc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4493f33d-ee4f-532b-a7a6-b140e7bac0f8.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/46832d4d-3dc8-5954-bed0-2e4f00895f50.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/56e69720-62df-5ffe-a738-959da370dcf6.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6dac3627-5649-5c6a-90ab-1bea61e53233.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/c1c0f0e2-4989-5511-8c24-74bd5c8125c4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e3f39faf-6e7e-5357-bdcb-68d69558a6d3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/e8740704-bd1b-5283-bb10-c16e10f6ba0a.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"乳膏状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "头发",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅透明质酸水润润发乳",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "11",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5204",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品香精原料含有: 芳樟醇、己基肉桂醛、水杨酸苄酯、苯甲醇。本品含水杨酸,三岁以下儿童勿用。 注意：若不慎接触到眼睛，请立刻用清水冲洗。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.5,
+    "mid": "39ef7a18ded633a9ec956613a4923066",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023004867",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅透明质酸水润润发乳",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 98,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "江苏美爱斯化妆品股份有限公司（曾用名：美爱斯化妆品（苏州）有限公司）",
+        "mid": "b41c231aae7265c05ad00ec6f096c972"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "护发素",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "避开发根，涂抹于发丝中段直至发梢，稍加按摩后冲洗。若不慎接触到眼睛，请立刻用清水冲洗。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "护发",
+        "id": "56"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 67,
+    "registered_day": 20230703,
+    "goods_form": "23"
+  },
+  "success": true
+}

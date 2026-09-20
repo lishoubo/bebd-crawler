@@ -1,0 +1,129 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "",
+    "CPS": [],
+    "usage_mode": "",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20149478"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1543766400"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1416240000"
+      }
+    ],
+    "category3Name": "洗发",
+    "price": "¥139",
+    "sda_approval_date": 1543766400,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "04928dcbb3391da0937ec02a5bd0f5a8",
+        "sku_id": 3544148,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "04928dcbb3391da0937ec02a5bd0f5a8",
+        "sku_id": 3544148,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20149478"
+      },
+      {
+        "mid": "04928dcbb3391da0937ec02a5bd0f5a8",
+        "sku_id": 3544148,
+        "attribute_type": "9",
+        "attribute_val": "1416240000"
+      },
+      {
+        "mid": "ef4967ddbf1c294ebffdd917f0a7dd4d",
+        "sku_id": 355554,
+        "attribute_type": "3",
+        "attribute_val": "花香"
+      },
+      {
+        "mid": "ef4967ddbf1c294ebffdd917f0a7dd4d",
+        "sku_id": 355554,
+        "attribute_type": "8",
+        "attribute_val": "国妆备进字J20149478"
+      },
+      {
+        "mid": "ef4967ddbf1c294ebffdd917f0a7dd4d",
+        "sku_id": 355554,
+        "attribute_type": "9",
+        "attribute_val": "1543766400"
+      }
+    ],
+    "category2_id": 11,
+    "image": "https://img.bevol.com/Goods/source/0_23194aeb-c096-4640-9440-d7760e152239.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"\", \"table_index\": \"1\", \"result\": [{\"name\": \"颜色\", \"condition\": \"浅黄色珠光\"}, {\"name\": \"性状\", \"condition\": \"乳液状\"}, {\"name\": \"气味\", \"condition\": \"花香\"}]}]",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "piece_price": "",
+    "titleEn": "Serie Expert Absolut Repair Lipidium Instant Resurfacing Shampoo",
+    "name": "沙龙洗护系列致臻赋活洗发水",
+    "category2Name": "头发护理",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 164,
+    "precautions": "本品含水杨酸，三岁以下儿童勿用。本品含芳樟醇、苧烯、己基肉桂醛。",
+    "safety_1_num": 4.2,
+    "mid": "ef4967ddbf1c294ebffdd917f0a7dd4d",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "500ml",
+    "sda_approval_no": "国妆备进字J20149478",
+    "approvaler": "欧莱雅",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "",
+    "functionType": "普通类",
+    "shelfLife": "4年",
+    "category4_id": 304,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "洗发水/乳/露",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "将本品均匀涂抹于湿发上，稍作停留后冲洗干净。如产品不慎入眼，请立即用大量清水冲洗。仅供专业发型师推荐使用。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "applicantEnterpriseName": "欧莱雅(中国)有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 66,
+    "registered_day": 20181203,
+    "goods_form": ""
+  },
+  "success": true
+}

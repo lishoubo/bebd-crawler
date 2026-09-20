@@ -1,0 +1,103 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "128,46,129,51,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "https://img.bevol.com/goods_pack/7aba5b5c-58b3-5cff-9a01-3a7a577e5b54.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面部精华",
+    "price": "",
+    "sda_approval_date": 1660665600,
+    "middle_notes": "0",
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_f9218876-e8c4-4bc9-86a9-6b1309db2ff3.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1fbfcb7b-7ef7-52df-9d01-87f487bbd7d9.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7aba5b5c-58b3-5cff-9a01-3a7a577e5b54.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体",
+    "spa": "",
+    "spf": "",
+    "agentName": "欧莱雅（中国）有限公司",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "L’OREAL YOUTH CODE SKIN PRE-ESSENCE",
+    "name": "欧莱雅青春密语精华肌底液",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/1fbfcb7b-7ef7-52df-9d01-87f487bbd7d9.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "0",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.3,
+    "mid": "85b65f0bf382ec85f4892256cae74621",
+    "description": "",
+    "sda_approval_country": 166,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆网备进字（沪）2022004734",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "L’OREAL YOUTH CODE SKIN PRE-ESSENCE@!@欧莱雅青春密语精华肌底液",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 150,
+    "perfume_feel": "0",
+    "factory": [],
+    "category4Name": "基底液/美容液/原液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "欧莱雅（中国）有限公司",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "上海市静安区南京西路1601号越洋国际广场11楼",
+    "category3_id": 34,
+    "registered_day": 20220817,
+    "goods_form": "24"
+  },
+  "success": true
+}

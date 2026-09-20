@@ -1,0 +1,166 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,38,129,51,126,50",
+    "CPS": [
+      {
+        "channelType": "3",
+        "channelLink": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dczm6AI1B9ohw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMcL3gjJ76WUr8sviUM61dt2w7abDUndR0%2BDJtMX9Xq8rNcnJdR7Psb9AwLT1%2BePcdQ6KhLeHSnTd9CgRSquDwp9sUy5hmFs8bMI062Lnh4gaskmx5kiO8DpndR0CisZIhQFSrzgTbVr6PaLcGQ30fEtxIc1%2BTRVPPec2YMG0flxY8F9GyOHRLivzEmOiZgyH%2BAmb%2FpqCE%2FVonkThY6Ekzd9ffOrKRNAU4m5KHOQOD12ODuLOAB9u44Dj46mpn%2FKu6lNTVSmctxAnxgxdTc00KD8%3D&union_lens=lensId:TAPI@1753123512@21075122_1801_1982e4de035_3998@01"
+      },
+      {
+        "channelType": "5",
+        "channelLink": "https://t.vip.com/F0sTi9U2AO9?chanTag=3d7d4c1ec965836147de5b9acb851be7&statParam=bevol_cps&openId=1EFB3D8936B89A0DAB85E9CBE93BE3D7"
+      },
+      {
+        "channelType": "2",
+        "channelLink": "https://union-click.jd.com/jdc?e=&p=JF8BATkJK1olWAcAU1ZUD0MXB18IGloUXQ4FUldYCUgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWA2cPHVIQXAUdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKyZsLU12HB0kaC1haj0BHBxvHGBdLBhRBHsXA2sOGV0UXgMFZF5cCUoSAmoPElslbQYHZA0z39aB2tCIw_GhiZKAgMzH3_a31_CbK1sVWQAHUlpbCk8nA2kOHV4cWg8KUFZZAHsXC2s4zdSqiI-OgdDC0duqUDtPRQYlbTYBZG5tCHsUMzFmGlxFDwJXUVwzVBVNVi1ARwB7WQcDUFpcCk8nAW4JGVklbTZfUQYuWBFrXTlVRhJwJ213BB0gfhZ3VS54dVlzKUBLECMqdh1SajQPXh1MJzYCZF5fCEwn"
+      }
+    ],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [
+      {
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20202061"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1719936000"
+      },
+      {
+        "attribute_type": "9",
+        "attribute_val": "1603036800"
+      }
+    ],
+    "category3Name": "面部精华",
+    "price": "",
+    "sda_approval_date": 1719936000,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "祛斑美白",
+        "id": 6711
+      }
+    ],
+    "brandCheck": false,
+    "sku": [
+      {
+        "mid": "85bba41974dbbd37b249ea112bf8168c",
+        "sku_id": 4326500,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20202061"
+      },
+      {
+        "mid": "acec681fc4c1e2100a18028f19ff909b",
+        "sku_id": 33168341,
+        "attribute_type": "8",
+        "attribute_val": "国妆特字G20202061"
+      },
+      {
+        "mid": "85bba41974dbbd37b249ea112bf8168c",
+        "sku_id": 4326500,
+        "attribute_type": "9",
+        "attribute_val": "1603036800"
+      },
+      {
+        "mid": "acec681fc4c1e2100a18028f19ff909b",
+        "sku_id": 33168341,
+        "attribute_type": "9",
+        "attribute_val": "1719936000"
+      }
+    ],
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_e27ae3d5-e6c7-43c9-b97d-da60adf16368.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/555b3d82-1dff-5caf-8733-3bef67566981.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/a694f8dd-0cf4-5e2d-8f6b-73ec2a98eda1.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "躯干部位,面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅金致臻颜牡丹奢养粉妍焕白精华液",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 1,
+    "applicable_part": "13,15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "6711",
+    "sda_approval_attribute_v34": 163,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.2,
+    "mid": "acec681fc4c1e2100a18028f19ff909b",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "国妆特字G20202061",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅金致臻颜牡丹奢养粉妍焕白精华液",
+    "functionType": "祛斑美白类",
+    "shelfLife": "",
+    "category4_id": 146,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "精华液",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "祛斑美白",
+        "id": "38"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 34,
+    "registered_day": 20240703,
+    "goods_form": "23"
+  },
+  "success": true
+}

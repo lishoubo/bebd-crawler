@@ -1,0 +1,138 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "44,46,128,45,130,129,53,48,126,54,43",
+    "CPS": [],
+    "usage_mode": "2",
+    "lt_image": "https://img.bevol.com/goods_pack/e57ea47e-fe3f-58bc-a2cc-62d9cc0f47af.jpg?x-oss-process=style/saas_mark",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "卸妆",
+    "price": "",
+    "sda_approval_date": 1695657600,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "男士",
+        "id": 5308
+      },
+      {
+        "name": "油性",
+        "id": 5313
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_7daa9a64-694d-4cae-bbab-8485592ab36b.png?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/7fd19257-cecd-5fc4-8e96-10109a8d8274.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0480f234-9df0-5b12-9c52-329291397588.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/16b1cbb6-22e6-598f-a883-40c27160723f.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3fc9f343-3571-5eee-ae10-a38bc1a890ab.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/52712bca-81f3-5710-8b41-92e7d87f9db3.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/54367d0d-9130-5d81-8f4a-e2f8751d2be2.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/671c20dc-c59a-59be-b649-3075f89b0463.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/b96fef41-1812-5913-a551-c16a9ed5b18e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cfd98729-a09b-51ec-8a5b-49b628356d8b.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/89d5a27f-56af-5e64-a495-d786cd1a9832.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/2315ac41-f0ef-5181-b24f-7b85307407cc.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/4df1243b-ae25-5608-b5a0-1893fdfb3b91.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8898855e-5886-5cab-9541-98f4a54e463a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/adac6e55-35ee-56f9-8239-0f8fbddcf760.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/cb472fc7-3574-5f9b-ba3d-567c4d5adb23.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "[{\"table_name\": \"商品1\", \"table_index\": \"1\", \"result\": [{\"name\": \"气味\", \"condition\": \"有香味\"}, {\"name\": \"性状\", \"condition\": \"乳液状\"}, {\"name\": \"颜色\", \"condition\": \"白色\"}]}]",
+    "goodsForm": "膏霜乳",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅男士氨基净澈洁面乳油性皮肤型",
+    "category2Name": "护肤",
+    "pm_image": "https://img.bevol.com/goods_pack/0480f234-9df0-5b12-9c52-329291397588.jpg?x-oss-process=style/saas_mark",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5308,5313",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "本品含水杨酸，三岁以下儿童勿用。水杨酸在本品中的使用目的为角质剥落剂。与防晒化妆品同时使用。",
+    "usageMode": "淋洗",
+    "safety_1_num": 4.4,
+    "mid": "9604cb843d7f902c91ff48924b1083dc",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2023009584",
+    "approvaler": "苏州尚美国际化妆品有限公司",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅男士氨基净澈洁面乳油性皮肤型",
+    "functionType": "",
+    "shelfLife": "3年",
+    "category4_id": 112,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "卸妆油/洁面油",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "取适量的产品于掌心，加水揉搓起泡，涂抹在湿润的面部并集中在前额、鼻子和下巴处轻柔按摩，然后用清水洗净，使用时避开眼部，如不慎入眼即用清水冲洗，适合每日使用。实际效果因人而异。",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "常温",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "清洁",
+        "id": "44"
+      },
+      {
+        "name": "卸妆",
+        "id": "45"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "芳香",
+        "id": "48"
+      },
+      {
+        "name": "控油",
+        "id": "53"
+      },
+      {
+        "name": "去角质",
+        "id": "54"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 19,
+    "registered_day": 20230926,
+    "goods_form": "23"
+  },
+  "success": true
+}

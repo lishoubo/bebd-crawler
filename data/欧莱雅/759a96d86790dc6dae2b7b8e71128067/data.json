@@ -1,0 +1,138 @@
+{
+  "retCode": 200,
+  "msg": "操作成功",
+  "data": {
+    "safetyLevel": "",
+    "functions": "46,52,128,130,129,51,126,43,50",
+    "CPS": [],
+    "usage_mode": "3",
+    "lt_image": "",
+    "report_info": "0",
+    "sda_approval_status": 1,
+    "allInfos": [],
+    "category3Name": "面膜",
+    "price": "",
+    "sda_approval_date": 1740067200,
+    "middle_notes": "0",
+    "claim": [
+      {
+        "name": "保湿",
+        "id": 5203
+      },
+      {
+        "name": "面部修护",
+        "id": 5210
+      },
+      {
+        "name": "抗衰",
+        "id": 5226
+      }
+    ],
+    "brandCheck": false,
+    "category2_id": 8,
+    "image": "https://img.bevol.com/Goods/source/0_165da915-d22e-448a-938d-2715a4e9722e.jpg?x-oss-process=style/saas_mark",
+    "image_pm": "https://img.bevol.com/goods_pack/1afeb7fa-23d4-565b-8fa7-4359f0c2146a.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3a129f2a-7c6b-594c-ae7d-050c2ba691a4.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0bb474f9-12c2-5bdc-9a87-1464979aa516.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/1254961c-7a00-5947-ad32-92ea8eb252e5.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ce352311-b4bc-5a5a-a099-657743f57914.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/d3181964-7df3-5a14-b868-f91c6cd0b54e.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/0ec2d7f2-6513-5447-b444-796617c238df.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/3f05c792-4f84-525e-8841-97ffeb0f151c.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/5e7c4c61-103a-5018-90a7-9eabe9c1ae8d.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/6eca82ee-bc5d-5101-9d8c-117283fd3520.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/7dbc93b3-bec0-5a72-b0be-cf6eba9e94ea.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/8245d1fe-84e9-5228-ae11-e030a833dc41.jpg?x-oss-process=style/saas_mark,https://img.bevol.com/goods_pack/ab97c478-f959-5ef2-b783-ef2b4ff26692.jpg?x-oss-process=style/saas_mark",
+    "agentAddress": "",
+    "brandName": "欧莱雅",
+    "targetInfo": "",
+    "goodsForm": "液体,贴、膜、含基材",
+    "spa": "",
+    "spf": "",
+    "agentName": "",
+    "applicablePart": "面部",
+    "piece_price": "",
+    "titleEn": "",
+    "name": "欧莱雅复颜玻尿酸水光充盈多效修护安瓶鲜注面膜",
+    "category2Name": "护肤",
+    "pm_image": "",
+    "category5_id": 0,
+    "isGroup": 0,
+    "applicable_part": "15",
+    "brandMid": "9bb5a24f0ed7fa7218d0226e5ffd3bf6",
+    "claim_ids": "5203,5210,5226",
+    "sda_approval_attribute_v34": 346,
+    "precautions": "",
+    "usageMode": "驻留",
+    "safety_1_num": 4.8,
+    "mid": "759a96d86790dc6dae2b7b8e71128067",
+    "description": "",
+    "sda_approval_country": 167,
+    "sda_approval_valid": 1,
+    "net_content": "",
+    "sda_approval_no": "苏G妆网备字2025000212",
+    "approvaler": "",
+    "applicable_people": "",
+    "attentionInfo": "",
+    "sms_image": "",
+    "alias": "欧莱雅复颜玻尿酸水光充盈多效修护安瓶鲜注面膜",
+    "functionType": "",
+    "shelfLife": "",
+    "category4_id": 164,
+    "perfume_feel": "0",
+    "factory": [
+      {
+        "name": "铜陵洁雅生物科技股份有限公司（曾用名：铜陵市洁雅航空用品有限责任公司）",
+        "mid": "1b30357c18561dcc230d073794ef31a9"
+      },
+      {
+        "name": "苏州尚美国际化妆品有限公司（曾用名：欧莱雅（苏州）化妆品有限公司、苏州莱雅化妆品有限公司）",
+        "mid": "485315c9f2ce3b69bbdb87292e66a9c7"
+      }
+    ],
+    "category4Name": "其他面膜",
+    "groupMid": "20e4695a8f6e7bc95027bb438a2ab8c7",
+    "usageMethod": "",
+    "top_notes": "0",
+    "import_export": 471,
+    "isGolden": 0,
+    "storageConditions": "",
+    "fragrance": "",
+    "low_notes": "0",
+    "category5Name": "",
+    "functionList": [
+      {
+        "name": "修护",
+        "id": "43"
+      },
+      {
+        "name": "保湿",
+        "id": "46"
+      },
+      {
+        "name": "抗皱",
+        "id": "50"
+      },
+      {
+        "name": "紧致",
+        "id": "51"
+      },
+      {
+        "name": "舒缓",
+        "id": "52"
+      },
+      {
+        "name": "特定宣称（宣称适用敏感皮肤）",
+        "id": "126"
+      },
+      {
+        "name": "宣称温和（无刺激）",
+        "id": "128"
+      },
+      {
+        "name": "特定宣称（原料功效）",
+        "id": "129"
+      },
+      {
+        "name": "宣称量化指标的（时间、统计数据等）",
+        "id": "130"
+      }
+    ],
+    "applicantEnterpriseName": "",
+    "group_id": 428,
+    "applicantEnterpriseAddress": "",
+    "category3_id": 36,
+    "registered_day": 20250221,
+    "goods_form": "32,24"
+  },
+  "success": true
+}
